@@ -1,0 +1,1448 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd"[]>
+<tv generator-info-name="ShooFeeTV listings">
+  <Range>
+    <Start>20140111183000</Start>
+    <End>20140117183000</End>
+  </Range>
+  <channel id="5040">
+    <display-name lang="ar">KBS World</display-name>
+    <display-name lang="en">KBS World</display-name>
+  </channel>
+  <programme start="20140111183000 +0000" stop="20140111195000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">إمورتال سونغز</title>
+    <title lang="en">Immortal Songs</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Musical show features legendary bands of Korea who have sung songs that cross over generations.</desc>
+  </programme>
+  <programme start="20140111195000 +0000" stop="20140111210000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">وانغز فاملي</title>
+    <title lang="en">Wang's Family</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The story revolves around the Wang family and the trials and tribulations they face. It attempts to show their struggle against obstacles to survive and emerge together as a family.</desc>
+    <credits>
+      <actor>Oh Man-seok</actor>
+      <actor>Jang Yong</actor>
+      <actor>Lee Tae-ran</actor>
+      <actor>Lee Yoon-ji</actor>
+    </credits>
+  </programme>
+  <programme start="20140111210000 +0000" stop="20140111214000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">كي بي إس نيوز 9</title>
+    <title lang="en">KBS News 9</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This daily news bulletin covers a wide range of topics ranging from politics, society, health, weather, sports and entertainment.</desc>
+  </programme>
+  <programme start="20140111214000 +0000" stop="20140111220000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">ميلودي أوف لف</title>
+    <title lang="en">Melody Of Love</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The story revolves around young adults, who mature through the trials, tribulations and emotional chaos they face on their journey to discover love, their dreams and life.</desc>
+    <credits>
+      <actor>Paek Sunghyun</actor>
+      <actor>Dasom</actor>
+      <actor>Kim Hyung-joon</actor>
+    </credits>
+  </programme>
+  <programme start="20140111220000 +0000" stop="20140111222000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">ميلودي أوف لف</title>
+    <title lang="en">Melody Of Love</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The story revolves around young adults, who mature through the trials, tribulations and emotional chaos they face on their journey to discover love, their dreams and life.</desc>
+    <credits>
+      <actor>Paek Sunghyun</actor>
+      <actor>Dasom</actor>
+      <actor>Kim Hyung-joon</actor>
+    </credits>
+  </programme>
+  <programme start="20140111222000 +0000" stop="20140111230000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">ميلودي أوف لف</title>
+    <title lang="en">Melody Of Love</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The story revolves around young adults, who mature through the trials, tribulations and emotional chaos they face on their journey to discover love, their dreams and life.</desc>
+    <credits>
+      <actor>Paek Sunghyun</actor>
+      <actor>Dasom</actor>
+      <actor>Kim Hyung-joon</actor>
+    </credits>
+  </programme>
+  <programme start="20140111230000 +0000" stop="20140111234000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">ميلودي أوف لف</title>
+    <title lang="en">Melody Of Love</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The story revolves around young adults, who mature through the trials, tribulations and emotional chaos they face on their journey to discover love, their dreams and life.</desc>
+    <credits>
+      <actor>Paek Sunghyun</actor>
+      <actor>Dasom</actor>
+      <actor>Kim Hyung-joon</actor>
+    </credits>
+  </programme>
+  <programme start="20140111234000 +0000" stop="20140112002000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">ميلودي أوف لف</title>
+    <title lang="en">Melody Of Love</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The story revolves around young adults, who mature through the trials, tribulations and emotional chaos they face on their journey to discover love, their dreams and life.</desc>
+    <credits>
+      <actor>Paek Sunghyun</actor>
+      <actor>Dasom</actor>
+      <actor>Kim Hyung-joon</actor>
+    </credits>
+  </programme>
+  <programme start="20140112002000 +0000" stop="20140112010000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">ميلودي أوف لف</title>
+    <title lang="en">Melody Of Love</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The story revolves around young adults, who mature through the trials, tribulations and emotional chaos they face on their journey to discover love, their dreams and life.</desc>
+    <credits>
+      <actor>Paek Sunghyun</actor>
+      <actor>Dasom</actor>
+      <actor>Kim Hyung-joon</actor>
+    </credits>
+  </programme>
+  <programme start="20140112010000 +0000" stop="20140112022000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">ماما ميا</title>
+    <title lang="en">Mamma Mia</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The chat show features live conversations between famous celebrities and their mothers.</desc>
+  </programme>
+  <programme start="20140112022000 +0000" stop="20140112023000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">غاغ كونسرت-بيست</title>
+    <title lang="en">Gag Concert - Best</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This show features some of the best performances of 'Gag Concert', which introduces a new style of stand-up comedy combined with open concert.</desc>
+  </programme>
+  <programme start="20140112023000 +0000" stop="20140112035000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">The Return Of Superman</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140112035000 +0000" stop="20140112040000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">إمورتال سونغز</title>
+    <title lang="en">Immortal Songs</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Musical show features legendary bands of Korea who have sung songs that cross over generations.</desc>
+  </programme>
+  <programme start="20140112040000 +0000" stop="20140112051000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">ليتس غو! دريم تيم</title>
+    <title lang="en">Let's Go! Dream Team</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This program features a group of contestants participating in a variety of sports activities like vaulting, ice hockey, beach volleyball and taekwondo.</desc>
+  </programme>
+  <programme start="20140112051000 +0000" stop="20140112064000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">غاغ كونسيرت</title>
+    <title lang="en">Gag Concert</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show features bone-tickling stand-up comedy performances, hilarious skits and celebrity impersonations.</desc>
+  </programme>
+  <programme start="20140112064000 +0000" stop="20140112075000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Bel Ami</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The story of a journalist Georges Duroy's corrupt rise to power from a poor chap to one of the most successful men in Paris, most of which he achieves by manipulating a series of powerful mistresses.</desc>
+  </programme>
+  <programme start="20140112075000 +0000" stop="20140112090000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Bel Ami</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The story of a journalist Georges Duroy's corrupt rise to power from a poor chap to one of the most successful men in Paris, most of which he achieves by manipulating a series of powerful mistresses.</desc>
+  </programme>
+  <programme start="20140112090000 +0000" stop="20140112102000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">The Return Of Superman</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140112102000 +0000" stop="20140112115000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">تو دايز آند ون نايت</title>
+    <title lang="en">Two days and One night</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Hosted by Kang Ho Dong, the show takes viewers to the interiors of Korea, thereby providing them an opportunity to experience the unexplored regions of Korea.</desc>
+  </programme>
+  <programme start="20140112115000 +0000" stop="20140112130000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">وانغز فاملي</title>
+    <title lang="en">Wang's Family</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The story revolves around the Wang family and the trials and tribulations they face. It attempts to show their struggle against obstacles to survive and emerge together as a family.</desc>
+    <credits>
+      <actor>Oh Man-seok</actor>
+      <actor>Jang Yong</actor>
+      <actor>Lee Tae-ran</actor>
+      <actor>Lee Yoon-ji</actor>
+    </credits>
+  </programme>
+  <programme start="20140112130000 +0000" stop="20140112134000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">كي بي إس نيوز 9</title>
+    <title lang="en">KBS News 9</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This daily news bulletin covers a wide range of topics ranging from politics, society, health, weather, sports and entertainment.</desc>
+  </programme>
+  <programme start="20140112134000 +0000" stop="20140112145000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Waiting For Love</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show revolves around four youths, with completely different views toward love who start dating each other.</desc>
+  </programme>
+  <programme start="20140112145000 +0000" stop="20140112160000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Waiting For Love</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show revolves around four youths, with completely different views toward love who start dating each other.</desc>
+  </programme>
+  <programme start="20140112160000 +0000" stop="20140112161000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">ستار أوف كوريا</title>
+    <title lang="en">Star Of Korea</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Entertainment-based program.</desc>
+  </programme>
+  <programme start="20140112161000 +0000" stop="20140112170000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">باكباك ترافيلز</title>
+    <title lang="en">Backpack Travels</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This program takes viewers for a journey to the amazing cities around the world and captures those moments and memories through the eyes of a traveler.</desc>
+  </programme>
+  <programme start="20140112170000 +0000" stop="20140112182000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">The Return Of Superman</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140112182000 +0000" stop="20140112183000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">تو دايز آند ون نايت</title>
+    <title lang="en">Two days and One night</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Hosted by Kang Ho Dong, the show takes viewers to the interiors of Korea, thereby providing them an opportunity to experience the unexplored regions of Korea.</desc>
+  </programme>
+  <programme start="20140112183000 +0000" stop="20140112195000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">تو دايز آند ون نايت</title>
+    <title lang="en">Two days and One night</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Hosted by Kang Ho Dong, the show takes viewers to the interiors of Korea, thereby providing them an opportunity to experience the unexplored regions of Korea.</desc>
+  </programme>
+  <programme start="20140112195000 +0000" stop="20140112210000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">وانغز فاملي</title>
+    <title lang="en">Wang's Family</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The story revolves around the Wang family and the trials and tribulations they face. It attempts to show their struggle against obstacles to survive and emerge together as a family.</desc>
+    <credits>
+      <actor>Oh Man-seok</actor>
+      <actor>Jang Yong</actor>
+      <actor>Lee Tae-ran</actor>
+      <actor>Lee Yoon-ji</actor>
+    </credits>
+  </programme>
+  <programme start="20140112210000 +0000" stop="20140112214000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">كي بي إس نيوز 9</title>
+    <title lang="en">KBS News 9</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This daily news bulletin covers a wide range of topics ranging from politics, society, health, weather, sports and entertainment.</desc>
+  </programme>
+  <programme start="20140112214000 +0000" stop="20140112220000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Screening Humanity</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This documentary captures the daily lives of ordinary people and their surroundings. Also, it chronicles their triumphs and hardships and inspires viewers to become successful individuals.</desc>
+  </programme>
+  <programme start="20140112220000 +0000" stop="20140112221000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Screening Humanity</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This documentary captures the daily lives of ordinary people and their surroundings. Also, it chronicles their triumphs and hardships and inspires viewers to become successful individuals.</desc>
+  </programme>
+  <programme start="20140112221000 +0000" stop="20140112224000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Screening Humanity</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This documentary captures the daily lives of ordinary people and their surroundings. Also, it chronicles their triumphs and hardships and inspires viewers to become successful individuals.</desc>
+  </programme>
+  <programme start="20140112224000 +0000" stop="20140112231000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Screening Humanity</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This documentary captures the daily lives of ordinary people and their surroundings. Also, it chronicles their triumphs and hardships and inspires viewers to become successful individuals.</desc>
+  </programme>
+  <programme start="20140112231000 +0000" stop="20140112234500 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Screening Humanity</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This documentary captures the daily lives of ordinary people and their surroundings. Also, it chronicles their triumphs and hardships and inspires viewers to become successful individuals.</desc>
+  </programme>
+  <programme start="20140112234500 +0000" stop="20140113002500 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Screening Humanity</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This documentary captures the daily lives of ordinary people and their surroundings. Also, it chronicles their triumphs and hardships and inspires viewers to become successful individuals.</desc>
+  </programme>
+  <programme start="20140113002500 +0000" stop="20140113013000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Morning Forum</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A talk show, wherein the panel members along with the audience, participate and engage in healthy discussions regarding issues that matter to the Korean society.</desc>
+  </programme>
+  <programme start="20140113013000 +0000" stop="20140113014000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">كي بي إس نيوز 930</title>
+    <title lang="en">Kbs News 930</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This program features the most recent news, updates and developments in Korea and across the world.</desc>
+  </programme>
+  <programme start="20140113014000 +0000" stop="20140113022000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">تي في نوفل: إونهوي</title>
+    <title lang="en">TV Novel: Eunhui</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A murder takes place a day before the Korean War in 1950, and it changes the lives of three families forever. They face many trials and tribulations and discover love and forgiveness.</desc>
+  </programme>
+  <programme start="20140113022000 +0000" stop="20140113030000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Screening Humanity</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This documentary captures the daily lives of ordinary people and their surroundings. Also, it chronicles their triumphs and hardships and inspires viewers to become successful individuals.</desc>
+  </programme>
+  <programme start="20140113030000 +0000" stop="20140113033000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Hutos The Lost Forest</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Hutos is a kid's  adventure story about five mask doll characters, the brothers Moya, Nado, Ara, Joa and Shiro; who set on a journey in the lost forest learning value  of harmony and co-existence.</desc>
+  </programme>
+  <programme start="20140113033000 +0000" stop="20140113040000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Hutos The Lost Forest</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Hutos is a kid's  adventure story about five mask doll characters, the brothers Moya, Nado, Ara, Joa and Shiro; who set on a journey in the lost forest learning value  of harmony and co-existence.</desc>
+  </programme>
+  <programme start="20140113040000 +0000" stop="20140113042000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">كي بي إس نيوز 12</title>
+    <title lang="en">KBS News 12</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This program features the latest news, updates and developments in Korea and across the world.</desc>
+  </programme>
+  <programme start="20140113042000 +0000" stop="20140113052000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">فيتامين</title>
+    <title lang="en">Vitamin</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The program features a panel of medical specialists and celebrity guests, who discuss various health issues and offer their expert advices and suggestions on how to stay fit and healthy.</desc>
+  </programme>
+  <programme start="20140113052000 +0000" stop="20140113060000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">تي في نوفل: إونهوي</title>
+    <title lang="en">TV Novel: Eunhui</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A murder takes place a day before the Korean War in 1950, and it changes the lives of three families forever. They face many trials and tribulations and discover love and forgiveness.</desc>
+  </programme>
+  <programme start="20140113060000 +0000" stop="20140113071000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Prime Minister &amp; I</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">When in the life of a single father of three children, comes an enthusiastic yet struggling lady reporter, she enters like a wrapped Christmas present for them.</desc>
+  </programme>
+  <programme start="20140113071000 +0000" stop="20140113082000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">The Princess's Man</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">When a handsome, wise man and a cheerful lady with bold and curious personality fall in love instantly but later find out that their parents are sworn enemies, how will their love story succeed?</desc>
+  </programme>
+  <programme start="20140113082000 +0000" stop="20140113093000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Hwangjini</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The story of a 16th century's most famous gisaneg in Korean history, Hwangjini, who was also a talented artist and was destined to fight against gender equality and who would not give into prejudice.</desc>
+  </programme>
+  <programme start="20140113093000 +0000" stop="20140113095000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">كي بي إس وورلد نيوز توداي</title>
+    <title lang="en">KBS World News Today</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This news bulletin provides a daily round up of current affairs and issues with a global perceptive and outlook.</desc>
+  </programme>
+  <programme start="20140113095000 +0000" stop="20140113113000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Korea-China Song Festival</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140113113000 +0000" stop="20140113122000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">إنترتينمينت ويكلي</title>
+    <title lang="en">Entertainment Weekly</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A weekly show which provides the viewers, the latest news and happenings in the world of entertainment.</desc>
+  </programme>
+  <programme start="20140113122000 +0000" stop="20140113130000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">ميلودي أوف لف</title>
+    <title lang="en">Melody Of Love</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The story revolves around young adults, who mature through the trials, tribulations and emotional chaos they face on their journey to discover love, their dreams and life.</desc>
+    <credits>
+      <actor>Paek Sunghyun</actor>
+      <actor>Dasom</actor>
+      <actor>Kim Hyung-joon</actor>
+    </credits>
+  </programme>
+  <programme start="20140113130000 +0000" stop="20140113140000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">كي بي إس نيوز 9</title>
+    <title lang="en">KBS News 9</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This daily news bulletin covers a wide range of topics ranging from politics, society, health, weather, sports and entertainment.</desc>
+  </programme>
+  <programme start="20140113140000 +0000" stop="20140113151000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Prime Minister &amp; I</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">When in the life of a single father of three children, comes an enthusiastic yet struggling lady reporter, she enters like a wrapped Christmas present for them.</desc>
+  </programme>
+  <programme start="20140113151000 +0000" stop="20140113162000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">The Princess's Man</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">When a handsome, wise man and a cheerful lady with bold and curious personality fall in love instantly but later find out that their parents are sworn enemies, how will their love story succeed?</desc>
+  </programme>
+  <programme start="20140113162000 +0000" stop="20140113174000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Hello Counselor</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show invites viewers to share their problems regarding love, family and career. The hosts carefully examine each problem and offer their expert advice and solutions.</desc>
+  </programme>
+  <programme start="20140113174000 +0000" stop="20140113183000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">كوريا سنغز</title>
+    <title lang="en">Korea Sings</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A reality show wherein twenty aspiring singers from across the country participate to showcase their talent for fame and fortune.</desc>
+  </programme>
+  <programme start="20140113183000 +0000" stop="20140113193000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">كوريا سنغز</title>
+    <title lang="en">Korea Sings</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A reality show wherein twenty aspiring singers from across the country participate to showcase their talent for fame and fortune.</desc>
+  </programme>
+  <programme start="20140113193000 +0000" stop="20140113202000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">KBS Panorama</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show features the best documentaries of KBS, related to various topics such as politics, economy, history, nature, sociology, culture, humanity, environment, science and international relations.</desc>
+  </programme>
+  <programme start="20140113202000 +0000" stop="20140113210000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">ميلودي أوف لف</title>
+    <title lang="en">Melody Of Love</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The story revolves around young adults, who mature through the trials, tribulations and emotional chaos they face on their journey to discover love, their dreams and life.</desc>
+    <credits>
+      <actor>Paek Sunghyun</actor>
+      <actor>Dasom</actor>
+      <actor>Kim Hyung-joon</actor>
+    </credits>
+  </programme>
+  <programme start="20140113210000 +0000" stop="20140113220000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">كي بي إس نيوز 9</title>
+    <title lang="en">KBS News 9</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This daily news bulletin covers a wide range of topics ranging from politics, society, health, weather, sports and entertainment.</desc>
+  </programme>
+  <programme start="20140113220000 +0000" stop="20140113231000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Prime Minister &amp; I</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">When in the life of a single father of three children, comes an enthusiastic yet struggling lady reporter, she enters like a wrapped Christmas present for them.</desc>
+  </programme>
+  <programme start="20140113231000 +0000" stop="20140114002000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">The Princess's Man</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">When a handsome, wise man and a cheerful lady with bold and curious personality fall in love instantly but later find out that their parents are sworn enemies, how will their love story succeed?</desc>
+  </programme>
+  <programme start="20140114002000 +0000" stop="20140114002500 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">تي في تيلز أوف أ هابي وورلد</title>
+    <title lang="en">TV Tales of a Happy World</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This animated program narrates stories of successful people in the society and signifies the value of hard work and determination, thereby enhancing the importance of love and trust in people's lives.</desc>
+  </programme>
+  <programme start="20140114002500 +0000" stop="20140114013000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Morning Forum</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A talk show, wherein the panel members along with the audience, participate and engage in healthy discussions regarding issues that matter to the Korean society.</desc>
+  </programme>
+  <programme start="20140114013000 +0000" stop="20140114014000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">كي بي إس نيوز 930</title>
+    <title lang="en">Kbs News 930</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This program features the most recent news, updates and developments in Korea and across the world.</desc>
+  </programme>
+  <programme start="20140114014000 +0000" stop="20140114022000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">تي في نوفل: إونهوي</title>
+    <title lang="en">TV Novel: Eunhui</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A murder takes place a day before the Korean War in 1950, and it changes the lives of three families forever. They face many trials and tribulations and discover love and forgiveness.</desc>
+  </programme>
+  <programme start="20140114022000 +0000" stop="20140114030000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Screening Humanity</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This documentary captures the daily lives of ordinary people and their surroundings. Also, it chronicles their triumphs and hardships and inspires viewers to become successful individuals.</desc>
+  </programme>
+  <programme start="20140114030000 +0000" stop="20140114033000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Tv Kindergarten Kongdakong</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140114033000 +0000" stop="20140114034500 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">ذي إيربورت دياري</title>
+    <title lang="en">The Airport Diary</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show takes us into the world of Winkie, a small airliner, whose most cherished dream is to travel around the world.</desc>
+  </programme>
+  <programme start="20140114034500 +0000" stop="20140114040000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">ذي إيربورت دياري</title>
+    <title lang="en">The Airport Diary</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show takes us into the world of Winkie, a small airliner, whose most cherished dream is to travel around the world.</desc>
+  </programme>
+  <programme start="20140114040000 +0000" stop="20140114042000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">كي بي إس نيوز 12</title>
+    <title lang="en">KBS News 12</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This program features the latest news, updates and developments in Korea and across the world.</desc>
+  </programme>
+  <programme start="20140114042000 +0000" stop="20140114051000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">KBS Panorama</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show features the best documentaries of KBS, related to various topics such as politics, economy, history, nature, sociology, culture, humanity, environment, science and international relations.</desc>
+  </programme>
+  <programme start="20140114051000 +0000" stop="20140114052000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Star Date</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A chat show, wherein the celebrities are interviewed in public places, thereby providing a chance for their fans to interact with their favorite stars.</desc>
+  </programme>
+  <programme start="20140114052000 +0000" stop="20140114060000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">تي في نوفل: إونهوي</title>
+    <title lang="en">TV Novel: Eunhui</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A murder takes place a day before the Korean War in 1950, and it changes the lives of three families forever. They face many trials and tribulations and discover love and forgiveness.</desc>
+  </programme>
+  <programme start="20140114060000 +0000" stop="20140114071000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Prime Minister &amp; I</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">When in the life of a single father of three children, comes an enthusiastic yet struggling lady reporter, she enters like a wrapped Christmas present for them.</desc>
+  </programme>
+  <programme start="20140114071000 +0000" stop="20140114082000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">The Princess's Man</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">When a handsome, wise man and a cheerful lady with bold and curious personality fall in love instantly but later find out that their parents are sworn enemies, how will their love story succeed?</desc>
+  </programme>
+  <programme start="20140114082000 +0000" stop="20140114093000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Hwangjini</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The story of a 16th century's most famous gisaneg in Korean history, Hwangjini, who was also a talented artist and was destined to fight against gender equality and who would not give into prejudice.</desc>
+  </programme>
+  <programme start="20140114093000 +0000" stop="20140114095000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">كي بي إس وورلد نيوز توداي</title>
+    <title lang="en">KBS World News Today</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This news bulletin provides a daily round up of current affairs and issues with a global perceptive and outlook.</desc>
+  </programme>
+  <programme start="20140114095000 +0000" stop="20140114110000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">ذا هيومان كوندشن</title>
+    <title lang="en">The Human Condition</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A group of people are tasked to live without the modern-day necessities, for a period of one week. During their stay, they seek self-realization and also, discover the true meaning of friendship.</desc>
+  </programme>
+  <programme start="20140114110000 +0000" stop="20140114122000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Hello Counselor</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show invites viewers to share their problems regarding love, family and career. The hosts carefully examine each problem and offer their expert advice and solutions.</desc>
+  </programme>
+  <programme start="20140114122000 +0000" stop="20140114130000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">ميلودي أوف لف</title>
+    <title lang="en">Melody Of Love</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The story revolves around young adults, who mature through the trials, tribulations and emotional chaos they face on their journey to discover love, their dreams and life.</desc>
+    <credits>
+      <actor>Paek Sunghyun</actor>
+      <actor>Dasom</actor>
+      <actor>Kim Hyung-joon</actor>
+    </credits>
+  </programme>
+  <programme start="20140114130000 +0000" stop="20140114140000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">كي بي إس نيوز 9</title>
+    <title lang="en">KBS News 9</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This daily news bulletin covers a wide range of topics ranging from politics, society, health, weather, sports and entertainment.</desc>
+  </programme>
+  <programme start="20140114140000 +0000" stop="20140114151000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Prime Minister &amp; I</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">When in the life of a single father of three children, comes an enthusiastic yet struggling lady reporter, she enters like a wrapped Christmas present for them.</desc>
+  </programme>
+  <programme start="20140114151000 +0000" stop="20140114162000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">The Princess's Man</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">When a handsome, wise man and a cheerful lady with bold and curious personality fall in love instantly but later find out that their parents are sworn enemies, how will their love story succeed?</desc>
+  </programme>
+  <programme start="20140114162000 +0000" stop="20140114174000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">The Return Of Superman</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140114174000 +0000" stop="20140114183000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">غولدن أولديز</title>
+    <title lang="en">Golden Oldies</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A musical show wherein the veteran singers perform their greatest hits and relive the memories associated with it.</desc>
+  </programme>
+  <programme start="20140114183000 +0000" stop="20140114184000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">غولدن أولديز</title>
+    <title lang="en">Golden Oldies</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A musical show wherein the veteran singers perform their greatest hits and relive the memories associated with it.</desc>
+  </programme>
+  <programme start="20140114184000 +0000" stop="20140114193000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">ميوزيك بانك</title>
+    <title lang="en">Music Bank</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Hosted by Lee Jang-woo and UEE, this music television program showcases the most popular Korean songs on a weekly basis in a countdown format.</desc>
+  </programme>
+  <programme start="20140114193000 +0000" stop="20140114202000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">KBS Panorama</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show features the best documentaries of KBS, related to various topics such as politics, economy, history, nature, sociology, culture, humanity, environment, science and international relations.</desc>
+  </programme>
+  <programme start="20140114202000 +0000" stop="20140114210000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">ميلودي أوف لف</title>
+    <title lang="en">Melody Of Love</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The story revolves around young adults, who mature through the trials, tribulations and emotional chaos they face on their journey to discover love, their dreams and life.</desc>
+    <credits>
+      <actor>Paek Sunghyun</actor>
+      <actor>Dasom</actor>
+      <actor>Kim Hyung-joon</actor>
+    </credits>
+  </programme>
+  <programme start="20140114210000 +0000" stop="20140114220000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">كي بي إس نيوز 9</title>
+    <title lang="en">KBS News 9</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This daily news bulletin covers a wide range of topics ranging from politics, society, health, weather, sports and entertainment.</desc>
+  </programme>
+  <programme start="20140114220000 +0000" stop="20140114231000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Prime Minister &amp; I</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">When in the life of a single father of three children, comes an enthusiastic yet struggling lady reporter, she enters like a wrapped Christmas present for them.</desc>
+  </programme>
+  <programme start="20140114231000 +0000" stop="20140115002000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">The Princess's Man</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">When a handsome, wise man and a cheerful lady with bold and curious personality fall in love instantly but later find out that their parents are sworn enemies, how will their love story succeed?</desc>
+  </programme>
+  <programme start="20140115002000 +0000" stop="20140115002500 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">تي في تيلز أوف أ هابي وورلد</title>
+    <title lang="en">TV Tales of a Happy World</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This animated program narrates stories of successful people in the society and signifies the value of hard work and determination, thereby enhancing the importance of love and trust in people's lives.</desc>
+  </programme>
+  <programme start="20140115002500 +0000" stop="20140115013000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Morning Forum</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A talk show, wherein the panel members along with the audience, participate and engage in healthy discussions regarding issues that matter to the Korean society.</desc>
+  </programme>
+  <programme start="20140115013000 +0000" stop="20140115014000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">كي بي إس نيوز 930</title>
+    <title lang="en">Kbs News 930</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This program features the most recent news, updates and developments in Korea and across the world.</desc>
+  </programme>
+  <programme start="20140115014000 +0000" stop="20140115022000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">تي في نوفل: إونهوي</title>
+    <title lang="en">TV Novel: Eunhui</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A murder takes place a day before the Korean War in 1950, and it changes the lives of three families forever. They face many trials and tribulations and discover love and forgiveness.</desc>
+  </programme>
+  <programme start="20140115022000 +0000" stop="20140115030000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Screening Humanity</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This documentary captures the daily lives of ordinary people and their surroundings. Also, it chronicles their triumphs and hardships and inspires viewers to become successful individuals.</desc>
+  </programme>
+  <programme start="20140115030000 +0000" stop="20140115033000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Tv Kindergarten Kongdakong</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140115033000 +0000" stop="20140115040000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">كوميك سينما </title>
+    <title lang="en">Comic Cinema</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series for children.</desc>
+  </programme>
+  <programme start="20140115040000 +0000" stop="20140115042000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">كي بي إس نيوز 12</title>
+    <title lang="en">KBS News 12</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This program features the latest news, updates and developments in Korea and across the world.</desc>
+  </programme>
+  <programme start="20140115042000 +0000" stop="20140115051000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">KBS Panorama</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show features the best documentaries of KBS, related to various topics such as politics, economy, history, nature, sociology, culture, humanity, environment, science and international relations.</desc>
+  </programme>
+  <programme start="20140115051000 +0000" stop="20140115052000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">بت-إيه-بات-كورين</title>
+    <title lang="en">Pit-A-Pat Korean</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">An educational program for the global audience who are interested in learning the Korean language, culture and customs.</desc>
+  </programme>
+  <programme start="20140115052000 +0000" stop="20140115060000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">تي في نوفل: إونهوي</title>
+    <title lang="en">TV Novel: Eunhui</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A murder takes place a day before the Korean War in 1950, and it changes the lives of three families forever. They face many trials and tribulations and discover love and forgiveness.</desc>
+  </programme>
+  <programme start="20140115060000 +0000" stop="20140115071000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Bel Ami</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The story of a journalist Georges Duroy's corrupt rise to power from a poor chap to one of the most successful men in Paris, most of which he achieves by manipulating a series of powerful mistresses.</desc>
+  </programme>
+  <programme start="20140115071000 +0000" stop="20140115082000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">The Princess's Man</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">When a handsome, wise man and a cheerful lady with bold and curious personality fall in love instantly but later find out that their parents are sworn enemies, how will their love story succeed?</desc>
+  </programme>
+  <programme start="20140115082000 +0000" stop="20140115093000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">دراما سبيشال</title>
+    <title lang="en">Drama Special</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series features different episodes involving social messages for the viewers.</desc>
+  </programme>
+  <programme start="20140115093000 +0000" stop="20140115095000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">كي بي إس وورلد نيوز توداي</title>
+    <title lang="en">KBS World News Today</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This news bulletin provides a daily round up of current affairs and issues with a global perceptive and outlook.</desc>
+  </programme>
+  <programme start="20140115095000 +0000" stop="20140115100000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Taste Of Korea</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Magazine program.</desc>
+  </programme>
+  <programme start="20140115100000 +0000" stop="20140115110000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">فيتامين</title>
+    <title lang="en">Vitamin</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The program features a panel of medical specialists and celebrity guests, who discuss various health issues and offer their expert advices and suggestions on how to stay fit and healthy.</desc>
+  </programme>
+  <programme start="20140115110000 +0000" stop="20140115122000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">The Return Of Superman</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140115122000 +0000" stop="20140115130000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">ميلودي أوف لف</title>
+    <title lang="en">Melody Of Love</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The story revolves around young adults, who mature through the trials, tribulations and emotional chaos they face on their journey to discover love, their dreams and life.</desc>
+    <credits>
+      <actor>Paek Sunghyun</actor>
+      <actor>Dasom</actor>
+      <actor>Kim Hyung-joon</actor>
+    </credits>
+  </programme>
+  <programme start="20140115130000 +0000" stop="20140115140000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">كي بي إس نيوز 9</title>
+    <title lang="en">KBS News 9</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This daily news bulletin covers a wide range of topics ranging from politics, society, health, weather, sports and entertainment.</desc>
+  </programme>
+  <programme start="20140115140000 +0000" stop="20140115151000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Bel Ami</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The story of a journalist Georges Duroy's corrupt rise to power from a poor chap to one of the most successful men in Paris, most of which he achieves by manipulating a series of powerful mistresses.</desc>
+  </programme>
+  <programme start="20140115151000 +0000" stop="20140115162000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">The Princess's Man</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">When a handsome, wise man and a cheerful lady with bold and curious personality fall in love instantly but later find out that their parents are sworn enemies, how will their love story succeed?</desc>
+  </programme>
+  <programme start="20140115162000 +0000" stop="20140115174000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Happy Together</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show features contestants who perform multiple tasks, such as to sing a song correctly or to act out a scene from a movie. Those who make mistakes are eliminated from the contest.</desc>
+  </programme>
+  <programme start="20140115174000 +0000" stop="20140115183000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">إمورتال سونغز</title>
+    <title lang="en">Immortal Songs</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Musical show features legendary bands of Korea who have sung songs that cross over generations.</desc>
+  </programme>
+  <programme start="20140115183000 +0000" stop="20140115192000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">إمورتال سونغز</title>
+    <title lang="en">Immortal Songs</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Musical show features legendary bands of Korea who have sung songs that cross over generations.</desc>
+  </programme>
+  <programme start="20140115192000 +0000" stop="20140115202000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">لف إن إيجا</title>
+    <title lang="en">Love in Asia</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show unfolds the uplifting love stories of foreigners who have settled in Korea. The program tries to dwell upon the real meaning of love and family and to connect Korea with the rest of Asia.</desc>
+  </programme>
+  <programme start="20140115202000 +0000" stop="20140115210000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">ميلودي أوف لف</title>
+    <title lang="en">Melody Of Love</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The story revolves around young adults, who mature through the trials, tribulations and emotional chaos they face on their journey to discover love, their dreams and life.</desc>
+    <credits>
+      <actor>Paek Sunghyun</actor>
+      <actor>Dasom</actor>
+      <actor>Kim Hyung-joon</actor>
+    </credits>
+  </programme>
+  <programme start="20140115210000 +0000" stop="20140115220000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">كي بي إس نيوز 9</title>
+    <title lang="en">KBS News 9</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This daily news bulletin covers a wide range of topics ranging from politics, society, health, weather, sports and entertainment.</desc>
+  </programme>
+  <programme start="20140115220000 +0000" stop="20140115231000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Bel Ami</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The story of a journalist Georges Duroy's corrupt rise to power from a poor chap to one of the most successful men in Paris, most of which he achieves by manipulating a series of powerful mistresses.</desc>
+  </programme>
+  <programme start="20140115231000 +0000" stop="20140116002000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">The Princess's Man</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">When a handsome, wise man and a cheerful lady with bold and curious personality fall in love instantly but later find out that their parents are sworn enemies, how will their love story succeed?</desc>
+  </programme>
+  <programme start="20140116002000 +0000" stop="20140116002500 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">تي في تيلز أوف أ هابي وورلد</title>
+    <title lang="en">TV Tales of a Happy World</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This animated program narrates stories of successful people in the society and signifies the value of hard work and determination, thereby enhancing the importance of love and trust in people's lives.</desc>
+  </programme>
+  <programme start="20140116002500 +0000" stop="20140116013000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Morning Forum</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A talk show, wherein the panel members along with the audience, participate and engage in healthy discussions regarding issues that matter to the Korean society.</desc>
+  </programme>
+  <programme start="20140116013000 +0000" stop="20140116014000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">كي بي إس نيوز 930</title>
+    <title lang="en">Kbs News 930</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This program features the most recent news, updates and developments in Korea and across the world.</desc>
+  </programme>
+  <programme start="20140116014000 +0000" stop="20140116022000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">تي في نوفل: إونهوي</title>
+    <title lang="en">TV Novel: Eunhui</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A murder takes place a day before the Korean War in 1950, and it changes the lives of three families forever. They face many trials and tribulations and discover love and forgiveness.</desc>
+  </programme>
+  <programme start="20140116022000 +0000" stop="20140116030000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Screening Humanity</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This documentary captures the daily lives of ordinary people and their surroundings. Also, it chronicles their triumphs and hardships and inspires viewers to become successful individuals.</desc>
+  </programme>
+  <programme start="20140116030000 +0000" stop="20140116033000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Tv Kindergarten Kongdakong</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140116033000 +0000" stop="20140116040000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">ليتل وزارد تاو</title>
+    <title lang="en">Little Wizard Tao</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Tao, the descendant of a powerful ancient wizard, goes to school aiming to become a great wizard himself. He has a magical paintbrush which turns everything he draws into real objects.</desc>
+  </programme>
+  <programme start="20140116040000 +0000" stop="20140116042000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">كي بي إس نيوز 12</title>
+    <title lang="en">KBS News 12</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This program features the latest news, updates and developments in Korea and across the world.</desc>
+  </programme>
+  <programme start="20140116042000 +0000" stop="20140116052000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">لف إن إيجا</title>
+    <title lang="en">Love in Asia</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show unfolds the uplifting love stories of foreigners who have settled in Korea. The program tries to dwell upon the real meaning of love and family and to connect Korea with the rest of Asia.</desc>
+  </programme>
+  <programme start="20140116052000 +0000" stop="20140116060000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">تي في نوفل: إونهوي</title>
+    <title lang="en">TV Novel: Eunhui</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A murder takes place a day before the Korean War in 1950, and it changes the lives of three families forever. They face many trials and tribulations and discover love and forgiveness.</desc>
+  </programme>
+  <programme start="20140116060000 +0000" stop="20140116071000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Bel Ami</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The story of a journalist Georges Duroy's corrupt rise to power from a poor chap to one of the most successful men in Paris, most of which he achieves by manipulating a series of powerful mistresses.</desc>
+  </programme>
+  <programme start="20140116071000 +0000" stop="20140116082000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">The Princess's Man</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">When a handsome, wise man and a cheerful lady with bold and curious personality fall in love instantly but later find out that their parents are sworn enemies, how will their love story succeed?</desc>
+  </programme>
+  <programme start="20140116082000 +0000" stop="20140116093000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">دراما سبيشال</title>
+    <title lang="en">Drama Special</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series features different episodes involving social messages for the viewers.</desc>
+  </programme>
+  <programme start="20140116093000 +0000" stop="20140116095000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">كي بي إس وورلد نيوز توداي</title>
+    <title lang="en">KBS World News Today</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This news bulletin provides a daily round up of current affairs and issues with a global perceptive and outlook.</desc>
+  </programme>
+  <programme start="20140116095000 +0000" stop="20140116110000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">ليتس غو! دريم تيم</title>
+    <title lang="en">Let's Go! Dream Team</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This program features a group of contestants participating in a variety of sports activities like vaulting, ice hockey, beach volleyball and taekwondo.</desc>
+  </programme>
+  <programme start="20140116110000 +0000" stop="20140116122000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Happy Together</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show features contestants who perform multiple tasks, such as to sing a song correctly or to act out a scene from a movie. Those who make mistakes are eliminated from the contest.</desc>
+  </programme>
+  <programme start="20140116122000 +0000" stop="20140116130000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">ميلودي أوف لف</title>
+    <title lang="en">Melody Of Love</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The story revolves around young adults, who mature through the trials, tribulations and emotional chaos they face on their journey to discover love, their dreams and life.</desc>
+    <credits>
+      <actor>Paek Sunghyun</actor>
+      <actor>Dasom</actor>
+      <actor>Kim Hyung-joon</actor>
+    </credits>
+  </programme>
+  <programme start="20140116130000 +0000" stop="20140116140000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">كي بي إس نيوز 9</title>
+    <title lang="en">KBS News 9</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This daily news bulletin covers a wide range of topics ranging from politics, society, health, weather, sports and entertainment.</desc>
+  </programme>
+  <programme start="20140116140000 +0000" stop="20140116151000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Bel Ami</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The story of a journalist Georges Duroy's corrupt rise to power from a poor chap to one of the most successful men in Paris, most of which he achieves by manipulating a series of powerful mistresses.</desc>
+  </programme>
+  <programme start="20140116151000 +0000" stop="20140116162000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">The Princess's Man</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">When a handsome, wise man and a cheerful lady with bold and curious personality fall in love instantly but later find out that their parents are sworn enemies, how will their love story succeed?</desc>
+  </programme>
+  <programme start="20140116162000 +0000" stop="20140116175000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">غاغ كونسيرت</title>
+    <title lang="en">Gag Concert</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show features bone-tickling stand-up comedy performances, hilarious skits and celebrity impersonations.</desc>
+  </programme>
+  <programme start="20140116175000 +0000" stop="20140116180000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">إمورتال سونغز</title>
+    <title lang="en">Immortal Songs</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Musical show features legendary bands of Korea who have sung songs that cross over generations.</desc>
+  </programme>
+  <programme start="20140116180000 +0000" stop="20140116183000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">تو دايز آند ون نايت</title>
+    <title lang="en">Two days and One night</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Hosted by Kang Ho Dong, the show takes viewers to the interiors of Korea, thereby providing them an opportunity to experience the unexplored regions of Korea.</desc>
+  </programme>
+  <programme start="20140116183000 +0000" stop="20140116193000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">تو دايز آند ون نايت</title>
+    <title lang="en">Two days and One night</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Hosted by Kang Ho Dong, the show takes viewers to the interiors of Korea, thereby providing them an opportunity to experience the unexplored regions of Korea.</desc>
+  </programme>
+  <programme start="20140116193000 +0000" stop="20140116202000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">School, Meet The Orchestra</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Schools nationwide are buzzing with noise! Schools once known for academic stress and violence are now filled with the sound of instrumentsa; Who is responsible for all this? It's music!"A journey for the orchestra of hope begins with two musicians."Tune in to the documentary special, "School, Meet the Orchestra"."</desc>
+  </programme>
+  <programme start="20140116202000 +0000" stop="20140116210000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">ميلودي أوف لف</title>
+    <title lang="en">Melody Of Love</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The story revolves around young adults, who mature through the trials, tribulations and emotional chaos they face on their journey to discover love, their dreams and life.</desc>
+    <credits>
+      <actor>Paek Sunghyun</actor>
+      <actor>Dasom</actor>
+      <actor>Kim Hyung-joon</actor>
+    </credits>
+  </programme>
+  <programme start="20140116210000 +0000" stop="20140116220000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">كي بي إس نيوز 9</title>
+    <title lang="en">KBS News 9</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This daily news bulletin covers a wide range of topics ranging from politics, society, health, weather, sports and entertainment.</desc>
+  </programme>
+  <programme start="20140116220000 +0000" stop="20140116231000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Bel Ami</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The story of a journalist Georges Duroy's corrupt rise to power from a poor chap to one of the most successful men in Paris, most of which he achieves by manipulating a series of powerful mistresses.</desc>
+  </programme>
+  <programme start="20140116231000 +0000" stop="20140117002000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">The Princess's Man</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">When a handsome, wise man and a cheerful lady with bold and curious personality fall in love instantly but later find out that their parents are sworn enemies, how will their love story succeed?</desc>
+  </programme>
+  <programme start="20140117002000 +0000" stop="20140117002500 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">تي في تيلز أوف أ هابي وورلد</title>
+    <title lang="en">TV Tales of a Happy World</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This animated program narrates stories of successful people in the society and signifies the value of hard work and determination, thereby enhancing the importance of love and trust in people's lives.</desc>
+  </programme>
+  <programme start="20140117002500 +0000" stop="20140117013000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Morning Forum</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A talk show, wherein the panel members along with the audience, participate and engage in healthy discussions regarding issues that matter to the Korean society.</desc>
+  </programme>
+  <programme start="20140117013000 +0000" stop="20140117014000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">كي بي إس نيوز 930</title>
+    <title lang="en">Kbs News 930</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This program features the most recent news, updates and developments in Korea and across the world.</desc>
+  </programme>
+  <programme start="20140117014000 +0000" stop="20140117022000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">تي في نوفل: إونهوي</title>
+    <title lang="en">TV Novel: Eunhui</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A murder takes place a day before the Korean War in 1950, and it changes the lives of three families forever. They face many trials and tribulations and discover love and forgiveness.</desc>
+  </programme>
+  <programme start="20140117022000 +0000" stop="20140117030000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Screening Humanity</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This documentary captures the daily lives of ordinary people and their surroundings. Also, it chronicles their triumphs and hardships and inspires viewers to become successful individuals.</desc>
+  </programme>
+  <programme start="20140117030000 +0000" stop="20140117033000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Tv Kindergarten Kongdakong</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140117033000 +0000" stop="20140117040000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">كلاود بريد</title>
+    <title lang="en">Cloud Bread</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This animated series narrates the story of two kitties, Hongbi and Hongsi.</desc>
+  </programme>
+  <programme start="20140117040000 +0000" stop="20140117042000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">كي بي إس نيوز 12</title>
+    <title lang="en">KBS News 12</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This program features the latest news, updates and developments in Korea and across the world.</desc>
+  </programme>
+  <programme start="20140117042000 +0000" stop="20140117051000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">School, Meet The Orchestra</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Schools nationwide are buzzing with noise! Schools once known for academic stress and violence are now filled with the sound of instrumentsa; Who is responsible for all this? It's music!"A journey for the orchestra of hope begins with two musicians."Tune in to the documentary special, "School, Meet the Orchestra"."</desc>
+  </programme>
+  <programme start="20140117051000 +0000" stop="20140117052000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">غاغ كونسرت-بيست</title>
+    <title lang="en">Gag Concert - Best</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This show features some of the best performances of 'Gag Concert', which introduces a new style of stand-up comedy combined with open concert.</desc>
+  </programme>
+  <programme start="20140117052000 +0000" stop="20140117060000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">تي في نوفل: إونهوي</title>
+    <title lang="en">TV Novel: Eunhui</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A murder takes place a day before the Korean War in 1950, and it changes the lives of three families forever. They face many trials and tribulations and discover love and forgiveness.</desc>
+  </programme>
+  <programme start="20140117060000 +0000" stop="20140117071000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">وانغز فاملي</title>
+    <title lang="en">Wang's Family</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The story revolves around the Wang family and the trials and tribulations they face. It attempts to show their struggle against obstacles to survive and emerge together as a family.</desc>
+    <credits>
+      <actor>Oh Man-seok</actor>
+      <actor>Jang Yong</actor>
+      <actor>Lee Tae-ran</actor>
+      <actor>Lee Yoon-ji</actor>
+    </credits>
+  </programme>
+  <programme start="20140117071000 +0000" stop="20140117082000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">وانغز فاملي</title>
+    <title lang="en">Wang's Family</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The story revolves around the Wang family and the trials and tribulations they face. It attempts to show their struggle against obstacles to survive and emerge together as a family.</desc>
+    <credits>
+      <actor>Oh Man-seok</actor>
+      <actor>Jang Yong</actor>
+      <actor>Lee Tae-ran</actor>
+      <actor>Lee Yoon-ji</actor>
+    </credits>
+  </programme>
+  <programme start="20140117082000 +0000" stop="20140117093000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">دراما سبيشال</title>
+    <title lang="en">Drama Special</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series features different episodes involving social messages for the viewers.</desc>
+  </programme>
+  <programme start="20140117093000 +0000" stop="20140117095000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">كي بي إس وورلد نيوز توداي</title>
+    <title lang="en">KBS World News Today</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This news bulletin provides a daily round up of current affairs and issues with a global perceptive and outlook.</desc>
+  </programme>
+  <programme start="20140117095000 +0000" stop="20140117100000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">كي بي إس وورلد هايلايت</title>
+    <title lang="en">KBS World Highlight</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Magazine program.</desc>
+  </programme>
+  <programme start="20140117100000 +0000" stop="20140117101000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">بت-إيه-بات-كورين</title>
+    <title lang="en">Pit-A-Pat Korean</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">An educational program for the global audience who are interested in learning the Korean language, culture and customs.</desc>
+  </programme>
+  <programme start="20140117101000 +0000" stop="20140117103000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">أ سونغ فور يو</title>
+    <title lang="en">A Song For You</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show allows viewers to send requests of their favorite songs which will be performed by the Korean pop band - 2PM. Also, they can send a video picture or a message along with the song request.</desc>
+  </programme>
+  <programme start="20140117103000 +0000" stop="20140117115000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">ميوزيك بانك</title>
+    <title lang="en">Music Bank</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Hosted by Lee Jang-woo and UEE, this music television program showcases the most popular Korean songs on a weekly basis in a countdown format.</desc>
+  </programme>
+  <programme start="20140117115000 +0000" stop="20140117122000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">K-Wave Extra Filler</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140117122000 +0000" stop="20140117130000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">ميلودي أوف لف</title>
+    <title lang="en">Melody Of Love</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The story revolves around young adults, who mature through the trials, tribulations and emotional chaos they face on their journey to discover love, their dreams and life.</desc>
+    <credits>
+      <actor>Paek Sunghyun</actor>
+      <actor>Dasom</actor>
+      <actor>Kim Hyung-joon</actor>
+    </credits>
+  </programme>
+  <programme start="20140117130000 +0000" stop="20140117140000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">كي بي إس نيوز 9</title>
+    <title lang="en">KBS News 9</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This daily news bulletin covers a wide range of topics ranging from politics, society, health, weather, sports and entertainment.</desc>
+  </programme>
+  <programme start="20140117140000 +0000" stop="20140117154000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">2013 KBS Song Festival</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Asian music industry awards show which honors the year's biggest artists and also there are performances by various artists.</desc>
+  </programme>
+  <programme start="20140117154000 +0000" stop="20140117172000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">2013 KBS Song Festival</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Asian music industry awards show which honors the year's biggest artists and also there are performances by various artists.</desc>
+  </programme>
+  <programme start="20140117172000 +0000" stop="20140117183000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Yu Huiyeol's Sketchbook</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Acclaimed musician Yu Huiyeol, of the project group 'Toy', hosts this show for music lovers. It includes lively performances, delightful music and conversations of talented musicians.</desc>
+  </programme>
+</tv>

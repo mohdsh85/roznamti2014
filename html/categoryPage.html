@@ -1,0 +1,184 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+    	<meta content="320" name="MobileOptimized">
+        <meta content="width=device-width, initial-scale=1" name="viewport">
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8"  />
+        <link rel="stylesheet" type="text/css" href="html/styles.css"/>
+        <!--Start Slider-->
+        <link rel="stylesheet" type="text/css" href="html/bjqs.css">
+        <script src="html/js/jQuery.js" type="text/javascript"></script>
+		<script src="html/js/jquery-ui.js" type="text/javascript"></script>
+        <script src="html/js/bjqs-1.3.js" type="text/javascript"></script>
+        <script src="html/js/scripts.js" type="text/javascript"></script>
+        <script src="js.js" type="text/javascript"></script>
+        <!--End  Slider-->
+        <title><?=$lang->domain_name?></title>
+        <link rel="shortcut icon" href="images/logo.ico">
+        <meta property="og:image" content="<?=sitePathForLogin?>images/logo.jpg" />
+        <meta property="og:title" content="Roznamti" />
+        <meta property="og:description" content="The online social calender, the reference for all your events" />
+    </head>
+
+<body>
+<input type="hidden" name="currentCat" id="currentCat" value="<?=$currentCat?>" />
+<input type="hidden" name="indexPage" id="indexPage" value="1" />
+	<!--Start Conitainer-->
+	<div class="container">
+        <!--Start Header-->
+        <div class="HeaderContainer">
+            <header>
+                <h1 class="logo"> <a href="index.php"> <?=$lang->domain_name?> </a></h1>
+                <a href="#" class="ShowHideMenu">Menu</a>
+                <?=$generalObj->navigation()?>
+                <?=$generalObj->socialMedia()?>
+                
+           </header>
+        </div>
+        <!--End Header-->
+		<div id="searchBox">&nbsp;</div>
+        <!--End Content-->
+        <!--onmouseover="hideSearchBox()"-->
+        <div class="contentContainer" >
+            <div class="content">
+            	<div class="Sidebar">
+                
+                <!--  Search -->
+
+                    <!--  End Search -->
+                
+                <div id="tabs">
+	<ul>
+		<li><a href="#tabs-1">Now</a></li>
+		<li><a href="#tabs-2">Next</a></li>
+		<li><a href="#tabs-3">New</a></li>
+	</ul>
+	<div id="tabs-1">
+    	<ul class="NowTab">
+             <?=$generalObj->buildBloxkSideEvents('0')?> 
+</ul>
+        <a href="" class="BlueBtn" style="float:right;display:none" >More</a>
+    </div>
+	<div id="tabs-2">
+            <ul class="NowTab"> <?=$generalObj->buildBloxkSideEvents('1')?>                    </ul>
+    </div>
+	<div id="tabs-3"><ul class="NowTab">
+             <?=$generalObj->buildBloxkSideEvents('2')?>                    </ul>
+    </div>
+</div>
+
+				</div>
+            	<div class="NextOfSidebar">
+                    <!--  Slider -->
+                    <!-- End Slider -->
+                    
+                    
+                    <!--  Start Suggested Event -->
+                <div class="SuggestedEvent" id="SuggestedEvent">
+                	<h2 class="title"> <?=$lang->search_result_lang?></h2>
+             				<?=$generalObj->eventListHp(1,$_GET['catId'])?>                    
+                </div>
+                    <!--  End  Suggested Event -->
+                </div>
+                
+                
+    
+            </div>
+        </div>
+        <!--End Content-->
+    	
+       
+        <footer>
+        <?=$generalObj->footerData()?>	
+        </footer>
+            
+        
+    </div>
+    <!--End Conitainer-->
+
+</body>
+</html>
+
+
+
+
+<script type="text/javascript">
+var allowRun=true;
+  var lastScroll = 0;
+$(function(){
+      //Keep track of last scroll
+    
+      $(window).scroll(function(event){
+          //Sets the current scroll position
+          var st = $(this).scrollTop();
+          //Determines up-or-down scrolling
+          if (st > lastScroll){
+             //Replace this with your function call for downward-scrolling
+           	//	alert(lastScroll);
+					//showRecentRecordsLoader();
+					if(allowRun)
+						setTimeout(loadMoreRecords(),50000);
+          }
+          else {
+             //Replace this with your function call for upward-scrolling
+            // alert("UP");
+          }
+          //Updates scroll position
+		 
+          lastScroll = st;
+      });
+    });
+</script>
+
+        <!--------plugins for calendar----->
+        <link rel="stylesheet" type="text/css" media="all" href="jsDatePick_ltr.min.css" />
+		<script type="text/javascript" src="jsDatePick.min.1.3.js"></script>
+
+        <!-------------end calendar------>
+
+<script type="text/javascript">
+	window.onload = function(){
+		new JsDatePick({
+			useMode:2,
+			target:"inputField",
+			dateFormat:"%d-%M-%Y"
+			/*selectedDate:{				This is an example of what the full configuration offers.
+				day:5,						For full documentation about these settings please see the full version of the code.
+				month:9,
+				year:2006
+			},
+			yearsRange:[1978,2020],
+			limitToToday:false,
+			cellColorScheme:"beige",
+			dateFormat:"%m-%d-%Y",
+			imgPath:"img/",
+			weekStartDay:1*/
+		});
+	};
+</script>
+
+<script type="text/javascript">
+                $(function() {
+                   var idOpened="<?=$_GET['secureCat']?>";
+                 // setTimeout(document.getElementById(idOpened).click(),1000);
+                    $('#'+idOpened).click();
+                });
+</script>
+  <script type="text/javascript" src="jquery.timepicker.js"></script>
+  <link rel="stylesheet" type="text/css" href="jquery.timepicker.css" />
+ <script>
+                $(function() {
+                    $('#fromTime').timepicker({ 'step': 15 });
+                    $('#toTime').timepicker({ 'step': 30 });
+                });
+				
+            </script>
+
+  <script type="text/javascript" src="jquery.timepicker.js"></script>
+  <link rel="stylesheet" type="text/css" href="jquery.timepicker.css" />
+ <script>
+                $(function() {
+                    $('#fromTime').timepicker({ 'step': 15 });
+                    $('#toTime').timepicker({ 'step': 30 });
+                });
+            </script>

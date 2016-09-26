@@ -1,0 +1,2113 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd"[]>
+<tv generator-info-name="ShooFeeTV listings">
+  <Range>
+    <Start>20140111183000</Start>
+    <End>20140117183000</End>
+  </Range>
+  <channel id="7940">
+    <display-name lang="ar">2M المغرب</display-name>
+    <display-name lang="en">ME 2M Maroc</display-name>
+  </channel>
+  <programme start="20140111183000 +0000" stop="20140111200000 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">أنفو سوار</title>
+    <title lang="en">Info Soir</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">An evening news bulletin covers the latest and most important news and events taking place in the country.</desc>
+  </programme>
+  <programme start="20140111200000 +0000" stop="20140111201000 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">نيوز</title>
+    <title lang="en">News</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This program chronicles the latest events, developments, inventions, discoveries and happenings around the world.</desc>
+  </programme>
+  <programme start="20140111201000 +0000" stop="20140111202000 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">كيو دو سبورت</title>
+    <title lang="en">Que Du Sport</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A sports news bulletin that covers the latest and most important sport events in Morocco and the whole world.</desc>
+  </programme>
+  <programme start="20140111202000 +0000" stop="20140111203000 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">موجز رياضي</title>
+    <title lang="en">Moujaz Reyadi</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A news summary that covers the latest and most important sport news whither they are local or global.</desc>
+  </programme>
+  <programme start="20140111203000 +0000" stop="20140111210000 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">المسائية</title>
+    <title lang="en">Al Masae'yah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Evening news bulletin.</desc>
+  </programme>
+  <programme start="20140111210000 +0000" stop="20140111224000 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">ماما شاف</title>
+    <title lang="en">Mama Chef</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Game show based on cooking competition between two ladies who present the viewers many great ideas and dishes with the assistance of Chef Mariam.</desc>
+  </programme>
+  <programme start="20140111224000 +0000" stop="20140111225500 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">الناقد</title>
+    <title lang="en">Annaqed</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Al Naqed is a literary program focuses on books and literature in Morocco.
+
+A weekly program highlights new published books and authors in Morocco focusing on intellectual and scientific publication</desc>
+  </programme>
+  <programme start="20140111225500 +0000" stop="20140111230000 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">مذكرة</title>
+    <title lang="en">Mothakkerah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Entertainment-based program.</desc>
+  </programme>
+  <programme start="20140111230000 +0000" stop="20140111235500 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">وقائع</title>
+    <title lang="en">Waqa'e'</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Talk show that reviews the Syrian issues and highlights the challenges of reform through hosting experts and political analysts.</desc>
+  </programme>
+  <programme start="20140111235500 +0000" stop="20140112000000 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">الحكمة فالكلمة</title>
+    <title lang="en">Al Hakma Fal Kalma</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Entertainment-based program.</desc>
+  </programme>
+  <programme start="20140112000000 +0000" stop="20140112004500 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">رحيمو</title>
+    <title lang="en">Rahimou</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama movie about the orphan girl Rahimo, whose stepfather decides to give her all his possessions after his death. This makes his son jealous and he tries to exploit the condition of the will.</desc>
+  </programme>
+  <programme start="20140112004500 +0000" stop="20140112022500 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">دكار فاس إكسبرس</title>
+    <title lang="en">Dakar Fas Express</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Reality game show features 8 teams that will set an adventure with the leader Hisham. All the teams have a series of challenges that will allow them to win $ 250,000 DHS.</desc>
+  </programme>
+  <programme start="20140112022500 +0000" stop="20140112032500 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">غراند آنجل</title>
+    <title lang="en">Grand Angle</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Investigations magazine dedicated to the issues that affect Moroccans as they are discussed and commented on and they are social, cultural, or artistic issues.</desc>
+  </programme>
+  <programme start="20140112032500 +0000" stop="20140112041000 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">المكتوب</title>
+    <title lang="en">Al Maktoub</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series narrates the story of a young man and his ambition to achieve his mother's dream to be a successful engineer despite the difficult circumstances.</desc>
+  </programme>
+  <programme start="20140112041000 +0000" stop="20140112052500 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">سامحيني</title>
+    <title lang="en">Samehini</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A social drama about a young deceitful fraudulent thief who is arrested and is put in jail, after being released he decides to become a better person by helping people in need.</desc>
+  </programme>
+  <programme start="20140112052500 +0000" stop="20140112053000 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">مواهب في تجويد القرآن الكريم</title>
+    <title lang="en">Mawaheb Fi Tajweed Al Quran Al Kareem</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A religious program that follows the contest of reciting the Holly Quran for girls and boys between 10 and 18 years old.</desc>
+  </programme>
+  <programme start="20140112053000 +0000" stop="20140112060000 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">إكسيسنتريكس</title>
+    <title lang="en">Exccentriiiks</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Entertainment-based program.</desc>
+  </programme>
+  <programme start="20140112060000 +0000" stop="20140112070000 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">صباحيات 2M</title>
+    <title lang="en">Sabahiyat 2M</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A morning show provides the viewers with advices that include health, fashion, cooking, decorations, and much more as it hosts health, law, and Psychologist experts to answer the viewers' questions.</desc>
+  </programme>
+  <programme start="20140112070000 +0000" stop="20140112074000 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">كوميدي أوف إرورز</title>
+    <title lang="en">Comedy Of Errors</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Entertainment-based program.</desc>
+  </programme>
+  <programme start="20140112074000 +0000" stop="20140112075500 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">الفهايمية</title>
+    <title lang="en">Lfhaymiya</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sitcom series.</desc>
+  </programme>
+  <programme start="20140112075500 +0000" stop="20140112085500 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">غراند آنجل</title>
+    <title lang="en">Grand Angle</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Investigations magazine dedicated to the issues that affect Moroccans as they are discussed and commented on and they are social, cultural, or artistic issues.</desc>
+  </programme>
+  <programme start="20140112085500 +0000" stop="20140112091000 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">أنوال نون</title>
+    <title lang="en">Anwal Noun</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Anwal Noun is an Amazigh cooking show provides the viewers with delicious Moroccan and international recipes.</desc>
+  </programme>
+  <programme start="20140112091000 +0000" stop="20140112095000 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">الوعد</title>
+    <title lang="en">Al Wa'ad</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Torn between his promise to marry his dying brother's fiancee, Nariman, and the love for his wife, Idris is forced to lead a double life, one with Nariman and the other with his unsuspecting wife.</desc>
+    <credits>
+      <actor>Mohammad Qanou'</actor>
+    </credits>
+  </programme>
+  <programme start="20140112095000 +0000" stop="20140112100500 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">شهيوات مع شميشة</title>
+    <title lang="en">Shhiwat Ma' Shmishah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Moroccan cuisine is well known for its variety that has been affected by other countries and cultures.
+
+Shmishah invites the viewers to explore the Moroccan cuisines' richness.</desc>
+  </programme>
+  <programme start="20140112100500 +0000" stop="20140112101000 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">الحكمة فالكلمة</title>
+    <title lang="en">Al Hakma Fal Kalma</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Entertainment-based program.</desc>
+  </programme>
+  <programme start="20140112101000 +0000" stop="20140112111500 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">لي كخونيك دي سابيات</title>
+    <title lang="en">Les Chroniques De Sabahiates</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Magazine program.</desc>
+  </programme>
+  <programme start="20140112111500 +0000" stop="20140112121500 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">رحلة سالوني</title>
+    <title lang="en">Rihlat Saloni</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama narrates the live story of a young woman called Saloni and shows her courage and strength as she faces her problems.</desc>
+  </programme>
+  <programme start="20140112121500 +0000" stop="20140112124500 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">نيوز</title>
+    <title lang="en">News</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This program chronicles the latest events, developments, inventions, discoveries and happenings around the world.</desc>
+  </programme>
+  <programme start="20140112124500 +0000" stop="20140112134000 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">حب وانتقام</title>
+    <title lang="en">Hob Wa Enteqam</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series.</desc>
+  </programme>
+  <programme start="20140112134000 +0000" stop="20140112135000 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">أخبار اللغة</title>
+    <title lang="en">Akhbar Allogha</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">News bulletin.</desc>
+  </programme>
+  <programme start="20140112135000 +0000" stop="20140112135500 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">الحكمة فالكلمة</title>
+    <title lang="en">Al Hakma Fal Kalma</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Entertainment-based program.</desc>
+  </programme>
+  <programme start="20140112135500 +0000" stop="20140112152000 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">ديابلو</title>
+    <title lang="en">Diablo</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Romance drama revolves around Asprinsa, a maid, who has an affair with the house owner's son.
+She becomes pregnant from him, but his family refuses the child.</desc>
+  </programme>
+  <programme start="20140112152000 +0000" stop="20140112160500 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">سلمى</title>
+    <title lang="en">Salma</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series.</desc>
+  </programme>
+  <programme start="20140112160500 +0000" stop="20140112161000 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">نسيب الحاج عزوز</title>
+    <title lang="en">Naseeb Al Haj A'zzouz</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Comedy series narrates the story of O'lwan, who is an employee quit from his job to find a better one, he moves to live with Hajj A'zzouz, who is his wife's father until he finds a new job.</desc>
+  </programme>
+  <programme start="20140112161000 +0000" stop="20140112163000 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">جست فور لافس</title>
+    <title lang="en">Just for Laughs</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This program features a hidden camera that captures people's reaction after they become unsuspecting subjects of funny pranks.</desc>
+  </programme>
+  <programme start="20140112163000 +0000" stop="20140112170000 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">فترة الأطفال</title>
+    <title lang="en">Fatrat Al Attfal</title>
+    <desc lang="ar">فترة مخصصة لعرض برامج الأطفال يقدم خلالها عدد من برامج الرسوم المتحركة وأفلام الأطفال العربية والأجنبية.</desc>
+    <desc lang="en">A period in which various cartoon series are broadcasting.</desc>
+  </programme>
+  <programme start="20140112170000 +0000" stop="20140112175500 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">سامحيني</title>
+    <title lang="en">Samehini</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A social drama about a young deceitful fraudulent thief who is arrested and is put in jail, after being released he decides to become a better person by helping people in need.</desc>
+  </programme>
+  <programme start="20140112175500 +0000" stop="20140112183000 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">المكتوب</title>
+    <title lang="en">Al Maktoub</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series narrates the story of a young man and his ambition to achieve his mother's dream to be a successful engineer despite the difficult circumstances.</desc>
+  </programme>
+  <programme start="20140112183000 +0000" stop="20140112183500 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">سامحيني</title>
+    <title lang="en">Samehini</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A social drama about a young deceitful fraudulent thief who is arrested and is put in jail, after being released he decides to become a better person by helping people in need.</desc>
+  </programme>
+  <programme start="20140112183500 +0000" stop="20140112183700 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">أبل آه لا بريير</title>
+    <title lang="en">Appel A La Priere</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The program displays the Adhan, which is the Islamic call to prayer, recited by the mu'dhin at prescribed times of the day.</desc>
+  </programme>
+  <programme start="20140112183700 +0000" stop="20140112191500 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">سامحيني</title>
+    <title lang="en">Samehini</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A social drama about a young deceitful fraudulent thief who is arrested and is put in jail, after being released he decides to become a better person by helping people in need.</desc>
+  </programme>
+  <programme start="20140112191500 +0000" stop="20140112193800 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">أنفو سوار</title>
+    <title lang="en">Info Soir</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">An evening news bulletin covers the latest and most important news and events taking place in the country.</desc>
+  </programme>
+  <programme start="20140112193800 +0000" stop="20140112194500 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">كيو دو سبورت</title>
+    <title lang="en">Que Du Sport</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A sports news bulletin that covers the latest and most important sport events in Morocco and the whole world.</desc>
+  </programme>
+  <programme start="20140112194500 +0000" stop="20140112195000 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">بولتين ميتيو</title>
+    <title lang="en">Bulletin Meteo</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A weather forecast that provides the viewers with the weather conditions highlighting the maximum and minimum temperatures, wind direction and speed, as well as humidity rate.</desc>
+  </programme>
+  <programme start="20140112195000 +0000" stop="20140112195200 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">أبل آه لا بريير</title>
+    <title lang="en">Appel A La Priere</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The program displays the Adhan, which is the Islamic call to prayer, recited by the mu'dhin at prescribed times of the day.</desc>
+  </programme>
+  <programme start="20140112195200 +0000" stop="20140112195900 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">أنا وياك</title>
+    <title lang="en">Ana Wiyak</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Entertainment-based program.</desc>
+  </programme>
+  <programme start="20140112195900 +0000" stop="20140112200800 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">موجز رياضي</title>
+    <title lang="en">Moujaz Reyadi</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A news summary that covers the latest and most important sport news whither they are local or global.</desc>
+  </programme>
+  <programme start="20140112200800 +0000" stop="20140112201500 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">بولتين ميتيو</title>
+    <title lang="en">Bulletin Meteo</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A weather forecast that provides the viewers with the weather conditions highlighting the maximum and minimum temperatures, wind direction and speed, as well as humidity rate.</desc>
+  </programme>
+  <programme start="20140112201500 +0000" stop="20140112204200 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">المسائية</title>
+    <title lang="en">Al Masae'yah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Evening news bulletin.</desc>
+  </programme>
+  <programme start="20140112204200 +0000" stop="20140112222100 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">ماما شاف</title>
+    <title lang="en">Mama Chef</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Game show based on cooking competition between two ladies who present the viewers many great ideas and dishes with the assistance of Chef Mariam.</desc>
+  </programme>
+  <programme start="20140112222100 +0000" stop="20140112222800 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">إكونيوز</title>
+    <title lang="en">Econews</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">An economical news bulletin that covers the latest and most important economical news and events highlighting the foreign exchange market and the stock exchange.</desc>
+  </programme>
+  <programme start="20140112222800 +0000" stop="20140112223000 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">أجندة</title>
+    <title lang="en">Agenda</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Brent Goff sets the agenda and it's time to talk. Each week Brent invites three people to talk, argue, and pry apart the headlines.</desc>
+  </programme>
+  <programme start="20140112223000 +0000" stop="20140112223800 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">الحكمة فالكلمة</title>
+    <title lang="en">Al Hakma Fal Kalma</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Entertainment-based program.</desc>
+  </programme>
+  <programme start="20140112223800 +0000" stop="20140112231700 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">دموع الرجال</title>
+    <title lang="en">Domou' Arrejal</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama narrates the story of five brothers and sisters and their mother as they struggle over their father's heritage.</desc>
+  </programme>
+  <programme start="20140112231700 +0000" stop="20140112232100 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">إكونيوز</title>
+    <title lang="en">Econews</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">An economical news bulletin that covers the latest and most important economical news and events highlighting the foreign exchange market and the stock exchange.</desc>
+  </programme>
+  <programme start="20140112232100 +0000" stop="20140113023100 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">شكون هي؟</title>
+    <title lang="en">Chkoun Hiya</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Comedy drama based on a play.</desc>
+  </programme>
+  <programme start="20140113023100 +0000" stop="20140113031900 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">2M ماج</title>
+    <title lang="en">2M Mag</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A magazine program that provides the viewers with an overview on cultural events in the country as well as taking a close look at the visual arts, cinemas, music, and literature too.</desc>
+  </programme>
+  <programme start="20140113031900 +0000" stop="20140113040400 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">سامحيني</title>
+    <title lang="en">Samehini</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A social drama about a young deceitful fraudulent thief who is arrested and is put in jail, after being released he decides to become a better person by helping people in need.</desc>
+  </programme>
+  <programme start="20140113040400 +0000" stop="20140113044800 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">صباحيات 2M</title>
+    <title lang="en">Sabahiyat 2M</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A morning show provides the viewers with advices that include health, fashion, cooking, decorations, and much more as it hosts health, law, and Psychologist experts to answer the viewers' questions.</desc>
+  </programme>
+  <programme start="20140113044800 +0000" stop="20140113050000 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">مواهب في تجويد القرآن الكريم</title>
+    <title lang="en">Mawaheb Fi Tajweed Al Quran Al Kareem</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A religious program that follows the contest of reciting the Holly Quran for girls and boys between 10 and 18 years old.</desc>
+  </programme>
+  <programme start="20140113050000 +0000" stop="20140113052500 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">كوميدي أوف إرورز</title>
+    <title lang="en">Comedy Of Errors</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Entertainment-based program.</desc>
+  </programme>
+  <programme start="20140113052500 +0000" stop="20140113062300 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">الطبيعة والعلم</title>
+    <title lang="en">Attabee'ah Wa Al E'lm</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A documentary series that highlights science and technology development focusing on their effect on nature and environment.</desc>
+  </programme>
+  <programme start="20140113062300 +0000" stop="20140113064500 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">المكتوب</title>
+    <title lang="en">Al Maktoub</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series narrates the story of a young man and his ambition to achieve his mother's dream to be a successful engineer despite the difficult circumstances.</desc>
+  </programme>
+  <programme start="20140113064500 +0000" stop="20140113073700 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">فرفشة</title>
+    <title lang="en">Farfasheh</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Comedy entertainment program shows branks with ordinary people, artists or journalists, in interesting and funny manner.</desc>
+  </programme>
+  <programme start="20140113073700 +0000" stop="20140113083500 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">غراند آنجل</title>
+    <title lang="en">Grand Angle</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Investigations magazine dedicated to the issues that affect Moroccans as they are discussed and commented on and they are social, cultural, or artistic issues.</desc>
+  </programme>
+  <programme start="20140113083500 +0000" stop="20140113084000 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">أنوال نون</title>
+    <title lang="en">Anwal Noun</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Anwal Noun is an Amazigh cooking show provides the viewers with delicious Moroccan and international recipes.</desc>
+  </programme>
+  <programme start="20140113084000 +0000" stop="20140113092900 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">الوعد</title>
+    <title lang="en">Al Wa'ad</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Torn between his promise to marry his dying brother's fiancee, Nariman, and the love for his wife, Idris is forced to lead a double life, one with Nariman and the other with his unsuspecting wife.</desc>
+    <credits>
+      <actor>Mohammad Qanou'</actor>
+    </credits>
+  </programme>
+  <programme start="20140113092900 +0000" stop="20140113094900 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">شهيوات مع شميشة</title>
+    <title lang="en">Shhiwat Ma' Shmishah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Moroccan cuisine is well known for its variety that has been affected by other countries and cultures.
+
+Shmishah invites the viewers to explore the Moroccan cuisines' richness.</desc>
+  </programme>
+  <programme start="20140113094900 +0000" stop="20140113095500 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">الحكمة فالكلمة</title>
+    <title lang="en">Al Hakma Fal Kalma</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Entertainment-based program.</desc>
+  </programme>
+  <programme start="20140113095500 +0000" stop="20140113110500 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">صباحيات 2M</title>
+    <title lang="en">Sabahiyat 2M</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A morning show provides the viewers with advices that include health, fashion, cooking, decorations, and much more as it hosts health, law, and Psychologist experts to answer the viewers' questions.</desc>
+  </programme>
+  <programme start="20140113110500 +0000" stop="20140113111600 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">الربيب</title>
+    <title lang="en">Al Rabib</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140113111600 +0000" stop="20140113112000 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">أبل آه لا بريير</title>
+    <title lang="en">Appel A La Priere</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The program displays the Adhan, which is the Islamic call to prayer, recited by the mu'dhin at prescribed times of the day.</desc>
+  </programme>
+  <programme start="20140113112000 +0000" stop="20140113113600 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">الربيب</title>
+    <title lang="en">Al Rabib</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140113113600 +0000" stop="20140113121200 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">بولتين ميتيو</title>
+    <title lang="en">Bulletin Meteo</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A weather forecast that provides the viewers with the weather conditions highlighting the maximum and minimum temperatures, wind direction and speed, as well as humidity rate.</desc>
+  </programme>
+  <programme start="20140113121200 +0000" stop="20140113131100 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">الحسين والصافية</title>
+    <title lang="en">Al Hussein Wa Assafeyah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Social drama series narrates the story of al Hussein and his wife al Safeyah who are a hapless couple trying their best to start their own business.</desc>
+  </programme>
+  <programme start="20140113131100 +0000" stop="20140113132200 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">بولتين ميتيو</title>
+    <title lang="en">Bulletin Meteo</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A weather forecast that provides the viewers with the weather conditions highlighting the maximum and minimum temperatures, wind direction and speed, as well as humidity rate.</desc>
+  </programme>
+  <programme start="20140113132200 +0000" stop="20140113133200 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">الحكمة فالكلمة</title>
+    <title lang="en">Al Hakma Fal Kalma</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Entertainment-based program.</desc>
+  </programme>
+  <programme start="20140113133200 +0000" stop="20140113135700 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">ديابلو</title>
+    <title lang="en">Diablo</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Romance drama revolves around Asprinsa, a maid, who has an affair with the house owner's son.
+She becomes pregnant from him, but his family refuses the child.</desc>
+  </programme>
+  <programme start="20140113135700 +0000" stop="20140113140000 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">أبل آه لا بريير</title>
+    <title lang="en">Appel A La Priere</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The program displays the Adhan, which is the Islamic call to prayer, recited by the mu'dhin at prescribed times of the day.</desc>
+  </programme>
+  <programme start="20140113140000 +0000" stop="20140113142500 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">ديابلو</title>
+    <title lang="en">Diablo</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Romance drama revolves around Asprinsa, a maid, who has an affair with the house owner's son.
+She becomes pregnant from him, but his family refuses the child.</desc>
+  </programme>
+  <programme start="20140113142500 +0000" stop="20140113154000 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">سلمى</title>
+    <title lang="en">Salma</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series.</desc>
+  </programme>
+  <programme start="20140113154000 +0000" stop="20140113160800 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">بنت بلادي</title>
+    <title lang="en">Bent Bladi</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A social drama that narrates the story of a dressmaker whose work quality and unique designs earned her an international prize and gave her the courage to open her own fashion house.</desc>
+  </programme>
+  <programme start="20140113160800 +0000" stop="20140113163200 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">جست فور لافس</title>
+    <title lang="en">Just for Laughs</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This program features a hidden camera that captures people's reaction after they become unsuspecting subjects of funny pranks.</desc>
+  </programme>
+  <programme start="20140113163200 +0000" stop="20140113163800 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">شون لي موتو</title>
+    <title lang="en">Shaun Le Mouton</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Cartoon series narrates the story of a sheep called Shaun who lives in a barnyard with his sheep-friends, who look up to him as their leader. Shaun is always the one to rescue them from troubles.</desc>
+  </programme>
+  <programme start="20140113163800 +0000" stop="20140113164100 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">أبل آه لا بريير</title>
+    <title lang="en">Appel A La Priere</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The program displays the Adhan, which is the Islamic call to prayer, recited by the mu'dhin at prescribed times of the day.</desc>
+  </programme>
+  <programme start="20140113164100 +0000" stop="20140113170300 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">
+    </title>
+    <title lang="en">Pop Toon</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140113170300 +0000" stop="20140113170500 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">كوك آند شيب</title>
+    <title lang="en">Cook And Sheep</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animated series narrates the story of Khaleel, the cook who tries to catch a sheep before the end of Ramadan.</desc>
+  </programme>
+  <programme start="20140113170500 +0000" stop="20140113171000 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">
+    </title>
+    <title lang="en">Celestin : La Citoyennete</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140113171000 +0000" stop="20140113172900 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">شهيوات مع شميشة</title>
+    <title lang="en">Shhiwat Ma' Shmishah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Moroccan cuisine is well known for its variety that has been affected by other countries and cultures.
+
+Shmishah invites the viewers to explore the Moroccan cuisines' richness.</desc>
+  </programme>
+  <programme start="20140113172900 +0000" stop="20140113180100 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">المكتوب</title>
+    <title lang="en">Al Maktoub</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series narrates the story of a young man and his ambition to achieve his mother's dream to be a successful engineer despite the difficult circumstances.</desc>
+  </programme>
+  <programme start="20140113180100 +0000" stop="20140113180400 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">أبل آه لا بريير</title>
+    <title lang="en">Appel A La Priere</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The program displays the Adhan, which is the Islamic call to prayer, recited by the mu'dhin at prescribed times of the day.</desc>
+  </programme>
+  <programme start="20140113180400 +0000" stop="20140113181400 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">المكتوب</title>
+    <title lang="en">Al Maktoub</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series narrates the story of a young man and his ambition to achieve his mother's dream to be a successful engineer despite the difficult circumstances.</desc>
+  </programme>
+  <programme start="20140113181400 +0000" stop="20140113182000 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">الحكمة فالكلمة</title>
+    <title lang="en">Al Hakma Fal Kalma</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Entertainment-based program.</desc>
+  </programme>
+  <programme start="20140113182000 +0000" stop="20140113183000 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">سامحيني</title>
+    <title lang="en">Samehini</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A social drama about a young deceitful fraudulent thief who is arrested and is put in jail, after being released he decides to become a better person by helping people in need.</desc>
+  </programme>
+  <programme start="20140113183000 +0000" stop="20140113184200 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">الحكمة فالكلمة</title>
+    <title lang="en">Al Hakma Fal Kalma</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Entertainment-based program.</desc>
+  </programme>
+  <programme start="20140113184200 +0000" stop="20140113191500 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">دار وديكور</title>
+    <title lang="en">Dar Wa Decour</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A magazine program that provides the viewers with solutions that suit their houses' designs and satisfy their tastes as the presenters provide the viewers with advices, suggestions, and new ideas.</desc>
+  </programme>
+  <programme start="20140113191500 +0000" stop="20140113193800 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">أنفو سوار</title>
+    <title lang="en">Info Soir</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">An evening news bulletin covers the latest and most important news and events taking place in the country.</desc>
+  </programme>
+  <programme start="20140113193800 +0000" stop="20140113194600 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">كيو دو سبورت</title>
+    <title lang="en">Que Du Sport</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A sports news bulletin that covers the latest and most important sport events in Morocco and the whole world.</desc>
+  </programme>
+  <programme start="20140113194600 +0000" stop="20140113194900 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">بولتين ميتيو</title>
+    <title lang="en">Bulletin Meteo</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A weather forecast that provides the viewers with the weather conditions highlighting the maximum and minimum temperatures, wind direction and speed, as well as humidity rate.</desc>
+  </programme>
+  <programme start="20140113194900 +0000" stop="20140113195600 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">موجز رياضي</title>
+    <title lang="en">Moujaz Reyadi</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A news summary that covers the latest and most important sport news whither they are local or global.</desc>
+  </programme>
+  <programme start="20140113195600 +0000" stop="20140113200000 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">بولتين ميتيو</title>
+    <title lang="en">Bulletin Meteo</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A weather forecast that provides the viewers with the weather conditions highlighting the maximum and minimum temperatures, wind direction and speed, as well as humidity rate.</desc>
+  </programme>
+  <programme start="20140113200000 +0000" stop="20140113203500 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">المسائية</title>
+    <title lang="en">Al Masae'yah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Evening news bulletin.</desc>
+  </programme>
+  <programme start="20140113203500 +0000" stop="20140113213200 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">
+    </title>
+    <title lang="en">Bonne</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140113213200 +0000" stop="20140113213500 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">سينيستارز</title>
+    <title lang="en">Cinestars</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A magazine program that provides the viewers with a detailed report about celebrities' latest and most important news and works.</desc>
+  </programme>
+  <programme start="20140113213500 +0000" stop="20140113222800 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">نداء الفجر</title>
+    <title lang="en">Nda Al Fajr - D</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A religious program telecasts the rites of Al Fajr prayers.</desc>
+  </programme>
+  <programme start="20140113222800 +0000" stop="20140113223000 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">
+    </title>
+    <title lang="en">Angham</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140113223000 +0000" stop="20140113223800 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">الحكمة فالكلمة</title>
+    <title lang="en">Al Hakma Fal Kalma</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Entertainment-based program.</desc>
+  </programme>
+  <programme start="20140113223800 +0000" stop="20140113231700 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">دموع الرجال</title>
+    <title lang="en">Domou' Arrejal</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama narrates the story of five brothers and sisters and their mother as they struggle over their father's heritage.</desc>
+  </programme>
+  <programme start="20140113231700 +0000" stop="20140113232100 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">إكونيوز</title>
+    <title lang="en">Econews</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">An economical news bulletin that covers the latest and most important economical news and events highlighting the foreign exchange market and the stock exchange.</desc>
+  </programme>
+  <programme start="20140113232100 +0000" stop="20140114023100 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">شكون هي؟</title>
+    <title lang="en">Chkoun Hiya</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Comedy drama based on a play.</desc>
+  </programme>
+  <programme start="20140114023100 +0000" stop="20140114031900 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">2M ماج</title>
+    <title lang="en">2M Mag</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A magazine program that provides the viewers with an overview on cultural events in the country as well as taking a close look at the visual arts, cinemas, music, and literature too.</desc>
+  </programme>
+  <programme start="20140114031900 +0000" stop="20140114040400 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">المكتوب</title>
+    <title lang="en">Al Maktoub</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series narrates the story of a young man and his ambition to achieve his mother's dream to be a successful engineer despite the difficult circumstances.</desc>
+  </programme>
+  <programme start="20140114040400 +0000" stop="20140114044800 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">سامحيني</title>
+    <title lang="en">Samehini</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A social drama about a young deceitful fraudulent thief who is arrested and is put in jail, after being released he decides to become a better person by helping people in need.</desc>
+  </programme>
+  <programme start="20140114044800 +0000" stop="20140114050000 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">مواهب في تجويد القرآن الكريم</title>
+    <title lang="en">Mawaheb Fi Tajweed Al Quran Al Kareem</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A religious program that follows the contest of reciting the Holly Quran for girls and boys between 10 and 18 years old.</desc>
+  </programme>
+  <programme start="20140114050000 +0000" stop="20140114060700 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">
+    </title>
+    <title lang="en">Al Aktar Gharaba</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140114060700 +0000" stop="20140114070300 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">مع تشارلي تشابلن</title>
+    <title lang="en">Ma' Charlie Chaplin</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Entertainment program displays some of Charlie Chaplin's works; Charlie Chaplin was a British comic actor and filmmaker and was one of the most influential figures of the silent era.</desc>
+  </programme>
+  <programme start="20140114070300 +0000" stop="20140114072500 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">قواعد أنجيلو</title>
+    <title lang="en">Qawa'ed Angelo</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">An animation series that follows Angelo as he does exciting adventures.</desc>
+  </programme>
+  <programme start="20140114072500 +0000" stop="20140114074800 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">منزل غلوريا</title>
+    <title lang="en">Manzel Gloria</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">An animation series that narrates the story of a girl celled Gloria who lives with her family in a village.
+
+Her family is forced to move to the city, where she has to adapt with her new life.</desc>
+  </programme>
+  <programme start="20140114074800 +0000" stop="20140114080700 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">بيبلايد: ميتال فيوجن</title>
+    <title lang="en">Beyblade Metal Fusion</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">In a battle between good and evil, Ginga, the hero and his group of loyal friends take on a dangerous group called the Dark Nebula. Ginga has to stop the evil Dark Nebula from taking over the world.</desc>
+  </programme>
+  <programme start="20140114080700 +0000" stop="20140114081100 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">دار وديكور</title>
+    <title lang="en">Dar Wa Decour</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A magazine program that provides the viewers with solutions that suit their houses' designs and satisfy their tastes as the presenters provide the viewers with advices, suggestions, and new ideas.</desc>
+  </programme>
+  <programme start="20140114081100 +0000" stop="20140114083300 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">يوغي يو فايف ديز</title>
+    <title lang="en">Yu-Gi-Oh! 5DS</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animated cartoon series narrates the adventures of a group of boys who fight using cards carry the images of monsters that turn to real creatures to face each other.</desc>
+  </programme>
+  <programme start="20140114083300 +0000" stop="20140114090000 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">
+    </title>
+    <title lang="en">Al katkout achouja'</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140114090000 +0000" stop="20140114091500 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">
+    </title>
+    <title lang="en">Jazirat al hikayat</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140114091500 +0000" stop="20140114092800 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">أطرف حيوانات العالم</title>
+    <title lang="en">A'ttraf Hayawanat Al A'alam</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Strange and unique situations that face some of the animals.</desc>
+  </programme>
+  <programme start="20140114092800 +0000" stop="20140114101400 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">كيف صنعت</title>
+    <title lang="en">Kaif Ssone'at</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Documentary program shows how common everyday items including foodstuffs like bubblegum, industrial products, like engines, musical instruments, such as guitars, and sporting goods are manufactured.</desc>
+  </programme>
+  <programme start="20140114101400 +0000" stop="20140114110600 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">جست فور فيريتي</title>
+    <title lang="en">Just For Variety</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Comedy program hosts a group of people who present funny shows.</desc>
+  </programme>
+  <programme start="20140114110600 +0000" stop="20140114113700 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">صحتنا جميع</title>
+    <title lang="en">Sehetna Jmee'</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A weekly medical program that discusses various medical topics and issues that concern the viewers and highlights some medical cases showing how the illness effects the patient's life.</desc>
+  </programme>
+  <programme start="20140114113700 +0000" stop="20140114114500 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">بولتين ميتيو</title>
+    <title lang="en">Bulletin Meteo</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A weather forecast that provides the viewers with the weather conditions highlighting the maximum and minimum temperatures, wind direction and speed, as well as humidity rate.</desc>
+  </programme>
+  <programme start="20140114114500 +0000" stop="20140114121400 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">الأخبار</title>
+    <title lang="en">Al Akhbar</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">News program highlights the latest and most important local and global news. Also, it features latest news reports from all over the world.</desc>
+  </programme>
+  <programme start="20140114121400 +0000" stop="20140114131400 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">
+    </title>
+    <title lang="en">Kan qalleb A'la khadma</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140114131400 +0000" stop="20140114134500 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">نشرة الأخبار الأمازيغية</title>
+    <title lang="en">Journal Amazigh</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A news bulletin that displays reports covering the latest news and events taking place in Morocco, displayed in the Amazigh language, which is the mutual language between the North African countries.</desc>
+  </programme>
+  <programme start="20140114134500 +0000" stop="20140114140000 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">بلاتو سبورت</title>
+    <title lang="en">Plateau Sport</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A sport news summary that covers the latest and most important sport news taking place in the country or worldwide.</desc>
+  </programme>
+  <programme start="20140114140000 +0000" stop="20140114144500 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">تشامبيونات ناشونال دو فوتبول</title>
+    <title lang="en">Championnat National De Football</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A sport program that broadcasts the matches that the Morocco national football team participates in.</desc>
+  </programme>
+  <programme start="20140114144500 +0000" stop="20140114152000 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">بلاتو سبورت</title>
+    <title lang="en">Plateau Sport</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A sport news summary that covers the latest and most important sport news taking place in the country or worldwide.</desc>
+  </programme>
+  <programme start="20140114152000 +0000" stop="20140114160000 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">
+    </title>
+    <title lang="en">Kas Al A'arsh Al Ma'arbi Studio</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140114160000 +0000" stop="20140114175300 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">
+    </title>
+    <title lang="en">Kas Al A'arsh Al Ma'arbi</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140114175300 +0000" stop="20140114183000 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">أجيال</title>
+    <title lang="en">Ajyal</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">An artistic talk show that hosts various artists to discuss their career, successes, and failures.</desc>
+  </programme>
+  <programme start="20140114183000 +0000" stop="20140114191500 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">سامحيني</title>
+    <title lang="en">Samehini</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A social drama about a young deceitful fraudulent thief who is arrested and is put in jail, after being released he decides to become a better person by helping people in need.</desc>
+  </programme>
+  <programme start="20140114191500 +0000" stop="20140114193800 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">أنفو سوار</title>
+    <title lang="en">Info Soir</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">An evening news bulletin covers the latest and most important news and events taking place in the country.</desc>
+  </programme>
+  <programme start="20140114193800 +0000" stop="20140114194700 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">كيو دو سبورت</title>
+    <title lang="en">Que Du Sport</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A sports news bulletin that covers the latest and most important sport events in Morocco and the whole world.</desc>
+  </programme>
+  <programme start="20140114194700 +0000" stop="20140114194900 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">بولتين ميتيو</title>
+    <title lang="en">Bulletin Meteo</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A weather forecast that provides the viewers with the weather conditions highlighting the maximum and minimum temperatures, wind direction and speed, as well as humidity rate.</desc>
+  </programme>
+  <programme start="20140114194900 +0000" stop="20140114195500 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">موجز رياضي</title>
+    <title lang="en">Moujaz Reyadi</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A news summary that covers the latest and most important sport news whither they are local or global.</desc>
+  </programme>
+  <programme start="20140114195500 +0000" stop="20140114200000 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">بولتين ميتيو</title>
+    <title lang="en">Bulletin Meteo</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A weather forecast that provides the viewers with the weather conditions highlighting the maximum and minimum temperatures, wind direction and speed, as well as humidity rate.</desc>
+  </programme>
+  <programme start="20140114200000 +0000" stop="20140114203200 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">نشرة الأخبار المسائية</title>
+    <title lang="en">Nashrat Al Akhbar Al Masae'yah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">News bulletin reviews all the recent political and social updates in the whole world.</desc>
+  </programme>
+  <programme start="20140114203200 +0000" stop="20140114213100 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">الخيط الأبيض</title>
+    <title lang="en">Al Khait Al Abiadd</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama narrates the story of Raafat, a journalist, who looks for the truth in his talk show.
+The officials try to stop the program, since it conflicts with their own interests.</desc>
+  </programme>
+  <programme start="20140114213100 +0000" stop="20140114222000 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">2M ماج</title>
+    <title lang="en">2M Mag</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A magazine program that provides the viewers with an overview on cultural events in the country as well as taking a close look at the visual arts, cinemas, music, and literature too.</desc>
+  </programme>
+  <programme start="20140114222000 +0000" stop="20140114235100 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">
+    </title>
+    <title lang="en">Woujae Attrab</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140114235100 +0000" stop="20140115004500 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">رشيد شو</title>
+    <title lang="en">Rasheed Show</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Talk show features Rasheed Al A'alaly, who invites a number of specialists from various fields, and sheds light on the most important rumors they face, their achievements and upcoming events.</desc>
+  </programme>
+  <programme start="20140115004500 +0000" stop="20140115023000 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">
+    </title>
+    <title lang="en">Al A'oqda 99</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140115023000 +0000" stop="20140115044800 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">المكتوب</title>
+    <title lang="en">Al Maktoub</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series narrates the story of a young man and his ambition to achieve his mother's dream to be a successful engineer despite the difficult circumstances.</desc>
+  </programme>
+  <programme start="20140115044800 +0000" stop="20140115045000 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">أبل آه لا بريير</title>
+    <title lang="en">Appel A La Priere</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The program displays the Adhan, which is the Islamic call to prayer, recited by the mu'dhin at prescribed times of the day.</desc>
+  </programme>
+  <programme start="20140115045000 +0000" stop="20140115050000 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">مواهب في تجويد القرآن الكريم</title>
+    <title lang="en">Mawaheb Fi Tajweed Al Quran Al Kareem</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A religious program that follows the contest of reciting the Holly Quran for girls and boys between 10 and 18 years old.</desc>
+  </programme>
+  <programme start="20140115050000 +0000" stop="20140115053000 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">الطبيعة والعلم</title>
+    <title lang="en">Attabee'ah Wa Al E'lm</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A documentary series that highlights science and technology development focusing on their effect on nature and environment.</desc>
+  </programme>
+  <programme start="20140115053000 +0000" stop="20140115063400 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">صباحيات 2M</title>
+    <title lang="en">Sabahiyat 2M</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A morning show provides the viewers with advices that include health, fashion, cooking, decorations, and much more as it hosts health, law, and Psychologist experts to answer the viewers' questions.</desc>
+  </programme>
+  <programme start="20140115063400 +0000" stop="20140115065600 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">كوميدي أوف إرورز</title>
+    <title lang="en">Comedy Of Errors</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Entertainment-based program.</desc>
+  </programme>
+  <programme start="20140115065600 +0000" stop="20140115074700 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">فرفشة</title>
+    <title lang="en">Farfasheh</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Comedy entertainment program shows branks with ordinary people, artists or journalists, in interesting and funny manner.</desc>
+  </programme>
+  <programme start="20140115074700 +0000" stop="20140115081100 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">صحتنا جميع</title>
+    <title lang="en">Sehetna Jmee'</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A weekly medical program that discusses various medical topics and issues that concern the viewers and highlights some medical cases showing how the illness effects the patient's life.</desc>
+  </programme>
+  <programme start="20140115081100 +0000" stop="20140115083800 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">دار وديكور</title>
+    <title lang="en">Dar Wa Decour</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A magazine program that provides the viewers with solutions that suit their houses' designs and satisfy their tastes as the presenters provide the viewers with advices, suggestions, and new ideas.</desc>
+  </programme>
+  <programme start="20140115083800 +0000" stop="20140115085300 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">أنوال نون</title>
+    <title lang="en">Anwal Noun</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Anwal Noun is an Amazigh cooking show provides the viewers with delicious Moroccan and international recipes.</desc>
+  </programme>
+  <programme start="20140115085300 +0000" stop="20140115093900 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">الوعد</title>
+    <title lang="en">Al Waa'd</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140115093900 +0000" stop="20140115095700 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">شهيوات مع شميشة</title>
+    <title lang="en">Shhiwat Ma' Shmishah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Moroccan cuisine is well known for its variety that has been affected by other countries and cultures.
+
+Shmishah invites the viewers to explore the Moroccan cuisines' richness.</desc>
+  </programme>
+  <programme start="20140115095700 +0000" stop="20140115110800 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">صباحيات 2M</title>
+    <title lang="en">Sabahiyat 2M</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A morning show provides the viewers with advices that include health, fashion, cooking, decorations, and much more as it hosts health, law, and Psychologist experts to answer the viewers' questions.</desc>
+  </programme>
+  <programme start="20140115110800 +0000" stop="20140115111600 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">الربيب</title>
+    <title lang="en">Al Rabib</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140115111600 +0000" stop="20140115111900 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">أبل آه لا بريير</title>
+    <title lang="en">Appel A La Priere</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The program displays the Adhan, which is the Islamic call to prayer, recited by the mu'dhin at prescribed times of the day.</desc>
+  </programme>
+  <programme start="20140115111900 +0000" stop="20140115113800 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">الربيب</title>
+    <title lang="en">Al Rabib</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140115113800 +0000" stop="20140115114500 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">بولتين ميتيو</title>
+    <title lang="en">Bulletin Meteo</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A weather forecast that provides the viewers with the weather conditions highlighting the maximum and minimum temperatures, wind direction and speed, as well as humidity rate.</desc>
+  </programme>
+  <programme start="20140115114500 +0000" stop="20140115121200 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">نشرة الأخبار</title>
+    <title lang="en">Nashrat Al Akhbar</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">News bulletin that highlights the latest and most important Arab and global news that are provided with latest news reports from all over the world.</desc>
+  </programme>
+  <programme start="20140115121200 +0000" stop="20140115125900 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">أنا وأختي</title>
+    <title lang="en">Ana Wa Okhte</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animated series provides interesting adventures and distinct challenges.</desc>
+  </programme>
+  <programme start="20140115125900 +0000" stop="20140115131700 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">نشرة الأخبار الأمازيغية</title>
+    <title lang="en">Journal Amazigh</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A news bulletin that displays reports covering the latest news and events taking place in Morocco, displayed in the Amazigh language, which is the mutual language between the North African countries.</desc>
+  </programme>
+  <programme start="20140115131700 +0000" stop="20140115140100 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">غلطة حياتي</title>
+    <title lang="en">Ghaltat Hayati</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Enas's friend Aseel goes into a coma after an accident, Enas believes that someone behind it. To find out who did that; Enas fabricates a love story to go into that person's life, but...</desc>
+  </programme>
+  <programme start="20140115140100 +0000" stop="20140115140800 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">أبل آه لا بريير</title>
+    <title lang="en">Appel A La Priere</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The program displays the Adhan, which is the Islamic call to prayer, recited by the mu'dhin at prescribed times of the day.</desc>
+  </programme>
+  <programme start="20140115140800 +0000" stop="20140115145600 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">غلطة حياتي</title>
+    <title lang="en">Ghaltat Hayati</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Enas's friend Aseel goes into a coma after an accident, Enas believes that someone behind it. To find out who did that; Enas fabricates a love story to go into that person's life, but...</desc>
+  </programme>
+  <programme start="20140115145600 +0000" stop="20140115154300 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">سلمى</title>
+    <title lang="en">Salma</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series.</desc>
+  </programme>
+  <programme start="20140115154300 +0000" stop="20140115161100 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">بنت بلادي</title>
+    <title lang="en">Bent Bladi</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A social drama that narrates the story of a dressmaker whose work quality and unique designs earned her an international prize and gave her the courage to open her own fashion house.</desc>
+  </programme>
+  <programme start="20140115161100 +0000" stop="20140115163400 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">جوستيه بور رير</title>
+    <title lang="en">Juste Pour Rire</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A hidden camera show that offers its viewers many comedic moments captured on camera.
+
+The show captures people's reactions during prank moments.</desc>
+  </programme>
+  <programme start="20140115163400 +0000" stop="20140115163700 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">أبل آه لا بريير</title>
+    <title lang="en">Appel A La Priere</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The program displays the Adhan, which is the Islamic call to prayer, recited by the mu'dhin at prescribed times of the day.</desc>
+  </programme>
+  <programme start="20140115163700 +0000" stop="20140115164600 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">شون لي موتو</title>
+    <title lang="en">Shaun Le Mouton</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Cartoon series narrates the story of a sheep called Shaun who lives in a barnyard with his sheep-friends, who look up to him as their leader. Shaun is always the one to rescue them from troubles.</desc>
+  </programme>
+  <programme start="20140115164600 +0000" stop="20140115170800 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">
+    </title>
+    <title lang="en">Pop Toon</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140115170800 +0000" stop="20140115171300 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">
+    </title>
+    <title lang="en">Celestin : La Citoyennete</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140115171300 +0000" stop="20140115173100 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">شهيوات مع شميشة</title>
+    <title lang="en">Shhiwat Ma' Shmishah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Moroccan cuisine is well known for its variety that has been affected by other countries and cultures.
+
+Shmishah invites the viewers to explore the Moroccan cuisines' richness.</desc>
+  </programme>
+  <programme start="20140115173100 +0000" stop="20140115174000 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">المكتوب</title>
+    <title lang="en">Al Maktoub</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series narrates the story of a young man and his ambition to achieve his mother's dream to be a successful engineer despite the difficult circumstances.</desc>
+  </programme>
+  <programme start="20140115174000 +0000" stop="20140115174200 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">أبل آه لا بريير</title>
+    <title lang="en">Appel A La Priere</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The program displays the Adhan, which is the Islamic call to prayer, recited by the mu'dhin at prescribed times of the day.</desc>
+  </programme>
+  <programme start="20140115174200 +0000" stop="20140115183000 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">المكتوب</title>
+    <title lang="en">Al Maktoub</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series narrates the story of a young man and his ambition to achieve his mother's dream to be a successful engineer despite the difficult circumstances.</desc>
+  </programme>
+  <programme start="20140115183000 +0000" stop="20140115193000 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">سامحيني</title>
+    <title lang="en">Samehini</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A social drama about a young deceitful fraudulent thief who is arrested and is put in jail, after being released he decides to become a better person by helping people in need.</desc>
+  </programme>
+  <programme start="20140115193000 +0000" stop="20140115193900 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">أنفو سوار</title>
+    <title lang="en">Info Soir</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">An evening news bulletin covers the latest and most important news and events taking place in the country.</desc>
+  </programme>
+  <programme start="20140115193900 +0000" stop="20140115194700 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">كيو دو سبورت</title>
+    <title lang="en">Que Du Sport</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A sports news bulletin that covers the latest and most important sport events in Morocco and the whole world.</desc>
+  </programme>
+  <programme start="20140115194700 +0000" stop="20140115194900 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">بولتين ميتيو</title>
+    <title lang="en">Bulletin Meteo</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A weather forecast that provides the viewers with the weather conditions highlighting the maximum and minimum temperatures, wind direction and speed, as well as humidity rate.</desc>
+  </programme>
+  <programme start="20140115194900 +0000" stop="20140115195500 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">موجز رياضي</title>
+    <title lang="en">Moujaz Reyadi</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A news summary that covers the latest and most important sport news whither they are local or global.</desc>
+  </programme>
+  <programme start="20140115195500 +0000" stop="20140115200000 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">بولتين ميتيو</title>
+    <title lang="en">Bulletin Meteo</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A weather forecast that provides the viewers with the weather conditions highlighting the maximum and minimum temperatures, wind direction and speed, as well as humidity rate.</desc>
+  </programme>
+  <programme start="20140115200000 +0000" stop="20140115203200 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">نشرة الأخبار المسائية</title>
+    <title lang="en">Nashrat Al Akhbar Al Masae'yah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">News bulletin reviews all the recent political and social updates in the whole world.</desc>
+  </programme>
+  <programme start="20140115203200 +0000" stop="20140115213100 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">الخيط الأبيض</title>
+    <title lang="en">Al Khait Al Abiadd</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama narrates the story of Raafat, a journalist, who looks for the truth in his talk show.
+The officials try to stop the program, since it conflicts with their own interests.</desc>
+  </programme>
+  <programme start="20140115213100 +0000" stop="20140115222000 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">2M ماج</title>
+    <title lang="en">2M Mag</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A magazine program that provides the viewers with an overview on cultural events in the country as well as taking a close look at the visual arts, cinemas, music, and literature too.</desc>
+  </programme>
+  <programme start="20140115222000 +0000" stop="20140115235100 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">
+    </title>
+    <title lang="en">Woujae Attrab</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140115235100 +0000" stop="20140116004500 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">رشيد شو</title>
+    <title lang="en">Rasheed Show</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Talk show features Rasheed Al A'alaly, who invites a number of specialists from various fields, and sheds light on the most important rumors they face, their achievements and upcoming events.</desc>
+  </programme>
+  <programme start="20140116004500 +0000" stop="20140116023000 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">
+    </title>
+    <title lang="en">Al A'oqda 99</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140116023000 +0000" stop="20140116044800 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">المكتوب</title>
+    <title lang="en">Al Maktoub</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series narrates the story of a young man and his ambition to achieve his mother's dream to be a successful engineer despite the difficult circumstances.</desc>
+  </programme>
+  <programme start="20140116044800 +0000" stop="20140116045000 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">أبل آه لا بريير</title>
+    <title lang="en">Appel A La Priere</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The program displays the Adhan, which is the Islamic call to prayer, recited by the mu'dhin at prescribed times of the day.</desc>
+  </programme>
+  <programme start="20140116045000 +0000" stop="20140116050000 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">مواهب في تجويد القرآن الكريم</title>
+    <title lang="en">Mawaheb Fi Tajweed Al Quran Al Kareem</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A religious program that follows the contest of reciting the Holly Quran for girls and boys between 10 and 18 years old.</desc>
+  </programme>
+  <programme start="20140116050000 +0000" stop="20140116053000 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">الطبيعة والعلم</title>
+    <title lang="en">Attabee'ah Wa Al E'lm</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A documentary series that highlights science and technology development focusing on their effect on nature and environment.</desc>
+  </programme>
+  <programme start="20140116053000 +0000" stop="20140116063400 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">صباحيات 2M</title>
+    <title lang="en">Sabahiyat 2M</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A morning show provides the viewers with advices that include health, fashion, cooking, decorations, and much more as it hosts health, law, and Psychologist experts to answer the viewers' questions.</desc>
+  </programme>
+  <programme start="20140116063400 +0000" stop="20140116065600 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">كوميدي أوف إرورز</title>
+    <title lang="en">Comedy Of Errors</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Entertainment-based program.</desc>
+  </programme>
+  <programme start="20140116065600 +0000" stop="20140116074700 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">فرفشة</title>
+    <title lang="en">Farfasheh</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Comedy entertainment program shows branks with ordinary people, artists or journalists, in interesting and funny manner.</desc>
+  </programme>
+  <programme start="20140116074700 +0000" stop="20140116081100 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">صحتنا جميع</title>
+    <title lang="en">Sehetna Jmee'</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A weekly medical program that discusses various medical topics and issues that concern the viewers and highlights some medical cases showing how the illness effects the patient's life.</desc>
+  </programme>
+  <programme start="20140116081100 +0000" stop="20140116083800 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">دار وديكور</title>
+    <title lang="en">Dar Wa Decour</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A magazine program that provides the viewers with solutions that suit their houses' designs and satisfy their tastes as the presenters provide the viewers with advices, suggestions, and new ideas.</desc>
+  </programme>
+  <programme start="20140116083800 +0000" stop="20140116085300 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">أنوال نون</title>
+    <title lang="en">Anwal Noun</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Anwal Noun is an Amazigh cooking show provides the viewers with delicious Moroccan and international recipes.</desc>
+  </programme>
+  <programme start="20140116085300 +0000" stop="20140116093900 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">الوعد</title>
+    <title lang="en">Al Waa'd</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140116093900 +0000" stop="20140116095700 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">شهيوات مع شميشة</title>
+    <title lang="en">Shhiwat Ma' Shmishah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Moroccan cuisine is well known for its variety that has been affected by other countries and cultures.
+
+Shmishah invites the viewers to explore the Moroccan cuisines' richness.</desc>
+  </programme>
+  <programme start="20140116095700 +0000" stop="20140116110800 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">صباحيات 2M</title>
+    <title lang="en">Sabahiyat 2M</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A morning show provides the viewers with advices that include health, fashion, cooking, decorations, and much more as it hosts health, law, and Psychologist experts to answer the viewers' questions.</desc>
+  </programme>
+  <programme start="20140116110800 +0000" stop="20140116111600 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">الربيب</title>
+    <title lang="en">Al Rabib</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140116111600 +0000" stop="20140116111900 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">أبل آه لا بريير</title>
+    <title lang="en">Appel A La Priere</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The program displays the Adhan, which is the Islamic call to prayer, recited by the mu'dhin at prescribed times of the day.</desc>
+  </programme>
+  <programme start="20140116111900 +0000" stop="20140116113800 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">الربيب</title>
+    <title lang="en">Al Rabib</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140116113800 +0000" stop="20140116114500 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">بولتين ميتيو</title>
+    <title lang="en">Bulletin Meteo</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A weather forecast that provides the viewers with the weather conditions highlighting the maximum and minimum temperatures, wind direction and speed, as well as humidity rate.</desc>
+  </programme>
+  <programme start="20140116114500 +0000" stop="20140116121200 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">نشرة الأخبار</title>
+    <title lang="en">Nashrat Al Akhbar</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">News bulletin that highlights the latest and most important Arab and global news that are provided with latest news reports from all over the world.</desc>
+  </programme>
+  <programme start="20140116121200 +0000" stop="20140116125900 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">أنا وأختي</title>
+    <title lang="en">Ana Wa Okhte</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animated series provides interesting adventures and distinct challenges.</desc>
+  </programme>
+  <programme start="20140116125900 +0000" stop="20140116131700 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">نشرة الأخبار الأمازيغية</title>
+    <title lang="en">Journal Amazigh</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A news bulletin that displays reports covering the latest news and events taking place in Morocco, displayed in the Amazigh language, which is the mutual language between the North African countries.</desc>
+  </programme>
+  <programme start="20140116131700 +0000" stop="20140116140100 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">غلطة حياتي</title>
+    <title lang="en">Ghaltat Hayati</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Enas's friend Aseel goes into a coma after an accident, Enas believes that someone behind it. To find out who did that; Enas fabricates a love story to go into that person's life, but...</desc>
+  </programme>
+  <programme start="20140116140100 +0000" stop="20140116140800 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">أبل آه لا بريير</title>
+    <title lang="en">Appel A La Priere</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The program displays the Adhan, which is the Islamic call to prayer, recited by the mu'dhin at prescribed times of the day.</desc>
+  </programme>
+  <programme start="20140116140800 +0000" stop="20140116145600 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">غلطة حياتي</title>
+    <title lang="en">Ghaltat Hayati</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Enas's friend Aseel goes into a coma after an accident, Enas believes that someone behind it. To find out who did that; Enas fabricates a love story to go into that person's life, but...</desc>
+  </programme>
+  <programme start="20140116145600 +0000" stop="20140116154300 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">سلمى</title>
+    <title lang="en">Salma</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series.</desc>
+  </programme>
+  <programme start="20140116154300 +0000" stop="20140116161100 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">بنت بلادي</title>
+    <title lang="en">Bent Bladi</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A social drama that narrates the story of a dressmaker whose work quality and unique designs earned her an international prize and gave her the courage to open her own fashion house.</desc>
+  </programme>
+  <programme start="20140116161100 +0000" stop="20140116163400 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">جوستيه بور رير</title>
+    <title lang="en">Juste Pour Rire</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A hidden camera show that offers its viewers many comedic moments captured on camera.
+
+The show captures people's reactions during prank moments.</desc>
+  </programme>
+  <programme start="20140116163400 +0000" stop="20140116163700 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">أبل آه لا بريير</title>
+    <title lang="en">Appel A La Priere</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The program displays the Adhan, which is the Islamic call to prayer, recited by the mu'dhin at prescribed times of the day.</desc>
+  </programme>
+  <programme start="20140116163700 +0000" stop="20140116164600 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">شون لي موتو</title>
+    <title lang="en">Shaun Le Mouton</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Cartoon series narrates the story of a sheep called Shaun who lives in a barnyard with his sheep-friends, who look up to him as their leader. Shaun is always the one to rescue them from troubles.</desc>
+  </programme>
+  <programme start="20140116164600 +0000" stop="20140116170800 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">
+    </title>
+    <title lang="en">Pop Toon</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140116170800 +0000" stop="20140116171300 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">
+    </title>
+    <title lang="en">Celestin : La Citoyennete</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140116171300 +0000" stop="20140116173100 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">شهيوات مع شميشة</title>
+    <title lang="en">Shhiwat Ma' Shmishah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Moroccan cuisine is well known for its variety that has been affected by other countries and cultures.
+
+Shmishah invites the viewers to explore the Moroccan cuisines' richness.</desc>
+  </programme>
+  <programme start="20140116173100 +0000" stop="20140116174000 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">المكتوب</title>
+    <title lang="en">Al Maktoub</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series narrates the story of a young man and his ambition to achieve his mother's dream to be a successful engineer despite the difficult circumstances.</desc>
+  </programme>
+  <programme start="20140116174000 +0000" stop="20140116174200 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">أبل آه لا بريير</title>
+    <title lang="en">Appel A La Priere</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The program displays the Adhan, which is the Islamic call to prayer, recited by the mu'dhin at prescribed times of the day.</desc>
+  </programme>
+  <programme start="20140116174200 +0000" stop="20140116183000 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">المكتوب</title>
+    <title lang="en">Al Maktoub</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series narrates the story of a young man and his ambition to achieve his mother's dream to be a successful engineer despite the difficult circumstances.</desc>
+  </programme>
+  <programme start="20140116183000 +0000" stop="20140116191000 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">المكتوب</title>
+    <title lang="en">Al Maktoub</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series narrates the story of a young man and his ambition to achieve his mother's dream to be a successful engineer despite the difficult circumstances.</desc>
+  </programme>
+  <programme start="20140116191000 +0000" stop="20140116191300 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">الحكمة فالكلمة</title>
+    <title lang="en">Al Hakma Fal Kalma</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Entertainment-based program.</desc>
+  </programme>
+  <programme start="20140116191300 +0000" stop="20140116192000 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">دير إيديك 2013</title>
+    <title lang="en">Dir Iddik 2013</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Special report sheds light on the event, Dir Iddik, which is held by Dir Lkhir Tel9ah charity, where a group of young volunteers conduct charitable events and activities.</desc>
+  </programme>
+  <programme start="20140116192000 +0000" stop="20140116193300 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">سامحيني</title>
+    <title lang="en">Samehini</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A social drama about a young deceitful fraudulent thief who is arrested and is put in jail, after being released he decides to become a better person by helping people in need.</desc>
+  </programme>
+  <programme start="20140116193300 +0000" stop="20140116193500 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">أبل آه لا بريير</title>
+    <title lang="en">Appel A La Priere</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The program displays the Adhan, which is the Islamic call to prayer, recited by the mu'dhin at prescribed times of the day.</desc>
+  </programme>
+  <programme start="20140116193500 +0000" stop="20140116201500 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">سامحيني</title>
+    <title lang="en">Samehini</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A social drama about a young deceitful fraudulent thief who is arrested and is put in jail, after being released he decides to become a better person by helping people in need.</desc>
+  </programme>
+  <programme start="20140116201500 +0000" stop="20140116203900 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">أنفو سوار</title>
+    <title lang="en">Info Soir</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">An evening news bulletin covers the latest and most important news and events taking place in the country.</desc>
+  </programme>
+  <programme start="20140116203900 +0000" stop="20140116204600 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">كيو دو سبورت</title>
+    <title lang="en">Que Du Sport</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A sports news bulletin that covers the latest and most important sport events in Morocco and the whole world.</desc>
+  </programme>
+  <programme start="20140116204600 +0000" stop="20140116205000 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">بولتين ميتيو</title>
+    <title lang="en">Bulletin Meteo</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A weather forecast that provides the viewers with the weather conditions highlighting the maximum and minimum temperatures, wind direction and speed, as well as humidity rate.</desc>
+  </programme>
+  <programme start="20140116205000 +0000" stop="20140116210000 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">أبل آه لا بريير</title>
+    <title lang="en">Appel A La Priere</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The program displays the Adhan, which is the Islamic call to prayer, recited by the mu'dhin at prescribed times of the day.</desc>
+  </programme>
+  <programme start="20140116210000 +0000" stop="20140116210200 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">أجندة</title>
+    <title lang="en">Agenda</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The program looks at one key issue that affects a common man and its impact on their lives. It is an attempt to give viewers a real sense of the issues prevailing in the society.</desc>
+  </programme>
+  <programme start="20140116210200 +0000" stop="20140116210900 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">موجز رياضي</title>
+    <title lang="en">Moujaz Reyadi</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A news summary that covers the latest and most important sport news whither they are local or global.</desc>
+  </programme>
+  <programme start="20140116210900 +0000" stop="20140116211500 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">بولتين ميتيو</title>
+    <title lang="en">Bulletin Meteo</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A weather forecast that provides the viewers with the weather conditions highlighting the maximum and minimum temperatures, wind direction and speed, as well as humidity rate.</desc>
+  </programme>
+  <programme start="20140116211500 +0000" stop="20140116213900 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">المسائية</title>
+    <title lang="en">Al Masae'yah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Evening news bulletin.</desc>
+  </programme>
+  <programme start="20140116213900 +0000" stop="20140116223500 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">الخيط الأبيض</title>
+    <title lang="en">Al Khait Al Abiadd</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama narrates the story of Raafat, a journalist, who looks for the truth in his talk show.
+The officials try to stop the program, since it conflicts with their own interests.</desc>
+  </programme>
+  <programme start="20140116223500 +0000" stop="20140116225000 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">الأخبار</title>
+    <title lang="en">Al Akhbar</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">News program highlights the latest and most important local and global news. Also, it features latest news reports from all over the world.</desc>
+  </programme>
+  <programme start="20140116225000 +0000" stop="20140116225600 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">إكونيوز</title>
+    <title lang="en">Econews</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">An economical news bulletin that covers the latest and most important economical news and events highlighting the foreign exchange market and the stock exchange.</desc>
+  </programme>
+  <programme start="20140116225600 +0000" stop="20140116234100 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">2M ماج</title>
+    <title lang="en">2M Mag</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A magazine program that provides the viewers with an overview on cultural events in the country as well as taking a close look at the visual arts, cinemas, music, and literature too.</desc>
+  </programme>
+  <programme start="20140116234100 +0000" stop="20140116234500 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">إكونيوز</title>
+    <title lang="en">Econews</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">An economical news bulletin that covers the latest and most important economical news and events highlighting the foreign exchange market and the stock exchange.</desc>
+  </programme>
+  <programme start="20140116234500 +0000" stop="20140116235300 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">الحكمة فالكلمة</title>
+    <title lang="en">Al Hakma Fal Kalma</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Entertainment-based program.</desc>
+  </programme>
+  <programme start="20140116235300 +0000" stop="20140117003900 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">دموع الرجال</title>
+    <title lang="en">Domou' Arrejal</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama narrates the story of five brothers and sisters and their mother as they struggle over their father's heritage.</desc>
+  </programme>
+  <programme start="20140117003900 +0000" stop="20140117004300 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">إكونيوز</title>
+    <title lang="en">Econews</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">An economical news bulletin that covers the latest and most important economical news and events highlighting the foreign exchange market and the stock exchange.</desc>
+  </programme>
+  <programme start="20140117004300 +0000" stop="20140117012400 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">لي إكسبرت: ميامي</title>
+    <title lang="en">Les Experts: Miami</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">An action drama that follows the cases of the Miami-Dade, Florida police department's Crime Scene Investigations unit.</desc>
+  </programme>
+  <programme start="20140117012400 +0000" stop="20140117025700 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">دكار فاس إكسبرس</title>
+    <title lang="en">Dakar Fas Express</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Reality game show features 8 teams that will set an adventure with the leader Hisham. All the teams have a series of challenges that will allow them to win $ 250,000 DHS.</desc>
+  </programme>
+  <programme start="20140117025700 +0000" stop="20140117043000 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">وات أ وندرفول وورلد</title>
+    <title lang="en">What A Wonderful World</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama movie revolves around an experimental fantasy that explores the connections between karma and death. It follows four lives that unwittingly join a climactic chain.</desc>
+  </programme>
+  <programme start="20140117043000 +0000" stop="20140117051000 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">المكتوب</title>
+    <title lang="en">Al Maktoub</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series narrates the story of a young man and his ambition to achieve his mother's dream to be a successful engineer despite the difficult circumstances.</desc>
+  </programme>
+  <programme start="20140117051000 +0000" stop="20140117055000 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">سامحيني</title>
+    <title lang="en">Samehini</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A social drama about a young deceitful fraudulent thief who is arrested and is put in jail, after being released he decides to become a better person by helping people in need.</desc>
+  </programme>
+  <programme start="20140117055000 +0000" stop="20140117055200 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">أبل آه لا بريير</title>
+    <title lang="en">Appel A La Priere</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The program displays the Adhan, which is the Islamic call to prayer, recited by the mu'dhin at prescribed times of the day.</desc>
+  </programme>
+  <programme start="20140117055200 +0000" stop="20140117060000 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">مواهب في تجويد القرآن الكريم</title>
+    <title lang="en">Mawaheb Fi Tajweed Al Quran Al Kareem</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A religious program that follows the contest of reciting the Holly Quran for girls and boys between 10 and 18 years old.</desc>
+  </programme>
+  <programme start="20140117060000 +0000" stop="20140117063000 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">كيف صنعت</title>
+    <title lang="en">Kaif Ssone'at</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Documentary program shows how common everyday items including foodstuffs like bubblegum, industrial products, like engines, musical instruments, such as guitars, and sporting goods are manufactured.</desc>
+  </programme>
+  <programme start="20140117063000 +0000" stop="20140117073100 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">صباحيات 2M</title>
+    <title lang="en">Sabahiyat 2M</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A morning show provides the viewers with advices that include health, fashion, cooking, decorations, and much more as it hosts health, law, and Psychologist experts to answer the viewers' questions.</desc>
+  </programme>
+  <programme start="20140117073100 +0000" stop="20140117075900 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">إكسيسنتريكس</title>
+    <title lang="en">Exccentriiiks</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Entertainment-based program.</desc>
+  </programme>
+  <programme start="20140117075900 +0000" stop="20140117081300 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">الفهايمية</title>
+    <title lang="en">Lfhaymiya</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sitcom series.</desc>
+  </programme>
+  <programme start="20140117081300 +0000" stop="20140117082200 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">مول الطاكسي</title>
+    <title lang="en">Moul Taxi</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Comedy series narrates the story of Abd Al Khaliq and Abdullah who are taxi drivers and live in Morocco. They face the same career problems together.</desc>
+  </programme>
+  <programme start="20140117082200 +0000" stop="20140117084900 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">لي ماغوكيان دوأميغيك</title>
+    <title lang="en">Les Marocains D'Amerique</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A magazine program about the Moroccans who are living in America.</desc>
+  </programme>
+  <programme start="20140117084900 +0000" stop="20140117091600 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">شهيوات بلادي</title>
+    <title lang="en">Shhiwat Bladi</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A cooking show that takes the viewers to various regions in Morocco to prepare delicious recipes and to highlight the region's most popular productions, which would be used in preparing the recipe.</desc>
+  </programme>
+  <programme start="20140117091600 +0000" stop="20140117092900 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">الوعد</title>
+    <title lang="en">Al Wa'd</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The story revolves around three sisters Rano, Piya and Bani. After their father's death, they come to Mumbai in order to live with the wealthy family of business tycoon, Jai Walia.</desc>
+    <credits>
+      <actor>Ram Kapoor</actor>
+      <actor>Prachi Desai</actor>
+      <actor>Roshni Chopra</actor>
+      <actor>Gurdeep Kohli</actor>
+      <actor>Ashwini Kalsekar</actor>
+    </credits>
+  </programme>
+  <programme start="20140117092900 +0000" stop="20140117101200 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">شهيوات بلادي</title>
+    <title lang="en">Shhiwat Bladi</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A cooking show that takes the viewers to various regions in Morocco to prepare delicious recipes and to highlight the region's most popular productions, which would be used in preparing the recipe.</desc>
+  </programme>
+  <programme start="20140117101200 +0000" stop="20140117103000 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">الحكمة فالكلمة</title>
+    <title lang="en">Al Hakma Fal Kalma</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Entertainment-based program.</desc>
+  </programme>
+  <programme start="20140117103000 +0000" stop="20140117103400 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">صباحيات 2M</title>
+    <title lang="en">Sabahiyat 2M</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A morning show provides the viewers with advices that include health, fashion, cooking, decorations, and much more as it hosts health, law, and Psychologist experts to answer the viewers' questions.</desc>
+  </programme>
+  <programme start="20140117103400 +0000" stop="20140117114500 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">صالون شهرزاد</title>
+    <title lang="en">Salon Shahrazad</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Social drama series narrates the story of a young woman called Ghitah who dose not pay attention to her appearance but finds herself forced to work in a beauty center.</desc>
+  </programme>
+  <programme start="20140117114500 +0000" stop="20140117123000 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">رحلة سالوني</title>
+    <title lang="en">Rihlat Saloni</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama narrates the live story of a young woman called Saloni and shows her courage and strength as she faces her problems.</desc>
+  </programme>
+  <programme start="20140117123000 +0000" stop="20140117124000 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">بولتين ميتيو</title>
+    <title lang="en">Bulletin Meteo</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A weather forecast that provides the viewers with the weather conditions highlighting the maximum and minimum temperatures, wind direction and speed, as well as humidity rate.</desc>
+  </programme>
+  <programme start="20140117124000 +0000" stop="20140117124500 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">الأخبار</title>
+    <title lang="en">Al Akhbar</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">News program highlights the latest and most important local and global news. Also, it features latest news reports from all over the world.</desc>
+  </programme>
+  <programme start="20140117124500 +0000" stop="20140117131100 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">فيرا</title>
+    <title lang="en">Vera</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series.</desc>
+  </programme>
+  <programme start="20140117131100 +0000" stop="20140117132100 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">أبل آه لا بريير</title>
+    <title lang="en">Appel A La Priere</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The program displays the Adhan, which is the Islamic call to prayer, recited by the mu'dhin at prescribed times of the day.</desc>
+  </programme>
+  <programme start="20140117132100 +0000" stop="20140117132300 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">فيرا</title>
+    <title lang="en">Vera</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series.</desc>
+  </programme>
+  <programme start="20140117132300 +0000" stop="20140117135800 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">نشرة الأخبار الأمازيغية</title>
+    <title lang="en">Journal Amazigh</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A news bulletin that displays reports covering the latest news and events taking place in Morocco, displayed in the Amazigh language, which is the mutual language between the North African countries.</desc>
+  </programme>
+  <programme start="20140117135800 +0000" stop="20140117141000 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">دير إيديك 2013</title>
+    <title lang="en">Dir Iddik 2013</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Special report sheds light on the event, Dir Iddik, which is held by Dir Lkhir Tel9ah charity, where a group of young volunteers conduct charitable events and activities.</desc>
+  </programme>
+  <programme start="20140117141000 +0000" stop="20140117141700 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">الحكمة فالكلمة</title>
+    <title lang="en">Al Hakma Fal Kalma</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Entertainment-based program.</desc>
+  </programme>
+  <programme start="20140117141700 +0000" stop="20140117142200 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">ديابلو</title>
+    <title lang="en">Diablo</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Romance drama revolves around Asprinsa, a maid, who has an affair with the house owner's son.
+She becomes pregnant from him, but his family refuses the child.</desc>
+  </programme>
+  <programme start="20140117142200 +0000" stop="20140117160200 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">سلمى</title>
+    <title lang="en">Salma</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series.</desc>
+  </programme>
+  <programme start="20140117160200 +0000" stop="20140117164800 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">أبل آه لا بريير</title>
+    <title lang="en">Appel A La Priere</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The program displays the Adhan, which is the Islamic call to prayer, recited by the mu'dhin at prescribed times of the day.</desc>
+  </programme>
+  <programme start="20140117164800 +0000" stop="20140117165000 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">صالون شهرزاد</title>
+    <title lang="en">Salon Shahrazad</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Social drama series narrates the story of a young woman called Ghitah who dose not pay attention to her appearance but finds herself forced to work in a beauty center.</desc>
+  </programme>
+  <programme start="20140117165000 +0000" stop="20140117171800 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">جست فور لافس</title>
+    <title lang="en">Just for Laughs</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This program features a hidden camera that captures people's reaction after they become unsuspecting subjects of funny pranks.</desc>
+  </programme>
+  <programme start="20140117171800 +0000" stop="20140117174100 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">موهوبون</title>
+    <title lang="en">Mawhouboun</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Mawhouboun is a talent show that roams the country in search of talented children.</desc>
+  </programme>
+  <programme start="20140117174100 +0000" stop="20140117174600 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">كونغ فو باندا</title>
+    <title lang="en">Kung Fu Panda</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Po and the Furious Five, living in the barracks take on the responsibility to fight against the adversaries in the Valley of Peace. Meanwhile, Po ends up learning more about the famous Kung Fu.</desc>
+  </programme>
+  <programme start="20140117174600 +0000" stop="20140117181100 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">شهيوات بلادي</title>
+    <title lang="en">Shhiwat Bladi</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A cooking show that takes the viewers to various regions in Morocco to prepare delicious recipes and to highlight the region's most popular productions, which would be used in preparing the recipe.</desc>
+  </programme>
+  <programme start="20140117181100 +0000" stop="20140117183000 +0000" vps-start="19700101000000 19700101000000" channel="7940">
+    <title lang="ar">المكتوب</title>
+    <title lang="en">Al Maktoub</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series narrates the story of a young man and his ambition to achieve his mother's dream to be a successful engineer despite the difficult circumstances.</desc>
+  </programme>
+</tv>

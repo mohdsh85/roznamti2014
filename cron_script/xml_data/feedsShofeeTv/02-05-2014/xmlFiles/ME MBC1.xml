@@ -1,0 +1,1198 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd"[]>
+<tv generator-info-name="ShooFeeTV listings">
+  <Range>
+    <Start>20140204183000</Start>
+    <End>20140210183000</End>
+  </Range>
+  <channel id="1750">
+    <display-name lang="ar">إم بي سي 1</display-name>
+    <display-name lang="en">ME MBC1</display-name>
+  </channel>
+  <programme start="20140204183000 +0000" stop="20140204190000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">الفلته</title>
+    <title lang="en">Al Faltah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Bu Khalifa knows the folk medicine and treats people with it. knowing that, everyone asks his help to circumcise baby boys, do the cupping and many other things.</desc>
+  </programme>
+  <programme start="20140204190000 +0000" stop="20140204193000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">واي فاي</title>
+    <title lang="en">Wi Fi</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Comedy series presents many subjects derived from the reality of Saudi society in private and Gulf society in general and they are processed in comedy ways.</desc>
+  </programme>
+  <programme start="20140204193000 +0000" stop="20140204200000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">المصاقيل</title>
+    <title lang="en">Al Massaqeil</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Comedy series shows funny sketches about a tribe that lives in the desert cares about its members and cooperates with the people around them.</desc>
+  </programme>
+  <programme start="20140204200000 +0000" stop="20140204210000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">أبو الملايين</title>
+    <title lang="en">Abu Al Malayein</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Comedy series revolves around Ssaqer and his brother Waddah who decide to start a new project, which causes many comical situations.</desc>
+  </programme>
+  <programme start="20140204210000 +0000" stop="20140204220000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">صدى الملاعب</title>
+    <title lang="en">Ssada Al Mala'eb</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sport program covers the latest football matches in the Arab region and around the world.</desc>
+  </programme>
+  <programme start="20140204220000 +0000" stop="20140204230000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">الثامنة</title>
+    <title lang="en">Al Thamenah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Talk show discusses many hot issues and topics related to Saudi society.</desc>
+  </programme>
+  <programme start="20140204230000 +0000" stop="20140205000000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">ويبقى الأمل</title>
+    <title lang="en">Wa Yabqa  Al Amal</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around a beautiful girl who lives a hard life after her father dies and her mother marries another man. The events develop when she meets with a photographer woman.</desc>
+  </programme>
+  <programme start="20140205000000 +0000" stop="20140205010000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">
+    </title>
+    <title lang="en">yasmeen</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140205010000 +0000" stop="20140205020000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">أبو الملايين</title>
+    <title lang="en">Abu Al Malayein</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Comedy series revolves around Ssaqer and his brother Waddah who decide to start a new project, which causes many comical situations.</desc>
+  </programme>
+  <programme start="20140205020000 +0000" stop="20140205024500 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">مطلقات صغيرات</title>
+    <title lang="en">Mottlaqat Ssgherat</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series discusses the phenomenon of early divorce, and looks deeply on divorced women's suffering between society's perception for them and their ability to live with this bitter reality.</desc>
+    <credits>
+      <actor>Mohammad Hussain</actor>
+    </credits>
+  </programme>
+  <programme start="20140205024500 +0000" stop="20140205033000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">الثامنة</title>
+    <title lang="en">Al Thamenah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Talk show discusses many hot issues and topics related to Saudi society.</desc>
+  </programme>
+  <programme start="20140205033000 +0000" stop="20140205041500 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">صدى الملاعب</title>
+    <title lang="en">Ssada Al Mala'eb</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sport program covers the latest football matches in the Arab region and around the world.</desc>
+  </programme>
+  <programme start="20140205041500 +0000" stop="20140205051500 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">سنعود بعد قليل</title>
+    <title lang="en">Sana'od Ba'ad Qalil</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series narrates the story of Dina who lives in Beirut with her children.
+Dina faces many problems, especially when her father returns from Syria for a treatment.</desc>
+    <credits>
+      <actor>A'abed Fahed</actor>
+      <actor>Doraid Lahham</actor>
+      <actor>Qossai Khouli</actor>
+    </credits>
+  </programme>
+  <programme start="20140205051500 +0000" stop="20140205060000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">مطلقات صغيرات</title>
+    <title lang="en">Mottlaqat Ssgherat</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series discusses the phenomenon of early divorce, and looks deeply on divorced women's suffering between society's perception for them and their ability to live with this bitter reality.</desc>
+    <credits>
+      <actor>Mohammad Hussain</actor>
+    </credits>
+  </programme>
+  <programme start="20140205060000 +0000" stop="20140205070000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">ذات</title>
+    <title lang="en">That</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series highlights the situations in Egypt from 1952 to 2011.
+It focuses on neglected women by narrating the story of a woman called That.</desc>
+    <credits>
+      <actor>Nelli Kareem</actor>
+      <actor>Salwa Mohammad A'ali</actor>
+      <actor>Basem Samrah</actor>
+    </credits>
+  </programme>
+  <programme start="20140205070000 +0000" stop="20140205080000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">
+    </title>
+    <title lang="en">yasmeen</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140205080000 +0000" stop="20140205100000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">صباح الخير يا عرب</title>
+    <title lang="en">Ssabah Al Khaer Ya A'arab</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Morning talk show that offers a variety of sections and highlights many life activities and daily sides.</desc>
+  </programme>
+  <programme start="20140205100000 +0000" stop="20140205110000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">ويبقى الأمل</title>
+    <title lang="en">Wa Yabqa  Al Amal</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around a beautiful girl who lives a hard life after her father dies and her mother marries another man. The events develop when she meets with a photographer woman.</desc>
+  </programme>
+  <programme start="20140205110000 +0000" stop="20140205120000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">أبو الملايين</title>
+    <title lang="en">Abu Al Malayein</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Comedy series revolves around Ssaqer and his brother Waddah who decide to start a new project, which causes many comical situations.</desc>
+  </programme>
+  <programme start="20140205120000 +0000" stop="20140205130000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">سنعود بعد قليل</title>
+    <title lang="en">Sana'od Ba'ad Qalil</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series narrates the story of Dina who lives in Beirut with her children.
+Dina faces many problems, especially when her father returns from Syria for a treatment.</desc>
+    <credits>
+      <actor>A'abed Fahed</actor>
+      <actor>Doraid Lahham</actor>
+      <actor>Qossai Khouli</actor>
+    </credits>
+  </programme>
+  <programme start="20140205130000 +0000" stop="20140205140000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">
+    </title>
+    <title lang="en">yasmeen</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140205140000 +0000" stop="20140205150000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">مطلقات صغيرات</title>
+    <title lang="en">Mottlaqat Ssgherat</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series discusses the phenomenon of early divorce, and looks deeply on divorced women's suffering between society's perception for them and their ability to live with this bitter reality.</desc>
+    <credits>
+      <actor>Mohammad Hussain</actor>
+    </credits>
+  </programme>
+  <programme start="20140205150000 +0000" stop="20140205160000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">ذات</title>
+    <title lang="en">That</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series highlights the situations in Egypt from 1952 to 2011.
+It focuses on neglected women by narrating the story of a woman called That.</desc>
+    <credits>
+      <actor>Nelli Kareem</actor>
+      <actor>Salwa Mohammad A'ali</actor>
+      <actor>Basem Samrah</actor>
+    </credits>
+  </programme>
+  <programme start="20140205160000 +0000" stop="20140205170000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">20 دقيقة</title>
+    <title lang="en">20 Daqeeqah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around a love story of a young woman and a man who eventually get married. They live happily together and have two children. The events develop when she is accused of a crime.</desc>
+  </programme>
+  <programme start="20140205170000 +0000" stop="20140205180000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">الثامنة</title>
+    <title lang="en">Al Thamenah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Talk show discusses many hot issues and topics related to Saudi society.</desc>
+  </programme>
+  <programme start="20140205180000 +0000" stop="20140205183000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">نشرة الأخبار</title>
+    <title lang="en">Nashrat Al Akhbar</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">News bulletin that highlights the latest and most important Arab and global news that are provided with latest news reports from all over the world.</desc>
+  </programme>
+  <programme start="20140205183000 +0000" stop="20140205200000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">
+    </title>
+    <title lang="en">Rehlat Asso'oud</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140205200000 +0000" stop="20140205210000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">أبو الملايين</title>
+    <title lang="en">Abu Al Malayein</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Comedy series revolves around Ssaqer and his brother Waddah who decide to start a new project, which causes many comical situations.</desc>
+  </programme>
+  <programme start="20140205210000 +0000" stop="20140205220000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">صدى الملاعب</title>
+    <title lang="en">Ssada Al Mala'eb</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sport program covers the latest football matches in the Arab region and around the world.</desc>
+  </programme>
+  <programme start="20140205220000 +0000" stop="20140205230000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">الثامنة</title>
+    <title lang="en">Al Thamenah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Talk show discusses many hot issues and topics related to Saudi society.</desc>
+  </programme>
+  <programme start="20140205230000 +0000" stop="20140206000000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">20 دقيقة</title>
+    <title lang="en">20 Daqeeqah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around a love story of a young woman and a man who eventually get married. They live happily together and have two children. The events develop when she is accused of a crime.</desc>
+  </programme>
+  <programme start="20140206000000 +0000" stop="20140206010000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">
+    </title>
+    <title lang="en">yasmeen</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140206010000 +0000" stop="20140206020000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">أبو الملايين</title>
+    <title lang="en">Abu Al Malayein</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Comedy series revolves around Ssaqer and his brother Waddah who decide to start a new project, which causes many comical situations.</desc>
+  </programme>
+  <programme start="20140206020000 +0000" stop="20140206024500 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">مطلقات صغيرات</title>
+    <title lang="en">Mottlaqat Ssgherat</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series discusses the phenomenon of early divorce, and looks deeply on divorced women's suffering between society's perception for them and their ability to live with this bitter reality.</desc>
+    <credits>
+      <actor>Mohammad Hussain</actor>
+    </credits>
+  </programme>
+  <programme start="20140206024500 +0000" stop="20140206033000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">الثامنة</title>
+    <title lang="en">Al Thamenah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Talk show discusses many hot issues and topics related to Saudi society.</desc>
+  </programme>
+  <programme start="20140206033000 +0000" stop="20140206041500 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">صدى الملاعب</title>
+    <title lang="en">Ssada Al Mala'eb</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sport program covers the latest football matches in the Arab region and around the world.</desc>
+  </programme>
+  <programme start="20140206041500 +0000" stop="20140206051500 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">سنعود بعد قليل</title>
+    <title lang="en">Sana'od Ba'ad Qalil</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series narrates the story of Dina who lives in Beirut with her children.
+Dina faces many problems, especially when her father returns from Syria for a treatment.</desc>
+    <credits>
+      <actor>A'abed Fahed</actor>
+      <actor>Doraid Lahham</actor>
+      <actor>Qossai Khouli</actor>
+    </credits>
+  </programme>
+  <programme start="20140206051500 +0000" stop="20140206060000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">مطلقات صغيرات</title>
+    <title lang="en">Mottlaqat Ssgherat</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series discusses the phenomenon of early divorce, and looks deeply on divorced women's suffering between society's perception for them and their ability to live with this bitter reality.</desc>
+    <credits>
+      <actor>Mohammad Hussain</actor>
+    </credits>
+  </programme>
+  <programme start="20140206060000 +0000" stop="20140206070000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">ذات</title>
+    <title lang="en">That</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series highlights the situations in Egypt from 1952 to 2011.
+It focuses on neglected women by narrating the story of a woman called That.</desc>
+    <credits>
+      <actor>Nelli Kareem</actor>
+      <actor>Salwa Mohammad A'ali</actor>
+      <actor>Basem Samrah</actor>
+    </credits>
+  </programme>
+  <programme start="20140206070000 +0000" stop="20140206080000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">
+    </title>
+    <title lang="en">yasmeen</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140206080000 +0000" stop="20140206100000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">صباح الخير يا عرب</title>
+    <title lang="en">Ssabah Al Khaer Ya A'arab</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Morning talk show that offers a variety of sections and highlights many life activities and daily sides.</desc>
+  </programme>
+  <programme start="20140206100000 +0000" stop="20140206110000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">20 دقيقة</title>
+    <title lang="en">20 Daqeeqah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around a love story of a young woman and a man who eventually get married. They live happily together and have two children. The events develop when she is accused of a crime.</desc>
+  </programme>
+  <programme start="20140206110000 +0000" stop="20140206120000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">أبو الملايين</title>
+    <title lang="en">Abu Al Malayein</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Comedy series revolves around Ssaqer and his brother Waddah who decide to start a new project, which causes many comical situations.</desc>
+  </programme>
+  <programme start="20140206120000 +0000" stop="20140206130000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">سنعود بعد قليل</title>
+    <title lang="en">Sana'od Ba'ad Qalil</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series narrates the story of Dina who lives in Beirut with her children.
+Dina faces many problems, especially when her father returns from Syria for a treatment.</desc>
+    <credits>
+      <actor>A'abed Fahed</actor>
+      <actor>Doraid Lahham</actor>
+      <actor>Qossai Khouli</actor>
+    </credits>
+  </programme>
+  <programme start="20140206130000 +0000" stop="20140206140000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">
+    </title>
+    <title lang="en">yasmeen</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140206140000 +0000" stop="20140206150000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">مطلقات صغيرات</title>
+    <title lang="en">Mottlaqat Ssgherat</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series discusses the phenomenon of early divorce, and looks deeply on divorced women's suffering between society's perception for them and their ability to live with this bitter reality.</desc>
+    <credits>
+      <actor>Mohammad Hussain</actor>
+    </credits>
+  </programme>
+  <programme start="20140206150000 +0000" stop="20140206160000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">ذات</title>
+    <title lang="en">That</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series highlights the situations in Egypt from 1952 to 2011.
+It focuses on neglected women by narrating the story of a woman called That.</desc>
+    <credits>
+      <actor>Nelli Kareem</actor>
+      <actor>Salwa Mohammad A'ali</actor>
+      <actor>Basem Samrah</actor>
+    </credits>
+  </programme>
+  <programme start="20140206160000 +0000" stop="20140206170000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">20 دقيقة</title>
+    <title lang="en">20 Daqeeqah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around a love story of a young woman and a man who eventually get married. They live happily together and have two children. The events develop when she is accused of a crime.</desc>
+  </programme>
+  <programme start="20140206170000 +0000" stop="20140206180000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">
+    </title>
+    <title lang="en">Bedoun Shak</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140206180000 +0000" stop="20140206183000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">نشرة الأخبار</title>
+    <title lang="en">Nashrat Al Akhbar</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">News bulletin that highlights the latest and most important Arab and global news that are provided with latest news reports from all over the world.</desc>
+  </programme>
+  <programme start="20140206183000 +0000" stop="20140206200000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">جلسات وناسة</title>
+    <title lang="en">Jalsat Wanasah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Art Session includes a large number of the pioneers of original art, witness large number of surprises, especially at the level of the duet between singers participating in the filming.</desc>
+  </programme>
+  <programme start="20140206200000 +0000" stop="20140206210000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">أبو الملايين</title>
+    <title lang="en">Abu Al Malayein</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Comedy series revolves around Ssaqer and his brother Waddah who decide to start a new project, which causes many comical situations.</desc>
+  </programme>
+  <programme start="20140206210000 +0000" stop="20140206220000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">صدى الملاعب</title>
+    <title lang="en">Ssada Al Mala'eb</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sport program covers the latest football matches in the Arab region and around the world.</desc>
+  </programme>
+  <programme start="20140206220000 +0000" stop="20140206230000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">الثامنة</title>
+    <title lang="en">Al Thamenah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Talk show discusses many hot issues and topics related to Saudi society.</desc>
+  </programme>
+  <programme start="20140206230000 +0000" stop="20140206233000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">
+    </title>
+    <title lang="en">yasmeen</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140206233000 +0000" stop="20140207001500 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">
+    </title>
+    <title lang="en">yasmeen</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140207001500 +0000" stop="20140207013000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">
+    </title>
+    <title lang="en">yasmeen</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140207013000 +0000" stop="20140207030000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">سنعود بعد قليل</title>
+    <title lang="en">Sana'od Ba'ad Qalil</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series narrates the story of Dina who lives in Beirut with her children.
+Dina faces many problems, especially when her father returns from Syria for a treatment.</desc>
+    <credits>
+      <actor>A'abed Fahed</actor>
+      <actor>Doraid Lahham</actor>
+      <actor>Qossai Khouli</actor>
+    </credits>
+  </programme>
+  <programme start="20140207030000 +0000" stop="20140207051500 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">أبو الملايين</title>
+    <title lang="en">Abu Al Malayein</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Comedy series revolves around Ssaqer and his brother Waddah who decide to start a new project, which causes many comical situations.</desc>
+  </programme>
+  <programme start="20140207051500 +0000" stop="20140207060000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">صدى الملاعب</title>
+    <title lang="en">Ssada Al Mala'eb</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sport program covers the latest football matches in the Arab region and around the world.</desc>
+  </programme>
+  <programme start="20140207060000 +0000" stop="20140207070000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">
+    </title>
+    <title lang="en">Sub Secrayb</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140207070000 +0000" stop="20140207080000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">التفاح الأخضر</title>
+    <title lang="en">Attoffah Al Akhddar</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Medical program covers family health problems and ways to cure these problems.</desc>
+  </programme>
+  <programme start="20140207080000 +0000" stop="20140207083000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">الصحابة</title>
+    <title lang="en">Assahabah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A religious program.</desc>
+  </programme>
+  <programme start="20140207083000 +0000" stop="20140207084500 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">نساء خالدات</title>
+    <title lang="en">Nesaa Khaledat</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Historical series, in each episode, highlights the biography of a famous religious woman.</desc>
+  </programme>
+  <programme start="20140207084500 +0000" stop="20140207090000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">خواطر</title>
+    <title lang="en">Khawatter</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Charity is the best moral character man can gain.
+
+This is the slogan that the successful media man Ahmed Al Shokairy used for his program.</desc>
+  </programme>
+  <programme start="20140207090000 +0000" stop="20140207100000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">صلاة الجمعة</title>
+    <title lang="en">Ssalat Al Joma'ah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Religious period telecasts Friday prayers. It also shows some readings from Quran, prayers and supplications every Friday.</desc>
+  </programme>
+  <programme start="20140207100000 +0000" stop="20140207110000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">
+    </title>
+    <title lang="en">Bedoun Shak</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140207110000 +0000" stop="20140207130000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">إم بي سي في أسبوع</title>
+    <title lang="en">Mbc Fi Osbou'</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Weekly news program highlights the most important political, economical, sports, social and medical events which takes place in the week.</desc>
+  </programme>
+  <programme start="20140207130000 +0000" stop="20140207144500 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">أحلى صوت</title>
+    <title lang="en">The Voice</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Artistic program aims to discover exceptional musical talents and refine a number of Arab participants, semi-professionals, who have excellent voice that could lead them to stardom and fame.</desc>
+  </programme>
+  <programme start="20140207144500 +0000" stop="20140207160000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">
+    </title>
+    <title lang="en">Rehlat Asso'oud</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140207160000 +0000" stop="20140207170000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">
+    </title>
+    <title lang="en">Sub Secrayb</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140207170000 +0000" stop="20140207180000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">التفاح الأخضر</title>
+    <title lang="en">Attoffah Al Akhddar</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Medical program covers family health problems and ways to cure these problems.</desc>
+  </programme>
+  <programme start="20140207180000 +0000" stop="20140207183000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">نشرة الأخبار</title>
+    <title lang="en">Nashrat Al Akhbar</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">News bulletin that highlights the latest and most important Arab and global news that are provided with latest news reports from all over the world.</desc>
+  </programme>
+  <programme start="20140207183000 +0000" stop="20140207200000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">أحلى صوت</title>
+    <title lang="en">The Voice</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Artistic program aims to discover exceptional musical talents and refine a number of Arab participants, semi-professionals, who have excellent voice that could lead them to stardom and fame.</desc>
+  </programme>
+  <programme start="20140207200000 +0000" stop="20140207210000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">جلسات وناسة</title>
+    <title lang="en">Jalsat Wanasah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Art Session includes a large number of the pioneers of original art, witness large number of surprises, especially at the level of the duet between singers participating in the filming.</desc>
+  </programme>
+  <programme start="20140207210000 +0000" stop="20140207220000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">صدى الملاعب</title>
+    <title lang="en">Ssada Al Mala'eb</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sport program covers the latest football matches in the Arab region and around the world.</desc>
+  </programme>
+  <programme start="20140207220000 +0000" stop="20140207230000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">
+    </title>
+    <title lang="en">Sub Secrayb</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140207230000 +0000" stop="20140208000000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">ذا فويس</title>
+    <title lang="en">The Voice</title>
+    <desc lang="ar">برنامج موسيقي ترفيهي وهو برنامج مسابقات لأجمل صوت يقوم باختياره نخبة من الفنانين</desc>
+    <desc lang="en">An entertainment program of competition among group of people to have the voting of famous singers in choosing the good voice</desc>
+  </programme>
+  <programme start="20140208000000 +0000" stop="20140208020000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">20 دقيقة</title>
+    <title lang="en">20 Daqeeqah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around a love story of a young woman and a man who eventually get married. They live happily together and have two children. The events develop when she is accused of a crime.</desc>
+  </programme>
+  <programme start="20140208020000 +0000" stop="20140208034500 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">تتار رمضان</title>
+    <title lang="en">Tatar Ramadan</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves after the WWII around Ramadan Attatari, a blacksmith, who suffers a lot in his life during his fight for justice.</desc>
+  </programme>
+  <programme start="20140208034500 +0000" stop="20140208051500 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">ويبقى الأمل</title>
+    <title lang="en">Wa Yabqa  Al Amal</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around a beautiful girl who lives a hard life after her father dies and her mother marries another man. The events develop when she meets with a photographer woman.</desc>
+  </programme>
+  <programme start="20140208051500 +0000" stop="20140208060000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">صدى الملاعب</title>
+    <title lang="en">Ssada Al Mala'eb</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sport program covers the latest football matches in the Arab region and around the world.</desc>
+  </programme>
+  <programme start="20140208060000 +0000" stop="20140208064500 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">ستايل</title>
+    <title lang="en">Style</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A program specialized in beauty, it just like a full and comprehensive evidence of all that is fashion trends, hair and accessories.</desc>
+  </programme>
+  <programme start="20140208064500 +0000" stop="20140208080000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">جويل</title>
+    <title lang="en">Joelle</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Fashion program that specialized in design fashion, accessories, and cosmetics.</desc>
+  </programme>
+  <programme start="20140208080000 +0000" stop="20140208090000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">كلام نواعم</title>
+    <title lang="en">Kalam Nawa'em</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Reality social and cultural program about family issues in the Arab world.</desc>
+  </programme>
+  <programme start="20140208090000 +0000" stop="20140208100000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">أحلى صوت</title>
+    <title lang="en">The Voice</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Artistic program aims to discover exceptional musical talents and refine a number of Arab participants, semi-professionals, who have excellent voice that could lead them to stardom and fame.</desc>
+  </programme>
+  <programme start="20140208100000 +0000" stop="20140208110000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">20 دقيقة</title>
+    <title lang="en">20 Daqeeqah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around a love story of a young woman and a man who eventually get married. They live happily together and have two children. The events develop when she is accused of a crime.</desc>
+  </programme>
+  <programme start="20140208110000 +0000" stop="20140208130000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">إم بي سي في أسبوع</title>
+    <title lang="en">Mbc Fi Osbou'</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Weekly news program highlights the most important political, economical, sports, social and medical events which takes place in the week.</desc>
+  </programme>
+  <programme start="20140208130000 +0000" stop="20140208133000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">خواطر</title>
+    <title lang="en">Khawatter</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Charity is the best moral character man can gain.
+
+This is the slogan that the successful media man Ahmed Al Shokairy used for his program.</desc>
+  </programme>
+  <programme start="20140208133000 +0000" stop="20140208150000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">نورت مع أروى</title>
+    <title lang="en">Nawarat Ma' Arwa</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Talk show hosts in each episode five Arab personalities from various fields, to talk about their personal, professional lives and current events that revolve around them.</desc>
+  </programme>
+  <programme start="20140208150000 +0000" stop="20140208160000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">ستايل</title>
+    <title lang="en">Style</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A program specialized in beauty, it just like a full and comprehensive evidence of all that is fashion trends, hair and accessories.</desc>
+  </programme>
+  <programme start="20140208160000 +0000" stop="20140208170000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">تتار رمضان</title>
+    <title lang="en">Tatar Ramadan</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves after the WWII around Ramadan Attatari, a blacksmith, who suffers a lot in his life during his fight for justice.</desc>
+  </programme>
+  <programme start="20140208170000 +0000" stop="20140208180000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">جويل</title>
+    <title lang="en">Joelle</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Fashion program that specialized in design fashion, accessories, and cosmetics.</desc>
+  </programme>
+  <programme start="20140208180000 +0000" stop="20140208180500 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">نشرة الأخبار</title>
+    <title lang="en">Nashrat Al Akhbar</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">News bulletin that highlights the latest and most important Arab and global news that are provided with latest news reports from all over the world.</desc>
+  </programme>
+  <programme start="20140208180500 +0000" stop="20140208183000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">أحلى صوت</title>
+    <title lang="en">The Voice</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Artistic program aims to discover exceptional musical talents and refine a number of Arab participants, semi-professionals, who have excellent voice that could lead them to stardom and fame.</desc>
+  </programme>
+  <programme start="20140208183000 +0000" stop="20140208203000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">أحلى صوت</title>
+    <title lang="en">The Voice</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Artistic program aims to discover exceptional musical talents and refine a number of Arab participants, semi-professionals, who have excellent voice that could lead them to stardom and fame.</desc>
+  </programme>
+  <programme start="20140208203000 +0000" stop="20140208210000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">واي فاي</title>
+    <title lang="en">Wi Fi</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Comedy series presents many subjects derived from the reality of Saudi society in private and Gulf society in general and they are processed in comedy ways.</desc>
+  </programme>
+  <programme start="20140208210000 +0000" stop="20140208220000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">صدى الملاعب</title>
+    <title lang="en">Ssada Al Mala'eb</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sport program covers the latest football matches in the Arab region and around the world.</desc>
+  </programme>
+  <programme start="20140208220000 +0000" stop="20140208234500 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">أحلى صوت</title>
+    <title lang="en">The Voice</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Artistic program aims to discover exceptional musical talents and refine a number of Arab participants, semi-professionals, who have excellent voice that could lead them to stardom and fame.</desc>
+  </programme>
+  <programme start="20140208234500 +0000" stop="20140209003000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">20 دقيقة</title>
+    <title lang="en">20 Daqeeqah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around a love story of a young woman and a man who eventually get married. They live happily together and have two children. The events develop when she is accused of a crime.</desc>
+  </programme>
+  <programme start="20140209003000 +0000" stop="20140209011500 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">تتار رمضان</title>
+    <title lang="en">Tatar Ramadan</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves after the WWII around Ramadan Attatari, a blacksmith, who suffers a lot in his life during his fight for justice.</desc>
+  </programme>
+  <programme start="20140209011500 +0000" stop="20140209020000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">
+    </title>
+    <title lang="en">yasmeen</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140209020000 +0000" stop="20140209024500 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">أبو الملايين</title>
+    <title lang="en">Abu Al Malayein</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Comedy series revolves around Ssaqer and his brother Waddah who decide to start a new project, which causes many comical situations.</desc>
+  </programme>
+  <programme start="20140209024500 +0000" stop="20140209033000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">مطلقات صغيرات</title>
+    <title lang="en">Mottlaqat Ssgherat</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series discusses the phenomenon of early divorce, and looks deeply on divorced women's suffering between society's perception for them and their ability to live with this bitter reality.</desc>
+    <credits>
+      <actor>Mohammad Hussain</actor>
+    </credits>
+  </programme>
+  <programme start="20140209033000 +0000" stop="20140209041500 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">صدى الملاعب</title>
+    <title lang="en">Ssada Al Mala'eb</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sport program covers the latest football matches in the Arab region and around the world.</desc>
+  </programme>
+  <programme start="20140209041500 +0000" stop="20140209051500 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">سنعود بعد قليل</title>
+    <title lang="en">Sana'od Ba'ad Qalil</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series narrates the story of Dina who lives in Beirut with her children.
+Dina faces many problems, especially when her father returns from Syria for a treatment.</desc>
+    <credits>
+      <actor>A'abed Fahed</actor>
+      <actor>Doraid Lahham</actor>
+      <actor>Qossai Khouli</actor>
+    </credits>
+  </programme>
+  <programme start="20140209051500 +0000" stop="20140209060000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">مطلقات صغيرات</title>
+    <title lang="en">Mottlaqat Ssgherat</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series discusses the phenomenon of early divorce, and looks deeply on divorced women's suffering between society's perception for them and their ability to live with this bitter reality.</desc>
+    <credits>
+      <actor>Mohammad Hussain</actor>
+    </credits>
+  </programme>
+  <programme start="20140209060000 +0000" stop="20140209070000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">ذات</title>
+    <title lang="en">That</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series highlights the situations in Egypt from 1952 to 2011.
+It focuses on neglected women by narrating the story of a woman called That.</desc>
+    <credits>
+      <actor>Nelli Kareem</actor>
+      <actor>Salwa Mohammad A'ali</actor>
+      <actor>Basem Samrah</actor>
+    </credits>
+  </programme>
+  <programme start="20140209070000 +0000" stop="20140209080000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">
+    </title>
+    <title lang="en">yasmeen</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140209080000 +0000" stop="20140209100000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">صباح الخير يا عرب</title>
+    <title lang="en">Ssabah Al Khaer Ya A'arab</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Morning talk show that offers a variety of sections and highlights many life activities and daily sides.</desc>
+  </programme>
+  <programme start="20140209100000 +0000" stop="20140209110000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">تتار رمضان</title>
+    <title lang="en">Tatar Ramadan</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves after the WWII around Ramadan Attatari, a blacksmith, who suffers a lot in his life during his fight for justice.</desc>
+  </programme>
+  <programme start="20140209110000 +0000" stop="20140209120000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">أبو الملايين</title>
+    <title lang="en">Abu Al Malayein</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Comedy series revolves around Ssaqer and his brother Waddah who decide to start a new project, which causes many comical situations.</desc>
+  </programme>
+  <programme start="20140209120000 +0000" stop="20140209130000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">سنعود بعد قليل</title>
+    <title lang="en">Sana'od Ba'ad Qalil</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series narrates the story of Dina who lives in Beirut with her children.
+Dina faces many problems, especially when her father returns from Syria for a treatment.</desc>
+    <credits>
+      <actor>A'abed Fahed</actor>
+      <actor>Doraid Lahham</actor>
+      <actor>Qossai Khouli</actor>
+    </credits>
+  </programme>
+  <programme start="20140209130000 +0000" stop="20140209140000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">
+    </title>
+    <title lang="en">yasmeen</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140209140000 +0000" stop="20140209150000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">مطلقات صغيرات</title>
+    <title lang="en">Mottlaqat Ssgherat</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series discusses the phenomenon of early divorce, and looks deeply on divorced women's suffering between society's perception for them and their ability to live with this bitter reality.</desc>
+    <credits>
+      <actor>Mohammad Hussain</actor>
+    </credits>
+  </programme>
+  <programme start="20140209150000 +0000" stop="20140209160000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">ذات</title>
+    <title lang="en">That</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series highlights the situations in Egypt from 1952 to 2011.
+It focuses on neglected women by narrating the story of a woman called That.</desc>
+    <credits>
+      <actor>Nelli Kareem</actor>
+      <actor>Salwa Mohammad A'ali</actor>
+      <actor>Basem Samrah</actor>
+    </credits>
+  </programme>
+  <programme start="20140209160000 +0000" stop="20140209170000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">تتار رمضان</title>
+    <title lang="en">Tatar Ramadan</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves after the WWII around Ramadan Attatari, a blacksmith, who suffers a lot in his life during his fight for justice.</desc>
+  </programme>
+  <programme start="20140209170000 +0000" stop="20140209180000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">الثامنة</title>
+    <title lang="en">Al Thamenah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Talk show discusses many hot issues and topics related to Saudi society.</desc>
+  </programme>
+  <programme start="20140209180000 +0000" stop="20140209183000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">نشرة الأخبار</title>
+    <title lang="en">Nashrat Al Akhbar</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">News bulletin that highlights the latest and most important Arab and global news that are provided with latest news reports from all over the world.</desc>
+  </programme>
+  <programme start="20140209183000 +0000" stop="20140209200000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">كلام نواعم</title>
+    <title lang="en">Kalam Nawa'em</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Reality social and cultural program about family issues in the Arab world.</desc>
+  </programme>
+  <programme start="20140209200000 +0000" stop="20140209210000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">أبو الملايين</title>
+    <title lang="en">Abu Al Malayein</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Comedy series revolves around Ssaqer and his brother Waddah who decide to start a new project, which causes many comical situations.</desc>
+  </programme>
+  <programme start="20140209210000 +0000" stop="20140209220000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">صدى الملاعب</title>
+    <title lang="en">Ssada Al Mala'eb</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sport program covers the latest football matches in the Arab region and around the world.</desc>
+  </programme>
+  <programme start="20140209220000 +0000" stop="20140209230000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">الثامنة</title>
+    <title lang="en">Al Thamenah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Talk show discusses many hot issues and topics related to Saudi society.</desc>
+  </programme>
+  <programme start="20140209230000 +0000" stop="20140210000000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">تتار رمضان</title>
+    <title lang="en">Tatar Ramadan</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves after the WWII around Ramadan Attatari, a blacksmith, who suffers a lot in his life during his fight for justice.</desc>
+  </programme>
+  <programme start="20140210000000 +0000" stop="20140210010000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">
+    </title>
+    <title lang="en">yasmeen</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140210010000 +0000" stop="20140210020000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">أبو الملايين</title>
+    <title lang="en">Abu Al Malayein</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Comedy series revolves around Ssaqer and his brother Waddah who decide to start a new project, which causes many comical situations.</desc>
+  </programme>
+  <programme start="20140210020000 +0000" stop="20140210024500 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">مطلقات صغيرات</title>
+    <title lang="en">Mottlaqat Ssgherat</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series discusses the phenomenon of early divorce, and looks deeply on divorced women's suffering between society's perception for them and their ability to live with this bitter reality.</desc>
+    <credits>
+      <actor>Mohammad Hussain</actor>
+    </credits>
+  </programme>
+  <programme start="20140210024500 +0000" stop="20140210033000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">الثامنة</title>
+    <title lang="en">Al Thamenah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Talk show discusses many hot issues and topics related to Saudi society.</desc>
+  </programme>
+  <programme start="20140210033000 +0000" stop="20140210041500 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">صدى الملاعب</title>
+    <title lang="en">Ssada Al Mala'eb</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sport program covers the latest football matches in the Arab region and around the world.</desc>
+  </programme>
+  <programme start="20140210041500 +0000" stop="20140210051500 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">سنعود بعد قليل</title>
+    <title lang="en">Sana'od Ba'ad Qalil</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series narrates the story of Dina who lives in Beirut with her children.
+Dina faces many problems, especially when her father returns from Syria for a treatment.</desc>
+    <credits>
+      <actor>A'abed Fahed</actor>
+      <actor>Doraid Lahham</actor>
+      <actor>Qossai Khouli</actor>
+    </credits>
+  </programme>
+  <programme start="20140210051500 +0000" stop="20140210060000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">مطلقات صغيرات</title>
+    <title lang="en">Mottlaqat Ssgherat</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series discusses the phenomenon of early divorce, and looks deeply on divorced women's suffering between society's perception for them and their ability to live with this bitter reality.</desc>
+    <credits>
+      <actor>Mohammad Hussain</actor>
+    </credits>
+  </programme>
+  <programme start="20140210060000 +0000" stop="20140210070000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">ذات</title>
+    <title lang="en">That</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series highlights the situations in Egypt from 1952 to 2011.
+It focuses on neglected women by narrating the story of a woman called That.</desc>
+    <credits>
+      <actor>Nelli Kareem</actor>
+      <actor>Salwa Mohammad A'ali</actor>
+      <actor>Basem Samrah</actor>
+    </credits>
+  </programme>
+  <programme start="20140210070000 +0000" stop="20140210080000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">
+    </title>
+    <title lang="en">yasmeen</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140210080000 +0000" stop="20140210100000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">صباح الخير يا عرب</title>
+    <title lang="en">Ssabah Al Khaer Ya A'arab</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Morning talk show that offers a variety of sections and highlights many life activities and daily sides.</desc>
+  </programme>
+  <programme start="20140210100000 +0000" stop="20140210110000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">تتار رمضان</title>
+    <title lang="en">Tatar Ramadan</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves after the WWII around Ramadan Attatari, a blacksmith, who suffers a lot in his life during his fight for justice.</desc>
+  </programme>
+  <programme start="20140210110000 +0000" stop="20140210120000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">أبو الملايين</title>
+    <title lang="en">Abu Al Malayein</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Comedy series revolves around Ssaqer and his brother Waddah who decide to start a new project, which causes many comical situations.</desc>
+  </programme>
+  <programme start="20140210120000 +0000" stop="20140210130000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">سنعود بعد قليل</title>
+    <title lang="en">Sana'od Ba'ad Qalil</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series narrates the story of Dina who lives in Beirut with her children.
+Dina faces many problems, especially when her father returns from Syria for a treatment.</desc>
+    <credits>
+      <actor>A'abed Fahed</actor>
+      <actor>Doraid Lahham</actor>
+      <actor>Qossai Khouli</actor>
+    </credits>
+  </programme>
+  <programme start="20140210130000 +0000" stop="20140210140000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">
+    </title>
+    <title lang="en">yasmeen</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140210140000 +0000" stop="20140210150000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">مطلقات صغيرات</title>
+    <title lang="en">Mottlaqat Ssgherat</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series discusses the phenomenon of early divorce, and looks deeply on divorced women's suffering between society's perception for them and their ability to live with this bitter reality.</desc>
+    <credits>
+      <actor>Mohammad Hussain</actor>
+    </credits>
+  </programme>
+  <programme start="20140210150000 +0000" stop="20140210160000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">ذات</title>
+    <title lang="en">That</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series highlights the situations in Egypt from 1952 to 2011.
+It focuses on neglected women by narrating the story of a woman called That.</desc>
+    <credits>
+      <actor>Nelli Kareem</actor>
+      <actor>Salwa Mohammad A'ali</actor>
+      <actor>Basem Samrah</actor>
+    </credits>
+  </programme>
+  <programme start="20140210160000 +0000" stop="20140210170000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">ويبقى الأمل</title>
+    <title lang="en">Wa Yabqa  Al Amal</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around a beautiful girl who lives a hard life after her father dies and her mother marries another man. The events develop when she meets with a photographer woman.</desc>
+  </programme>
+  <programme start="20140210170000 +0000" stop="20140210180000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">الثامنة</title>
+    <title lang="en">Al Thamenah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Talk show discusses many hot issues and topics related to Saudi society.</desc>
+  </programme>
+  <programme start="20140210180000 +0000" stop="20140210183000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">نشرة الأخبار</title>
+    <title lang="en">Nashrat Al Akhbar</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">News bulletin that highlights the latest and most important Arab and global news that are provided with latest news reports from all over the world.</desc>
+  </programme>
+</tv>

@@ -1,0 +1,50 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title><?=$lang->domain_name?></title>
+    <meta name="Keywords" content="quran, readers, record your voice , قرءان , قارئ , سجل القرءان بصوتك , منافسة , جوائز ">
+
+	<link rel="stylesheet" href="css/style.css" type="text/css">
+	<link rel="stylesheet" href="css/ion.tabs.skinFlat.css" type="text/css">
+	<link rel="stylesheet" href="css/ion.tabs.css" type="text/css">
+  <script type="text/javascript" src="js/vendor/jquery-1.10.2.min.js" language="javascript1.5" ></script>
+   <!--       <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>-->
+
+    <script type="text/javascript" src="js/ion-tabs/ion.tabs.js" language="javascript1.5" ></script>
+    <script type="text/javascript" src="js/ion-tabs/ion.tabs.min.js" language="javascript1.5" ></script>
+    <script type="text/javascript" src="js/js.js" language="javascript1.5" ></script>
+	<!--<script src="script.js"></script>-->
+   <link rel="shortcut icon" href="images/logo.ico">
+    <meta property="og:image" content="<?=sitePathForLogin?>images/logoFbSmall.png" />
+	<meta property="og:title" content="<?=$lang->domain_name?>" />
+	<meta property="og:description" content="<?=$lang->domain_name?>" />
+</head>
+<div id="displayData" class="displayData"></div>
+<body  id="body">
+	<div id="header">
+    	<div class="logo"></div>
+	</div>
+   
+   
+	<div id="adbox">
+		<div class="clearfix">
+            <div style="width:100%;float:left">
+				 <?=$nonLoggedBox?>
+			</div>
+		</div>
+	</div>
+	<div id="contents" style="display:none">
+		<div id="tagline" class="clearfix">
+			        	<?=$lang->qr_message_lang?>
+		</div>
+	</div>
+	<div id="footer">
+
+		<?=$footer?>
+	</div>
+</body>
+</html>
+<script type="text/javascript">
+$.ionTabs("#tabs_1"); 
+</script>

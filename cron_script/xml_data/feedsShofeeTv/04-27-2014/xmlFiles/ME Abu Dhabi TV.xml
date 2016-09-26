@@ -1,0 +1,1295 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd"[]>
+<tv generator-info-name="ShooFeeTV listings">
+  <Range>
+    <Start>20140111183000</Start>
+    <End>20140117183000</End>
+  </Range>
+  <channel id="9710">
+    <display-name lang="ar">ME Abu Dhabi TV</display-name>
+    <display-name lang="en">ME Abu Dhabi TV</display-name>
+  </channel>
+  <programme start="20140111183000 +0000" stop="20140111200000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">الشبح</title>
+    <title lang="en">Ashabah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama thriller movie about a young man who loses his memory and is doing his best to find anything related to his past, which puts him in deep troubles.</desc>
+    <credits>
+      <actor>Ahmad E'ez</actor>
+      <actor>Mahmoud Abd Al Moghni</actor>
+      <actor>Ssalah Abd Allah</actor>
+    </credits>
+  </programme>
+  <programme start="20140111200000 +0000" stop="20140111210000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">وطن حاف</title>
+    <title lang="en">Wattan Haf</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series highlights the current situations in the Arab world and deals with different social and political events and issues.</desc>
+    <credits>
+      <actor>Mohammad Hadaqi</actor>
+      <actor>Andreh Skaf</actor>
+    </credits>
+  </programme>
+  <programme start="20140111210000 +0000" stop="20140111220000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">هو</title>
+    <title lang="en">Howa</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Magazine program features various issues faced by men.</desc>
+  </programme>
+  <programme start="20140111220000 +0000" stop="20140111230000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">ذا نيت بيركوس شو</title>
+    <title lang="en">The Nate Berkus Show</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A daily talk show hosted by interior designer Nate Berkus and is centered on entertainment and lifestyle stories.</desc>
+  </programme>
+  <programme start="20140111230000 +0000" stop="20140112000000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">نارين</title>
+    <title lang="en">Narin</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series about a wealthy family whose members rule the village they live in with their own rules that serve their interests.</desc>
+  </programme>
+  <programme start="20140112000000 +0000" stop="20140112010000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">علوم الدار</title>
+    <title lang="en">O'loum Addar</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">News Bulletin highlights the most important news, events, and local coverage in all parts of the UAE.</desc>
+  </programme>
+  <programme start="20140112010000 +0000" stop="20140112020000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">وطن حاف</title>
+    <title lang="en">Wattan Haf</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series highlights the current situations in the Arab world and deals with different social and political events and issues.</desc>
+    <credits>
+      <actor>Mohammad Hadaqi</actor>
+      <actor>Andreh Skaf</actor>
+    </credits>
+  </programme>
+  <programme start="20140112020000 +0000" stop="20140112030000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">هو</title>
+    <title lang="en">Howa</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Magazine program features various issues faced by men.</desc>
+  </programme>
+  <programme start="20140112030000 +0000" stop="20140112040000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">بنات العيلة</title>
+    <title lang="en">Banat Al A'ayleh</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama narrates the story of a group of beautiful women, who are relatives and friends.
+It highlights the problems and issues that face women from different cultural and religious background.</desc>
+    <credits>
+      <actor>Basem Yakhour</actor>
+      <actor>Deema Qandalaft</actor>
+      <actor>Jalal Shammoutt</actor>
+    </credits>
+  </programme>
+  <programme start="20140112040000 +0000" stop="20140112050000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">ذا نيت بيركوس شو</title>
+    <title lang="en">The Nate Berkus Show</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A daily talk show hosted by interior designer Nate Berkus and is centered on entertainment and lifestyle stories.</desc>
+  </programme>
+  <programme start="20140112050000 +0000" stop="20140112070000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">الشبح</title>
+    <title lang="en">Ashabah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama thriller movie about a young man who loses his memory and is doing his best to find anything related to his past, which puts him in deep troubles.</desc>
+    <credits>
+      <actor>Ahmad E'ez</actor>
+      <actor>Mahmoud Abd Al Moghni</actor>
+      <actor>Ssalah Abd Allah</actor>
+    </credits>
+  </programme>
+  <programme start="20140112070000 +0000" stop="20140112080000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">أوكسيجين</title>
+    <title lang="en">Oxygen</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Health-based program features information and advice revolves around physical and mental health.</desc>
+  </programme>
+  <programme start="20140112080000 +0000" stop="20140112090000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">مطبخ منال العالم</title>
+    <title lang="en">Matbakh Manal Al A'alem</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Cooking program presents many delicious dishes from the whole world in a new innovative way.</desc>
+  </programme>
+  <programme start="20140112090000 +0000" stop="20140112100000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">بنات العيلة</title>
+    <title lang="en">Banat Al A'ayleh</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama narrates the story of a group of beautiful women, who are relatives and friends.
+It highlights the problems and issues that face women from different cultural and religious background.</desc>
+    <credits>
+      <actor>Basem Yakhour</actor>
+      <actor>Deema Qandalaft</actor>
+      <actor>Jalal Shammoutt</actor>
+    </credits>
+  </programme>
+  <programme start="20140112100000 +0000" stop="20140112110000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">وطن حاف</title>
+    <title lang="en">Wattan Haf</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series highlights the current situations in the Arab world and deals with different social and political events and issues.</desc>
+    <credits>
+      <actor>Mohammad Hadaqi</actor>
+      <actor>Andreh Skaf</actor>
+    </credits>
+  </programme>
+  <programme start="20140112110000 +0000" stop="20140112120000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">ذا نيت بيركوس شو</title>
+    <title lang="en">The Nate Berkus Show</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A daily talk show hosted by interior designer Nate Berkus and is centered on entertainment and lifestyle stories.</desc>
+  </programme>
+  <programme start="20140112120000 +0000" stop="20140112140000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">الشبح</title>
+    <title lang="en">Ashabah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama thriller movie about a young man who loses his memory and is doing his best to find anything related to his past, which puts him in deep troubles.</desc>
+    <credits>
+      <actor>Ahmad E'ez</actor>
+      <actor>Mahmoud Abd Al Moghni</actor>
+      <actor>Ssalah Abd Allah</actor>
+    </credits>
+  </programme>
+  <programme start="20140112140000 +0000" stop="20140112150000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">هو</title>
+    <title lang="en">Howa</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Magazine program features various issues faced by men.</desc>
+  </programme>
+  <programme start="20140112150000 +0000" stop="20140112160000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">فرعون</title>
+    <title lang="en">Fer'awn</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Fer'awn who faces a lot of problems to reach the pinnacle of success, highlighting those who try to destroy him.</desc>
+    <credits>
+      <actor>Khaled Ssaleh</actor>
+      <actor>Jomana Morad</actor>
+      <actor>Abd Al Hakeem Qttayfan</actor>
+    </credits>
+  </programme>
+  <programme start="20140112160000 +0000" stop="20140112170000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">علوم الدار</title>
+    <title lang="en">O'loum Addar</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">News Bulletin highlights the most important news, events, and local coverage in all parts of the UAE.</desc>
+  </programme>
+  <programme start="20140112170000 +0000" stop="20140112180000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">نارين</title>
+    <title lang="en">Narin</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series about a wealthy family whose members rule the village they live in with their own rules that serve their interests.</desc>
+  </programme>
+  <programme start="20140112180000 +0000" stop="20140112183000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">زين</title>
+    <title lang="en">Zain</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Zain who returns to her family after her father's death, and tries to manage his bankrupt company.</desc>
+    <credits>
+      <actor>Sseba Mobarak</actor>
+      <actor>Qais Asheikh Najeeb</actor>
+    </credits>
+  </programme>
+  <programme start="20140112183000 +0000" stop="20140112190000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">زين</title>
+    <title lang="en">Zain</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Zain who returns to her family after her father's death, and tries to manage his bankrupt company.</desc>
+    <credits>
+      <actor>Sseba Mobarak</actor>
+      <actor>Qais Asheikh Najeeb</actor>
+    </credits>
+  </programme>
+  <programme start="20140112190000 +0000" stop="20140112200000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">إلين اليوم</title>
+    <title lang="en">Elain Al Yaum</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around the social problems of Arab women, in terms of injustice and male dominance. It narrates the story of Eman who loves her kind teacher.</desc>
+  </programme>
+  <programme start="20140112200000 +0000" stop="20140112210000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">الأول</title>
+    <title lang="en">El elegido</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around an ambitious lawyer whose life turns upside down when he travels to Spain and meets an ideal lawyer.
+He does his best to win a case against the lawyer.</desc>
+  </programme>
+  <programme start="20140112210000 +0000" stop="20140112220000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">نارين</title>
+    <title lang="en">Narin</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series about a wealthy family whose members rule the village they live in with their own rules that serve their interests.</desc>
+  </programme>
+  <programme start="20140112220000 +0000" stop="20140112230000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">فرعون</title>
+    <title lang="en">Fer'awn</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Fer'awn who faces a lot of problems to reach the pinnacle of success, highlighting those who try to destroy him.</desc>
+    <credits>
+      <actor>Khaled Ssaleh</actor>
+      <actor>Jomana Morad</actor>
+      <actor>Abd Al Hakeem Qttayfan</actor>
+    </credits>
+  </programme>
+  <programme start="20140112230000 +0000" stop="20140113000000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">زين</title>
+    <title lang="en">Zain</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Zain who returns to her family after her father's death, and tries to manage his bankrupt company.</desc>
+    <credits>
+      <actor>Sseba Mobarak</actor>
+      <actor>Qais Asheikh Najeeb</actor>
+    </credits>
+  </programme>
+  <programme start="20140113000000 +0000" stop="20140113010000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">علوم الدار</title>
+    <title lang="en">O'loum Addar</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">News Bulletin highlights the most important news, events, and local coverage in all parts of the UAE.</desc>
+  </programme>
+  <programme start="20140113010000 +0000" stop="20140113020000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">إلين اليوم</title>
+    <title lang="en">Elain Al Yaum</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around the social problems of Arab women, in terms of injustice and male dominance. It narrates the story of Eman who loves her kind teacher.</desc>
+  </programme>
+  <programme start="20140113020000 +0000" stop="20140113030000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">الأول</title>
+    <title lang="en">El elegido</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around an ambitious lawyer whose life turns upside down when he travels to Spain and meets an ideal lawyer.
+He does his best to win a case against the lawyer.</desc>
+  </programme>
+  <programme start="20140113030000 +0000" stop="20140113040000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">بنات العيلة</title>
+    <title lang="en">Banat Al A'ayleh</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama narrates the story of a group of beautiful women, who are relatives and friends.
+It highlights the problems and issues that face women from different cultural and religious background.</desc>
+    <credits>
+      <actor>Basem Yakhour</actor>
+      <actor>Deema Qandalaft</actor>
+      <actor>Jalal Shammoutt</actor>
+    </credits>
+  </programme>
+  <programme start="20140113040000 +0000" stop="20140113050000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">فرعون</title>
+    <title lang="en">Fer'awn</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Fer'awn who faces a lot of problems to reach the pinnacle of success, highlighting those who try to destroy him.</desc>
+    <credits>
+      <actor>Khaled Ssaleh</actor>
+      <actor>Jomana Morad</actor>
+      <actor>Abd Al Hakeem Qttayfan</actor>
+    </credits>
+  </programme>
+  <programme start="20140113050000 +0000" stop="20140113060000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">زين</title>
+    <title lang="en">Zain</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Zain who returns to her family after her father's death, and tries to manage his bankrupt company.</desc>
+    <credits>
+      <actor>Sseba Mobarak</actor>
+      <actor>Qais Asheikh Najeeb</actor>
+    </credits>
+  </programme>
+  <programme start="20140113060000 +0000" stop="20140113070000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">الأول</title>
+    <title lang="en">El elegido</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around an ambitious lawyer whose life turns upside down when he travels to Spain and meets an ideal lawyer.
+He does his best to win a case against the lawyer.</desc>
+  </programme>
+  <programme start="20140113070000 +0000" stop="20140113080000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">إلين اليوم</title>
+    <title lang="en">Elain Al Yaum</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around the social problems of Arab women, in terms of injustice and male dominance. It narrates the story of Eman who loves her kind teacher.</desc>
+  </programme>
+  <programme start="20140113080000 +0000" stop="20140113090000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">سراريد خلود</title>
+    <title lang="en">Sararied Khulud</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Cooking program highlights dishes from the whole world especially the Emirati traditional dishes. It also presents ideas to serve food in the feasts and ceremonies.</desc>
+  </programme>
+  <programme start="20140113090000 +0000" stop="20140113100000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">بنات العيلة</title>
+    <title lang="en">Banat Al A'ayleh</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama narrates the story of a group of beautiful women, who are relatives and friends.
+It highlights the problems and issues that face women from different cultural and religious background.</desc>
+    <credits>
+      <actor>Basem Yakhour</actor>
+      <actor>Deema Qandalaft</actor>
+      <actor>Jalal Shammoutt</actor>
+    </credits>
+  </programme>
+  <programme start="20140113100000 +0000" stop="20140113110000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">فرعون</title>
+    <title lang="en">Fer'awn</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Fer'awn who faces a lot of problems to reach the pinnacle of success, highlighting those who try to destroy him.</desc>
+    <credits>
+      <actor>Khaled Ssaleh</actor>
+      <actor>Jomana Morad</actor>
+      <actor>Abd Al Hakeem Qttayfan</actor>
+    </credits>
+  </programme>
+  <programme start="20140113110000 +0000" stop="20140113120000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">نارين</title>
+    <title lang="en">Narin</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series about a wealthy family whose members rule the village they live in with their own rules that serve their interests.</desc>
+  </programme>
+  <programme start="20140113120000 +0000" stop="20140113130000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">زين</title>
+    <title lang="en">Zain</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Zain who returns to her family after her father's death, and tries to manage his bankrupt company.</desc>
+    <credits>
+      <actor>Sseba Mobarak</actor>
+      <actor>Qais Asheikh Najeeb</actor>
+    </credits>
+  </programme>
+  <programme start="20140113130000 +0000" stop="20140113140000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">إلين اليوم</title>
+    <title lang="en">Elain Al Yaum</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around the social problems of Arab women, in terms of injustice and male dominance. It narrates the story of Eman who loves her kind teacher.</desc>
+  </programme>
+  <programme start="20140113140000 +0000" stop="20140113150000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">الأول</title>
+    <title lang="en">El elegido</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around an ambitious lawyer whose life turns upside down when he travels to Spain and meets an ideal lawyer.
+He does his best to win a case against the lawyer.</desc>
+  </programme>
+  <programme start="20140113150000 +0000" stop="20140113160000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">فرعون</title>
+    <title lang="en">Fer'awn</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Fer'awn who faces a lot of problems to reach the pinnacle of success, highlighting those who try to destroy him.</desc>
+    <credits>
+      <actor>Khaled Ssaleh</actor>
+      <actor>Jomana Morad</actor>
+      <actor>Abd Al Hakeem Qttayfan</actor>
+    </credits>
+  </programme>
+  <programme start="20140113160000 +0000" stop="20140113170000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">علوم الدار</title>
+    <title lang="en">O'loum Addar</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">News Bulletin highlights the most important news, events, and local coverage in all parts of the UAE.</desc>
+  </programme>
+  <programme start="20140113170000 +0000" stop="20140113180000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">أوكسيجين</title>
+    <title lang="en">Oxygen</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Health-based program features information and advice revolves around physical and mental health.</desc>
+  </programme>
+  <programme start="20140113180000 +0000" stop="20140113183000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">زين</title>
+    <title lang="en">Zain</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Zain who returns to her family after her father's death, and tries to manage his bankrupt company.</desc>
+    <credits>
+      <actor>Sseba Mobarak</actor>
+      <actor>Qais Asheikh Najeeb</actor>
+    </credits>
+  </programme>
+  <programme start="20140113183000 +0000" stop="20140113190000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">زين</title>
+    <title lang="en">Zain</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Zain who returns to her family after her father's death, and tries to manage his bankrupt company.</desc>
+    <credits>
+      <actor>Sseba Mobarak</actor>
+      <actor>Qais Asheikh Najeeb</actor>
+    </credits>
+  </programme>
+  <programme start="20140113190000 +0000" stop="20140113200000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">إلين اليوم</title>
+    <title lang="en">Elain Al Yaum</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around the social problems of Arab women, in terms of injustice and male dominance. It narrates the story of Eman who loves her kind teacher.</desc>
+  </programme>
+  <programme start="20140113200000 +0000" stop="20140113210000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">الأول</title>
+    <title lang="en">El elegido</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around an ambitious lawyer whose life turns upside down when he travels to Spain and meets an ideal lawyer.
+He does his best to win a case against the lawyer.</desc>
+  </programme>
+  <programme start="20140113210000 +0000" stop="20140113220000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">أوكسيجين</title>
+    <title lang="en">Oxygen</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Health-based program features information and advice revolves around physical and mental health.</desc>
+  </programme>
+  <programme start="20140113220000 +0000" stop="20140113230000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">فرعون</title>
+    <title lang="en">Fer'awn</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Fer'awn who faces a lot of problems to reach the pinnacle of success, highlighting those who try to destroy him.</desc>
+    <credits>
+      <actor>Khaled Ssaleh</actor>
+      <actor>Jomana Morad</actor>
+      <actor>Abd Al Hakeem Qttayfan</actor>
+    </credits>
+  </programme>
+  <programme start="20140113230000 +0000" stop="20140114000000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">زين</title>
+    <title lang="en">Zain</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Zain who returns to her family after her father's death, and tries to manage his bankrupt company.</desc>
+    <credits>
+      <actor>Sseba Mobarak</actor>
+      <actor>Qais Asheikh Najeeb</actor>
+    </credits>
+  </programme>
+  <programme start="20140114000000 +0000" stop="20140114010000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">علوم الدار</title>
+    <title lang="en">O'loum Addar</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">News Bulletin highlights the most important news, events, and local coverage in all parts of the UAE.</desc>
+  </programme>
+  <programme start="20140114010000 +0000" stop="20140114020000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">إلين اليوم</title>
+    <title lang="en">Elain Al Yaum</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around the social problems of Arab women, in terms of injustice and male dominance. It narrates the story of Eman who loves her kind teacher.</desc>
+  </programme>
+  <programme start="20140114020000 +0000" stop="20140114030000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">الأول</title>
+    <title lang="en">El elegido</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around an ambitious lawyer whose life turns upside down when he travels to Spain and meets an ideal lawyer.
+He does his best to win a case against the lawyer.</desc>
+  </programme>
+  <programme start="20140114030000 +0000" stop="20140114040000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">المفتاح</title>
+    <title lang="en">Al Muftah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Religious program presented by Aaidh Al Qarni how shows how can get the happiness in easy way.</desc>
+  </programme>
+  <programme start="20140114040000 +0000" stop="20140114050000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">فرعون</title>
+    <title lang="en">Fer'awn</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Fer'awn who faces a lot of problems to reach the pinnacle of success, highlighting those who try to destroy him.</desc>
+    <credits>
+      <actor>Khaled Ssaleh</actor>
+      <actor>Jomana Morad</actor>
+      <actor>Abd Al Hakeem Qttayfan</actor>
+    </credits>
+  </programme>
+  <programme start="20140114050000 +0000" stop="20140114060000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">زين</title>
+    <title lang="en">Zain</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Zain who returns to her family after her father's death, and tries to manage his bankrupt company.</desc>
+    <credits>
+      <actor>Sseba Mobarak</actor>
+      <actor>Qais Asheikh Najeeb</actor>
+    </credits>
+  </programme>
+  <programme start="20140114060000 +0000" stop="20140114070000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">الأول</title>
+    <title lang="en">El elegido</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around an ambitious lawyer whose life turns upside down when he travels to Spain and meets an ideal lawyer.
+He does his best to win a case against the lawyer.</desc>
+  </programme>
+  <programme start="20140114070000 +0000" stop="20140114080000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">إلين اليوم</title>
+    <title lang="en">Elain Al Yaum</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around the social problems of Arab women, in terms of injustice and male dominance. It narrates the story of Eman who loves her kind teacher.</desc>
+  </programme>
+  <programme start="20140114080000 +0000" stop="20140114090000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">مطبخ منال العالم</title>
+    <title lang="en">Matbakh Manal Al A'alem</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Cooking program presents many delicious dishes from the whole world in a new innovative way.</desc>
+  </programme>
+  <programme start="20140114090000 +0000" stop="20140114100000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">المفتاح</title>
+    <title lang="en">Al Muftah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Religious program presented by Aaidh Al Qarni how shows how can get the happiness in easy way.</desc>
+  </programme>
+  <programme start="20140114100000 +0000" stop="20140114110000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">فرعون</title>
+    <title lang="en">Fer'awn</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Fer'awn who faces a lot of problems to reach the pinnacle of success, highlighting those who try to destroy him.</desc>
+    <credits>
+      <actor>Khaled Ssaleh</actor>
+      <actor>Jomana Morad</actor>
+      <actor>Abd Al Hakeem Qttayfan</actor>
+    </credits>
+  </programme>
+  <programme start="20140114110000 +0000" stop="20140114120000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">أوكسيجين</title>
+    <title lang="en">Oxygen</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Health-based program features information and advice revolves around physical and mental health.</desc>
+  </programme>
+  <programme start="20140114120000 +0000" stop="20140114130000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">زين</title>
+    <title lang="en">Zain</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Zain who returns to her family after her father's death, and tries to manage his bankrupt company.</desc>
+    <credits>
+      <actor>Sseba Mobarak</actor>
+      <actor>Qais Asheikh Najeeb</actor>
+    </credits>
+  </programme>
+  <programme start="20140114130000 +0000" stop="20140114140000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">إلين اليوم</title>
+    <title lang="en">Elain Al Yaum</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around the social problems of Arab women, in terms of injustice and male dominance. It narrates the story of Eman who loves her kind teacher.</desc>
+  </programme>
+  <programme start="20140114140000 +0000" stop="20140114150000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">الأول</title>
+    <title lang="en">El elegido</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around an ambitious lawyer whose life turns upside down when he travels to Spain and meets an ideal lawyer.
+He does his best to win a case against the lawyer.</desc>
+  </programme>
+  <programme start="20140114150000 +0000" stop="20140114160000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">فرعون</title>
+    <title lang="en">Fer'awn</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Fer'awn who faces a lot of problems to reach the pinnacle of success, highlighting those who try to destroy him.</desc>
+    <credits>
+      <actor>Khaled Ssaleh</actor>
+      <actor>Jomana Morad</actor>
+      <actor>Abd Al Hakeem Qttayfan</actor>
+    </credits>
+  </programme>
+  <programme start="20140114160000 +0000" stop="20140114170000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">علوم الدار</title>
+    <title lang="en">O'loum Addar</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">News Bulletin highlights the most important news, events, and local coverage in all parts of the UAE.</desc>
+  </programme>
+  <programme start="20140114170000 +0000" stop="20140114180000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">دقيقة بمليون</title>
+    <title lang="en">Daqiqah Be Million</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Game show presented by E'yad Nassar who asks competitors ten questions in one minute and give away prizes.</desc>
+  </programme>
+  <programme start="20140114180000 +0000" stop="20140114183000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">زين</title>
+    <title lang="en">Zain</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Zain who returns to her family after her father's death, and tries to manage his bankrupt company.</desc>
+    <credits>
+      <actor>Sseba Mobarak</actor>
+      <actor>Qais Asheikh Najeeb</actor>
+    </credits>
+  </programme>
+  <programme start="20140114183000 +0000" stop="20140114190000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">زين</title>
+    <title lang="en">Zain</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Zain who returns to her family after her father's death, and tries to manage his bankrupt company.</desc>
+    <credits>
+      <actor>Sseba Mobarak</actor>
+      <actor>Qais Asheikh Najeeb</actor>
+    </credits>
+  </programme>
+  <programme start="20140114190000 +0000" stop="20140114200000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">إلين اليوم</title>
+    <title lang="en">Elain Al Yaum</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around the social problems of Arab women, in terms of injustice and male dominance. It narrates the story of Eman who loves her kind teacher.</desc>
+  </programme>
+  <programme start="20140114200000 +0000" stop="20140114210000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">الأول</title>
+    <title lang="en">El elegido</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around an ambitious lawyer whose life turns upside down when he travels to Spain and meets an ideal lawyer.
+He does his best to win a case against the lawyer.</desc>
+  </programme>
+  <programme start="20140114210000 +0000" stop="20140114220000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">دقيقة بمليون</title>
+    <title lang="en">Daqiqah Be Million</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Game show presented by E'yad Nassar who asks competitors ten questions in one minute and give away prizes.</desc>
+  </programme>
+  <programme start="20140114220000 +0000" stop="20140114230000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">فرعون</title>
+    <title lang="en">Fer'awn</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Fer'awn who faces a lot of problems to reach the pinnacle of success, highlighting those who try to destroy him.</desc>
+    <credits>
+      <actor>Khaled Ssaleh</actor>
+      <actor>Jomana Morad</actor>
+      <actor>Abd Al Hakeem Qttayfan</actor>
+    </credits>
+  </programme>
+  <programme start="20140114230000 +0000" stop="20140115000000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">زين</title>
+    <title lang="en">Zain</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Zain who returns to her family after her father's death, and tries to manage his bankrupt company.</desc>
+    <credits>
+      <actor>Sseba Mobarak</actor>
+      <actor>Qais Asheikh Najeeb</actor>
+    </credits>
+  </programme>
+  <programme start="20140115000000 +0000" stop="20140115010000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">علوم الدار</title>
+    <title lang="en">O'loum Addar</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">News Bulletin highlights the most important news, events, and local coverage in all parts of the UAE.</desc>
+  </programme>
+  <programme start="20140115010000 +0000" stop="20140115020000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">إلين اليوم</title>
+    <title lang="en">Elain Al Yaum</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around the social problems of Arab women, in terms of injustice and male dominance. It narrates the story of Eman who loves her kind teacher.</desc>
+  </programme>
+  <programme start="20140115020000 +0000" stop="20140115040000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">الأول</title>
+    <title lang="en">El elegido</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around an ambitious lawyer whose life turns upside down when he travels to Spain and meets an ideal lawyer.
+He does his best to win a case against the lawyer.</desc>
+  </programme>
+  <programme start="20140115040000 +0000" stop="20140115050000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">فرعون</title>
+    <title lang="en">Fer'awn</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Fer'awn who faces a lot of problems to reach the pinnacle of success, highlighting those who try to destroy him.</desc>
+    <credits>
+      <actor>Khaled Ssaleh</actor>
+      <actor>Jomana Morad</actor>
+      <actor>Abd Al Hakeem Qttayfan</actor>
+    </credits>
+  </programme>
+  <programme start="20140115050000 +0000" stop="20140115060000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">زين</title>
+    <title lang="en">Zain</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Zain who returns to her family after her father's death, and tries to manage his bankrupt company.</desc>
+    <credits>
+      <actor>Sseba Mobarak</actor>
+      <actor>Qais Asheikh Najeeb</actor>
+    </credits>
+  </programme>
+  <programme start="20140115060000 +0000" stop="20140115070000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">الأول</title>
+    <title lang="en">El elegido</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around an ambitious lawyer whose life turns upside down when he travels to Spain and meets an ideal lawyer.
+He does his best to win a case against the lawyer.</desc>
+  </programme>
+  <programme start="20140115070000 +0000" stop="20140115080000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">إلين اليوم</title>
+    <title lang="en">Elain Al Yaum</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around the social problems of Arab women, in terms of injustice and male dominance. It narrates the story of Eman who loves her kind teacher.</desc>
+  </programme>
+  <programme start="20140115080000 +0000" stop="20140115090000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">سراريد خلود</title>
+    <title lang="en">Sararied Khulud</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Cooking program highlights dishes from the whole world especially the Emirati traditional dishes. It also presents ideas to serve food in the feasts and ceremonies.</desc>
+  </programme>
+  <programme start="20140115090000 +0000" stop="20140115100000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">المفتاح</title>
+    <title lang="en">Al Muftah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Religious program presented by Aaidh Al Qarni how shows how can get the happiness in easy way.</desc>
+  </programme>
+  <programme start="20140115100000 +0000" stop="20140115110000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">فرعون</title>
+    <title lang="en">Fer'awn</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Fer'awn who faces a lot of problems to reach the pinnacle of success, highlighting those who try to destroy him.</desc>
+    <credits>
+      <actor>Khaled Ssaleh</actor>
+      <actor>Jomana Morad</actor>
+      <actor>Abd Al Hakeem Qttayfan</actor>
+    </credits>
+  </programme>
+  <programme start="20140115110000 +0000" stop="20140115120000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">دقيقة بمليون</title>
+    <title lang="en">Daqiqah Be Million</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Game show presented by E'yad Nassar who asks competitors ten questions in one minute and give away prizes.</desc>
+  </programme>
+  <programme start="20140115120000 +0000" stop="20140115130000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">زين</title>
+    <title lang="en">Zain</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Zain who returns to her family after her father's death, and tries to manage his bankrupt company.</desc>
+    <credits>
+      <actor>Sseba Mobarak</actor>
+      <actor>Qais Asheikh Najeeb</actor>
+    </credits>
+  </programme>
+  <programme start="20140115130000 +0000" stop="20140115140000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">إلين اليوم</title>
+    <title lang="en">Elain Al Yaum</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around the social problems of Arab women, in terms of injustice and male dominance. It narrates the story of Eman who loves her kind teacher.</desc>
+  </programme>
+  <programme start="20140115140000 +0000" stop="20140115150000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">الأول</title>
+    <title lang="en">El elegido</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around an ambitious lawyer whose life turns upside down when he travels to Spain and meets an ideal lawyer.
+He does his best to win a case against the lawyer.</desc>
+  </programme>
+  <programme start="20140115150000 +0000" stop="20140115160000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">فرعون</title>
+    <title lang="en">Fer'awn</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Fer'awn who faces a lot of problems to reach the pinnacle of success, highlighting those who try to destroy him.</desc>
+    <credits>
+      <actor>Khaled Ssaleh</actor>
+      <actor>Jomana Morad</actor>
+      <actor>Abd Al Hakeem Qttayfan</actor>
+    </credits>
+  </programme>
+  <programme start="20140115160000 +0000" stop="20140115170000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">علوم الدار</title>
+    <title lang="en">O'loum Addar</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">News Bulletin highlights the most important news, events, and local coverage in all parts of the UAE.</desc>
+  </programme>
+  <programme start="20140115170000 +0000" stop="20140115180000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">خطوة</title>
+    <title lang="en">Khoutwa</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Talk show highlights social and psychological problems that face human in his life.</desc>
+  </programme>
+  <programme start="20140115180000 +0000" stop="20140115183000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">زين</title>
+    <title lang="en">Zain</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Zain who returns to her family after her father's death, and tries to manage his bankrupt company.</desc>
+    <credits>
+      <actor>Sseba Mobarak</actor>
+      <actor>Qais Asheikh Najeeb</actor>
+    </credits>
+  </programme>
+  <programme start="20140115183000 +0000" stop="20140115200000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">خطوة</title>
+    <title lang="en">Khoutwa</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Talk show highlights social and psychological problems that face human in his life.</desc>
+  </programme>
+  <programme start="20140115200000 +0000" stop="20140115210000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">الأول</title>
+    <title lang="en">El elegido</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around an ambitious lawyer whose life turns upside down when he travels to Spain and meets an ideal lawyer.
+He does his best to win a case against the lawyer.</desc>
+  </programme>
+  <programme start="20140115210000 +0000" stop="20140115220000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">خطوة</title>
+    <title lang="en">Khoutwa</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Talk show highlights social and psychological problems that face human in his life.</desc>
+  </programme>
+  <programme start="20140115220000 +0000" stop="20140115230000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">فرعون</title>
+    <title lang="en">Fer'awn</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Fer'awn who faces a lot of problems to reach the pinnacle of success, highlighting those who try to destroy him.</desc>
+    <credits>
+      <actor>Khaled Ssaleh</actor>
+      <actor>Jomana Morad</actor>
+      <actor>Abd Al Hakeem Qttayfan</actor>
+    </credits>
+  </programme>
+  <programme start="20140115230000 +0000" stop="20140116000000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">زين</title>
+    <title lang="en">Zain</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Zain who returns to her family after her father's death, and tries to manage his bankrupt company.</desc>
+    <credits>
+      <actor>Sseba Mobarak</actor>
+      <actor>Qais Asheikh Najeeb</actor>
+    </credits>
+  </programme>
+  <programme start="20140116000000 +0000" stop="20140116010000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">علوم الدار</title>
+    <title lang="en">O'loum Addar</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">News Bulletin highlights the most important news, events, and local coverage in all parts of the UAE.</desc>
+  </programme>
+  <programme start="20140116010000 +0000" stop="20140116020000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">إلين اليوم</title>
+    <title lang="en">Elain Al Yaum</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around the social problems of Arab women, in terms of injustice and male dominance. It narrates the story of Eman who loves her kind teacher.</desc>
+  </programme>
+  <programme start="20140116020000 +0000" stop="20140116030000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">الأول</title>
+    <title lang="en">El elegido</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around an ambitious lawyer whose life turns upside down when he travels to Spain and meets an ideal lawyer.
+He does his best to win a case against the lawyer.</desc>
+  </programme>
+  <programme start="20140116030000 +0000" stop="20140116040000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">المفتاح</title>
+    <title lang="en">Al Muftah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Religious program presented by Aaidh Al Qarni how shows how can get the happiness in easy way.</desc>
+  </programme>
+  <programme start="20140116040000 +0000" stop="20140116050000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">فرعون</title>
+    <title lang="en">Fer'awn</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Fer'awn who faces a lot of problems to reach the pinnacle of success, highlighting those who try to destroy him.</desc>
+    <credits>
+      <actor>Khaled Ssaleh</actor>
+      <actor>Jomana Morad</actor>
+      <actor>Abd Al Hakeem Qttayfan</actor>
+    </credits>
+  </programme>
+  <programme start="20140116050000 +0000" stop="20140116060000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">زين</title>
+    <title lang="en">Zain</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Zain who returns to her family after her father's death, and tries to manage his bankrupt company.</desc>
+    <credits>
+      <actor>Sseba Mobarak</actor>
+      <actor>Qais Asheikh Najeeb</actor>
+    </credits>
+  </programme>
+  <programme start="20140116060000 +0000" stop="20140116070000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">الأول</title>
+    <title lang="en">El elegido</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around an ambitious lawyer whose life turns upside down when he travels to Spain and meets an ideal lawyer.
+He does his best to win a case against the lawyer.</desc>
+  </programme>
+  <programme start="20140116070000 +0000" stop="20140116080000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">إلين اليوم</title>
+    <title lang="en">Elain Al Yaum</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around the social problems of Arab women, in terms of injustice and male dominance. It narrates the story of Eman who loves her kind teacher.</desc>
+  </programme>
+  <programme start="20140116080000 +0000" stop="20140116090000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">مطبخ منال العالم</title>
+    <title lang="en">Matbakh Manal Al A'alem</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Cooking program presents many delicious dishes from the whole world in a new innovative way.</desc>
+  </programme>
+  <programme start="20140116090000 +0000" stop="20140116100000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">المفتاح</title>
+    <title lang="en">Al Muftah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Religious program presented by Aaidh Al Qarni how shows how can get the happiness in easy way.</desc>
+  </programme>
+  <programme start="20140116100000 +0000" stop="20140116110000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">فرعون</title>
+    <title lang="en">Fer'awn</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Fer'awn who faces a lot of problems to reach the pinnacle of success, highlighting those who try to destroy him.</desc>
+    <credits>
+      <actor>Khaled Ssaleh</actor>
+      <actor>Jomana Morad</actor>
+      <actor>Abd Al Hakeem Qttayfan</actor>
+    </credits>
+  </programme>
+  <programme start="20140116110000 +0000" stop="20140116120000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">خطوة</title>
+    <title lang="en">Khoutwa</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Talk show highlights social and psychological problems that face human in his life.</desc>
+  </programme>
+  <programme start="20140116120000 +0000" stop="20140116130000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">زين</title>
+    <title lang="en">Zain</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Zain who returns to her family after her father's death, and tries to manage his bankrupt company.</desc>
+    <credits>
+      <actor>Sseba Mobarak</actor>
+      <actor>Qais Asheikh Najeeb</actor>
+    </credits>
+  </programme>
+  <programme start="20140116130000 +0000" stop="20140116140000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">إلين اليوم</title>
+    <title lang="en">Elain Al Yaum</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around the social problems of Arab women, in terms of injustice and male dominance. It narrates the story of Eman who loves her kind teacher.</desc>
+  </programme>
+  <programme start="20140116140000 +0000" stop="20140116150000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">الأول</title>
+    <title lang="en">El elegido</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around an ambitious lawyer whose life turns upside down when he travels to Spain and meets an ideal lawyer.
+He does his best to win a case against the lawyer.</desc>
+  </programme>
+  <programme start="20140116150000 +0000" stop="20140116160000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">فرعون</title>
+    <title lang="en">Fer'awn</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Fer'awn who faces a lot of problems to reach the pinnacle of success, highlighting those who try to destroy him.</desc>
+    <credits>
+      <actor>Khaled Ssaleh</actor>
+      <actor>Jomana Morad</actor>
+      <actor>Abd Al Hakeem Qttayfan</actor>
+    </credits>
+  </programme>
+  <programme start="20140116160000 +0000" stop="20140116170000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">علوم الدار</title>
+    <title lang="en">O'loum Addar</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">News Bulletin highlights the most important news, events, and local coverage in all parts of the UAE.</desc>
+  </programme>
+  <programme start="20140116170000 +0000" stop="20140116180000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">مشبه عليك</title>
+    <title lang="en">Mshabeh A'alik</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Reality based program where a celebrity tries to impersonate a worker's identity and pretend to work in a shop or a cafe, as the footage is captured by a hidden camera.</desc>
+  </programme>
+  <programme start="20140116180000 +0000" stop="20140116183000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">زين</title>
+    <title lang="en">Zain</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Zain who returns to her family after her father's death, and tries to manage his bankrupt company.</desc>
+    <credits>
+      <actor>Sseba Mobarak</actor>
+      <actor>Qais Asheikh Najeeb</actor>
+    </credits>
+  </programme>
+  <programme start="20140116183000 +0000" stop="20140116190000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">زين</title>
+    <title lang="en">Zain</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Zain who returns to her family after her father's death, and tries to manage his bankrupt company.</desc>
+    <credits>
+      <actor>Sseba Mobarak</actor>
+      <actor>Qais Asheikh Najeeb</actor>
+    </credits>
+  </programme>
+  <programme start="20140116190000 +0000" stop="20140116200000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">إلين اليوم</title>
+    <title lang="en">Elain Al Yaum</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around the social problems of Arab women, in terms of injustice and male dominance. It narrates the story of Eman who loves her kind teacher.</desc>
+  </programme>
+  <programme start="20140116200000 +0000" stop="20140116210000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">الأول</title>
+    <title lang="en">El elegido</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around an ambitious lawyer whose life turns upside down when he travels to Spain and meets an ideal lawyer.
+He does his best to win a case against the lawyer.</desc>
+  </programme>
+  <programme start="20140116210000 +0000" stop="20140116220000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">مشبه عليك</title>
+    <title lang="en">Mshabeh A'alik</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Reality based program where a celebrity tries to impersonate a worker's identity and pretend to work in a shop or a cafe, as the footage is captured by a hidden camera.</desc>
+  </programme>
+  <programme start="20140116220000 +0000" stop="20140116230000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">فرعون</title>
+    <title lang="en">Fer'awn</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Fer'awn who faces a lot of problems to reach the pinnacle of success, highlighting those who try to destroy him.</desc>
+    <credits>
+      <actor>Khaled Ssaleh</actor>
+      <actor>Jomana Morad</actor>
+      <actor>Abd Al Hakeem Qttayfan</actor>
+    </credits>
+  </programme>
+  <programme start="20140116230000 +0000" stop="20140117000000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">زين</title>
+    <title lang="en">Zain</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Zain who returns to her family after her father's death, and tries to manage his bankrupt company.</desc>
+    <credits>
+      <actor>Sseba Mobarak</actor>
+      <actor>Qais Asheikh Najeeb</actor>
+    </credits>
+  </programme>
+  <programme start="20140117000000 +0000" stop="20140117010000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">علوم الدار</title>
+    <title lang="en">O'loum Addar</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">News Bulletin highlights the most important news, events, and local coverage in all parts of the UAE.</desc>
+  </programme>
+  <programme start="20140117010000 +0000" stop="20140117020000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">إلين اليوم</title>
+    <title lang="en">Elain Al Yaum</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around the social problems of Arab women, in terms of injustice and male dominance. It narrates the story of Eman who loves her kind teacher.</desc>
+  </programme>
+  <programme start="20140117020000 +0000" stop="20140117030000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">الأول</title>
+    <title lang="en">El elegido</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around an ambitious lawyer whose life turns upside down when he travels to Spain and meets an ideal lawyer.
+He does his best to win a case against the lawyer.</desc>
+  </programme>
+  <programme start="20140117030000 +0000" stop="20140117040000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">المفتاح</title>
+    <title lang="en">Al Muftah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Religious program presented by Aaidh Al Qarni how shows how can get the happiness in easy way.</desc>
+  </programme>
+  <programme start="20140117040000 +0000" stop="20140117050000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">فرعون</title>
+    <title lang="en">Fer'awn</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Fer'awn who faces a lot of problems to reach the pinnacle of success, highlighting those who try to destroy him.</desc>
+    <credits>
+      <actor>Khaled Ssaleh</actor>
+      <actor>Jomana Morad</actor>
+      <actor>Abd Al Hakeem Qttayfan</actor>
+    </credits>
+  </programme>
+  <programme start="20140117050000 +0000" stop="20140117060000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">زين</title>
+    <title lang="en">Zain</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Zain who returns to her family after her father's death, and tries to manage his bankrupt company.</desc>
+    <credits>
+      <actor>Sseba Mobarak</actor>
+      <actor>Qais Asheikh Najeeb</actor>
+    </credits>
+  </programme>
+  <programme start="20140117060000 +0000" stop="20140117070000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">الأول</title>
+    <title lang="en">El elegido</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around an ambitious lawyer whose life turns upside down when he travels to Spain and meets an ideal lawyer.
+He does his best to win a case against the lawyer.</desc>
+  </programme>
+  <programme start="20140117070000 +0000" stop="20140117080500 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">إلين اليوم</title>
+    <title lang="en">Elain Al Yaum</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around the social problems of Arab women, in terms of injustice and male dominance. It narrates the story of Eman who loves her kind teacher.</desc>
+  </programme>
+  <programme start="20140117080500 +0000" stop="20140117090000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">فرايدي براير</title>
+    <title lang="en">Friday Prayer</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A period of time in which the prayer of Friday is airing from different mosques.</desc>
+  </programme>
+  <programme start="20140117090000 +0000" stop="20140117100000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">المفتاح</title>
+    <title lang="en">Al Muftah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Religious program presented by Aaidh Al Qarni how shows how can get the happiness in easy way.</desc>
+  </programme>
+  <programme start="20140117100000 +0000" stop="20140117110000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">فرعون</title>
+    <title lang="en">Fer'awn</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Fer'awn who faces a lot of problems to reach the pinnacle of success, highlighting those who try to destroy him.</desc>
+    <credits>
+      <actor>Khaled Ssaleh</actor>
+      <actor>Jomana Morad</actor>
+      <actor>Abd Al Hakeem Qttayfan</actor>
+    </credits>
+  </programme>
+  <programme start="20140117110000 +0000" stop="20140117120000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">مشبه عليك</title>
+    <title lang="en">Mshabeh A'alik</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Reality based program where a celebrity tries to impersonate a worker's identity and pretend to work in a shop or a cafe, as the footage is captured by a hidden camera.</desc>
+  </programme>
+  <programme start="20140117120000 +0000" stop="20140117130000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">زين</title>
+    <title lang="en">Zain</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Zain who returns to her family after her father's death, and tries to manage his bankrupt company.</desc>
+    <credits>
+      <actor>Sseba Mobarak</actor>
+      <actor>Qais Asheikh Najeeb</actor>
+    </credits>
+  </programme>
+  <programme start="20140117130000 +0000" stop="20140117140000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">إلين اليوم</title>
+    <title lang="en">Elain Al Yaum</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around the social problems of Arab women, in terms of injustice and male dominance. It narrates the story of Eman who loves her kind teacher.</desc>
+  </programme>
+  <programme start="20140117140000 +0000" stop="20140117150000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">الأول</title>
+    <title lang="en">El elegido</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around an ambitious lawyer whose life turns upside down when he travels to Spain and meets an ideal lawyer.
+He does his best to win a case against the lawyer.</desc>
+  </programme>
+  <programme start="20140117150000 +0000" stop="20140117160000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">حكايات من العين زوو</title>
+    <title lang="en">Hekayat Men Al Ain Zoo</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Documentary program features the daily life of the workers in Al Ain Zoo along with its animals.</desc>
+  </programme>
+  <programme start="20140117160000 +0000" stop="20140117170000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">علوم الدار</title>
+    <title lang="en">O'loum Addar</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">News Bulletin highlights the most important news, events, and local coverage in all parts of the UAE.</desc>
+  </programme>
+  <programme start="20140117170000 +0000" stop="20140117180000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">تحدي ياس</title>
+    <title lang="en">Tahhadi Yas</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Game show features a number of celebrities and contestants who compete in an amusement park, as the winner gets forty thousand Dirhams.</desc>
+  </programme>
+  <programme start="20140117180000 +0000" stop="20140117183000 +0000" vps-start="19700101000000 19700101000000" channel="9710">
+    <title lang="ar">@ فاشين</title>
+    <title lang="en">@ Fashion</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Fashion program highlights the journey of two friends in the fashion world to cover the content of their pages on different websites.
+It displays interviews with fashion designers and makeup artists.</desc>
+  </programme>
+</tv>

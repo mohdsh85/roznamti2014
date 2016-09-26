@@ -1,0 +1,999 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd"[]>
+<tv generator-info-name="ShooFeeTV listings">
+  <Range>
+    <Start>20140501183000</Start>
+    <End>20140507183000</End>
+  </Range>
+  <channel id="9760">
+    <display-name lang="ar">أبو ظبي الرياضية HD 4</display-name>
+    <display-name lang="en">ME Abu Dhabi Sports 4 HD</display-name>
+  </channel>
+  <programme start="20140501183000 +0000" stop="20140501203000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">أريبيان غلف ليغ 2013/2014</title>
+    <title lang="en">Arabian Gulf League 2013/2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program broadcasts the football matches of the Arabian Gulf championship 2013-2014, which is held in UAE.</desc>
+  </programme>
+  <programme start="20140501203000 +0000" stop="20140501210000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">فوتبول مونديال</title>
+    <title lang="en">Football Mundial</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program.</desc>
+  </programme>
+  <programme start="20140501210000 +0000" stop="20140501230000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">غيم أوفر</title>
+    <title lang="en">Game Over</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This program features post-match analysis of the friendly football matches.</desc>
+  </programme>
+  <programme start="20140501230000 +0000" stop="20140502000000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">كيك أوف</title>
+    <title lang="en">Kick Off</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Talk show presented by Hosney Azzaghdody, who invites football players and receives calls from the viewers to discuss the latest news of local clubs matches.</desc>
+  </programme>
+  <programme start="20140502000000 +0000" stop="20140502003000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">أستوديو: أريبيان غلف ليغ 2013-2014</title>
+    <title lang="en">Studio: Arabian Gulf League 2013-2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program highlights the latest news of the main events and football matches' results of the Arabian Gulf championship 2013-2014.</desc>
+  </programme>
+  <programme start="20140502003000 +0000" stop="20140502010500 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">أستوديو: أريبيان غلف ليغ 2013-2014</title>
+    <title lang="en">Studio: Arabian Gulf League 2013-2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program highlights the latest news of the main events and football matches' results of the Arabian Gulf championship 2013-2014.</desc>
+  </programme>
+  <programme start="20140502010500 +0000" stop="20140502030000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">أريبيان غلف ليغ 2013/2014</title>
+    <title lang="en">Arabian Gulf League 2013/2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program broadcasts the football matches of the Arabian Gulf championship 2013-2014, which is held in UAE.</desc>
+  </programme>
+  <programme start="20140502030000 +0000" stop="20140502034500 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">أستوديو: أريبيان غلف ليغ 2013-2014</title>
+    <title lang="en">Studio: Arabian Gulf League 2013-2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program highlights the latest news of the main events and football matches' results of the Arabian Gulf championship 2013-2014.</desc>
+  </programme>
+  <programme start="20140502034500 +0000" stop="20140502053000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">أريبيان غلف ليغ 2013/2014</title>
+    <title lang="en">Arabian Gulf League 2013/2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program broadcasts the football matches of the Arabian Gulf championship 2013-2014, which is held in UAE.</desc>
+  </programme>
+  <programme start="20140502053000 +0000" stop="20140502060000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">أستوديو: أريبيان غلف ليغ 2013-2014</title>
+    <title lang="en">Studio: Arabian Gulf League 2013-2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program highlights the latest news of the main events and football matches' results of the Arabian Gulf championship 2013-2014.</desc>
+  </programme>
+  <programme start="20140502060000 +0000" stop="20140502063000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">الرياضة اليوم</title>
+    <title lang="en">Al Ryada Al Yawm</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This show features national as well as international sports updates.</desc>
+  </programme>
+  <programme start="20140502063000 +0000" stop="20140502083000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">أريبيان غلف ليغ 2013/2014</title>
+    <title lang="en">Arabian Gulf League 2013/2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program broadcasts the football matches of the Arabian Gulf championship 2013-2014, which is held in UAE.</desc>
+  </programme>
+  <programme start="20140502083000 +0000" stop="20140502090000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">استوديو: أريبيان غلف ليغ</title>
+    <title lang="en">Studio: Arabian Gulf League</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This show features reviews and in-depth analysis of the Arabian Gulf League football matches.</desc>
+  </programme>
+  <programme start="20140502090000 +0000" stop="20140502110000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">غيم أوفر</title>
+    <title lang="en">Game Over</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This program features post-match analysis of the friendly football matches.</desc>
+  </programme>
+  <programme start="20140502110000 +0000" stop="20140502120000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">ترانز وورلد سبورتس</title>
+    <title lang="en">Trans World Sports</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This program features recent news and updates from the world of sports. It also showcases interesting sports stories from across the globe.</desc>
+  </programme>
+  <programme start="20140502120000 +0000" stop="20140502130000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">بي في بي وورلد 2013</title>
+    <title lang="en">BVB World 2013</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sport magazine program highlights the latest and most important sports news and events for the Borussia Dortmund. It also hosts the players and members of the club management.</desc>
+  </programme>
+  <programme start="20140502130000 +0000" stop="20140502140500 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">أستوديو: أريبيان غلف ليغ 2013-2014</title>
+    <title lang="en">Studio: Arabian Gulf League 2013-2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program highlights the latest news of the main events and football matches' results of the Arabian Gulf championship 2013-2014.</desc>
+  </programme>
+  <programme start="20140502140500 +0000" stop="20140502155000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">أريبيان غلف ليغ 2013/2014</title>
+    <title lang="en">Arabian Gulf League 2013/2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program broadcasts the football matches of the Arabian Gulf championship 2013-2014, which is held in UAE.</desc>
+  </programme>
+  <programme start="20140502155000 +0000" stop="20140502164500 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">أستوديو: أريبيان غلف ليغ 2013-2014</title>
+    <title lang="en">Studio: Arabian Gulf League 2013-2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program highlights the latest news of the main events and football matches' results of the Arabian Gulf championship 2013-2014.</desc>
+  </programme>
+  <programme start="20140502164500 +0000" stop="20140502183000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">أريبيان غلف ليغ 2013/2014</title>
+    <title lang="en">Arabian Gulf League 2013/2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program broadcasts the football matches of the Arabian Gulf championship 2013-2014, which is held in UAE.</desc>
+  </programme>
+  <programme start="20140502183000 +0000" stop="20140502184500 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">أريبيان غلف ليغ 2013/2014</title>
+    <title lang="en">Arabian Gulf League 2013/2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program broadcasts the football matches of the Arabian Gulf championship 2013-2014, which is held in UAE.</desc>
+  </programme>
+  <programme start="20140502184500 +0000" stop="20140502193000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">أستوديو: أريبيان غلف ليغ 2013-2014</title>
+    <title lang="en">Studio: Arabian Gulf League 2013-2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program highlights the latest news of the main events and football matches' results of the Arabian Gulf championship 2013-2014.</desc>
+  </programme>
+  <programme start="20140502193000 +0000" stop="20140502200000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">استوديو: أريبيان غلف ليغ</title>
+    <title lang="en">Studio: Arabian Gulf League</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This show features reviews and in-depth analysis of the Arabian Gulf League football matches.</desc>
+  </programme>
+  <programme start="20140502200000 +0000" stop="20140502210000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">ترانز وورلد سبورتس</title>
+    <title lang="en">Trans World Sports</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This program features recent news and updates from the world of sports. It also showcases interesting sports stories from across the globe.</desc>
+  </programme>
+  <programme start="20140502210000 +0000" stop="20140502230000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">غيم أوفر</title>
+    <title lang="en">Game Over</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This program features post-match analysis of the friendly football matches.</desc>
+  </programme>
+  <programme start="20140502230000 +0000" stop="20140503000000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">كيك أوف</title>
+    <title lang="en">Kick Off</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Talk show presented by Hosney Azzaghdody, who invites football players and receives calls from the viewers to discuss the latest news of local clubs matches.</desc>
+  </programme>
+  <programme start="20140503000000 +0000" stop="20140503003000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">أستوديو: أريبيان غلف ليغ 2013-2014</title>
+    <title lang="en">Studio: Arabian Gulf League 2013-2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program highlights the latest news of the main events and football matches' results of the Arabian Gulf championship 2013-2014.</desc>
+  </programme>
+  <programme start="20140503003000 +0000" stop="20140503010000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">أستوديو: أريبيان غلف ليغ 2013-2014</title>
+    <title lang="en">Studio: Arabian Gulf League 2013-2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program highlights the latest news of the main events and football matches' results of the Arabian Gulf championship 2013-2014.</desc>
+  </programme>
+  <programme start="20140503010000 +0000" stop="20140503030000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">أريبيان غلف ليغ 2013/2014</title>
+    <title lang="en">Arabian Gulf League 2013/2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program broadcasts the football matches of the Arabian Gulf championship 2013-2014, which is held in UAE.</desc>
+  </programme>
+  <programme start="20140503030000 +0000" stop="20140503033000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">أستوديو: أريبيان غلف ليغ 2013-2014</title>
+    <title lang="en">Studio: Arabian Gulf League 2013-2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program highlights the latest news of the main events and football matches' results of the Arabian Gulf championship 2013-2014.</desc>
+  </programme>
+  <programme start="20140503033000 +0000" stop="20140503034500 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">أستوديو: أريبيان غلف ليغ 2013-2014</title>
+    <title lang="en">Studio: Arabian Gulf League 2013-2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program highlights the latest news of the main events and football matches' results of the Arabian Gulf championship 2013-2014.</desc>
+  </programme>
+  <programme start="20140503034500 +0000" stop="20140503054500 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">أريبيان غلف ليغ 2013/2014</title>
+    <title lang="en">Arabian Gulf League 2013/2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program broadcasts the football matches of the Arabian Gulf championship 2013-2014, which is held in UAE.</desc>
+  </programme>
+  <programme start="20140503054500 +0000" stop="20140503064500 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">أستوديو: أريبيان غلف ليغ 2013-2014</title>
+    <title lang="en">Studio: Arabian Gulf League 2013-2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program highlights the latest news of the main events and football matches' results of the Arabian Gulf championship 2013-2014.</desc>
+  </programme>
+  <programme start="20140503064500 +0000" stop="20140503071500 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">الرياضة اليوم</title>
+    <title lang="en">Al Ryada Al Yawm</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This show features national as well as international sports updates.</desc>
+  </programme>
+  <programme start="20140503071500 +0000" stop="20140503090000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">أريبيان غلف ليغ 2013/2014</title>
+    <title lang="en">Arabian Gulf League 2013/2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program broadcasts the football matches of the Arabian Gulf championship 2013-2014, which is held in UAE.</desc>
+  </programme>
+  <programme start="20140503090000 +0000" stop="20140503110000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">غيم أوفر</title>
+    <title lang="en">Game Over</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This program features post-match analysis of the friendly football matches.</desc>
+  </programme>
+  <programme start="20140503110000 +0000" stop="20140503120000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">بي في بي وورلد 2013</title>
+    <title lang="en">BVB World 2013</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sport magazine program highlights the latest and most important sports news and events for the Borussia Dortmund. It also hosts the players and members of the club management.</desc>
+  </programme>
+  <programme start="20140503120000 +0000" stop="20140503123000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">الرياضة اليوم</title>
+    <title lang="en">Al Ryada Al Yawm</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This show features national as well as international sports updates.</desc>
+  </programme>
+  <programme start="20140503123000 +0000" stop="20140503130000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">استوديو: أريبيان غلف ليغ</title>
+    <title lang="en">Studio: Arabian Gulf League</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This show features reviews and in-depth analysis of the Arabian Gulf League football matches.</desc>
+  </programme>
+  <programme start="20140503130000 +0000" stop="20140503144500 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">أريبيان غلف ليغ 2013/2014</title>
+    <title lang="en">Arabian Gulf League 2013/2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program broadcasts the football matches of the Arabian Gulf championship 2013-2014, which is held in UAE.</desc>
+  </programme>
+  <programme start="20140503144500 +0000" stop="20140503151500 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">فوتبول مونديال</title>
+    <title lang="en">Football Mundial</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program.</desc>
+  </programme>
+  <programme start="20140503151500 +0000" stop="20140503170000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">أريبيان غلف ليغ 2013/2014</title>
+    <title lang="en">Arabian Gulf League 2013/2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program broadcasts the football matches of the Arabian Gulf championship 2013-2014, which is held in UAE.</desc>
+  </programme>
+  <programme start="20140503170000 +0000" stop="20140503173000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">فوتبول مونديال</title>
+    <title lang="en">Football Mundial</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program.</desc>
+  </programme>
+  <programme start="20140503173000 +0000" stop="20140503180000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">استوديو: أريبيان غلف ليغ</title>
+    <title lang="en">Studio: Arabian Gulf League</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This show features reviews and in-depth analysis of the Arabian Gulf League football matches.</desc>
+  </programme>
+  <programme start="20140503180000 +0000" stop="20140503183000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">ترانز وورلد سبورتس</title>
+    <title lang="en">Trans World Sports</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This program features recent news and updates from the world of sports. It also showcases interesting sports stories from across the globe.</desc>
+  </programme>
+  <programme start="20140503183000 +0000" stop="20140503190000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">ترانز وورلد سبورتس</title>
+    <title lang="en">Trans World Sports</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This program features recent news and updates from the world of sports. It also showcases interesting sports stories from across the globe.</desc>
+  </programme>
+  <programme start="20140503190000 +0000" stop="20140503200000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">بي في بي وورلد 2013</title>
+    <title lang="en">BVB World 2013</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sport magazine program highlights the latest and most important sports news and events for the Borussia Dortmund. It also hosts the players and members of the club management.</desc>
+  </programme>
+  <programme start="20140503200000 +0000" stop="20140503220000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">أريبيان غلف ليغ 2013/2014</title>
+    <title lang="en">Arabian Gulf League 2013/2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program broadcasts the football matches of the Arabian Gulf championship 2013-2014, which is held in UAE.</desc>
+  </programme>
+  <programme start="20140503220000 +0000" stop="20140503223000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">فوتبول مونديال</title>
+    <title lang="en">Football Mundial</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program.</desc>
+  </programme>
+  <programme start="20140503223000 +0000" stop="20140503230000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">استوديو: أريبيان غلف ليغ</title>
+    <title lang="en">Studio: Arabian Gulf League</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This show features reviews and in-depth analysis of the Arabian Gulf League football matches.</desc>
+  </programme>
+  <programme start="20140503230000 +0000" stop="20140503233000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">الرياضة اليوم</title>
+    <title lang="en">Al Ryada Al Yawm</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This show features national as well as international sports updates.</desc>
+  </programme>
+  <programme start="20140503233000 +0000" stop="20140504011500 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">أريبيان غلف ليغ 2013/2014</title>
+    <title lang="en">Arabian Gulf League 2013/2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program broadcasts the football matches of the Arabian Gulf championship 2013-2014, which is held in UAE.</desc>
+  </programme>
+  <programme start="20140504011500 +0000" stop="20140504030000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">أريبيان غلف ليغ 2013/2014</title>
+    <title lang="en">Arabian Gulf League 2013/2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program broadcasts the football matches of the Arabian Gulf championship 2013-2014, which is held in UAE.</desc>
+  </programme>
+  <programme start="20140504030000 +0000" stop="20140504040000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">ترانز وورلد سبورتس</title>
+    <title lang="en">Trans World Sports</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This program features recent news and updates from the world of sports. It also showcases interesting sports stories from across the globe.</desc>
+  </programme>
+  <programme start="20140504040000 +0000" stop="20140504043000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">الرياضة اليوم</title>
+    <title lang="en">Al Ryada Al Yawm</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This show features national as well as international sports updates.</desc>
+  </programme>
+  <programme start="20140504043000 +0000" stop="20140504050000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">فوتبول مونديال</title>
+    <title lang="en">Football Mundial</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program.</desc>
+  </programme>
+  <programme start="20140504050000 +0000" stop="20140504064500 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">أريبيان غلف ليغ 2013/2014</title>
+    <title lang="en">Arabian Gulf League 2013/2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program broadcasts the football matches of the Arabian Gulf championship 2013-2014, which is held in UAE.</desc>
+  </programme>
+  <programme start="20140504064500 +0000" stop="20140504071500 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">الرياضة اليوم</title>
+    <title lang="en">Al Ryada Al Yawm</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This show features national as well as international sports updates.</desc>
+  </programme>
+  <programme start="20140504071500 +0000" stop="20140504090000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">أريبيان غلف ليغ 2013/2014</title>
+    <title lang="en">Arabian Gulf League 2013/2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program broadcasts the football matches of the Arabian Gulf championship 2013-2014, which is held in UAE.</desc>
+  </programme>
+  <programme start="20140504090000 +0000" stop="20140504110000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">أريبيان غلف ليغ 2013/2014</title>
+    <title lang="en">Arabian Gulf League 2013/2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program broadcasts the football matches of the Arabian Gulf championship 2013-2014, which is held in UAE.</desc>
+  </programme>
+  <programme start="20140504110000 +0000" stop="20140504120000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">ترانز وورلد سبورتس</title>
+    <title lang="en">Trans World Sports</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This program features recent news and updates from the world of sports. It also showcases interesting sports stories from across the globe.</desc>
+  </programme>
+  <programme start="20140504120000 +0000" stop="20140504123000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">الرياضة اليوم</title>
+    <title lang="en">Al Ryada Al Yawm</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This show features national as well as international sports updates.</desc>
+  </programme>
+  <programme start="20140504123000 +0000" stop="20140504130000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">فوتبول مونديال</title>
+    <title lang="en">Football Mundial</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program.</desc>
+  </programme>
+  <programme start="20140504130000 +0000" stop="20140504144500 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">أريبيان غلف ليغ 2013/2014</title>
+    <title lang="en">Arabian Gulf League 2013/2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program broadcasts the football matches of the Arabian Gulf championship 2013-2014, which is held in UAE.</desc>
+  </programme>
+  <programme start="20140504144500 +0000" stop="20140504151500 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">ناشونال آيكونز</title>
+    <title lang="en">National Icons</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show features an insight into international football and examines the lives and careers of football's greatest players.</desc>
+  </programme>
+  <programme start="20140504151500 +0000" stop="20140504170000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">أريبيان غلف ليغ 2013/2014</title>
+    <title lang="en">Arabian Gulf League 2013/2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program broadcasts the football matches of the Arabian Gulf championship 2013-2014, which is held in UAE.</desc>
+  </programme>
+  <programme start="20140504170000 +0000" stop="20140504180000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">بي في بي وورلد 2013</title>
+    <title lang="en">BVB World 2013</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sport magazine program highlights the latest and most important sports news and events for the Borussia Dortmund. It also hosts the players and members of the club management.</desc>
+  </programme>
+  <programme start="20140504180000 +0000" stop="20140504183000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">ناشونال آيكونز</title>
+    <title lang="en">National Icons</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show features an insight into international football and examines the lives and careers of football's greatest players.</desc>
+  </programme>
+  <programme start="20140504183000 +0000" stop="20140504190000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">فوتبول مونديال</title>
+    <title lang="en">Football Mundial</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program.</desc>
+  </programme>
+  <programme start="20140504190000 +0000" stop="20140504200000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">ترانز وورلد سبورتس</title>
+    <title lang="en">Trans World Sports</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This program features recent news and updates from the world of sports. It also showcases interesting sports stories from across the globe.</desc>
+  </programme>
+  <programme start="20140504200000 +0000" stop="20140504220000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">أريبيان غلف ليغ 2013/2014</title>
+    <title lang="en">Arabian Gulf League 2013/2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program broadcasts the football matches of the Arabian Gulf championship 2013-2014, which is held in UAE.</desc>
+  </programme>
+  <programme start="20140504220000 +0000" stop="20140504230000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">بي في بي وورلد 2013</title>
+    <title lang="en">BVB World 2013</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sport magazine program highlights the latest and most important sports news and events for the Borussia Dortmund. It also hosts the players and members of the club management.</desc>
+  </programme>
+  <programme start="20140504230000 +0000" stop="20140504233000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">الرياضة اليوم</title>
+    <title lang="en">Al Ryada Al Yawm</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This show features national as well as international sports updates.</desc>
+  </programme>
+  <programme start="20140504233000 +0000" stop="20140505011500 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">أريبيان غلف ليغ 2013/2014</title>
+    <title lang="en">Arabian Gulf League 2013/2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program broadcasts the football matches of the Arabian Gulf championship 2013-2014, which is held in UAE.</desc>
+  </programme>
+  <programme start="20140505011500 +0000" stop="20140505030000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">أريبيان غلف ليغ 2013/2014</title>
+    <title lang="en">Arabian Gulf League 2013/2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program broadcasts the football matches of the Arabian Gulf championship 2013-2014, which is held in UAE.</desc>
+  </programme>
+  <programme start="20140505030000 +0000" stop="20140505040000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">بي في بي وورلد 2013</title>
+    <title lang="en">BVB World 2013</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sport magazine program highlights the latest and most important sports news and events for the Borussia Dortmund. It also hosts the players and members of the club management.</desc>
+  </programme>
+  <programme start="20140505040000 +0000" stop="20140505043000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">الرياضة اليوم</title>
+    <title lang="en">Al Ryada Al Yawm</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This show features national as well as international sports updates.</desc>
+  </programme>
+  <programme start="20140505043000 +0000" stop="20140505050000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">ريفاريز</title>
+    <title lang="en">Rivalries</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program.</desc>
+  </programme>
+  <programme start="20140505050000 +0000" stop="20140505064500 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">أريبيان غلف ليغ 2013/2014</title>
+    <title lang="en">Arabian Gulf League 2013/2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program broadcasts the football matches of the Arabian Gulf championship 2013-2014, which is held in UAE.</desc>
+  </programme>
+  <programme start="20140505064500 +0000" stop="20140505071500 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">الرياضة اليوم</title>
+    <title lang="en">Al Ryada Al Yawm</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This show features national as well as international sports updates.</desc>
+  </programme>
+  <programme start="20140505071500 +0000" stop="20140505090000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">أريبيان غلف ليغ 2013/2014</title>
+    <title lang="en">Arabian Gulf League 2013/2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program broadcasts the football matches of the Arabian Gulf championship 2013-2014, which is held in UAE.</desc>
+  </programme>
+  <programme start="20140505090000 +0000" stop="20140505110000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">أريبيان غلف ليغ 2013/2014</title>
+    <title lang="en">Arabian Gulf League 2013/2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program broadcasts the football matches of the Arabian Gulf championship 2013-2014, which is held in UAE.</desc>
+  </programme>
+  <programme start="20140505110000 +0000" stop="20140505120000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">بي في بي وورلد 2013</title>
+    <title lang="en">BVB World 2013</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sport magazine program highlights the latest and most important sports news and events for the Borussia Dortmund. It also hosts the players and members of the club management.</desc>
+  </programme>
+  <programme start="20140505120000 +0000" stop="20140505123000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">الرياضة اليوم</title>
+    <title lang="en">Al Ryada Al Yawm</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This show features national as well as international sports updates.</desc>
+  </programme>
+  <programme start="20140505123000 +0000" stop="20140505130000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">ريفاريز</title>
+    <title lang="en">Rivalries</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program.</desc>
+  </programme>
+  <programme start="20140505130000 +0000" stop="20140505144500 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">أريبيان غلف ليغ 2013/2014</title>
+    <title lang="en">Arabian Gulf League 2013/2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program broadcasts the football matches of the Arabian Gulf championship 2013-2014, which is held in UAE.</desc>
+  </programme>
+  <programme start="20140505144500 +0000" stop="20140505151500 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">إيه جي إل غول رش 2014</title>
+    <title lang="en">AGL Goal Rush 2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The 40th edition of the Arabian Gulf League featuring prominent local football clubs from the UAE.</desc>
+  </programme>
+  <programme start="20140505151500 +0000" stop="20140505170000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">أريبيان غلف ليغ 2013/2014</title>
+    <title lang="en">Arabian Gulf League 2013/2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program broadcasts the football matches of the Arabian Gulf championship 2013-2014, which is held in UAE.</desc>
+  </programme>
+  <programme start="20140505170000 +0000" stop="20140505173000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">ناشونال آيكونز</title>
+    <title lang="en">National Icons</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show features an insight into international football and examines the lives and careers of football's greatest players.</desc>
+  </programme>
+  <programme start="20140505173000 +0000" stop="20140505180000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">إيه جي إل غول رش 2014</title>
+    <title lang="en">AGL Goal Rush 2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The 40th edition of the Arabian Gulf League featuring prominent local football clubs from the UAE.</desc>
+  </programme>
+  <programme start="20140505180000 +0000" stop="20140505183000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">ترانز وورلد سبورتس</title>
+    <title lang="en">Trans World Sports</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This program features recent news and updates from the world of sports. It also showcases interesting sports stories from across the globe.</desc>
+  </programme>
+  <programme start="20140505183000 +0000" stop="20140505190000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">ترانز وورلد سبورتس</title>
+    <title lang="en">Trans World Sports</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This program features recent news and updates from the world of sports. It also showcases interesting sports stories from across the globe.</desc>
+  </programme>
+  <programme start="20140505190000 +0000" stop="20140505193000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">فوتبول مونديال</title>
+    <title lang="en">Football Mundial</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program.</desc>
+  </programme>
+  <programme start="20140505193000 +0000" stop="20140505200000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">استوديو: أريبيان غلف ليغ</title>
+    <title lang="en">Studio: Arabian Gulf League</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This show features reviews and in-depth analysis of the Arabian Gulf League football matches.</desc>
+  </programme>
+  <programme start="20140505200000 +0000" stop="20140505220000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">أريبيان غلف ليغ 2013/2014</title>
+    <title lang="en">Arabian Gulf League 2013/2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program broadcasts the football matches of the Arabian Gulf championship 2013-2014, which is held in UAE.</desc>
+  </programme>
+  <programme start="20140505220000 +0000" stop="20140505230000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">ترانز وورلد سبورتس</title>
+    <title lang="en">Trans World Sports</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This program features recent news and updates from the world of sports. It also showcases interesting sports stories from across the globe.</desc>
+  </programme>
+  <programme start="20140505230000 +0000" stop="20140505233000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">الرياضة اليوم</title>
+    <title lang="en">Al Ryada Al Yawm</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This show features national as well as international sports updates.</desc>
+  </programme>
+  <programme start="20140505233000 +0000" stop="20140506011500 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">أريبيان غلف ليغ 2013/2014</title>
+    <title lang="en">Arabian Gulf League 2013/2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program broadcasts the football matches of the Arabian Gulf championship 2013-2014, which is held in UAE.</desc>
+  </programme>
+  <programme start="20140506011500 +0000" stop="20140506030000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">أريبيان غلف ليغ 2013/2014</title>
+    <title lang="en">Arabian Gulf League 2013/2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program broadcasts the football matches of the Arabian Gulf championship 2013-2014, which is held in UAE.</desc>
+  </programme>
+  <programme start="20140506030000 +0000" stop="20140506033000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">فوتبول مونديال</title>
+    <title lang="en">Football Mundial</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program.</desc>
+  </programme>
+  <programme start="20140506033000 +0000" stop="20140506040000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">ريفاريز</title>
+    <title lang="en">Rivalries</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program.</desc>
+  </programme>
+  <programme start="20140506040000 +0000" stop="20140506043000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">الرياضة اليوم</title>
+    <title lang="en">Al Ryada Al Yawm</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This show features national as well as international sports updates.</desc>
+  </programme>
+  <programme start="20140506043000 +0000" stop="20140506050000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">إيه جي إل غول رش 2014</title>
+    <title lang="en">AGL Goal Rush 2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The 40th edition of the Arabian Gulf League featuring prominent local football clubs from the UAE.</desc>
+  </programme>
+  <programme start="20140506050000 +0000" stop="20140506064500 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">أريبيان غلف ليغ 2013/2014</title>
+    <title lang="en">Arabian Gulf League 2013/2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program broadcasts the football matches of the Arabian Gulf championship 2013-2014, which is held in UAE.</desc>
+  </programme>
+  <programme start="20140506064500 +0000" stop="20140506071500 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">الرياضة اليوم</title>
+    <title lang="en">Al Ryada Al Yawm</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This show features national as well as international sports updates.</desc>
+  </programme>
+  <programme start="20140506071500 +0000" stop="20140506090000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">أريبيان غلف ليغ 2013/2014</title>
+    <title lang="en">Arabian Gulf League 2013/2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program broadcasts the football matches of the Arabian Gulf championship 2013-2014, which is held in UAE.</desc>
+  </programme>
+  <programme start="20140506090000 +0000" stop="20140506110000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">أريبيان غلف ليغ 2013/2014</title>
+    <title lang="en">Arabian Gulf League 2013/2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program broadcasts the football matches of the Arabian Gulf championship 2013-2014, which is held in UAE.</desc>
+  </programme>
+  <programme start="20140506110000 +0000" stop="20140506113000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">فوتبول مونديال</title>
+    <title lang="en">Football Mundial</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program.</desc>
+  </programme>
+  <programme start="20140506113000 +0000" stop="20140506120000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">ريفاريز</title>
+    <title lang="en">Rivalries</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program.</desc>
+  </programme>
+  <programme start="20140506120000 +0000" stop="20140506123000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">الرياضة اليوم</title>
+    <title lang="en">Al Ryada Al Yawm</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This show features national as well as international sports updates.</desc>
+  </programme>
+  <programme start="20140506123000 +0000" stop="20140506130000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">ناشونال آيكونز</title>
+    <title lang="en">National Icons</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show features an insight into international football and examines the lives and careers of football's greatest players.</desc>
+  </programme>
+  <programme start="20140506130000 +0000" stop="20140506144500 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">أريبيان غلف ليغ 2013/2014</title>
+    <title lang="en">Arabian Gulf League 2013/2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program broadcasts the football matches of the Arabian Gulf championship 2013-2014, which is held in UAE.</desc>
+  </programme>
+  <programme start="20140506144500 +0000" stop="20140506151500 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">فوتبول مونديال</title>
+    <title lang="en">Football Mundial</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program.</desc>
+  </programme>
+  <programme start="20140506151500 +0000" stop="20140506170000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">أريبيان غلف ليغ 2013/2014</title>
+    <title lang="en">Arabian Gulf League 2013/2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program broadcasts the football matches of the Arabian Gulf championship 2013-2014, which is held in UAE.</desc>
+  </programme>
+  <programme start="20140506170000 +0000" stop="20140506180000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">ترانز وورلد سبورتس</title>
+    <title lang="en">Trans World Sports</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This program features recent news and updates from the world of sports. It also showcases interesting sports stories from across the globe.</desc>
+  </programme>
+  <programme start="20140506180000 +0000" stop="20140506183000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">بي في بي وورلد 2013</title>
+    <title lang="en">BVB World 2013</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sport magazine program highlights the latest and most important sports news and events for the Borussia Dortmund. It also hosts the players and members of the club management.</desc>
+  </programme>
+  <programme start="20140506183000 +0000" stop="20140506190000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">بي في بي وورلد 2013</title>
+    <title lang="en">BVB World 2013</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sport magazine program highlights the latest and most important sports news and events for the Borussia Dortmund. It also hosts the players and members of the club management.</desc>
+  </programme>
+  <programme start="20140506190000 +0000" stop="20140506193000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">استوديو: أريبيان غلف ليغ</title>
+    <title lang="en">Studio: Arabian Gulf League</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This show features reviews and in-depth analysis of the Arabian Gulf League football matches.</desc>
+  </programme>
+  <programme start="20140506193000 +0000" stop="20140506200000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">إيه جي إل غول رش 2014</title>
+    <title lang="en">AGL Goal Rush 2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The 40th edition of the Arabian Gulf League featuring prominent local football clubs from the UAE.</desc>
+  </programme>
+  <programme start="20140506200000 +0000" stop="20140506220000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">أريبيان غلف ليغ 2013/2014</title>
+    <title lang="en">Arabian Gulf League 2013/2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program broadcasts the football matches of the Arabian Gulf championship 2013-2014, which is held in UAE.</desc>
+  </programme>
+  <programme start="20140506220000 +0000" stop="20140506223000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">استوديو: أريبيان غلف ليغ</title>
+    <title lang="en">Studio: Arabian Gulf League</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This show features reviews and in-depth analysis of the Arabian Gulf League football matches.</desc>
+  </programme>
+  <programme start="20140506223000 +0000" stop="20140506230000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">إيه جي إل غول رش 2014</title>
+    <title lang="en">AGL Goal Rush 2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The 40th edition of the Arabian Gulf League featuring prominent local football clubs from the UAE.</desc>
+  </programme>
+  <programme start="20140506230000 +0000" stop="20140506233000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">الرياضة اليوم</title>
+    <title lang="en">Al Ryada Al Yawm</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This show features national as well as international sports updates.</desc>
+  </programme>
+  <programme start="20140506233000 +0000" stop="20140507011500 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">أريبيان غلف ليغ 2013/2014</title>
+    <title lang="en">Arabian Gulf League 2013/2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program broadcasts the football matches of the Arabian Gulf championship 2013-2014, which is held in UAE.</desc>
+  </programme>
+  <programme start="20140507011500 +0000" stop="20140507030000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">أريبيان غلف ليغ 2013/2014</title>
+    <title lang="en">Arabian Gulf League 2013/2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program broadcasts the football matches of the Arabian Gulf championship 2013-2014, which is held in UAE.</desc>
+  </programme>
+  <programme start="20140507030000 +0000" stop="20140507040000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">ترانز وورلد سبورتس</title>
+    <title lang="en">Trans World Sports</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This program features recent news and updates from the world of sports. It also showcases interesting sports stories from across the globe.</desc>
+  </programme>
+  <programme start="20140507040000 +0000" stop="20140507043000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">الرياضة اليوم</title>
+    <title lang="en">Al Ryada Al Yawm</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This show features national as well as international sports updates.</desc>
+  </programme>
+  <programme start="20140507043000 +0000" stop="20140507050000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">إيه جي إل غول رش 2014</title>
+    <title lang="en">AGL Goal Rush 2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The 40th edition of the Arabian Gulf League featuring prominent local football clubs from the UAE.</desc>
+  </programme>
+  <programme start="20140507050000 +0000" stop="20140507064500 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">أريبيان غلف ليغ 2013/2014</title>
+    <title lang="en">Arabian Gulf League 2013/2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program broadcasts the football matches of the Arabian Gulf championship 2013-2014, which is held in UAE.</desc>
+  </programme>
+  <programme start="20140507064500 +0000" stop="20140507071500 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">الرياضة اليوم</title>
+    <title lang="en">Al Ryada Al Yawm</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This show features national as well as international sports updates.</desc>
+  </programme>
+  <programme start="20140507071500 +0000" stop="20140507090000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">أريبيان غلف ليغ 2013/2014</title>
+    <title lang="en">Arabian Gulf League 2013/2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program broadcasts the football matches of the Arabian Gulf championship 2013-2014, which is held in UAE.</desc>
+  </programme>
+  <programme start="20140507090000 +0000" stop="20140507110000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">أريبيان غلف ليغ 2013/2014</title>
+    <title lang="en">Arabian Gulf League 2013/2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program broadcasts the football matches of the Arabian Gulf championship 2013-2014, which is held in UAE.</desc>
+  </programme>
+  <programme start="20140507110000 +0000" stop="20140507120000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">ترانز وورلد سبورتس</title>
+    <title lang="en">Trans World Sports</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This program features recent news and updates from the world of sports. It also showcases interesting sports stories from across the globe.</desc>
+  </programme>
+  <programme start="20140507120000 +0000" stop="20140507123000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">الرياضة اليوم</title>
+    <title lang="en">Al Ryada Al Yawm</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This show features national as well as international sports updates.</desc>
+  </programme>
+  <programme start="20140507123000 +0000" stop="20140507130000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">إيه جي إل غول رش 2014</title>
+    <title lang="en">AGL Goal Rush 2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The 40th edition of the Arabian Gulf League featuring prominent local football clubs from the UAE.</desc>
+  </programme>
+  <programme start="20140507130000 +0000" stop="20140507144500 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">أريبيان غلف ليغ 2013/2014</title>
+    <title lang="en">Arabian Gulf League 2013/2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program broadcasts the football matches of the Arabian Gulf championship 2013-2014, which is held in UAE.</desc>
+  </programme>
+  <programme start="20140507144500 +0000" stop="20140507151500 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">استوديو: أريبيان غلف ليغ</title>
+    <title lang="en">Studio: Arabian Gulf League</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This show features reviews and in-depth analysis of the Arabian Gulf League football matches.</desc>
+  </programme>
+  <programme start="20140507151500 +0000" stop="20140507170000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">أريبيان غلف ليغ 2013/2014</title>
+    <title lang="en">Arabian Gulf League 2013/2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program broadcasts the football matches of the Arabian Gulf championship 2013-2014, which is held in UAE.</desc>
+  </programme>
+  <programme start="20140507170000 +0000" stop="20140507173000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">استوديو: أريبيان غلف ليغ</title>
+    <title lang="en">Studio: Arabian Gulf League</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This show features reviews and in-depth analysis of the Arabian Gulf League football matches.</desc>
+  </programme>
+  <programme start="20140507173000 +0000" stop="20140507180000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">إيه جي إل غول رش 2014</title>
+    <title lang="en">AGL Goal Rush 2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The 40th edition of the Arabian Gulf League featuring prominent local football clubs from the UAE.</desc>
+  </programme>
+  <programme start="20140507180000 +0000" stop="20140507183000 +0000" vps-start="19700101000000 19700101000000" channel="9760">
+    <title lang="ar">ترانز وورلد سبورتس</title>
+    <title lang="en">Trans World Sports</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This program features recent news and updates from the world of sports. It also showcases interesting sports stories from across the globe.</desc>
+  </programme>
+</tv>

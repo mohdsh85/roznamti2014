@@ -1,0 +1,971 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd"[]>
+<tv generator-info-name="ShooFeeTV listings">
+  <Range>
+    <Start>20140501183000</Start>
+    <End>20140507183000</End>
+  </Range>
+  <channel id="9770">
+    <display-name lang="ar">أبو ظبي الرياضية HD 5</display-name>
+    <display-name lang="en">ME Abu Dhabi Sports 5 HD</display-name>
+  </channel>
+  <programme start="20140501183000 +0000" stop="20140501190000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">فيفا فوتبول مونديال 2014 </title>
+    <title lang="en">FIFA Futbol Mundial 2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show features the latest news, match fixtures and updates from the 2014 FIFA World Cup.</desc>
+  </programme>
+  <programme start="20140501190000 +0000" stop="20140501200000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">بي في بي وورلد 2013</title>
+    <title lang="en">BVB World 2013</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sport magazine program highlights the latest and most important sports news and events for the Borussia Dortmund. It also hosts the players and members of the club management.</desc>
+  </programme>
+  <programme start="20140501200000 +0000" stop="20140501213000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">إن سي إيه إيه مينز كوليج باسكيتبول 2013/2014</title>
+    <title lang="en">NCAA Men's College Basketball 2013/2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program features highlights of the NCAA Men's College Basketball, which is organized by the National Collegiate Athletic Association.</desc>
+  </programme>
+  <programme start="20140501213000 +0000" stop="20140501220000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">هاوسز أوف غلوري 2013</title>
+    <title lang="en">Houses Of Glory 2013</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show focusses on different stadiums around the world that house several sports and looks at what makes these stadiums special.</desc>
+  </programme>
+  <programme start="20140501220000 +0000" stop="20140501223000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">فوتبول فريستايلر</title>
+    <title lang="en">Football Freestyler</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program meets skilled footballers to talk about their talent. The program gives them a chance to present their skills in order to encourage them.</desc>
+  </programme>
+  <programme start="20140501223000 +0000" stop="20140501230000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">ريفاريز</title>
+    <title lang="en">Rivalries</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program.</desc>
+  </programme>
+  <programme start="20140501230000 +0000" stop="20140502000500 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">ترانز وورلد سبورتس 2014</title>
+    <title lang="en">Trans World Sports 2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program features highlights of the latest sports news. It invites the best sports person to discuss the details and evaluate the performance of players and referees.</desc>
+  </programme>
+  <programme start="20140502000500 +0000" stop="20140502015500 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">إن سي إيه إيه مينز كوليج باسكيتبول 2013/2014</title>
+    <title lang="en">NCAA Men's College Basketball 2013/2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program features highlights of the NCAA Men's College Basketball, which is organized by the National Collegiate Athletic Association.</desc>
+  </programme>
+  <programme start="20140502015500 +0000" stop="20140502030000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">أول ناسكار سبرنت كب سيريز 2014 هايلايتس</title>
+    <title lang="en">All NASCAR Sprint Cup Series 2014 HLs</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The 66th season of professional stock car racing will take place in the United States. The season kick starts at Daytona International Speedway and ends at Homestead-Miami Speedway.</desc>
+  </programme>
+  <programme start="20140502030000 +0000" stop="20140502033000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">هاوسز أوف غلوري 2013</title>
+    <title lang="en">Houses Of Glory 2013</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show focusses on different stadiums around the world that house several sports and looks at what makes these stadiums special.</desc>
+  </programme>
+  <programme start="20140502033000 +0000" stop="20140502043000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">ترانز وورلد سبورتس 2014</title>
+    <title lang="en">Trans World Sports 2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program features highlights of the latest sports news. It invites the best sports person to discuss the details and evaluate the performance of players and referees.</desc>
+  </programme>
+  <programme start="20140502043000 +0000" stop="20140502050000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">فيفا فوتبول مونديال 2014 </title>
+    <title lang="en">FIFA Futbol Mundial 2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show features the latest news, match fixtures and updates from the 2014 FIFA World Cup.</desc>
+  </programme>
+  <programme start="20140502050000 +0000" stop="20140502063000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">إن سي إيه إيه مينز كوليج باسكيتبول 2013/2014</title>
+    <title lang="en">NCAA Men's College Basketball 2013/2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program features highlights of the NCAA Men's College Basketball, which is organized by the National Collegiate Athletic Association.</desc>
+  </programme>
+  <programme start="20140502063000 +0000" stop="20140502070000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">ريفاريز</title>
+    <title lang="en">Rivalries</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program.</desc>
+  </programme>
+  <programme start="20140502070000 +0000" stop="20140502080000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">أول ناسكار سبرنت كب سيريز 2014 هايلايتس</title>
+    <title lang="en">All NASCAR Sprint Cup Series 2014 HLs</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The 66th season of professional stock car racing will take place in the United States. The season kick starts at Daytona International Speedway and ends at Homestead-Miami Speedway.</desc>
+  </programme>
+  <programme start="20140502080000 +0000" stop="20140502093500 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">إن سي إيه إيه مينز كوليج باسكيتبول 2013/2014</title>
+    <title lang="en">NCAA Men's College Basketball 2013/2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program features highlights of the NCAA Men's College Basketball, which is organized by the National Collegiate Athletic Association.</desc>
+  </programme>
+  <programme start="20140502093500 +0000" stop="20140502100000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">فيفا فوتبول مونديال 2014 </title>
+    <title lang="en">FIFA Futbol Mundial 2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show features the latest news, match fixtures and updates from the 2014 FIFA World Cup.</desc>
+  </programme>
+  <programme start="20140502100000 +0000" stop="20140502110000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">أول ناسكار سبرنت كب سيريز 2014 هايلايتس</title>
+    <title lang="en">All NASCAR Sprint Cup Series 2014 HLs</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The 66th season of professional stock car racing will take place in the United States. The season kick starts at Daytona International Speedway and ends at Homestead-Miami Speedway.</desc>
+  </programme>
+  <programme start="20140502110000 +0000" stop="20140502122000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">إن سي إيه إيه مينز كوليج باسكيتبول 2013/2014</title>
+    <title lang="en">NCAA Men's College Basketball 2013/2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program features highlights of the NCAA Men's College Basketball, which is organized by the National Collegiate Athletic Association.</desc>
+  </programme>
+  <programme start="20140502122000 +0000" stop="20140502133000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">بي في بي وورلد 2013</title>
+    <title lang="en">BVB World 2013</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sport magazine program highlights the latest and most important sports news and events for the Borussia Dortmund. It also hosts the players and members of the club management.</desc>
+  </programme>
+  <programme start="20140502133000 +0000" stop="20140502140000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">هاوسز أوف غلوري 2013</title>
+    <title lang="en">Houses Of Glory 2013</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show focusses on different stadiums around the world that house several sports and looks at what makes these stadiums special.</desc>
+  </programme>
+  <programme start="20140502140000 +0000" stop="20140502150000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">أول ناسكار سبرنت كب سيريز 2014 هايلايتس</title>
+    <title lang="en">All NASCAR Sprint Cup Series 2014 HLs</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The 66th season of professional stock car racing will take place in the United States. The season kick starts at Daytona International Speedway and ends at Homestead-Miami Speedway.</desc>
+  </programme>
+  <programme start="20140502150000 +0000" stop="20140502153000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">فيفا فوتبول مونديال 2014 </title>
+    <title lang="en">FIFA Futbol Mundial 2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show features the latest news, match fixtures and updates from the 2014 FIFA World Cup.</desc>
+  </programme>
+  <programme start="20140502153000 +0000" stop="20140502170000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">إن سي إيه إيه مينز كوليج باسكيتبول 2013/2014</title>
+    <title lang="en">NCAA Men's College Basketball 2013/2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program features highlights of the NCAA Men's College Basketball, which is organized by the National Collegiate Athletic Association.</desc>
+  </programme>
+  <programme start="20140502170000 +0000" stop="20140502180500 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">بي في بي وورلد 2013</title>
+    <title lang="en">BVB World 2013</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sport magazine program highlights the latest and most important sports news and events for the Borussia Dortmund. It also hosts the players and members of the club management.</desc>
+  </programme>
+  <programme start="20140502180500 +0000" stop="20140502183000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">إن سي إيه إيه مينز كوليج باسكيتبول 2013/2014</title>
+    <title lang="en">NCAA Men's College Basketball 2013/2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program features highlights of the NCAA Men's College Basketball, which is organized by the National Collegiate Athletic Association.</desc>
+  </programme>
+  <programme start="20140502183000 +0000" stop="20140502200000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">إن سي إيه إيه مينز كوليج باسكيتبول 2013/2014</title>
+    <title lang="en">NCAA Men's College Basketball 2013/2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program features highlights of the NCAA Men's College Basketball, which is organized by the National Collegiate Athletic Association.</desc>
+  </programme>
+  <programme start="20140502200000 +0000" stop="20140502213500 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">إن سي إيه إيه مينز كوليج باسكيتبول 2013/2014</title>
+    <title lang="en">NCAA Men's College Basketball 2013/2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program features highlights of the NCAA Men's College Basketball, which is organized by the National Collegiate Athletic Association.</desc>
+  </programme>
+  <programme start="20140502213500 +0000" stop="20140502220500 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">ناشونال آيكونز</title>
+    <title lang="en">National Icons</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show features an insight into international football and examines the lives and careers of football's greatest players.</desc>
+  </programme>
+  <programme start="20140502220500 +0000" stop="20140502223000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">فيفا فوتبول مونديال 2014 </title>
+    <title lang="en">FIFA Futbol Mundial 2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show features the latest news, match fixtures and updates from the 2014 FIFA World Cup.</desc>
+  </programme>
+  <programme start="20140502223000 +0000" stop="20140502233000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">ترانز وورلد سبورتس 2014</title>
+    <title lang="en">Trans World Sports 2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program features highlights of the latest sports news. It invites the best sports person to discuss the details and evaluate the performance of players and referees.</desc>
+  </programme>
+  <programme start="20140502233000 +0000" stop="20140503000000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">هاوسز أوف غلوري 2013</title>
+    <title lang="en">Houses Of Glory 2013</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show focusses on different stadiums around the world that house several sports and looks at what makes these stadiums special.</desc>
+  </programme>
+  <programme start="20140503000000 +0000" stop="20140503020000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">آي إيه إيه إف وورلد ريس واكنغ كب 2014</title>
+    <title lang="en">IAAF World Race Walking Cup 2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The program features the 2014 IAAF World Race Walking Cup in the Chinese city of Taicang.</desc>
+  </programme>
+  <programme start="20140503020000 +0000" stop="20140503031500 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">إن سي إيه إيه مينز كوليج باسكيتبول 2013/2014</title>
+    <title lang="en">NCAA Men's College Basketball 2013/2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program features highlights of the NCAA Men's College Basketball, which is organized by the National Collegiate Athletic Association.</desc>
+  </programme>
+  <programme start="20140503031500 +0000" stop="20140503052000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">آي إيه إيه إف وورلد تشلنج 2014</title>
+    <title lang="en">IAAF World Challenge 2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This program features an annual global circuit of fourteen one day athletics competitions organized by the International Association of Athletics Federations.</desc>
+  </programme>
+  <programme start="20140503052000 +0000" stop="20140503055500 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">هاوسز أوف غلوري 2013</title>
+    <title lang="en">Houses Of Glory 2013</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show focusses on different stadiums around the world that house several sports and looks at what makes these stadiums special.</desc>
+  </programme>
+  <programme start="20140503055500 +0000" stop="20140503073000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">إن سي إيه إيه مينز كوليج باسكيتبول 2013/2014</title>
+    <title lang="en">NCAA Men's College Basketball 2013/2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program features highlights of the NCAA Men's College Basketball, which is organized by the National Collegiate Athletic Association.</desc>
+  </programme>
+  <programme start="20140503073000 +0000" stop="20140503080000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">ناشونال آيكونز</title>
+    <title lang="en">National Icons</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show features an insight into international football and examines the lives and careers of football's greatest players.</desc>
+  </programme>
+  <programme start="20140503080000 +0000" stop="20140503085500 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">بي في بي وورلد 2013</title>
+    <title lang="en">BVB World 2013</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sport magazine program highlights the latest and most important sports news and events for the Borussia Dortmund. It also hosts the players and members of the club management.</desc>
+  </programme>
+  <programme start="20140503085500 +0000" stop="20140503103500 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">إن سي إيه إيه مينز كوليج باسكيتبول 2013/2014</title>
+    <title lang="en">NCAA Men's College Basketball 2013/2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program features highlights of the NCAA Men's College Basketball, which is organized by the National Collegiate Athletic Association.</desc>
+  </programme>
+  <programme start="20140503103500 +0000" stop="20140503110000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">ناشونال آيكونز</title>
+    <title lang="en">National Icons</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show features an insight into international football and examines the lives and careers of football's greatest players.</desc>
+  </programme>
+  <programme start="20140503110000 +0000" stop="20140503113000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">فيفا فوتبول مونديال 2014 </title>
+    <title lang="en">FIFA Futbol Mundial 2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show features the latest news, match fixtures and updates from the 2014 FIFA World Cup.</desc>
+  </programme>
+  <programme start="20140503113000 +0000" stop="20140503115500 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">فوتبول فريستايلر</title>
+    <title lang="en">Football Freestyler</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program meets skilled footballers to talk about their talent. The program gives them a chance to present their skills in order to encourage them.</desc>
+  </programme>
+  <programme start="20140503115500 +0000" stop="20140503131500 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">إن سي إيه إيه مينز كوليج باسكيتبول 2013/2014</title>
+    <title lang="en">NCAA Men's College Basketball 2013/2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program features highlights of the NCAA Men's College Basketball, which is organized by the National Collegiate Athletic Association.</desc>
+  </programme>
+  <programme start="20140503131500 +0000" stop="20140503134000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">ريفاريز</title>
+    <title lang="en">Rivalries</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program.</desc>
+  </programme>
+  <programme start="20140503134000 +0000" stop="20140503140500 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">فيفا فوتبول مونديال 2014 </title>
+    <title lang="en">FIFA Futbol Mundial 2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show features the latest news, match fixtures and updates from the 2014 FIFA World Cup.</desc>
+  </programme>
+  <programme start="20140503140500 +0000" stop="20140503150000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">بي في بي وورلد 2013</title>
+    <title lang="en">BVB World 2013</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sport magazine program highlights the latest and most important sports news and events for the Borussia Dortmund. It also hosts the players and members of the club management.</desc>
+  </programme>
+  <programme start="20140503150000 +0000" stop="20140503153000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">ناشونال آيكونز</title>
+    <title lang="en">National Icons</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show features an insight into international football and examines the lives and careers of football's greatest players.</desc>
+  </programme>
+  <programme start="20140503153000 +0000" stop="20140503170500 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">إن سي إيه إيه مينز كوليج باسكيتبول 2013/2014</title>
+    <title lang="en">NCAA Men's College Basketball 2013/2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program features highlights of the NCAA Men's College Basketball, which is organized by the National Collegiate Athletic Association.</desc>
+  </programme>
+  <programme start="20140503170500 +0000" stop="20140503180500 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">ترانز وورلد سبورتس 2014</title>
+    <title lang="en">Trans World Sports 2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program features highlights of the latest sports news. It invites the best sports person to discuss the details and evaluate the performance of players and referees.</desc>
+  </programme>
+  <programme start="20140503180500 +0000" stop="20140503183000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">بي في بي وورلد 2013</title>
+    <title lang="en">BVB World 2013</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sport magazine program highlights the latest and most important sports news and events for the Borussia Dortmund. It also hosts the players and members of the club management.</desc>
+  </programme>
+  <programme start="20140503183000 +0000" stop="20140503190000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">بي في بي وورلد 2013</title>
+    <title lang="en">BVB World 2013</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sport magazine program highlights the latest and most important sports news and events for the Borussia Dortmund. It also hosts the players and members of the club management.</desc>
+  </programme>
+  <programme start="20140503190000 +0000" stop="20140503193000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">هاوسز أوف غلوري 2013</title>
+    <title lang="en">Houses Of Glory 2013</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show focusses on different stadiums around the world that house several sports and looks at what makes these stadiums special.</desc>
+  </programme>
+  <programme start="20140503193000 +0000" stop="20140503200000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">فيفا فوتبول مونديال 2014 </title>
+    <title lang="en">FIFA Futbol Mundial 2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show features the latest news, match fixtures and updates from the 2014 FIFA World Cup.</desc>
+  </programme>
+  <programme start="20140503200000 +0000" stop="20140503213700 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">إن سي إيه إيه مينز كوليج باسكيتبول 2013/2014</title>
+    <title lang="en">NCAA Men's College Basketball 2013/2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program features highlights of the NCAA Men's College Basketball, which is organized by the National Collegiate Athletic Association.</desc>
+  </programme>
+  <programme start="20140503213700 +0000" stop="20140503220400 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">ريفاريز</title>
+    <title lang="en">Rivalries</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program.</desc>
+  </programme>
+  <programme start="20140503220400 +0000" stop="20140503223200 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">هاوسز أوف غلوري 2013</title>
+    <title lang="en">Houses Of Glory 2013</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show focusses on different stadiums around the world that house several sports and looks at what makes these stadiums special.</desc>
+  </programme>
+  <programme start="20140503223200 +0000" stop="20140503230000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">فوتبول فريستايلر</title>
+    <title lang="en">Football Freestyler</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program meets skilled footballers to talk about their talent. The program gives them a chance to present their skills in order to encourage them.</desc>
+  </programme>
+  <programme start="20140503230000 +0000" stop="20140503233500 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">ناشونال آيكونز</title>
+    <title lang="en">National Icons</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show features an insight into international football and examines the lives and careers of football's greatest players.</desc>
+  </programme>
+  <programme start="20140503233500 +0000" stop="20140504010000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">إن سي إيه إيه مينز كوليج باسكيتبول 2013/2014</title>
+    <title lang="en">NCAA Men's College Basketball 2013/2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program features highlights of the NCAA Men's College Basketball, which is organized by the National Collegiate Athletic Association.</desc>
+  </programme>
+  <programme start="20140504010000 +0000" stop="20140504030000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">آي إيه إيه إف وورلد ريس واكنغ كب 2014</title>
+    <title lang="en">IAAF World Race Walking Cup 2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The program features the 2014 IAAF World Race Walking Cup in the Chinese city of Taicang.</desc>
+  </programme>
+  <programme start="20140504030000 +0000" stop="20140504035300 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">ترانز وورلد سبورتس 2014</title>
+    <title lang="en">Trans World Sports 2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program features highlights of the latest sports news. It invites the best sports person to discuss the details and evaluate the performance of players and referees.</desc>
+  </programme>
+  <programme start="20140504035300 +0000" stop="20140504053000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">إن سي إيه إيه مينز كوليج باسكيتبول 2013/2014</title>
+    <title lang="en">NCAA Men's College Basketball 2013/2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program features highlights of the NCAA Men's College Basketball, which is organized by the National Collegiate Athletic Association.</desc>
+  </programme>
+  <programme start="20140504053000 +0000" stop="20140504060000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">فوتبول فريستايلر</title>
+    <title lang="en">Football Freestyler</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program meets skilled footballers to talk about their talent. The program gives them a chance to present their skills in order to encourage them.</desc>
+  </programme>
+  <programme start="20140504060000 +0000" stop="20140504063000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">فيفا فوتبول مونديال 2014 </title>
+    <title lang="en">FIFA Futbol Mundial 2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show features the latest news, match fixtures and updates from the 2014 FIFA World Cup.</desc>
+  </programme>
+  <programme start="20140504063000 +0000" stop="20140504070000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">هاوسز أوف غلوري 2013</title>
+    <title lang="en">Houses Of Glory 2013</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show focusses on different stadiums around the world that house several sports and looks at what makes these stadiums special.</desc>
+  </programme>
+  <programme start="20140504070000 +0000" stop="20140504073000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">ناشونال آيكونز</title>
+    <title lang="en">National Icons</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show features an insight into international football and examines the lives and careers of football's greatest players.</desc>
+  </programme>
+  <programme start="20140504073000 +0000" stop="20140504080000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">ريفاريز</title>
+    <title lang="en">Rivalries</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program.</desc>
+  </programme>
+  <programme start="20140504080000 +0000" stop="20140504110000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">مانشيستر سيتي فوتبول كلب بلوكس</title>
+    <title lang="en">Manchester City Football Club Blocks</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program.</desc>
+  </programme>
+  <programme start="20140504110000 +0000" stop="20140504120000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">
+    </title>
+    <title lang="en">IAAF World Race Walking Cup 2014 HLs</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140504120000 +0000" stop="20140504150000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">مانشيستر سيتي فوتبول كلب بلوكس</title>
+    <title lang="en">Manchester City Football Club Blocks</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program.</desc>
+  </programme>
+  <programme start="20140504150000 +0000" stop="20140504153000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">فيفا فوتبول مونديال 2014 </title>
+    <title lang="en">FIFA Futbol Mundial 2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show features the latest news, match fixtures and updates from the 2014 FIFA World Cup.</desc>
+  </programme>
+  <programme start="20140504153000 +0000" stop="20140504160500 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">هاوسز أوف غلوري 2013</title>
+    <title lang="en">Houses Of Glory 2013</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show focusses on different stadiums around the world that house several sports and looks at what makes these stadiums special.</desc>
+  </programme>
+  <programme start="20140504160500 +0000" stop="20140504170000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">
+    </title>
+    <title lang="en">IAAF World Race Walking Cup 2014 HLs</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140504170000 +0000" stop="20140504183000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">أول ناسكار سبرنت كب سيريز 2014</title>
+    <title lang="en">All NASCAR Sprint Cup Series 2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Live telecast of the races from the 2014 NASCAR Sprint Cup Series. Racing drivers from across the world contest in 36 races in order to win the prestigious drivers championship.</desc>
+  </programme>
+  <programme start="20140504183000 +0000" stop="20140504200000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">أول ناسكار سبرنت كب سيريز 2014</title>
+    <title lang="en">All NASCAR Sprint Cup Series 2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Live telecast of the races from the 2014 NASCAR Sprint Cup Series. Racing drivers from across the world contest in 36 races in order to win the prestigious drivers championship.</desc>
+  </programme>
+  <programme start="20140504200000 +0000" stop="20140504230000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">مانشيستر سيتي فوتبول كلب بلوكس</title>
+    <title lang="en">Manchester City Football Club Blocks</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program.</desc>
+  </programme>
+  <programme start="20140504230000 +0000" stop="20140504233000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">هاوسز أوف غلوري 2013</title>
+    <title lang="en">Houses Of Glory 2013</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show focusses on different stadiums around the world that house several sports and looks at what makes these stadiums special.</desc>
+  </programme>
+  <programme start="20140504233000 +0000" stop="20140504235500 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">ريفاريز</title>
+    <title lang="en">Rivalries</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program.</desc>
+  </programme>
+  <programme start="20140504235500 +0000" stop="20140505005000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">
+    </title>
+    <title lang="en">IAAF World Race Walking Cup 2014 HLs</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140505005000 +0000" stop="20140505023000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">إن سي إيه إيه مينز كوليج باسكيتبول 2013/2014</title>
+    <title lang="en">NCAA Men's College Basketball 2013/2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program features highlights of the NCAA Men's College Basketball, which is organized by the National Collegiate Athletic Association.</desc>
+  </programme>
+  <programme start="20140505023000 +0000" stop="20140505030500 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">هاوسز أوف غلوري 2013</title>
+    <title lang="en">Houses Of Glory 2013</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show focusses on different stadiums around the world that house several sports and looks at what makes these stadiums special.</desc>
+  </programme>
+  <programme start="20140505030500 +0000" stop="20140505040500 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">
+    </title>
+    <title lang="en">IAAF World Race Walking Cup 2014 HLs</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140505040500 +0000" stop="20140505053000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">إن سي إيه إيه مينز كوليج باسكيتبول 2013/2014</title>
+    <title lang="en">NCAA Men's College Basketball 2013/2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program features highlights of the NCAA Men's College Basketball, which is organized by the National Collegiate Athletic Association.</desc>
+  </programme>
+  <programme start="20140505053000 +0000" stop="20140505060000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">ناشونال آيكونز</title>
+    <title lang="en">National Icons</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show features an insight into international football and examines the lives and careers of football's greatest players.</desc>
+  </programme>
+  <programme start="20140505060000 +0000" stop="20140505090000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">مانشيستر سيتي فوتبول كلب بلوكس</title>
+    <title lang="en">Manchester City Football Club Blocks</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program.</desc>
+  </programme>
+  <programme start="20140505090000 +0000" stop="20140505100000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">أول ناسكار سبرنت كب سيريز 2014 هايلايتس</title>
+    <title lang="en">All NASCAR Sprint Cup Series 2014 HLs</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The 66th season of professional stock car racing will take place in the United States. The season kick starts at Daytona International Speedway and ends at Homestead-Miami Speedway.</desc>
+  </programme>
+  <programme start="20140505100000 +0000" stop="20140505130000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">مانشيستر سيتي فوتبول كلب بلوكس</title>
+    <title lang="en">Manchester City Football Club Blocks</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program.</desc>
+  </programme>
+  <programme start="20140505130000 +0000" stop="20140505140000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">
+    </title>
+    <title lang="en">IAAF World Race Walking Cup 2014 HLs</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140505140000 +0000" stop="20140505150000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">أول ناسكار سبرنت كب سيريز 2014 هايلايتس</title>
+    <title lang="en">All NASCAR Sprint Cup Series 2014 HLs</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The 66th season of professional stock car racing will take place in the United States. The season kick starts at Daytona International Speedway and ends at Homestead-Miami Speedway.</desc>
+  </programme>
+  <programme start="20140505150000 +0000" stop="20140505180000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">مانشيستر سيتي فوتبول كلب بلوكس</title>
+    <title lang="en">Manchester City Football Club Blocks</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program.</desc>
+  </programme>
+  <programme start="20140505180000 +0000" stop="20140505183000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">أول ناسكار سبرنت كب سيريز 2014 هايلايتس</title>
+    <title lang="en">All NASCAR Sprint Cup Series 2014 HLs</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The 66th season of professional stock car racing will take place in the United States. The season kick starts at Daytona International Speedway and ends at Homestead-Miami Speedway.</desc>
+  </programme>
+  <programme start="20140505183000 +0000" stop="20140505190000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">أول ناسكار سبرنت كب سيريز 2014 هايلايتس</title>
+    <title lang="en">All NASCAR Sprint Cup Series 2014 HLs</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The 66th season of professional stock car racing will take place in the United States. The season kick starts at Daytona International Speedway and ends at Homestead-Miami Speedway.</desc>
+  </programme>
+  <programme start="20140505190000 +0000" stop="20140505200000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">
+    </title>
+    <title lang="en">IAAF World Race Walking Cup 2014 HLs</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140505200000 +0000" stop="20140505213500 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">إن سي إيه إيه مينز كوليج باسكيتبول 2013/2014</title>
+    <title lang="en">NCAA Men's College Basketball 2013/2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program features highlights of the NCAA Men's College Basketball, which is organized by the National Collegiate Athletic Association.</desc>
+  </programme>
+  <programme start="20140505213500 +0000" stop="20140505220500 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">هاوسز أوف غلوري 2013</title>
+    <title lang="en">Houses Of Glory 2013</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show focusses on different stadiums around the world that house several sports and looks at what makes these stadiums special.</desc>
+  </programme>
+  <programme start="20140505220500 +0000" stop="20140505223000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">ريفاريز</title>
+    <title lang="en">Rivalries</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program.</desc>
+  </programme>
+  <programme start="20140505223000 +0000" stop="20140505230000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">ناشونال آيكونز</title>
+    <title lang="en">National Icons</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show features an insight into international football and examines the lives and careers of football's greatest players.</desc>
+  </programme>
+  <programme start="20140505230000 +0000" stop="20140506000000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">أول ناسكار سبرنت كب سيريز 2014 هايلايتس</title>
+    <title lang="en">All NASCAR Sprint Cup Series 2014 HLs</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The 66th season of professional stock car racing will take place in the United States. The season kick starts at Daytona International Speedway and ends at Homestead-Miami Speedway.</desc>
+  </programme>
+  <programme start="20140506000000 +0000" stop="20140506013000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">إن سي إيه إيه مينز كوليج باسكيتبول 2013/2014</title>
+    <title lang="en">NCAA Men's College Basketball 2013/2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program features highlights of the NCAA Men's College Basketball, which is organized by the National Collegiate Athletic Association.</desc>
+  </programme>
+  <programme start="20140506013000 +0000" stop="20140506020000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">ريفاريز</title>
+    <title lang="en">Rivalries</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program.</desc>
+  </programme>
+  <programme start="20140506020000 +0000" stop="20140506023000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">فوتبول فريستايلر</title>
+    <title lang="en">Football Freestyler</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program meets skilled footballers to talk about their talent. The program gives them a chance to present their skills in order to encourage them.</desc>
+  </programme>
+  <programme start="20140506023000 +0000" stop="20140506030000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">ناشونال آيكونز</title>
+    <title lang="en">National Icons</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show features an insight into international football and examines the lives and careers of football's greatest players.</desc>
+  </programme>
+  <programme start="20140506030000 +0000" stop="20140506040000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">أول ناسكار سبرنت كب سيريز 2014 هايلايتس</title>
+    <title lang="en">All NASCAR Sprint Cup Series 2014 HLs</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The 66th season of professional stock car racing will take place in the United States. The season kick starts at Daytona International Speedway and ends at Homestead-Miami Speedway.</desc>
+  </programme>
+  <programme start="20140506040000 +0000" stop="20140506070000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">مانشيستر سيتي فوتبول كلب بلوكس</title>
+    <title lang="en">Manchester City Football Club Blocks</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program.</desc>
+  </programme>
+  <programme start="20140506070000 +0000" stop="20140506080000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">أول ناسكار سبرنت كب سيريز 2014 هايلايتس</title>
+    <title lang="en">All NASCAR Sprint Cup Series 2014 HLs</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The 66th season of professional stock car racing will take place in the United States. The season kick starts at Daytona International Speedway and ends at Homestead-Miami Speedway.</desc>
+  </programme>
+  <programme start="20140506080000 +0000" stop="20140506110000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">أول ناسكار سبرنت كب سيريز 2014</title>
+    <title lang="en">All NASCAR Sprint Cup Series 2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Live telecast of the races from the 2014 NASCAR Sprint Cup Series. Racing drivers from across the world contest in 36 races in order to win the prestigious drivers championship.</desc>
+  </programme>
+  <programme start="20140506110000 +0000" stop="20140506113000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">ناشونال آيكونز</title>
+    <title lang="en">National Icons</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show features an insight into international football and examines the lives and careers of football's greatest players.</desc>
+  </programme>
+  <programme start="20140506113000 +0000" stop="20140506130000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">إن سي إيه إيه مينز كوليج باسكيتبول 2013/2014</title>
+    <title lang="en">NCAA Men's College Basketball 2013/2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program features highlights of the NCAA Men's College Basketball, which is organized by the National Collegiate Athletic Association.</desc>
+  </programme>
+  <programme start="20140506130000 +0000" stop="20140506140000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">أول ناسكار سبرنت كب سيريز 2014 هايلايتس</title>
+    <title lang="en">All NASCAR Sprint Cup Series 2014 HLs</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The 66th season of professional stock car racing will take place in the United States. The season kick starts at Daytona International Speedway and ends at Homestead-Miami Speedway.</desc>
+  </programme>
+  <programme start="20140506140000 +0000" stop="20140506170000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">أول ناسكار سبرنت كب سيريز 2014</title>
+    <title lang="en">All NASCAR Sprint Cup Series 2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Live telecast of the races from the 2014 NASCAR Sprint Cup Series. Racing drivers from across the world contest in 36 races in order to win the prestigious drivers championship.</desc>
+  </programme>
+  <programme start="20140506170000 +0000" stop="20140506173000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">ناشونال آيكونز</title>
+    <title lang="en">National Icons</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show features an insight into international football and examines the lives and careers of football's greatest players.</desc>
+  </programme>
+  <programme start="20140506173000 +0000" stop="20140506183000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">إن سي إيه إيه مينز كوليج باسكيتبول 2013/2014</title>
+    <title lang="en">NCAA Men's College Basketball 2013/2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program features highlights of the NCAA Men's College Basketball, which is organized by the National Collegiate Athletic Association.</desc>
+  </programme>
+  <programme start="20140506183000 +0000" stop="20140506190000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">إن سي إيه إيه مينز كوليج باسكيتبول 2013/2014</title>
+    <title lang="en">NCAA Men's College Basketball 2013/2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program features highlights of the NCAA Men's College Basketball, which is organized by the National Collegiate Athletic Association.</desc>
+  </programme>
+  <programme start="20140506190000 +0000" stop="20140506200000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">أول ناسكار سبرنت كب سيريز 2014 هايلايتس</title>
+    <title lang="en">All NASCAR Sprint Cup Series 2014 HLs</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The 66th season of professional stock car racing will take place in the United States. The season kick starts at Daytona International Speedway and ends at Homestead-Miami Speedway.</desc>
+  </programme>
+  <programme start="20140506200000 +0000" stop="20140506230000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">أول ناسكار سبرنت كب سيريز 2014</title>
+    <title lang="en">All NASCAR Sprint Cup Series 2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Live telecast of the races from the 2014 NASCAR Sprint Cup Series. Racing drivers from across the world contest in 36 races in order to win the prestigious drivers championship.</desc>
+  </programme>
+  <programme start="20140506230000 +0000" stop="20140506233000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">فوتبول فريستايلر</title>
+    <title lang="en">Football Freestyler</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program meets skilled footballers to talk about their talent. The program gives them a chance to present their skills in order to encourage them.</desc>
+  </programme>
+  <programme start="20140506233000 +0000" stop="20140507010000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">إن سي إيه إيه مينز كوليج باسكيتبول 2013/2014</title>
+    <title lang="en">NCAA Men's College Basketball 2013/2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program features highlights of the NCAA Men's College Basketball, which is organized by the National Collegiate Athletic Association.</desc>
+  </programme>
+  <programme start="20140507010000 +0000" stop="20140507020000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">أول ناسكار سبرنت كب سيريز 2014 هايلايتس</title>
+    <title lang="en">All NASCAR Sprint Cup Series 2014 HLs</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The 66th season of professional stock car racing will take place in the United States. The season kick starts at Daytona International Speedway and ends at Homestead-Miami Speedway.</desc>
+  </programme>
+  <programme start="20140507020000 +0000" stop="20140507030000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">بي في بي وورلد 2013</title>
+    <title lang="en">BVB World 2013</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sport magazine program highlights the latest and most important sports news and events for the Borussia Dortmund. It also hosts the players and members of the club management.</desc>
+  </programme>
+  <programme start="20140507030000 +0000" stop="20140507033000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">فوتبول فريستايلر</title>
+    <title lang="en">Football Freestyler</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program meets skilled footballers to talk about their talent. The program gives them a chance to present their skills in order to encourage them.</desc>
+  </programme>
+  <programme start="20140507033000 +0000" stop="20140507040000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">فيفا فوتبول مونديال 2014 </title>
+    <title lang="en">FIFA Futbol Mundial 2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show features the latest news, match fixtures and updates from the 2014 FIFA World Cup.</desc>
+  </programme>
+  <programme start="20140507040000 +0000" stop="20140507053000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">إن سي إيه إيه مينز كوليج باسكيتبول 2013/2014</title>
+    <title lang="en">NCAA Men's College Basketball 2013/2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program features highlights of the NCAA Men's College Basketball, which is organized by the National Collegiate Athletic Association.</desc>
+  </programme>
+  <programme start="20140507053000 +0000" stop="20140507060000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">فوتبول فريستايلر</title>
+    <title lang="en">Football Freestyler</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program meets skilled footballers to talk about their talent. The program gives them a chance to present their skills in order to encourage them.</desc>
+  </programme>
+  <programme start="20140507060000 +0000" stop="20140507070000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">أول ناسكار سبرنت كب سيريز 2014 هايلايتس</title>
+    <title lang="en">All NASCAR Sprint Cup Series 2014 HLs</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The 66th season of professional stock car racing will take place in the United States. The season kick starts at Daytona International Speedway and ends at Homestead-Miami Speedway.</desc>
+  </programme>
+  <programme start="20140507070000 +0000" stop="20140507080000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">
+    </title>
+    <title lang="en">IAAF World Race Walking Cup 2014 HLs</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140507080000 +0000" stop="20140507093000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">إن سي إيه إيه مينز كوليج باسكيتبول 2013/2014</title>
+    <title lang="en">NCAA Men's College Basketball 2013/2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program features highlights of the NCAA Men's College Basketball, which is organized by the National Collegiate Athletic Association.</desc>
+  </programme>
+  <programme start="20140507093000 +0000" stop="20140507100000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">فيفا فوتبول مونديال 2014 </title>
+    <title lang="en">FIFA Futbol Mundial 2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show features the latest news, match fixtures and updates from the 2014 FIFA World Cup.</desc>
+  </programme>
+  <programme start="20140507100000 +0000" stop="20140507110000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">أول ناسكار سبرنت كب سيريز 2014 هايلايتس</title>
+    <title lang="en">All NASCAR Sprint Cup Series 2014 HLs</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The 66th season of professional stock car racing will take place in the United States. The season kick starts at Daytona International Speedway and ends at Homestead-Miami Speedway.</desc>
+  </programme>
+  <programme start="20140507110000 +0000" stop="20140507140000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">أول ناسكار سبرنت كب سيريز 2014</title>
+    <title lang="en">All NASCAR Sprint Cup Series 2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Live telecast of the races from the 2014 NASCAR Sprint Cup Series. Racing drivers from across the world contest in 36 races in order to win the prestigious drivers championship.</desc>
+  </programme>
+  <programme start="20140507140000 +0000" stop="20140507143000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">فيفا فوتبول مونديال 2014 </title>
+    <title lang="en">FIFA Futbol Mundial 2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show features the latest news, match fixtures and updates from the 2014 FIFA World Cup.</desc>
+  </programme>
+  <programme start="20140507143000 +0000" stop="20140507160000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">إن سي إيه إيه مينز كوليج باسكيتبول 2013/2014</title>
+    <title lang="en">NCAA Men's College Basketball 2013/2014</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program features highlights of the NCAA Men's College Basketball, which is organized by the National Collegiate Athletic Association.</desc>
+  </programme>
+  <programme start="20140507160000 +0000" stop="20140507170000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">بي في بي وورلد 2013</title>
+    <title lang="en">BVB World 2013</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sport magazine program highlights the latest and most important sports news and events for the Borussia Dortmund. It also hosts the players and members of the club management.</desc>
+  </programme>
+  <programme start="20140507170000 +0000" stop="20140507180000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">أول ناسكار سبرنت كب سيريز 2014 هايلايتس</title>
+    <title lang="en">All NASCAR Sprint Cup Series 2014 HLs</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The 66th season of professional stock car racing will take place in the United States. The season kick starts at Daytona International Speedway and ends at Homestead-Miami Speedway.</desc>
+  </programme>
+  <programme start="20140507180000 +0000" stop="20140507183000 +0000" vps-start="19700101000000 19700101000000" channel="9770">
+    <title lang="ar">ناشونال آيكونز</title>
+    <title lang="en">National Icons</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show features an insight into international football and examines the lives and careers of football's greatest players.</desc>
+  </programme>
+</tv>

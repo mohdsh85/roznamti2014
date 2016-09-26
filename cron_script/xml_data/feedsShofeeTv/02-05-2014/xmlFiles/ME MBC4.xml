@@ -1,0 +1,1606 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd"[]>
+<tv generator-info-name="ShooFeeTV listings">
+  <Range>
+    <Start>20140204183000</Start>
+    <End>20140210183000</End>
+  </Range>
+  <channel id="1770">
+    <display-name lang="ar">إم بي سي 4</display-name>
+    <display-name lang="en">ME MBC4</display-name>
+  </channel>
+  <programme start="20140204183000 +0000" stop="20140204190000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">
+    </title>
+    <title lang="en">Loghz Al Madi</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140204190000 +0000" stop="20140204200000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">حب في مهب الريح</title>
+    <title lang="en">Hub Fi Mahab Arreeh</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Social series highlights bad adjectives people have in order to reach what they want, like exploitation, selfishness and cunning, through the story of Nihad, Yusuf and Salwa.</desc>
+  </programme>
+  <programme start="20140204200000 +0000" stop="20140204210000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">هاوس</title>
+    <title lang="en">House</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This show follows the brilliant but cranky Dr House as he leads an elite medical team to solve bizarre illnesses and save lives despite his own constant physical pain.</desc>
+    <credits>
+      <actor>Jennifer Morrison</actor>
+      <actor>Lisa Edelstein</actor>
+      <actor>Omar Epps</actor>
+      <actor>Robert Sean Leonard</actor>
+      <actor>Peter Jacobson</actor>
+      <actor>Hugh Laurie</actor>
+      <actor>Olivia Wilde</actor>
+      <actor>Jesse Spencer</actor>
+    </credits>
+  </programme>
+  <programme start="20140204210000 +0000" stop="20140204220000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">
+    </title>
+    <title lang="en">Qubla Mareha</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140204220000 +0000" stop="20140204230000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">
+    </title>
+    <title lang="en">Loghz Al Madi</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140204230000 +0000" stop="20140205003000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">حب في مهب الريح</title>
+    <title lang="en">Hub Fi Mahab Arreeh</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Social series highlights bad adjectives people have in order to reach what they want, like exploitation, selfishness and cunning, through the story of Nihad, Yusuf and Salwa.</desc>
+  </programme>
+  <programme start="20140205003000 +0000" stop="20140205010000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">لعبة الموت</title>
+    <title lang="en">Lo'bat Al Mawt</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around a pretty girl named Naya whose husband tries hard to protect her.
+His behavior forces her to ask for divorce and when he refuses, she commits suicide.</desc>
+  </programme>
+  <programme start="20140205010000 +0000" stop="20140205013000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">إنترتاينمينت تونايت</title>
+    <title lang="en">Entertainment Tonight</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show features a steady stream of entertainment news stories on celebrities, film, television, music, fashion, award shows and special events.</desc>
+  </programme>
+  <programme start="20140205013000 +0000" stop="20140205014500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">
+    </title>
+    <title lang="en">Insider</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140205014500 +0000" stop="20140205023000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">لات شو ويذ دايفيد ليترمان</title>
+    <title lang="en">Late Show With David Letterman</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">An American late-night talk show hosted by legendary comedian David Letterman, who interviews guests and hosts musical performances.</desc>
+  </programme>
+  <programme start="20140205023000 +0000" stop="20140205030000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">
+    </title>
+    <title lang="en">Mr. Sunshine</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Ben Donovan is the manager for the Sunshine Center, a second-tier arena in San Diego, and has to deal between the unpredictable demands of his job and his whimsical boss.</desc>
+    <credits>
+      <actor>James Lesure</actor>
+      <actor>Matthew Perry</actor>
+      <actor>Andrea Anders</actor>
+    </credits>
+  </programme>
+  <programme start="20140205030000 +0000" stop="20140205034500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">دايز أوف أور لايفز</title>
+    <title lang="en">Days Of Our Lives</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Like sands through the hourglass... So are the Days of Our Lives... These words open every episode of this daytime drama, chronicling the trials and tribulations of the citizens of the city of Salem.</desc>
+    <credits>
+      <actor>Deidre Hall</actor>
+    </credits>
+  </programme>
+  <programme start="20140205034500 +0000" stop="20140205043000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">أثير الحب</title>
+    <title lang="en">Atheer Al Hob</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Camilla who is awaiting her wedding day from Santiago, but they are attacked on their wedding day by George.</desc>
+  </programme>
+  <programme start="20140205043000 +0000" stop="20140205050000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">إنترتاينمينت تونايت</title>
+    <title lang="en">Entertainment Tonight</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show features a steady stream of entertainment news stories on celebrities, film, television, music, fashion, award shows and special events.</desc>
+  </programme>
+  <programme start="20140205050000 +0000" stop="20140205054500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">
+    </title>
+    <title lang="en">Supernanny</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140205054500 +0000" stop="20140205060000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">
+    </title>
+    <title lang="en">Mr. Sunshine</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Ben Donovan is the manager for the Sunshine Center, a second-tier arena in San Diego, and has to deal between the unpredictable demands of his job and his whimsical boss.</desc>
+    <credits>
+      <actor>James Lesure</actor>
+      <actor>Matthew Perry</actor>
+      <actor>Andrea Anders</actor>
+    </credits>
+  </programme>
+  <programme start="20140205060000 +0000" stop="20140205064500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">ذا توك</title>
+    <title lang="en">The Talk</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A talk show that discusses the day's latest headlines. It also contains celebrity interviews and segments for mothers and parents in general.</desc>
+  </programme>
+  <programme start="20140205064500 +0000" stop="20140205073000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">دايز أوف أور لايفز</title>
+    <title lang="en">Days Of Our Lives</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Like sands through the hourglass... So are the Days of Our Lives... These words open every episode of this daytime drama, chronicling the trials and tribulations of the citizens of the city of Salem.</desc>
+    <credits>
+      <actor>Deidre Hall</actor>
+    </credits>
+  </programme>
+  <programme start="20140205073000 +0000" stop="20140205081500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">هاوس</title>
+    <title lang="en">House</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This show follows the brilliant but cranky Dr House as he leads an elite medical team to solve bizarre illnesses and save lives despite his own constant physical pain.</desc>
+    <credits>
+      <actor>Jennifer Morrison</actor>
+      <actor>Lisa Edelstein</actor>
+      <actor>Omar Epps</actor>
+      <actor>Robert Sean Leonard</actor>
+      <actor>Peter Jacobson</actor>
+      <actor>Hugh Laurie</actor>
+      <actor>Olivia Wilde</actor>
+      <actor>Jesse Spencer</actor>
+    </credits>
+  </programme>
+  <programme start="20140205081500 +0000" stop="20140205090000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">دكتور شيف</title>
+    <title lang="en">Dr. Chef</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Entertainment based program.</desc>
+  </programme>
+  <programme start="20140205090000 +0000" stop="20140205100000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">
+    </title>
+    <title lang="en">Home Shopping</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140205100000 +0000" stop="20140205104500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">لعبة الموت</title>
+    <title lang="en">Lo'bat Al Mawt</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around a pretty girl named Naya whose husband tries hard to protect her.
+His behavior forces her to ask for divorce and when he refuses, she commits suicide.</desc>
+  </programme>
+  <programme start="20140205104500 +0000" stop="20140205113000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">حب في مهب الريح</title>
+    <title lang="en">Hub Fi Mahab Arreeh</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Social series highlights bad adjectives people have in order to reach what they want, like exploitation, selfishness and cunning, through the story of Nihad, Yusuf and Salwa.</desc>
+  </programme>
+  <programme start="20140205113000 +0000" stop="20140205121500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">
+    </title>
+    <title lang="en">Loghz Al Madi</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140205121500 +0000" stop="20140205130000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">
+    </title>
+    <title lang="en">Gilmore Girls</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show revolves around the Independence Inn's manager, Lorelai Gilmore, and her willful daughter, Rory. The show's appeal lies in its mix of family issues and hip attitude.</desc>
+    <credits>
+      <actor>Kelly Bishop</actor>
+      <actor>Scott Patterson</actor>
+      <actor>Alexis Bledel</actor>
+      <actor>Lauren Graham</actor>
+    </credits>
+  </programme>
+  <programme start="20140205130000 +0000" stop="20140205140000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">ذا دوكتورز</title>
+    <title lang="en">The Doctors</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A team of medical professionals discusses a range of health related topics and answers questions from the audience.</desc>
+  </programme>
+  <programme start="20140205140000 +0000" stop="20140205150000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">
+    </title>
+    <title lang="en">Qubla Mareha</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140205150000 +0000" stop="20140205160000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">دكتور شيف</title>
+    <title lang="en">Dr. Chef</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Entertainment based program.</desc>
+  </programme>
+  <programme start="20140205160000 +0000" stop="20140205170000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">لعبة الموت</title>
+    <title lang="en">Lo'bat Al Mawt</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around a pretty girl named Naya whose husband tries hard to protect her.
+His behavior forces her to ask for divorce and when he refuses, she commits suicide.</desc>
+  </programme>
+  <programme start="20140205170000 +0000" stop="20140205180000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">أثير الحب</title>
+    <title lang="en">Atheer Al Hob</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Camilla who is awaiting her wedding day from Santiago, but they are attacked on their wedding day by George.</desc>
+  </programme>
+  <programme start="20140205180000 +0000" stop="20140205183000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">
+    </title>
+    <title lang="en">Loghz Al Madi</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140205183000 +0000" stop="20140205190000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">
+    </title>
+    <title lang="en">Loghz Al Madi</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140205190000 +0000" stop="20140205200000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">حب في مهب الريح</title>
+    <title lang="en">Hub Fi Mahab Arreeh</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Social series highlights bad adjectives people have in order to reach what they want, like exploitation, selfishness and cunning, through the story of Nihad, Yusuf and Salwa.</desc>
+  </programme>
+  <programme start="20140205200000 +0000" stop="20140205210000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">هاوس</title>
+    <title lang="en">House</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This show follows the brilliant but cranky Dr House as he leads an elite medical team to solve bizarre illnesses and save lives despite his own constant physical pain.</desc>
+    <credits>
+      <actor>Jennifer Morrison</actor>
+      <actor>Lisa Edelstein</actor>
+      <actor>Omar Epps</actor>
+      <actor>Robert Sean Leonard</actor>
+      <actor>Peter Jacobson</actor>
+      <actor>Hugh Laurie</actor>
+      <actor>Olivia Wilde</actor>
+      <actor>Jesse Spencer</actor>
+    </credits>
+  </programme>
+  <programme start="20140205210000 +0000" stop="20140205220000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">
+    </title>
+    <title lang="en">Qubla Mareha</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140205220000 +0000" stop="20140205230000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">
+    </title>
+    <title lang="en">Loghz Al Madi</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140205230000 +0000" stop="20140206003000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">حب في مهب الريح</title>
+    <title lang="en">Hub Fi Mahab Arreeh</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Social series highlights bad adjectives people have in order to reach what they want, like exploitation, selfishness and cunning, through the story of Nihad, Yusuf and Salwa.</desc>
+  </programme>
+  <programme start="20140206003000 +0000" stop="20140206010000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">لعبة الموت</title>
+    <title lang="en">Lo'bat Al Mawt</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around a pretty girl named Naya whose husband tries hard to protect her.
+His behavior forces her to ask for divorce and when he refuses, she commits suicide.</desc>
+  </programme>
+  <programme start="20140206010000 +0000" stop="20140206013000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">إنترتاينمينت تونايت</title>
+    <title lang="en">Entertainment Tonight</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show features a steady stream of entertainment news stories on celebrities, film, television, music, fashion, award shows and special events.</desc>
+  </programme>
+  <programme start="20140206013000 +0000" stop="20140206014500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">
+    </title>
+    <title lang="en">Insider</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140206014500 +0000" stop="20140206023000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">لات شو ويذ دايفيد ليترمان</title>
+    <title lang="en">Late Show With David Letterman</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">An American late-night talk show hosted by legendary comedian David Letterman, who interviews guests and hosts musical performances.</desc>
+  </programme>
+  <programme start="20140206023000 +0000" stop="20140206030000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">
+    </title>
+    <title lang="en">Mr. Sunshine</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Ben Donovan is the manager for the Sunshine Center, a second-tier arena in San Diego, and has to deal between the unpredictable demands of his job and his whimsical boss.</desc>
+    <credits>
+      <actor>James Lesure</actor>
+      <actor>Matthew Perry</actor>
+      <actor>Andrea Anders</actor>
+    </credits>
+  </programme>
+  <programme start="20140206030000 +0000" stop="20140206034500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">دايز أوف أور لايفز</title>
+    <title lang="en">Days Of Our Lives</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Like sands through the hourglass... So are the Days of Our Lives... These words open every episode of this daytime drama, chronicling the trials and tribulations of the citizens of the city of Salem.</desc>
+    <credits>
+      <actor>Deidre Hall</actor>
+    </credits>
+  </programme>
+  <programme start="20140206034500 +0000" stop="20140206043000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">أثير الحب</title>
+    <title lang="en">Atheer Al Hob</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Camilla who is awaiting her wedding day from Santiago, but they are attacked on their wedding day by George.</desc>
+  </programme>
+  <programme start="20140206043000 +0000" stop="20140206050000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">إنترتاينمينت تونايت</title>
+    <title lang="en">Entertainment Tonight</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show features a steady stream of entertainment news stories on celebrities, film, television, music, fashion, award shows and special events.</desc>
+  </programme>
+  <programme start="20140206050000 +0000" stop="20140206054500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">
+    </title>
+    <title lang="en">Supernanny</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140206054500 +0000" stop="20140206060000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">
+    </title>
+    <title lang="en">Mr. Sunshine</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Ben Donovan is the manager for the Sunshine Center, a second-tier arena in San Diego, and has to deal between the unpredictable demands of his job and his whimsical boss.</desc>
+    <credits>
+      <actor>James Lesure</actor>
+      <actor>Matthew Perry</actor>
+      <actor>Andrea Anders</actor>
+    </credits>
+  </programme>
+  <programme start="20140206060000 +0000" stop="20140206064500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">ذا توك</title>
+    <title lang="en">The Talk</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A talk show that discusses the day's latest headlines. It also contains celebrity interviews and segments for mothers and parents in general.</desc>
+  </programme>
+  <programme start="20140206064500 +0000" stop="20140206073000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">دايز أوف أور لايفز</title>
+    <title lang="en">Days Of Our Lives</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Like sands through the hourglass... So are the Days of Our Lives... These words open every episode of this daytime drama, chronicling the trials and tribulations of the citizens of the city of Salem.</desc>
+    <credits>
+      <actor>Deidre Hall</actor>
+    </credits>
+  </programme>
+  <programme start="20140206073000 +0000" stop="20140206081500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">هاوس</title>
+    <title lang="en">House</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This show follows the brilliant but cranky Dr House as he leads an elite medical team to solve bizarre illnesses and save lives despite his own constant physical pain.</desc>
+    <credits>
+      <actor>Jennifer Morrison</actor>
+      <actor>Lisa Edelstein</actor>
+      <actor>Omar Epps</actor>
+      <actor>Robert Sean Leonard</actor>
+      <actor>Peter Jacobson</actor>
+      <actor>Hugh Laurie</actor>
+      <actor>Olivia Wilde</actor>
+      <actor>Jesse Spencer</actor>
+    </credits>
+  </programme>
+  <programme start="20140206081500 +0000" stop="20140206090000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">دكتور شيف</title>
+    <title lang="en">Dr. Chef</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Entertainment based program.</desc>
+  </programme>
+  <programme start="20140206090000 +0000" stop="20140206100000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">
+    </title>
+    <title lang="en">Home Shopping</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140206100000 +0000" stop="20140206104500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">لعبة الموت</title>
+    <title lang="en">Lo'bat Al Mawt</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around a pretty girl named Naya whose husband tries hard to protect her.
+His behavior forces her to ask for divorce and when he refuses, she commits suicide.</desc>
+  </programme>
+  <programme start="20140206104500 +0000" stop="20140206113000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">حب في مهب الريح</title>
+    <title lang="en">Hub Fi Mahab Arreeh</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Social series highlights bad adjectives people have in order to reach what they want, like exploitation, selfishness and cunning, through the story of Nihad, Yusuf and Salwa.</desc>
+  </programme>
+  <programme start="20140206113000 +0000" stop="20140206121500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">
+    </title>
+    <title lang="en">Loghz Al Madi</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140206121500 +0000" stop="20140206130000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">
+    </title>
+    <title lang="en">Gilmore Girls</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show revolves around the Independence Inn's manager, Lorelai Gilmore, and her willful daughter, Rory. The show's appeal lies in its mix of family issues and hip attitude.</desc>
+    <credits>
+      <actor>Kelly Bishop</actor>
+      <actor>Scott Patterson</actor>
+      <actor>Alexis Bledel</actor>
+      <actor>Lauren Graham</actor>
+    </credits>
+  </programme>
+  <programme start="20140206130000 +0000" stop="20140206140000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">ذا دوكتورز</title>
+    <title lang="en">The Doctors</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A team of medical professionals discusses a range of health related topics and answers questions from the audience.</desc>
+  </programme>
+  <programme start="20140206140000 +0000" stop="20140206150000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">
+    </title>
+    <title lang="en">Qubla Mareha</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140206150000 +0000" stop="20140206160000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">دكتور شيف</title>
+    <title lang="en">Dr. Chef</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Entertainment based program.</desc>
+  </programme>
+  <programme start="20140206160000 +0000" stop="20140206170000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">لعبة الموت</title>
+    <title lang="en">Lo'bat Al Mawt</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around a pretty girl named Naya whose husband tries hard to protect her.
+His behavior forces her to ask for divorce and when he refuses, she commits suicide.</desc>
+  </programme>
+  <programme start="20140206170000 +0000" stop="20140206180000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">أثير الحب</title>
+    <title lang="en">Atheer Al Hob</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Camilla who is awaiting her wedding day from Santiago, but they are attacked on their wedding day by George.</desc>
+  </programme>
+  <programme start="20140206180000 +0000" stop="20140206183000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">
+    </title>
+    <title lang="en">Loghz Al Madi</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140206183000 +0000" stop="20140206190000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">
+    </title>
+    <title lang="en">Loghz Al Madi</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140206190000 +0000" stop="20140206200000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">حب في مهب الريح</title>
+    <title lang="en">Hub Fi Mahab Arreeh</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Social series highlights bad adjectives people have in order to reach what they want, like exploitation, selfishness and cunning, through the story of Nihad, Yusuf and Salwa.</desc>
+  </programme>
+  <programme start="20140206200000 +0000" stop="20140206203000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">إكسترا تركي</title>
+    <title lang="en">Extra Turkey</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A special report that highlights the latest Turkish drama productions and interviews the Turkish celebrities to talk about their latest works and news.</desc>
+  </programme>
+  <programme start="20140206203000 +0000" stop="20140206210000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">
+    </title>
+    <title lang="en">Parks and Recreation</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The series follows the ambitions of perennially upbeat mid-level bureaucrat Leslie Knope, on her quest to better the town of Pawnee, a fictional town in Indiana.</desc>
+    <credits>
+      <actor>Amy Poehler</actor>
+    </credits>
+  </programme>
+  <programme start="20140206210000 +0000" stop="20140206220000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">
+    </title>
+    <title lang="en">Qubla Mareha</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140206220000 +0000" stop="20140206233000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">
+    </title>
+    <title lang="en">Loghz Al Madi</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140206233000 +0000" stop="20140207003000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">حب في مهب الريح</title>
+    <title lang="en">Hub Fi Mahab Arreeh</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Social series highlights bad adjectives people have in order to reach what they want, like exploitation, selfishness and cunning, through the story of Nihad, Yusuf and Salwa.</desc>
+  </programme>
+  <programme start="20140207003000 +0000" stop="20140207010000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">لعبة الموت</title>
+    <title lang="en">Lo'bat Al Mawt</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around a pretty girl named Naya whose husband tries hard to protect her.
+His behavior forces her to ask for divorce and when he refuses, she commits suicide.</desc>
+  </programme>
+  <programme start="20140207010000 +0000" stop="20140207013000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">إنترتاينمينت تونايت</title>
+    <title lang="en">Entertainment Tonight</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show features a steady stream of entertainment news stories on celebrities, film, television, music, fashion, award shows and special events.</desc>
+  </programme>
+  <programme start="20140207013000 +0000" stop="20140207014500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">
+    </title>
+    <title lang="en">Insider</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140207014500 +0000" stop="20140207023000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">لات شو ويذ دايفيد ليترمان</title>
+    <title lang="en">Late Show With David Letterman</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">An American late-night talk show hosted by legendary comedian David Letterman, who interviews guests and hosts musical performances.</desc>
+  </programme>
+  <programme start="20140207023000 +0000" stop="20140207030000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">
+    </title>
+    <title lang="en">Mr. Sunshine</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Ben Donovan is the manager for the Sunshine Center, a second-tier arena in San Diego, and has to deal between the unpredictable demands of his job and his whimsical boss.</desc>
+    <credits>
+      <actor>James Lesure</actor>
+      <actor>Matthew Perry</actor>
+      <actor>Andrea Anders</actor>
+    </credits>
+  </programme>
+  <programme start="20140207030000 +0000" stop="20140207034500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">دايز أوف أور لايفز</title>
+    <title lang="en">Days Of Our Lives</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Like sands through the hourglass... So are the Days of Our Lives... These words open every episode of this daytime drama, chronicling the trials and tribulations of the citizens of the city of Salem.</desc>
+    <credits>
+      <actor>Deidre Hall</actor>
+    </credits>
+  </programme>
+  <programme start="20140207034500 +0000" stop="20140207043000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">أثير الحب</title>
+    <title lang="en">Atheer Al Hob</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Camilla who is awaiting her wedding day from Santiago, but they are attacked on their wedding day by George.</desc>
+  </programme>
+  <programme start="20140207043000 +0000" stop="20140207050000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">إنترتاينمينت تونايت</title>
+    <title lang="en">Entertainment Tonight</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show features a steady stream of entertainment news stories on celebrities, film, television, music, fashion, award shows and special events.</desc>
+  </programme>
+  <programme start="20140207050000 +0000" stop="20140207054500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">
+    </title>
+    <title lang="en">Supernanny</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140207054500 +0000" stop="20140207060000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">
+    </title>
+    <title lang="en">Mr. Sunshine</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Ben Donovan is the manager for the Sunshine Center, a second-tier arena in San Diego, and has to deal between the unpredictable demands of his job and his whimsical boss.</desc>
+    <credits>
+      <actor>James Lesure</actor>
+      <actor>Matthew Perry</actor>
+      <actor>Andrea Anders</actor>
+    </credits>
+  </programme>
+  <programme start="20140207060000 +0000" stop="20140207073000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">
+    </title>
+    <title lang="en">Mr. Sunshine</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Ben Donovan is the manager for the Sunshine Center, a second-tier arena in San Diego, and has to deal between the unpredictable demands of his job and his whimsical boss.</desc>
+    <credits>
+      <actor>James Lesure</actor>
+      <actor>Matthew Perry</actor>
+      <actor>Andrea Anders</actor>
+    </credits>
+  </programme>
+  <programme start="20140207073000 +0000" stop="20140207081500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">هارت أوف ديكسي</title>
+    <title lang="en">Hart Of Dixie</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A comedy drama about New Yorker and new doctor Zoe Hart who accepts an offer from a stranger, Dr. Harley Wilkes, to work in his medical practice in Bluebell, Alabama, but she arrives to find him dead.</desc>
+  </programme>
+  <programme start="20140207081500 +0000" stop="20140207090000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">90210</title>
+    <title lang="en">90210</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Series revolves around the Wilson family who have recently moved from small town Kansas to glitzy Beverly Hills, California after the father accepts a position as Principal.</desc>
+    <credits>
+      <actor>Jessica Stroup</actor>
+      <actor>Shenae Grimes</actor>
+    </credits>
+  </programme>
+  <programme start="20140207090000 +0000" stop="20140207093000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">
+    </title>
+    <title lang="en">Home Shopping</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140207093000 +0000" stop="20140207103000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">إليمينتاري</title>
+    <title lang="en">Elementary</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Fresh out of rehab and all tattered on the outside as well as inside, Holmes has to put up with the former surgeon, his father hired as a sober partner, Dr. Joan Watson.</desc>
+    <credits>
+      <actor>Lucy Liu</actor>
+      <actor>Jonny Lee Miller</actor>
+      <actor>Aidan Quinn</actor>
+    </credits>
+  </programme>
+  <programme start="20140207103000 +0000" stop="20140207130000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">سو يو ثينك يو كان دانس</title>
+    <title lang="en">So You Think You Can Dance</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Dancers skilled in everything from ballroom to hip-hop compete to be named the best.</desc>
+    <credits>
+      <actor>Mary Murphy</actor>
+      <actor>Cat Deeley</actor>
+      <actor>Nigel Lythgoe</actor>
+    </credits>
+  </programme>
+  <programme start="20140207130000 +0000" stop="20140207133000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">
+    </title>
+    <title lang="en">Home Shopping</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140207133000 +0000" stop="20140207141500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">بريتي ليتيل لايرز</title>
+    <title lang="en">Pretty Little Liars</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The series follows the lives of four teenage girls - Aria, Spencer, Hanna and Emily; four estranged friends whose darkest secrets are about to unravel.</desc>
+    <credits>
+      <actor>Chad Lowe</actor>
+      <actor>Holly Marie Combs</actor>
+      <actor>Janel Parrish</actor>
+      <actor>Ashley Benson</actor>
+      <actor>Troian Bellisario</actor>
+      <actor>Laura Leighton</actor>
+      <actor>Lucy Hale</actor>
+      <actor>Shay Mitchell</actor>
+      <actor>Sasha Pieterse</actor>
+      <actor>Ian Harding</actor>
+      <actor>Tyler Blackburn</actor>
+      <actor>Keegan Allen</actor>
+    </credits>
+  </programme>
+  <programme start="20140207141500 +0000" stop="20140207150000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">أرو</title>
+    <title lang="en">Arrow</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">After mastering the skills of archery on a deserted island, a multi-millionaire playboy Oliver Queen returns to his city. He takes on a vigilante persona of Arrow to fight crime and corruption.</desc>
+    <credits>
+      <actor>David Ramsey</actor>
+      <actor>Katie Cassidy</actor>
+      <actor>Willa Holland</actor>
+      <actor>Stephen Amell</actor>
+    </credits>
+  </programme>
+  <programme start="20140207150000 +0000" stop="20140207153000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">إكسترا تركي</title>
+    <title lang="en">Extra Turkey</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A special report that highlights the latest Turkish drama productions and interviews the Turkish celebrities to talk about their latest works and news.</desc>
+  </programme>
+  <programme start="20140207153000 +0000" stop="20140207163000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">30 روك</title>
+    <title lang="en">30 Rock</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Liz Lemon, head writer of a sketch comedy show must deal with her arrogant boss and crazy stars, all while trying to run a successful TV show without losing her mind.</desc>
+    <credits>
+      <actor>Alec Baldwin</actor>
+      <actor>Tracy Morgan</actor>
+      <actor>Scott Adsit</actor>
+      <actor>Tina Fey</actor>
+      <actor>Katrina Bowden</actor>
+    </credits>
+  </programme>
+  <programme start="20140207163000 +0000" stop="20140207180000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">
+    </title>
+    <title lang="en">Celebrity Apprentice</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140207180000 +0000" stop="20140207183000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">سو يو ثينك يو كان دانس</title>
+    <title lang="en">So You Think You Can Dance</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Dancers skilled in everything from ballroom to hip-hop compete to be named the best.</desc>
+    <credits>
+      <actor>Mary Murphy</actor>
+      <actor>Cat Deeley</actor>
+      <actor>Nigel Lythgoe</actor>
+    </credits>
+  </programme>
+  <programme start="20140207183000 +0000" stop="20140207193000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">سو يو ثينك يو كان دانس</title>
+    <title lang="en">So You Think You Can Dance</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Dancers skilled in everything from ballroom to hip-hop compete to be named the best.</desc>
+    <credits>
+      <actor>Mary Murphy</actor>
+      <actor>Cat Deeley</actor>
+      <actor>Nigel Lythgoe</actor>
+    </credits>
+  </programme>
+  <programme start="20140207193000 +0000" stop="20140207200000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">
+    </title>
+    <title lang="en">Parks and Recreation</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The series follows the ambitions of perennially upbeat mid-level bureaucrat Leslie Knope, on her quest to better the town of Pawnee, a fictional town in Indiana.</desc>
+    <credits>
+      <actor>Amy Poehler</actor>
+    </credits>
+  </programme>
+  <programme start="20140207200000 +0000" stop="20140207210000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">بريتي ليتيل لايرز</title>
+    <title lang="en">Pretty Little Liars</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The series follows the lives of four teenage girls - Aria, Spencer, Hanna and Emily; four estranged friends whose darkest secrets are about to unravel.</desc>
+    <credits>
+      <actor>Chad Lowe</actor>
+      <actor>Holly Marie Combs</actor>
+      <actor>Janel Parrish</actor>
+      <actor>Ashley Benson</actor>
+      <actor>Troian Bellisario</actor>
+      <actor>Laura Leighton</actor>
+      <actor>Lucy Hale</actor>
+      <actor>Shay Mitchell</actor>
+      <actor>Sasha Pieterse</actor>
+      <actor>Ian Harding</actor>
+      <actor>Tyler Blackburn</actor>
+      <actor>Keegan Allen</actor>
+    </credits>
+  </programme>
+  <programme start="20140207210000 +0000" stop="20140207220000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">
+    </title>
+    <title lang="en">The Hour</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This show highlights an investigation on a huge sex scandal and corruption, involving politics and pre-planned crimes.</desc>
+  </programme>
+  <programme start="20140207220000 +0000" stop="20140208010000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">لعبة الموت</title>
+    <title lang="en">Lo'bat Al Mawt</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around a pretty girl named Naya whose husband tries hard to protect her.
+His behavior forces her to ask for divorce and when he refuses, she commits suicide.</desc>
+  </programme>
+  <programme start="20140208010000 +0000" stop="20140208013000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">إكسترا تركي</title>
+    <title lang="en">Extra Turkey</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A special report that highlights the latest Turkish drama productions and interviews the Turkish celebrities to talk about their latest works and news.</desc>
+  </programme>
+  <programme start="20140208013000 +0000" stop="20140208021500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">30 روك</title>
+    <title lang="en">30 Rock</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Liz Lemon, head writer of a sketch comedy show must deal with her arrogant boss and crazy stars, all while trying to run a successful TV show without losing her mind.</desc>
+    <credits>
+      <actor>Alec Baldwin</actor>
+      <actor>Tracy Morgan</actor>
+      <actor>Scott Adsit</actor>
+      <actor>Tina Fey</actor>
+      <actor>Katrina Bowden</actor>
+    </credits>
+  </programme>
+  <programme start="20140208021500 +0000" stop="20140208030000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">هارت أوف ديكسي</title>
+    <title lang="en">Hart Of Dixie</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A comedy drama about New Yorker and new doctor Zoe Hart who accepts an offer from a stranger, Dr. Harley Wilkes, to work in his medical practice in Bluebell, Alabama, but she arrives to find him dead.</desc>
+  </programme>
+  <programme start="20140208030000 +0000" stop="20140208034500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">90210</title>
+    <title lang="en">90210</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Series revolves around the Wilson family who have recently moved from small town Kansas to glitzy Beverly Hills, California after the father accepts a position as Principal.</desc>
+    <credits>
+      <actor>Jessica Stroup</actor>
+      <actor>Shenae Grimes</actor>
+    </credits>
+  </programme>
+  <programme start="20140208034500 +0000" stop="20140208043000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">بريتي ليتيل لايرز</title>
+    <title lang="en">Pretty Little Liars</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The series follows the lives of four teenage girls - Aria, Spencer, Hanna and Emily; four estranged friends whose darkest secrets are about to unravel.</desc>
+    <credits>
+      <actor>Chad Lowe</actor>
+      <actor>Holly Marie Combs</actor>
+      <actor>Janel Parrish</actor>
+      <actor>Ashley Benson</actor>
+      <actor>Troian Bellisario</actor>
+      <actor>Laura Leighton</actor>
+      <actor>Lucy Hale</actor>
+      <actor>Shay Mitchell</actor>
+      <actor>Sasha Pieterse</actor>
+      <actor>Ian Harding</actor>
+      <actor>Tyler Blackburn</actor>
+      <actor>Keegan Allen</actor>
+    </credits>
+  </programme>
+  <programme start="20140208043000 +0000" stop="20140208060000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">
+    </title>
+    <title lang="en">Mr. Sunshine</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Ben Donovan is the manager for the Sunshine Center, a second-tier arena in San Diego, and has to deal between the unpredictable demands of his job and his whimsical boss.</desc>
+    <credits>
+      <actor>James Lesure</actor>
+      <actor>Matthew Perry</actor>
+      <actor>Andrea Anders</actor>
+    </credits>
+  </programme>
+  <programme start="20140208060000 +0000" stop="20140208073000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">إليمينتاري</title>
+    <title lang="en">Elementary</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Fresh out of rehab and all tattered on the outside as well as inside, Holmes has to put up with the former surgeon, his father hired as a sober partner, Dr. Joan Watson.</desc>
+    <credits>
+      <actor>Lucy Liu</actor>
+      <actor>Jonny Lee Miller</actor>
+      <actor>Aidan Quinn</actor>
+    </credits>
+  </programme>
+  <programme start="20140208073000 +0000" stop="20140208081500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">
+    </title>
+    <title lang="en">Parenthood</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Series about families and their parenting troubles that include good teens, bad teens, teens with development disorders, single parents, working parents etc.</desc>
+  </programme>
+  <programme start="20140208081500 +0000" stop="20140208090000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">90210</title>
+    <title lang="en">90210</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Series revolves around the Wilson family who have recently moved from small town Kansas to glitzy Beverly Hills, California after the father accepts a position as Principal.</desc>
+    <credits>
+      <actor>Jessica Stroup</actor>
+      <actor>Shenae Grimes</actor>
+    </credits>
+  </programme>
+  <programme start="20140208090000 +0000" stop="20140208094500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">
+    </title>
+    <title lang="en">Bethenny Getting Married</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140208094500 +0000" stop="20140208101500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">
+    </title>
+    <title lang="en">Home Shopping</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140208101500 +0000" stop="20140208131500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">
+    </title>
+    <title lang="en">Loghz Al Madi</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140208131500 +0000" stop="20140208133000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">
+    </title>
+    <title lang="en">Home Shopping</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140208133000 +0000" stop="20140208170000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">
+    </title>
+    <title lang="en">Qubla Mareha</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140208170000 +0000" stop="20140208180000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">30 روك</title>
+    <title lang="en">30 Rock</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Liz Lemon, head writer of a sketch comedy show must deal with her arrogant boss and crazy stars, all while trying to run a successful TV show without losing her mind.</desc>
+    <credits>
+      <actor>Alec Baldwin</actor>
+      <actor>Tracy Morgan</actor>
+      <actor>Scott Adsit</actor>
+      <actor>Tina Fey</actor>
+      <actor>Katrina Bowden</actor>
+    </credits>
+  </programme>
+  <programme start="20140208180000 +0000" stop="20140208183000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">فيلم</title>
+    <title lang="en">Movie</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Movie.</desc>
+  </programme>
+  <programme start="20140208183000 +0000" stop="20140208200000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">فيلم</title>
+    <title lang="en">Movie</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Movie.</desc>
+  </programme>
+  <programme start="20140208200000 +0000" stop="20140208210000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">أرو</title>
+    <title lang="en">Arrow</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">After mastering the skills of archery on a deserted island, a multi-millionaire playboy Oliver Queen returns to his city. He takes on a vigilante persona of Arrow to fight crime and corruption.</desc>
+    <credits>
+      <actor>David Ramsey</actor>
+      <actor>Katie Cassidy</actor>
+      <actor>Willa Holland</actor>
+      <actor>Stephen Amell</actor>
+    </credits>
+  </programme>
+  <programme start="20140208210000 +0000" stop="20140208220000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">
+    </title>
+    <title lang="en">The Hour</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This show highlights an investigation on a huge sex scandal and corruption, involving politics and pre-planned crimes.</desc>
+  </programme>
+  <programme start="20140208220000 +0000" stop="20140208223000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">إكسترا تركي</title>
+    <title lang="en">Extra Turkey</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A special report that highlights the latest Turkish drama productions and interviews the Turkish celebrities to talk about their latest works and news.</desc>
+  </programme>
+  <programme start="20140208223000 +0000" stop="20140209003000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">سو يو ثينك يو كان دانس</title>
+    <title lang="en">So You Think You Can Dance</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Dancers skilled in everything from ballroom to hip-hop compete to be named the best.</desc>
+    <credits>
+      <actor>Mary Murphy</actor>
+      <actor>Cat Deeley</actor>
+      <actor>Nigel Lythgoe</actor>
+    </credits>
+  </programme>
+  <programme start="20140209003000 +0000" stop="20140209034500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">هاوس</title>
+    <title lang="en">House</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This show follows the brilliant but cranky Dr House as he leads an elite medical team to solve bizarre illnesses and save lives despite his own constant physical pain.</desc>
+    <credits>
+      <actor>Jennifer Morrison</actor>
+      <actor>Lisa Edelstein</actor>
+      <actor>Omar Epps</actor>
+      <actor>Robert Sean Leonard</actor>
+      <actor>Peter Jacobson</actor>
+      <actor>Hugh Laurie</actor>
+      <actor>Olivia Wilde</actor>
+      <actor>Jesse Spencer</actor>
+    </credits>
+  </programme>
+  <programme start="20140209034500 +0000" stop="20140209043000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">
+    </title>
+    <title lang="en">Parenthood</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Series about families and their parenting troubles that include good teens, bad teens, teens with development disorders, single parents, working parents etc.</desc>
+  </programme>
+  <programme start="20140209043000 +0000" stop="20140209051500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">90210</title>
+    <title lang="en">90210</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Series revolves around the Wilson family who have recently moved from small town Kansas to glitzy Beverly Hills, California after the father accepts a position as Principal.</desc>
+    <credits>
+      <actor>Jessica Stroup</actor>
+      <actor>Shenae Grimes</actor>
+    </credits>
+  </programme>
+  <programme start="20140209051500 +0000" stop="20140209060000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">أرو</title>
+    <title lang="en">Arrow</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">After mastering the skills of archery on a deserted island, a multi-millionaire playboy Oliver Queen returns to his city. He takes on a vigilante persona of Arrow to fight crime and corruption.</desc>
+    <credits>
+      <actor>David Ramsey</actor>
+      <actor>Katie Cassidy</actor>
+      <actor>Willa Holland</actor>
+      <actor>Stephen Amell</actor>
+    </credits>
+  </programme>
+  <programme start="20140209060000 +0000" stop="20140209064500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">ذا توك</title>
+    <title lang="en">The Talk</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A talk show that discusses the day's latest headlines. It also contains celebrity interviews and segments for mothers and parents in general.</desc>
+  </programme>
+  <programme start="20140209064500 +0000" stop="20140209073000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">دايز أوف أور لايفز</title>
+    <title lang="en">Days Of Our Lives</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Like sands through the hourglass... So are the Days of Our Lives... These words open every episode of this daytime drama, chronicling the trials and tribulations of the citizens of the city of Salem.</desc>
+    <credits>
+      <actor>Deidre Hall</actor>
+    </credits>
+  </programme>
+  <programme start="20140209073000 +0000" stop="20140209081500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">
+    </title>
+    <title lang="en">Parks and Recreation</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The series follows the ambitions of perennially upbeat mid-level bureaucrat Leslie Knope, on her quest to better the town of Pawnee, a fictional town in Indiana.</desc>
+    <credits>
+      <actor>Amy Poehler</actor>
+    </credits>
+  </programme>
+  <programme start="20140209081500 +0000" stop="20140209090000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">دكتور شيف</title>
+    <title lang="en">Dr. Chef</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Entertainment based program.</desc>
+  </programme>
+  <programme start="20140209090000 +0000" stop="20140209100000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">
+    </title>
+    <title lang="en">Home Shopping</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140209100000 +0000" stop="20140209104500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">لعبة الموت</title>
+    <title lang="en">Lo'bat Al Mawt</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around a pretty girl named Naya whose husband tries hard to protect her.
+His behavior forces her to ask for divorce and when he refuses, she commits suicide.</desc>
+  </programme>
+  <programme start="20140209104500 +0000" stop="20140209113000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">حب في مهب الريح</title>
+    <title lang="en">Hub Fi Mahab Arreeh</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Social series highlights bad adjectives people have in order to reach what they want, like exploitation, selfishness and cunning, through the story of Nihad, Yusuf and Salwa.</desc>
+  </programme>
+  <programme start="20140209113000 +0000" stop="20140209121500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">
+    </title>
+    <title lang="en">Loghz Al Madi</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140209121500 +0000" stop="20140209130000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">
+    </title>
+    <title lang="en">Gilmore Girls</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show revolves around the Independence Inn's manager, Lorelai Gilmore, and her willful daughter, Rory. The show's appeal lies in its mix of family issues and hip attitude.</desc>
+    <credits>
+      <actor>Kelly Bishop</actor>
+      <actor>Scott Patterson</actor>
+      <actor>Alexis Bledel</actor>
+      <actor>Lauren Graham</actor>
+    </credits>
+  </programme>
+  <programme start="20140209130000 +0000" stop="20140209140000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">ذا دوكتورز</title>
+    <title lang="en">The Doctors</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A team of medical professionals discusses a range of health related topics and answers questions from the audience.</desc>
+  </programme>
+  <programme start="20140209140000 +0000" stop="20140209150000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">
+    </title>
+    <title lang="en">Qubla Mareha</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140209150000 +0000" stop="20140209160000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">دكتور شيف</title>
+    <title lang="en">Dr. Chef</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Entertainment based program.</desc>
+  </programme>
+  <programme start="20140209160000 +0000" stop="20140209170000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">لعبة الموت</title>
+    <title lang="en">Lo'bat Al Mawt</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around a pretty girl named Naya whose husband tries hard to protect her.
+His behavior forces her to ask for divorce and when he refuses, she commits suicide.</desc>
+  </programme>
+  <programme start="20140209170000 +0000" stop="20140209180000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">أثير الحب</title>
+    <title lang="en">Atheer Al Hob</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Camilla who is awaiting her wedding day from Santiago, but they are attacked on their wedding day by George.</desc>
+  </programme>
+  <programme start="20140209180000 +0000" stop="20140209183000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">
+    </title>
+    <title lang="en">Loghz Al Madi</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140209183000 +0000" stop="20140209190000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">
+    </title>
+    <title lang="en">Loghz Al Madi</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140209190000 +0000" stop="20140209200000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">حب في مهب الريح</title>
+    <title lang="en">Hub Fi Mahab Arreeh</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Social series highlights bad adjectives people have in order to reach what they want, like exploitation, selfishness and cunning, through the story of Nihad, Yusuf and Salwa.</desc>
+  </programme>
+  <programme start="20140209200000 +0000" stop="20140209210000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">هاوس</title>
+    <title lang="en">House</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This show follows the brilliant but cranky Dr House as he leads an elite medical team to solve bizarre illnesses and save lives despite his own constant physical pain.</desc>
+    <credits>
+      <actor>Jennifer Morrison</actor>
+      <actor>Lisa Edelstein</actor>
+      <actor>Omar Epps</actor>
+      <actor>Robert Sean Leonard</actor>
+      <actor>Peter Jacobson</actor>
+      <actor>Hugh Laurie</actor>
+      <actor>Olivia Wilde</actor>
+      <actor>Jesse Spencer</actor>
+    </credits>
+  </programme>
+  <programme start="20140209210000 +0000" stop="20140209220000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">
+    </title>
+    <title lang="en">Qubla Mareha</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140209220000 +0000" stop="20140209230000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">
+    </title>
+    <title lang="en">Loghz Al Madi</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140209230000 +0000" stop="20140210003000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">حب في مهب الريح</title>
+    <title lang="en">Hub Fi Mahab Arreeh</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Social series highlights bad adjectives people have in order to reach what they want, like exploitation, selfishness and cunning, through the story of Nihad, Yusuf and Salwa.</desc>
+  </programme>
+  <programme start="20140210003000 +0000" stop="20140210010000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">لعبة الموت</title>
+    <title lang="en">Lo'bat Al Mawt</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around a pretty girl named Naya whose husband tries hard to protect her.
+His behavior forces her to ask for divorce and when he refuses, she commits suicide.</desc>
+  </programme>
+  <programme start="20140210010000 +0000" stop="20140210013000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">إنترتاينمينت تونايت</title>
+    <title lang="en">Entertainment Tonight</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show features a steady stream of entertainment news stories on celebrities, film, television, music, fashion, award shows and special events.</desc>
+  </programme>
+  <programme start="20140210013000 +0000" stop="20140210014500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">
+    </title>
+    <title lang="en">Insider</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140210014500 +0000" stop="20140210023000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">لات شو ويذ دايفيد ليترمان</title>
+    <title lang="en">Late Show With David Letterman</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">An American late-night talk show hosted by legendary comedian David Letterman, who interviews guests and hosts musical performances.</desc>
+  </programme>
+  <programme start="20140210023000 +0000" stop="20140210030000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">
+    </title>
+    <title lang="en">Mr Sunshine</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140210030000 +0000" stop="20140210034500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">دايز أوف أور لايفز</title>
+    <title lang="en">Days Of Our Lives</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Like sands through the hourglass... So are the Days of Our Lives... These words open every episode of this daytime drama, chronicling the trials and tribulations of the citizens of the city of Salem.</desc>
+    <credits>
+      <actor>Deidre Hall</actor>
+    </credits>
+  </programme>
+  <programme start="20140210034500 +0000" stop="20140210043000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">أثير الحب</title>
+    <title lang="en">Atheer Al Hob</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Camilla who is awaiting her wedding day from Santiago, but they are attacked on their wedding day by George.</desc>
+  </programme>
+  <programme start="20140210043000 +0000" stop="20140210050000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">إنترتاينمينت تونايت</title>
+    <title lang="en">Entertainment Tonight</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show features a steady stream of entertainment news stories on celebrities, film, television, music, fashion, award shows and special events.</desc>
+  </programme>
+  <programme start="20140210050000 +0000" stop="20140210054500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">
+    </title>
+    <title lang="en">Supernanny</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140210054500 +0000" stop="20140210060000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">
+    </title>
+    <title lang="en">Mr Sunshine</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140210060000 +0000" stop="20140210064500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">ذا توك</title>
+    <title lang="en">The Talk</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A talk show that discusses the day's latest headlines. It also contains celebrity interviews and segments for mothers and parents in general.</desc>
+  </programme>
+  <programme start="20140210064500 +0000" stop="20140210073000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">دايز أوف أور لايفز</title>
+    <title lang="en">Days Of Our Lives</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Like sands through the hourglass... So are the Days of Our Lives... These words open every episode of this daytime drama, chronicling the trials and tribulations of the citizens of the city of Salem.</desc>
+    <credits>
+      <actor>Deidre Hall</actor>
+    </credits>
+  </programme>
+  <programme start="20140210073000 +0000" stop="20140210081500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">هاوس</title>
+    <title lang="en">House</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This show follows the brilliant but cranky Dr House as he leads an elite medical team to solve bizarre illnesses and save lives despite his own constant physical pain.</desc>
+    <credits>
+      <actor>Jennifer Morrison</actor>
+      <actor>Lisa Edelstein</actor>
+      <actor>Omar Epps</actor>
+      <actor>Robert Sean Leonard</actor>
+      <actor>Peter Jacobson</actor>
+      <actor>Hugh Laurie</actor>
+      <actor>Olivia Wilde</actor>
+      <actor>Jesse Spencer</actor>
+    </credits>
+  </programme>
+  <programme start="20140210081500 +0000" stop="20140210090000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">دكتور شيف</title>
+    <title lang="en">Dr. Chef</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Entertainment based program.</desc>
+  </programme>
+  <programme start="20140210090000 +0000" stop="20140210100000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">
+    </title>
+    <title lang="en">Home Shopping</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140210100000 +0000" stop="20140210104500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">لعبة الموت</title>
+    <title lang="en">Lo'bat Al Mawt</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around a pretty girl named Naya whose husband tries hard to protect her.
+His behavior forces her to ask for divorce and when he refuses, she commits suicide.</desc>
+  </programme>
+  <programme start="20140210104500 +0000" stop="20140210113000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">حب في مهب الريح</title>
+    <title lang="en">Hub Fi Mahab Arreeh</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Social series highlights bad adjectives people have in order to reach what they want, like exploitation, selfishness and cunning, through the story of Nihad, Yusuf and Salwa.</desc>
+  </programme>
+  <programme start="20140210113000 +0000" stop="20140210121500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">
+    </title>
+    <title lang="en">Loghz Al Madi</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140210121500 +0000" stop="20140210130000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">
+    </title>
+    <title lang="en">Gilmore Girls</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show revolves around the Independence Inn's manager, Lorelai Gilmore, and her willful daughter, Rory. The show's appeal lies in its mix of family issues and hip attitude.</desc>
+    <credits>
+      <actor>Kelly Bishop</actor>
+      <actor>Scott Patterson</actor>
+      <actor>Alexis Bledel</actor>
+      <actor>Lauren Graham</actor>
+    </credits>
+  </programme>
+  <programme start="20140210130000 +0000" stop="20140210140000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">ذا دوكتورز</title>
+    <title lang="en">The Doctors</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A team of medical professionals discusses a range of health related topics and answers questions from the audience.</desc>
+  </programme>
+  <programme start="20140210140000 +0000" stop="20140210150000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">
+    </title>
+    <title lang="en">Qubla Mareha</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+  <programme start="20140210150000 +0000" stop="20140210160000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">دكتور شيف</title>
+    <title lang="en">Dr. Chef</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Entertainment based program.</desc>
+  </programme>
+  <programme start="20140210160000 +0000" stop="20140210170000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">لعبة الموت</title>
+    <title lang="en">Lo'bat Al Mawt</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around a pretty girl named Naya whose husband tries hard to protect her.
+His behavior forces her to ask for divorce and when he refuses, she commits suicide.</desc>
+  </programme>
+  <programme start="20140210170000 +0000" stop="20140210180000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">أثير الحب</title>
+    <title lang="en">Atheer Al Hob</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Camilla who is awaiting her wedding day from Santiago, but they are attacked on their wedding day by George.</desc>
+  </programme>
+  <programme start="20140210180000 +0000" stop="20140210183000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">
+    </title>
+    <title lang="en">Loghz Al Madi</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+  </programme>
+</tv>

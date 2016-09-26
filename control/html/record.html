@@ -1,0 +1,93 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<meta charset="UTF-8">
+    <meta name="Keywords" content="quran, readers, record your voice , قرءان , قارئ , سجل القرءان بصوتك , منافسة , جوائز ">
+	<title><?=$lang->domain_name?></title>
+	<link rel="stylesheet" href="css/<?=$direction?>style.css" type="text/css">
+	<link rel="stylesheet" href="css/<?=$direction?>ion.tabs.skinFlat.css" type="text/css">
+	<link rel="stylesheet" href="css/<?=$direction?>ion.tabs.css" type="text/css">
+  <script type="text/javascript" src="js/vendor/jquery-1.10.2.min.js" language="javascript1.5" ></script>
+   <!--       <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>-->
+
+    <script type="text/javascript" src="js/ion-tabs/ion.tabs.js" language="javascript1.5" ></script>
+    <script type="text/javascript" src="js/ion-tabs/ion.tabs.min.js" language="javascript1.5" ></script>
+    <script type="text/javascript" src="js/js.js" language="javascript1.5" ></script>
+	<script src="script.js"></script>
+    <link rel="shortcut icon" href="images/logo.ico">
+    <meta property="og:image" content="<?=sitePathForLogin?>images/logoFbSmall.png" />
+	<meta property="og:title" content="<?=$fileMessage?>" />
+	<meta property="og:description" content="<?=$lang->qr_message_lang?>" />
+</head>
+<div id="displayData" class="displayData"></div>
+<body  id="body">
+	<div id="header">
+    <?=$header?>
+	</div>
+   
+   
+	<div id="adbox">
+		<div class="clearfix">
+            <div style="width:100%;float:left">
+				<div class="infoAct">
+                	<div class="informationArea"><?=$basicInformation?></div>
+                </div>
+                <div class="rightAreaProfile"><?=$socialLinksFollow?></div>
+ 					<div class="ActivityArea"><?=$activityProfile?></div>
+
+			</div>
+		</div>
+     <div style="height:80px">&nbsp;</div>
+	</div>
+	<div id="footer">
+		<?=$footer?>
+	</div>
+</body>
+</html>
+<script type="text/javascript">
+$.ionTabs("#tabs_1"); 
+</script>
+<link rel="stylesheet" type="text/css" href="css/<?=$direction?>page-player.css" />
+<!-- soundManager.useFlashBlock: related CSS -->
+<link rel="stylesheet" type="text/css" href="../flashblock/flashblock.css" />
+<script type="text/javascript" src="script/soundmanager2.js"></script>
+<script type="text/javascript" src="script/page-player.js"></script>
+<script type="text/javascript" src="js/star_rating.js" language="javascript1.5" ></script>
+
+<script type="text/javascript">
+
+soundManager.setup({
+  url: '../../swf/'
+});
+
+// demo only..
+function setTheme(sTheme) {
+  var o = document.getElementsByTagName('ul')[0];
+  o.className = 'playlist'+(sTheme?' '+sTheme:'');
+  return false;
+}
+
+$(function(){
+      //Keep track of last scroll
+      var lastScroll = 0;
+      $(window).scroll(function(event){
+          //Sets the current scroll position
+          var st = $(this).scrollTop();
+          //Determines up-or-down scrolling
+          if (st > lastScroll){
+             //Replace this with your function call for downward-scrolling
+           	//	alert(lastScroll);
+					//showRecentRecordsLoader();
+					//setTimeout(showRecentRecords(),4000);
+          }
+          else {
+             //Replace this with your function call for upward-scrolling
+            // alert("UP");
+          }
+          //Updates scroll position
+		 
+          lastScroll = st;
+      });
+    });
+	
+</script>

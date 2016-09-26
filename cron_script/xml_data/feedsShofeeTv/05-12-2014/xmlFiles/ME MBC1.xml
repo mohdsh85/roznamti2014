@@ -1,0 +1,1438 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd"[]>
+<tv generator-info-name="ShooFeeTV listings">
+  <Range>
+    <Start>20140510183000</Start>
+    <End>20140516183000</End>
+  </Range>
+  <channel id="1750">
+    <display-name lang="ar">إم بي سي 1</display-name>
+    <display-name lang="en">ME MBC1</display-name>
+  </channel>
+  <programme start="20140510183000 +0000" stop="20140510200000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">فيلم عربي</title>
+    <title lang="en">Film A'rabi</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Movie.</desc>
+  </programme>
+  <programme start="20140510200000 +0000" stop="20140510210000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">واي فاي</title>
+    <title lang="en">Wi Fi</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Comedy series presents many subjects derived from the reality of Saudi society in private and Gulf society in general and they are processed in comedy ways.</desc>
+    <credits>
+      <actor>Daoud Hussein</actor>
+      <actor>Haya Al Shuaibi</actor>
+      <actor>Hasan Al Ballam</actor>
+    </credits>
+  </programme>
+  <programme start="20140510210000 +0000" stop="20140510220000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">صدى الملاعب</title>
+    <title lang="en">Ssada Al Mala'eb</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program covers the latest football matches in the Arab region and around the world.</desc>
+  </programme>
+  <programme start="20140510220000 +0000" stop="20140510230000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">بدون شك</title>
+    <title lang="en">Bedoun Shak</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Talk show presented by Mohammed Al Harthi, who sheds light on various social issues from a legal perspective, and invites a number of specialists to discuss those issues.</desc>
+  </programme>
+  <programme start="20140510230000 +0000" stop="20140511000000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">نساء حائرات</title>
+    <title lang="en">Nesa'a Hae'rat</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series tells the story of five women, having different lives; Aleef, Amanl, Nermeen, Yasmeen and Zelees.</desc>
+  </programme>
+  <programme start="20140511000000 +0000" stop="20140511010000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">ياسمين</title>
+    <title lang="en">Yasmeen</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series.</desc>
+  </programme>
+  <programme start="20140511010000 +0000" stop="20140511020000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">صديقات العمر</title>
+    <title lang="en">Ssadiqat Al Omr</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series sheds light on the suffering of four girls. The girls are in one school, but each one of them has her own problems.</desc>
+    <credits>
+      <actor>Basemah Hamadah</actor>
+    </credits>
+  </programme>
+  <programme start="20140511020000 +0000" stop="20140511024500 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">أشوفكم على خير</title>
+    <title lang="en">Ashufkom A'ala Khair</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around optimistic woman who faces many problems in her life, but that doesn't stop her to go on and achieve her dreams. The events develop when she is shocked by other obstacles.</desc>
+    <credits>
+      <actor>Elham Al Fdala</actor>
+      <actor>Hussien Al Manssor</actor>
+      <actor>Aseel Omran</actor>
+    </credits>
+  </programme>
+  <programme start="20140511024500 +0000" stop="20140511033000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">بدون شك</title>
+    <title lang="en">Bedoun Shak</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Talk show presented by Mohammed Al Harthi, who sheds light on various social issues from a legal perspective, and invites a number of specialists to discuss those issues.</desc>
+  </programme>
+  <programme start="20140511033000 +0000" stop="20140511041500 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">صدى الملاعب</title>
+    <title lang="en">Ssada Al Mala'eb</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program covers the latest football matches in the Arab region and around the world.</desc>
+  </programme>
+  <programme start="20140511041500 +0000" stop="20140511051500 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">توم الغرة</title>
+    <title lang="en">Toum Al Ghorah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Bedouin drama revolves around Hishal who decides to marry his cousin, who asks for a deer in dowry, but he kills someone instead of the deer.</desc>
+    <credits>
+      <actor>A'abeer E'esa</actor>
+      <actor>A'akef Najem</actor>
+      <actor>Hesham Henaidi</actor>
+    </credits>
+  </programme>
+  <programme start="20140511051500 +0000" stop="20140511060000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">أشوفكم على خير</title>
+    <title lang="en">Ashufkom A'ala Khair</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around optimistic woman who faces many problems in her life, but that doesn't stop her to go on and achieve her dreams. The events develop when she is shocked by other obstacles.</desc>
+    <credits>
+      <actor>Elham Al Fdala</actor>
+      <actor>Hussien Al Manssor</actor>
+      <actor>Aseel Omran</actor>
+    </credits>
+  </programme>
+  <programme start="20140511060000 +0000" stop="20140511070000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">الزوجة الثانية</title>
+    <title lang="en">Azzawjah Athaneyah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series sets in Upper Egypt where an unjust mayor takes the control. He forces one of the farmers to divorce his wife Fatimah, in order to marry her, but she refuses him which leads to his death.</desc>
+    <credits>
+      <actor>Ayten A'amer</actor>
+      <actor>O'la Ghanem</actor>
+      <actor>A'amr Abd Al Jaleel</actor>
+      <actor>A'amr Waked</actor>
+      <actor>Ahmad Al-Jundi</actor>
+      <actor>Mohammad Ssobhi</actor>
+      <actor>Mohammad Ashenawi</actor>
+      <actor>Zaki Fattein Abd Al Wahab</actor>
+      <actor>Mohammad Farooq</actor>
+    </credits>
+  </programme>
+  <programme start="20140511070000 +0000" stop="20140511080000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">ياسمين</title>
+    <title lang="en">Yasmeen</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Yasmeen, who loves Ahmad since her childhood, soon he travels abroad to study and she begins to miss him. Later Yasmeen realizes that Ahmad has been unfaithful with her.</desc>
+    <credits>
+      <actor>Beren Saat</actor>
+    </credits>
+  </programme>
+  <programme start="20140511080000 +0000" stop="20140511100000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">صباح الخير يا عرب</title>
+    <title lang="en">Ssabah Al Khaer Ya A'arab</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Morning talk show that offers a variety of sections and highlights many life activities and daily sides.</desc>
+  </programme>
+  <programme start="20140511100000 +0000" stop="20140511110000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">نساء حائرات</title>
+    <title lang="en">Nesa'a Hae'rat</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series tells the story of five women, having different lives; Aleef, Amanl, Nermeen, Yasmeen and Zelees.</desc>
+  </programme>
+  <programme start="20140511110000 +0000" stop="20140511120000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">صديقات العمر</title>
+    <title lang="en">Ssadiqat Al Omr</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series sheds light on the suffering of four girls. The girls are in one school, but each one of them has her own problems.</desc>
+    <credits>
+      <actor>Basemah Hamadah</actor>
+    </credits>
+  </programme>
+  <programme start="20140511120000 +0000" stop="20140511130000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">توم الغرة</title>
+    <title lang="en">Toum Al Ghorah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Bedouin drama revolves around Hishal who decides to marry his cousin, who asks for a deer in dowry, but he kills someone instead of the deer.</desc>
+    <credits>
+      <actor>A'abeer E'esa</actor>
+      <actor>A'akef Najem</actor>
+      <actor>Hesham Henaidi</actor>
+    </credits>
+  </programme>
+  <programme start="20140511130000 +0000" stop="20140511140000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">ياسمين</title>
+    <title lang="en">Yasmeen</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Yasmeen, who loves Ahmad since her childhood, soon he travels abroad to study and she begins to miss him. Later Yasmeen realizes that Ahmad has been unfaithful with her.</desc>
+    <credits>
+      <actor>Beren Saat</actor>
+    </credits>
+  </programme>
+  <programme start="20140511140000 +0000" stop="20140511150000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">أشوفكم على خير</title>
+    <title lang="en">Ashufkom A'ala Khair</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around optimistic woman who faces many problems in her life, but that doesn't stop her to go on and achieve her dreams. The events develop when she is shocked by other obstacles.</desc>
+    <credits>
+      <actor>Elham Al Fdala</actor>
+      <actor>Hussien Al Manssor</actor>
+      <actor>Aseel Omran</actor>
+    </credits>
+  </programme>
+  <programme start="20140511150000 +0000" stop="20140511160000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">الزوجة الثانية</title>
+    <title lang="en">Azzawjah Athaneyah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series sets in Upper Egypt where an unjust mayor takes the control. He forces one of the farmers to divorce his wife Fatimah, in order to marry her, but she refuses him which leads to his death.</desc>
+    <credits>
+      <actor>Ayten A'amer</actor>
+      <actor>O'la Ghanem</actor>
+      <actor>A'amr Abd Al Jaleel</actor>
+      <actor>A'amr Waked</actor>
+      <actor>Ahmad Al-Jundi</actor>
+      <actor>Mohammad Ssobhi</actor>
+      <actor>Mohammad Ashenawi</actor>
+      <actor>Zaki Fattein Abd Al Wahab</actor>
+      <actor>Mohammad Farooq</actor>
+    </credits>
+  </programme>
+  <programme start="20140511160000 +0000" stop="20140511170000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">نساء حائرات</title>
+    <title lang="en">Nesa'a Hae'rat</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series tells the story of five women, having different lives; Aleef, Amanl, Nermeen, Yasmeen and Zelees.</desc>
+  </programme>
+  <programme start="20140511170000 +0000" stop="20140511180000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">الثامنة</title>
+    <title lang="en">Al Thamenah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Talk show discusses many hot issues and topics related to Saudi society.</desc>
+  </programme>
+  <programme start="20140511180000 +0000" stop="20140511183000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">نشرة الأخبار</title>
+    <title lang="en">Nashrat Al Akhbar</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">News bulletin highlights the latest and most important Arab and global news that are provided with latest news reports from all over the world.</desc>
+  </programme>
+  <programme start="20140511183000 +0000" stop="20140511200000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">كلام نواعم</title>
+    <title lang="en">Kalam Nawa'em</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This show focuses on religious, social and women issues. It contains several segments where the hosts invite a number of specialists to discuss these issues in order to achieve a certain purpose.</desc>
+  </programme>
+  <programme start="20140511200000 +0000" stop="20140511210000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">صديقات العمر</title>
+    <title lang="en">Ssadiqat Al Omr</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series sheds light on the suffering of four girls. The girls are in one school, but each one of them has her own problems.</desc>
+    <credits>
+      <actor>Basemah Hamadah</actor>
+    </credits>
+  </programme>
+  <programme start="20140511210000 +0000" stop="20140511220000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">صدى الملاعب</title>
+    <title lang="en">Ssada Al Mala'eb</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program covers the latest football matches in the Arab region and around the world.</desc>
+  </programme>
+  <programme start="20140511220000 +0000" stop="20140511230000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">الثامنة</title>
+    <title lang="en">Al Thamenah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Talk show discusses many hot issues and topics related to Saudi society.</desc>
+  </programme>
+  <programme start="20140511230000 +0000" stop="20140512000000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">نساء حائرات</title>
+    <title lang="en">Nesa'a Hae'rat</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series tells the story of five women, having different lives; Aleef, Amanl, Nermeen, Yasmeen and Zelees.</desc>
+  </programme>
+  <programme start="20140512000000 +0000" stop="20140512010000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">ياسمين</title>
+    <title lang="en">Yasmeen</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Yasmeen, who loves Ahmad since her childhood, soon he travels abroad to study and she begins to miss him. Later Yasmeen realizes that Ahmad has been unfaithful with her.</desc>
+    <credits>
+      <actor>Beren Saat</actor>
+    </credits>
+  </programme>
+  <programme start="20140512010000 +0000" stop="20140512020000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">صديقات العمر</title>
+    <title lang="en">Ssadiqat Al Omr</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series sheds light on the suffering of four girls. The girls are in one school, but each one of them has her own problems.</desc>
+    <credits>
+      <actor>Basemah Hamadah</actor>
+    </credits>
+  </programme>
+  <programme start="20140512020000 +0000" stop="20140512024500 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">أشوفكم على خير</title>
+    <title lang="en">Ashufkom A'ala Khair</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around optimistic woman who faces many problems in her life, but that doesn't stop her to go on and achieve her dreams. The events develop when she is shocked by other obstacles.</desc>
+    <credits>
+      <actor>Elham Al Fdala</actor>
+      <actor>Hussien Al Manssor</actor>
+      <actor>Aseel Omran</actor>
+    </credits>
+  </programme>
+  <programme start="20140512024500 +0000" stop="20140512033000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">الثامنة</title>
+    <title lang="en">Al Thamenah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Talk show discusses many hot issues and topics related to Saudi society.</desc>
+  </programme>
+  <programme start="20140512033000 +0000" stop="20140512041500 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">صدى الملاعب</title>
+    <title lang="en">Ssada Al Mala'eb</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program covers the latest football matches in the Arab region and around the world.</desc>
+  </programme>
+  <programme start="20140512041500 +0000" stop="20140512051500 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">توم الغرة</title>
+    <title lang="en">Toum Al Ghorah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Bedouin drama revolves around Hishal who decides to marry his cousin, who asks for a deer in dowry, but he kills someone instead of the deer.</desc>
+    <credits>
+      <actor>A'abeer E'esa</actor>
+      <actor>A'akef Najem</actor>
+      <actor>Hesham Henaidi</actor>
+    </credits>
+  </programme>
+  <programme start="20140512051500 +0000" stop="20140512060000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">أشوفكم على خير</title>
+    <title lang="en">Ashufkom A'ala Khair</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around optimistic woman who faces many problems in her life, but that doesn't stop her to go on and achieve her dreams. The events develop when she is shocked by other obstacles.</desc>
+    <credits>
+      <actor>Elham Al Fdala</actor>
+      <actor>Hussien Al Manssor</actor>
+      <actor>Aseel Omran</actor>
+    </credits>
+  </programme>
+  <programme start="20140512060000 +0000" stop="20140512070000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">الزوجة الثانية</title>
+    <title lang="en">Azzawjah Athaneyah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series sets in Upper Egypt where an unjust mayor takes the control. He forces one of the farmers to divorce his wife Fatimah, in order to marry her, but she refuses him which leads to his death.</desc>
+    <credits>
+      <actor>Ayten A'amer</actor>
+      <actor>O'la Ghanem</actor>
+      <actor>A'amr Abd Al Jaleel</actor>
+      <actor>A'amr Waked</actor>
+      <actor>Ahmad Al-Jundi</actor>
+      <actor>Mohammad Ssobhi</actor>
+      <actor>Mohammad Ashenawi</actor>
+      <actor>Zaki Fattein Abd Al Wahab</actor>
+      <actor>Mohammad Farooq</actor>
+    </credits>
+  </programme>
+  <programme start="20140512070000 +0000" stop="20140512080000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">ياسمين</title>
+    <title lang="en">Yasmeen</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Yasmeen, who loves Ahmad since her childhood, soon he travels abroad to study and she begins to miss him. Later Yasmeen realizes that Ahmad has been unfaithful with her.</desc>
+    <credits>
+      <actor>Beren Saat</actor>
+    </credits>
+  </programme>
+  <programme start="20140512080000 +0000" stop="20140512100000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">صباح الخير يا عرب</title>
+    <title lang="en">Ssabah Al Khaer Ya A'arab</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Morning talk show that offers a variety of sections and highlights many life activities and daily sides.</desc>
+  </programme>
+  <programme start="20140512100000 +0000" stop="20140512110000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">نساء حائرات</title>
+    <title lang="en">Nesa'a Hae'rat</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series tells the story of five women, having different lives; Aleef, Amanl, Nermeen, Yasmeen and Zelees.</desc>
+  </programme>
+  <programme start="20140512110000 +0000" stop="20140512120000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">صديقات العمر</title>
+    <title lang="en">Ssadiqat Al Omr</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series sheds light on the suffering of four girls. The girls are in one school, but each one of them has her own problems.</desc>
+    <credits>
+      <actor>Basemah Hamadah</actor>
+    </credits>
+  </programme>
+  <programme start="20140512120000 +0000" stop="20140512130000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">توم الغرة</title>
+    <title lang="en">Toum Al Ghorah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Bedouin drama revolves around Hishal who decides to marry his cousin, who asks for a deer in dowry, but he kills someone instead of the deer.</desc>
+    <credits>
+      <actor>A'abeer E'esa</actor>
+      <actor>A'akef Najem</actor>
+      <actor>Hesham Henaidi</actor>
+    </credits>
+  </programme>
+  <programme start="20140512130000 +0000" stop="20140512140000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">ياسمين</title>
+    <title lang="en">Yasmeen</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Yasmeen, who loves Ahmad since her childhood, soon he travels abroad to study and she begins to miss him. Later Yasmeen realizes that Ahmad has been unfaithful with her.</desc>
+    <credits>
+      <actor>Beren Saat</actor>
+    </credits>
+  </programme>
+  <programme start="20140512140000 +0000" stop="20140512150000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">أشوفكم على خير</title>
+    <title lang="en">Ashufkom A'ala Khair</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around optimistic woman who faces many problems in her life, but that doesn't stop her to go on and achieve her dreams. The events develop when she is shocked by other obstacles.</desc>
+    <credits>
+      <actor>Elham Al Fdala</actor>
+      <actor>Hussien Al Manssor</actor>
+      <actor>Aseel Omran</actor>
+    </credits>
+  </programme>
+  <programme start="20140512150000 +0000" stop="20140512160000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">الزوجة الثانية</title>
+    <title lang="en">Azzawjah Athaneyah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series sets in Upper Egypt where an unjust mayor takes the control. He forces one of the farmers to divorce his wife Fatimah, in order to marry her, but she refuses him which leads to his death.</desc>
+    <credits>
+      <actor>Ayten A'amer</actor>
+      <actor>O'la Ghanem</actor>
+      <actor>A'amr Abd Al Jaleel</actor>
+      <actor>A'amr Waked</actor>
+      <actor>Ahmad Al-Jundi</actor>
+      <actor>Mohammad Ssobhi</actor>
+      <actor>Mohammad Ashenawi</actor>
+      <actor>Zaki Fattein Abd Al Wahab</actor>
+      <actor>Mohammad Farooq</actor>
+    </credits>
+  </programme>
+  <programme start="20140512160000 +0000" stop="20140512170000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">ليث ونورا</title>
+    <title lang="en">Laith Wa Noura</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around a love story between Laith, a brave army officer, and Noura who belongs to a rich family.</desc>
+    <credits>
+      <actor>Kivanc Tatlitug</actor>
+    </credits>
+  </programme>
+  <programme start="20140512170000 +0000" stop="20140512180000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">الثامنة</title>
+    <title lang="en">Al Thamenah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Talk show discusses many hot issues and topics related to Saudi society.</desc>
+  </programme>
+  <programme start="20140512180000 +0000" stop="20140512183000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">نشرة الأخبار</title>
+    <title lang="en">Nashrat Al Akhbar</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">News bulletin highlights the latest and most important Arab and global news that are provided with latest news reports from all over the world.</desc>
+  </programme>
+  <programme start="20140512183000 +0000" stop="20140512200000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">الحكم</title>
+    <title lang="en">Al Hokm</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Talk show presented by Wafaa Al Keilany, who invites a number of celebrities from the Arab world, to talk about their artistic and personal lives.</desc>
+  </programme>
+  <programme start="20140512200000 +0000" stop="20140512210000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">صديقات العمر</title>
+    <title lang="en">Ssadiqat Al Omr</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series sheds light on the suffering of four girls. The girls are in one school, but each one of them has her own problems.</desc>
+    <credits>
+      <actor>Basemah Hamadah</actor>
+    </credits>
+  </programme>
+  <programme start="20140512210000 +0000" stop="20140512220000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">صدى الملاعب</title>
+    <title lang="en">Ssada Al Mala'eb</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program covers the latest football matches in the Arab region and around the world.</desc>
+  </programme>
+  <programme start="20140512220000 +0000" stop="20140512230000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">الثامنة</title>
+    <title lang="en">Al Thamenah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Talk show discusses many hot issues and topics related to Saudi society.</desc>
+  </programme>
+  <programme start="20140512230000 +0000" stop="20140513000000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">ليث ونورا</title>
+    <title lang="en">Laith Wa Noura</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around a love story between Laith, a brave army officer, and Noura who belongs to a rich family.</desc>
+    <credits>
+      <actor>Kivanc Tatlitug</actor>
+    </credits>
+  </programme>
+  <programme start="20140513000000 +0000" stop="20140513010000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">ياسمين</title>
+    <title lang="en">Yasmeen</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Yasmeen, who loves Ahmad since her childhood, soon he travels abroad to study and she begins to miss him. Later Yasmeen realizes that Ahmad has been unfaithful with her.</desc>
+    <credits>
+      <actor>Beren Saat</actor>
+    </credits>
+  </programme>
+  <programme start="20140513010000 +0000" stop="20140513020000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">صديقات العمر</title>
+    <title lang="en">Ssadiqat Al Omr</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series sheds light on the suffering of four girls. The girls are in one school, but each one of them has her own problems.</desc>
+    <credits>
+      <actor>Basemah Hamadah</actor>
+    </credits>
+  </programme>
+  <programme start="20140513020000 +0000" stop="20140513024500 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">أشوفكم على خير</title>
+    <title lang="en">Ashufkom A'ala Khair</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around optimistic woman who faces many problems in her life, but that doesn't stop her to go on and achieve her dreams. The events develop when she is shocked by other obstacles.</desc>
+    <credits>
+      <actor>Elham Al Fdala</actor>
+      <actor>Hussien Al Manssor</actor>
+      <actor>Aseel Omran</actor>
+    </credits>
+  </programme>
+  <programme start="20140513024500 +0000" stop="20140513033000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">الثامنة</title>
+    <title lang="en">Al Thamenah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Talk show discusses many hot issues and topics related to Saudi society.</desc>
+  </programme>
+  <programme start="20140513033000 +0000" stop="20140513042500 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">صدى الملاعب</title>
+    <title lang="en">Ssada Al Mala'eb</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program covers the latest football matches in the Arab region and around the world.</desc>
+  </programme>
+  <programme start="20140513042500 +0000" stop="20140513051500 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">توم الغرة</title>
+    <title lang="en">Toum Al Ghorah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Bedouin drama revolves around Hishal who decides to marry his cousin, who asks for a deer in dowry, but he kills someone instead of the deer.</desc>
+    <credits>
+      <actor>A'abeer E'esa</actor>
+      <actor>A'akef Najem</actor>
+      <actor>Hesham Henaidi</actor>
+    </credits>
+  </programme>
+  <programme start="20140513051500 +0000" stop="20140513060000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">أشوفكم على خير</title>
+    <title lang="en">Ashufkom A'ala Khair</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around optimistic woman who faces many problems in her life, but that doesn't stop her to go on and achieve her dreams. The events develop when she is shocked by other obstacles.</desc>
+    <credits>
+      <actor>Elham Al Fdala</actor>
+      <actor>Hussien Al Manssor</actor>
+      <actor>Aseel Omran</actor>
+    </credits>
+  </programme>
+  <programme start="20140513060000 +0000" stop="20140513070000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">الزوجة الثانية</title>
+    <title lang="en">Azzawjah Athaneyah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series sets in Upper Egypt where an unjust mayor takes the control. He forces one of the farmers to divorce his wife Fatimah, in order to marry her, but she refuses him which leads to his death.</desc>
+    <credits>
+      <actor>Ayten A'amer</actor>
+      <actor>O'la Ghanem</actor>
+      <actor>A'amr Abd Al Jaleel</actor>
+      <actor>A'amr Waked</actor>
+      <actor>Ahmad Al-Jundi</actor>
+      <actor>Mohammad Ssobhi</actor>
+      <actor>Mohammad Ashenawi</actor>
+      <actor>Zaki Fattein Abd Al Wahab</actor>
+      <actor>Mohammad Farooq</actor>
+    </credits>
+  </programme>
+  <programme start="20140513070000 +0000" stop="20140513080000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">ياسمين</title>
+    <title lang="en">Yasmeen</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Yasmeen, who loves Ahmad since her childhood, soon he travels abroad to study and she begins to miss him. Later Yasmeen realizes that Ahmad has been unfaithful with her.</desc>
+    <credits>
+      <actor>Beren Saat</actor>
+    </credits>
+  </programme>
+  <programme start="20140513080000 +0000" stop="20140513100000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">صباح الخير يا عرب</title>
+    <title lang="en">Ssabah Al Khaer Ya A'arab</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Morning talk show that offers a variety of sections and highlights many life activities and daily sides.</desc>
+  </programme>
+  <programme start="20140513100000 +0000" stop="20140513110000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">ليث ونورا</title>
+    <title lang="en">Laith Wa Noura</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around a love story between Laith, a brave army officer, and Noura who belongs to a rich family.</desc>
+    <credits>
+      <actor>Kivanc Tatlitug</actor>
+    </credits>
+  </programme>
+  <programme start="20140513110000 +0000" stop="20140513120000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">صديقات العمر</title>
+    <title lang="en">Ssadiqat Al Omr</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series sheds light on the suffering of four girls. The girls are in one school, but each one of them has her own problems.</desc>
+    <credits>
+      <actor>Basemah Hamadah</actor>
+    </credits>
+  </programme>
+  <programme start="20140513120000 +0000" stop="20140513130000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">توم الغرة</title>
+    <title lang="en">Toum Al Ghorah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Bedouin drama revolves around Hishal who decides to marry his cousin, who asks for a deer in dowry, but he kills someone instead of the deer.</desc>
+    <credits>
+      <actor>A'abeer E'esa</actor>
+      <actor>A'akef Najem</actor>
+      <actor>Hesham Henaidi</actor>
+    </credits>
+  </programme>
+  <programme start="20140513130000 +0000" stop="20140513140000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">ياسمين</title>
+    <title lang="en">Yasmeen</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Yasmeen, who loves Ahmad since her childhood, soon he travels abroad to study and she begins to miss him. Later Yasmeen realizes that Ahmad has been unfaithful with her.</desc>
+    <credits>
+      <actor>Beren Saat</actor>
+    </credits>
+  </programme>
+  <programme start="20140513140000 +0000" stop="20140513150000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">أشوفكم على خير</title>
+    <title lang="en">Ashufkom A'ala Khair</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around optimistic woman who faces many problems in her life, but that doesn't stop her to go on and achieve her dreams. The events develop when she is shocked by other obstacles.</desc>
+    <credits>
+      <actor>Elham Al Fdala</actor>
+      <actor>Hussien Al Manssor</actor>
+      <actor>Aseel Omran</actor>
+    </credits>
+  </programme>
+  <programme start="20140513150000 +0000" stop="20140513160000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">الزوجة الثانية</title>
+    <title lang="en">Azzawjah Athaneyah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series sets in Upper Egypt where an unjust mayor takes the control. He forces one of the farmers to divorce his wife Fatimah, in order to marry her, but she refuses him which leads to his death.</desc>
+    <credits>
+      <actor>Ayten A'amer</actor>
+      <actor>O'la Ghanem</actor>
+      <actor>A'amr Abd Al Jaleel</actor>
+      <actor>A'amr Waked</actor>
+      <actor>Ahmad Al-Jundi</actor>
+      <actor>Mohammad Ssobhi</actor>
+      <actor>Mohammad Ashenawi</actor>
+      <actor>Zaki Fattein Abd Al Wahab</actor>
+      <actor>Mohammad Farooq</actor>
+    </credits>
+  </programme>
+  <programme start="20140513160000 +0000" stop="20140513170000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">ليث ونورا</title>
+    <title lang="en">Laith Wa Noura</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around a love story between Laith, a brave army officer, and Noura who belongs to a rich family.</desc>
+    <credits>
+      <actor>Kivanc Tatlitug</actor>
+    </credits>
+  </programme>
+  <programme start="20140513170000 +0000" stop="20140513180000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">الثامنة</title>
+    <title lang="en">Al Thamenah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Talk show discusses many hot issues and topics related to Saudi society.</desc>
+  </programme>
+  <programme start="20140513180000 +0000" stop="20140513183000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">نشرة الأخبار</title>
+    <title lang="en">Nashrat Al Akhbar</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">News bulletin highlights the latest and most important Arab and global news that are provided with latest news reports from all over the world.</desc>
+  </programme>
+  <programme start="20140513183000 +0000" stop="20140513190000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">الفلته</title>
+    <title lang="en">Al Faltah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Bu Khalifa knows the folk medicine and treats people with it. knowing that, everyone asks his help to circumcise baby boys, do the cupping and many other things.</desc>
+  </programme>
+  <programme start="20140513190000 +0000" stop="20140513193000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">واي فاي</title>
+    <title lang="en">Wi Fi</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Comedy series presents many subjects derived from the reality of Saudi society in private and Gulf society in general and they are processed in comedy ways.</desc>
+    <credits>
+      <actor>Daoud Hussein</actor>
+      <actor>Haya Al Shuaibi</actor>
+      <actor>Hasan Al Ballam</actor>
+    </credits>
+  </programme>
+  <programme start="20140513193000 +0000" stop="20140513200000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">المصاقيل</title>
+    <title lang="en">Al Massaqeil</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Comedy series shows funny sketches about a tribe that lives in the desert cares about its members and cooperates with the people around them.</desc>
+    <credits>
+      <actor>Reem Sa'adah</actor>
+      <actor>Mishal Al-Mutairi</actor>
+      <actor>Remas Mansoor</actor>
+      <actor>Tariq Al Harbi</actor>
+    </credits>
+  </programme>
+  <programme start="20140513200000 +0000" stop="20140513210000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">صديقات العمر</title>
+    <title lang="en">Ssadiqat Al Omr</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series sheds light on the suffering of four girls. The girls are in one school, but each one of them has her own problems.</desc>
+    <credits>
+      <actor>Basemah Hamadah</actor>
+    </credits>
+  </programme>
+  <programme start="20140513210000 +0000" stop="20140513220000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">صدى الملاعب</title>
+    <title lang="en">Ssada Al Mala'eb</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program covers the latest football matches in the Arab region and around the world.</desc>
+  </programme>
+  <programme start="20140513220000 +0000" stop="20140513230000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">الثامنة</title>
+    <title lang="en">Al Thamenah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Talk show discusses many hot issues and topics related to Saudi society.</desc>
+  </programme>
+  <programme start="20140513230000 +0000" stop="20140514000000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">ليث ونورا</title>
+    <title lang="en">Laith Wa Noura</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around a love story between Laith, a brave army officer, and Noura who belongs to a rich family.</desc>
+    <credits>
+      <actor>Kivanc Tatlitug</actor>
+    </credits>
+  </programme>
+  <programme start="20140514000000 +0000" stop="20140514010000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">ياسمين</title>
+    <title lang="en">Yasmeen</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Yasmeen, who loves Ahmad since her childhood, soon he travels abroad to study and she begins to miss him. Later Yasmeen realizes that Ahmad has been unfaithful with her.</desc>
+    <credits>
+      <actor>Beren Saat</actor>
+    </credits>
+  </programme>
+  <programme start="20140514010000 +0000" stop="20140514020000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">صديقات العمر</title>
+    <title lang="en">Ssadiqat Al Omr</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series sheds light on the suffering of four girls. The girls are in one school, but each one of them has her own problems.</desc>
+    <credits>
+      <actor>Basemah Hamadah</actor>
+    </credits>
+  </programme>
+  <programme start="20140514020000 +0000" stop="20140514024500 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">أشوفكم على خير</title>
+    <title lang="en">Ashufkom A'ala Khair</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around optimistic woman who faces many problems in her life, but that doesn't stop her to go on and achieve her dreams. The events develop when she is shocked by other obstacles.</desc>
+    <credits>
+      <actor>Elham Al Fdala</actor>
+      <actor>Hussien Al Manssor</actor>
+      <actor>Aseel Omran</actor>
+    </credits>
+  </programme>
+  <programme start="20140514024500 +0000" stop="20140514033000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">الثامنة</title>
+    <title lang="en">Al Thamenah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Talk show discusses many hot issues and topics related to Saudi society.</desc>
+  </programme>
+  <programme start="20140514033000 +0000" stop="20140514041500 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">صدى الملاعب</title>
+    <title lang="en">Ssada Al Mala'eb</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program covers the latest football matches in the Arab region and around the world.</desc>
+  </programme>
+  <programme start="20140514041500 +0000" stop="20140514051500 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">توم الغرة</title>
+    <title lang="en">Toum Al Ghorah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Bedouin drama revolves around Hishal who decides to marry his cousin, who asks for a deer in dowry, but he kills someone instead of the deer.</desc>
+    <credits>
+      <actor>A'abeer E'esa</actor>
+      <actor>A'akef Najem</actor>
+      <actor>Hesham Henaidi</actor>
+    </credits>
+  </programme>
+  <programme start="20140514051500 +0000" stop="20140514060000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">أشوفكم على خير</title>
+    <title lang="en">Ashufkom A'ala Khair</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around optimistic woman who faces many problems in her life, but that doesn't stop her to go on and achieve her dreams. The events develop when she is shocked by other obstacles.</desc>
+    <credits>
+      <actor>Elham Al Fdala</actor>
+      <actor>Hussien Al Manssor</actor>
+      <actor>Aseel Omran</actor>
+    </credits>
+  </programme>
+  <programme start="20140514060000 +0000" stop="20140514070000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">الزوجة الثانية</title>
+    <title lang="en">Azzawjah Athaneyah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series sets in Upper Egypt where an unjust mayor takes the control. He forces one of the farmers to divorce his wife Fatimah, in order to marry her, but she refuses him which leads to his death.</desc>
+    <credits>
+      <actor>Ayten A'amer</actor>
+      <actor>O'la Ghanem</actor>
+      <actor>A'amr Abd Al Jaleel</actor>
+      <actor>A'amr Waked</actor>
+      <actor>Ahmad Al-Jundi</actor>
+      <actor>Mohammad Ssobhi</actor>
+      <actor>Mohammad Ashenawi</actor>
+      <actor>Zaki Fattein Abd Al Wahab</actor>
+      <actor>Mohammad Farooq</actor>
+    </credits>
+  </programme>
+  <programme start="20140514070000 +0000" stop="20140514080000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">ياسمين</title>
+    <title lang="en">Yasmeen</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Yasmeen, who loves Ahmad since her childhood, soon he travels abroad to study and she begins to miss him. Later Yasmeen realizes that Ahmad has been unfaithful with her.</desc>
+    <credits>
+      <actor>Beren Saat</actor>
+    </credits>
+  </programme>
+  <programme start="20140514080000 +0000" stop="20140514100000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">صباح الخير يا عرب</title>
+    <title lang="en">Ssabah Al Khaer Ya A'arab</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Morning talk show that offers a variety of sections and highlights many life activities and daily sides.</desc>
+  </programme>
+  <programme start="20140514100000 +0000" stop="20140514110000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">ليث ونورا</title>
+    <title lang="en">Laith Wa Noura</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around a love story between Laith, a brave army officer, and Noura who belongs to a rich family.</desc>
+    <credits>
+      <actor>Kivanc Tatlitug</actor>
+    </credits>
+  </programme>
+  <programme start="20140514110000 +0000" stop="20140514120000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">صديقات العمر</title>
+    <title lang="en">Ssadiqat Al Omr</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series sheds light on the suffering of four girls. The girls are in one school, but each one of them has her own problems.</desc>
+    <credits>
+      <actor>Basemah Hamadah</actor>
+    </credits>
+  </programme>
+  <programme start="20140514120000 +0000" stop="20140514130000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">توم الغرة</title>
+    <title lang="en">Toum Al Ghorah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Bedouin drama revolves around Hishal who decides to marry his cousin, who asks for a deer in dowry, but he kills someone instead of the deer.</desc>
+    <credits>
+      <actor>A'abeer E'esa</actor>
+      <actor>A'akef Najem</actor>
+      <actor>Hesham Henaidi</actor>
+    </credits>
+  </programme>
+  <programme start="20140514130000 +0000" stop="20140514140000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">ياسمين</title>
+    <title lang="en">Yasmeen</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Yasmeen, who loves Ahmad since her childhood, soon he travels abroad to study and she begins to miss him. Later Yasmeen realizes that Ahmad has been unfaithful with her.</desc>
+    <credits>
+      <actor>Beren Saat</actor>
+    </credits>
+  </programme>
+  <programme start="20140514140000 +0000" stop="20140514150000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">أشوفكم على خير</title>
+    <title lang="en">Ashufkom A'ala Khair</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around optimistic woman who faces many problems in her life, but that doesn't stop her to go on and achieve her dreams. The events develop when she is shocked by other obstacles.</desc>
+    <credits>
+      <actor>Elham Al Fdala</actor>
+      <actor>Hussien Al Manssor</actor>
+      <actor>Aseel Omran</actor>
+    </credits>
+  </programme>
+  <programme start="20140514150000 +0000" stop="20140514160000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">الزوجة الثانية</title>
+    <title lang="en">Azzawjah Athaneyah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series sets in Upper Egypt where an unjust mayor takes the control. He forces one of the farmers to divorce his wife Fatimah, in order to marry her, but she refuses him which leads to his death.</desc>
+    <credits>
+      <actor>Ayten A'amer</actor>
+      <actor>O'la Ghanem</actor>
+      <actor>A'amr Abd Al Jaleel</actor>
+      <actor>A'amr Waked</actor>
+      <actor>Ahmad Al-Jundi</actor>
+      <actor>Mohammad Ssobhi</actor>
+      <actor>Mohammad Ashenawi</actor>
+      <actor>Zaki Fattein Abd Al Wahab</actor>
+      <actor>Mohammad Farooq</actor>
+    </credits>
+  </programme>
+  <programme start="20140514160000 +0000" stop="20140514170000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">ليث ونورا</title>
+    <title lang="en">Laith Wa Noura</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around a love story between Laith, a brave army officer, and Noura who belongs to a rich family.</desc>
+    <credits>
+      <actor>Kivanc Tatlitug</actor>
+    </credits>
+  </programme>
+  <programme start="20140514170000 +0000" stop="20140514180000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">الثامنة</title>
+    <title lang="en">Al Thamenah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Talk show discusses many hot issues and topics related to Saudi society.</desc>
+  </programme>
+  <programme start="20140514180000 +0000" stop="20140514183000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">نشرة الأخبار</title>
+    <title lang="en">Nashrat Al Akhbar</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">News bulletin highlights the latest and most important Arab and global news that are provided with latest news reports from all over the world.</desc>
+  </programme>
+  <programme start="20140514183000 +0000" stop="20140514200000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">ليش لا؟</title>
+    <title lang="en">Laysh La?</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Reality show revolves around the lives of four Saudi celebrities, who decide to put a list of one hundred tasks they need to complete as soon as possible.</desc>
+  </programme>
+  <programme start="20140514200000 +0000" stop="20140514210000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">صديقات العمر</title>
+    <title lang="en">Ssadiqat Al Omr</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series sheds light on the suffering of four girls. The girls are in one school, but each one of them has her own problems.</desc>
+    <credits>
+      <actor>Basemah Hamadah</actor>
+    </credits>
+  </programme>
+  <programme start="20140514210000 +0000" stop="20140514220000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">صدى الملاعب</title>
+    <title lang="en">Ssada Al Mala'eb</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program covers the latest football matches in the Arab region and around the world.</desc>
+  </programme>
+  <programme start="20140514220000 +0000" stop="20140514230000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">الثامنة</title>
+    <title lang="en">Al Thamenah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Talk show discusses many hot issues and topics related to Saudi society.</desc>
+  </programme>
+  <programme start="20140514230000 +0000" stop="20140515000000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">ليث ونورا</title>
+    <title lang="en">Laith Wa Noura</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around a love story between Laith, a brave army officer, and Noura who belongs to a rich family.</desc>
+    <credits>
+      <actor>Kivanc Tatlitug</actor>
+    </credits>
+  </programme>
+  <programme start="20140515000000 +0000" stop="20140515010000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">ياسمين</title>
+    <title lang="en">Yasmeen</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Yasmeen, who loves Ahmad since her childhood, soon he travels abroad to study and she begins to miss him. Later Yasmeen realizes that Ahmad has been unfaithful with her.</desc>
+    <credits>
+      <actor>Beren Saat</actor>
+    </credits>
+  </programme>
+  <programme start="20140515010000 +0000" stop="20140515020000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">صديقات العمر</title>
+    <title lang="en">Ssadiqat Al Omr</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series sheds light on the suffering of four girls. The girls are in one school, but each one of them has her own problems.</desc>
+    <credits>
+      <actor>Basemah Hamadah</actor>
+    </credits>
+  </programme>
+  <programme start="20140515020000 +0000" stop="20140515024500 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">أشوفكم على خير</title>
+    <title lang="en">Ashufkom A'ala Khair</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around optimistic woman who faces many problems in her life, but that doesn't stop her to go on and achieve her dreams. The events develop when she is shocked by other obstacles.</desc>
+    <credits>
+      <actor>Elham Al Fdala</actor>
+      <actor>Hussien Al Manssor</actor>
+      <actor>Aseel Omran</actor>
+    </credits>
+  </programme>
+  <programme start="20140515024500 +0000" stop="20140515033000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">الثامنة</title>
+    <title lang="en">Al Thamenah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Talk show discusses many hot issues and topics related to Saudi society.</desc>
+  </programme>
+  <programme start="20140515033000 +0000" stop="20140515041500 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">صدى الملاعب</title>
+    <title lang="en">Ssada Al Mala'eb</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program covers the latest football matches in the Arab region and around the world.</desc>
+  </programme>
+  <programme start="20140515041500 +0000" stop="20140515051500 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">توم الغرة</title>
+    <title lang="en">Toum Al Ghorah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Bedouin drama revolves around Hishal who decides to marry his cousin, who asks for a deer in dowry, but he kills someone instead of the deer.</desc>
+    <credits>
+      <actor>A'abeer E'esa</actor>
+      <actor>A'akef Najem</actor>
+      <actor>Hesham Henaidi</actor>
+    </credits>
+  </programme>
+  <programme start="20140515051500 +0000" stop="20140515060000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">أشوفكم على خير</title>
+    <title lang="en">Ashufkom A'ala Khair</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around optimistic woman who faces many problems in her life, but that doesn't stop her to go on and achieve her dreams. The events develop when she is shocked by other obstacles.</desc>
+    <credits>
+      <actor>Elham Al Fdala</actor>
+      <actor>Hussien Al Manssor</actor>
+      <actor>Aseel Omran</actor>
+    </credits>
+  </programme>
+  <programme start="20140515060000 +0000" stop="20140515070000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">الزوجة الثانية</title>
+    <title lang="en">Azzawjah Athaneyah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series sets in Upper Egypt where an unjust mayor takes the control. He forces one of the farmers to divorce his wife Fatimah, in order to marry her, but she refuses him which leads to his death.</desc>
+    <credits>
+      <actor>Ayten A'amer</actor>
+      <actor>O'la Ghanem</actor>
+      <actor>A'amr Abd Al Jaleel</actor>
+      <actor>A'amr Waked</actor>
+      <actor>Ahmad Al-Jundi</actor>
+      <actor>Mohammad Ssobhi</actor>
+      <actor>Mohammad Ashenawi</actor>
+      <actor>Zaki Fattein Abd Al Wahab</actor>
+      <actor>Mohammad Farooq</actor>
+    </credits>
+  </programme>
+  <programme start="20140515070000 +0000" stop="20140515080000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">ياسمين</title>
+    <title lang="en">Yasmeen</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Yasmeen, who loves Ahmad since her childhood, soon he travels abroad to study and she begins to miss him. Later Yasmeen realizes that Ahmad has been unfaithful with her.</desc>
+    <credits>
+      <actor>Beren Saat</actor>
+    </credits>
+  </programme>
+  <programme start="20140515080000 +0000" stop="20140515100000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">صباح الخير يا عرب</title>
+    <title lang="en">Ssabah Al Khaer Ya A'arab</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Morning talk show that offers a variety of sections and highlights many life activities and daily sides.</desc>
+  </programme>
+  <programme start="20140515100000 +0000" stop="20140515110000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">ليث ونورا</title>
+    <title lang="en">Laith Wa Noura</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around a love story between Laith, a brave army officer, and Noura who belongs to a rich family.</desc>
+    <credits>
+      <actor>Kivanc Tatlitug</actor>
+    </credits>
+  </programme>
+  <programme start="20140515110000 +0000" stop="20140515120000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">صديقات العمر</title>
+    <title lang="en">Ssadiqat Al Omr</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series sheds light on the suffering of four girls. The girls are in one school, but each one of them has her own problems.</desc>
+    <credits>
+      <actor>Basemah Hamadah</actor>
+    </credits>
+  </programme>
+  <programme start="20140515120000 +0000" stop="20140515130000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">توم الغرة</title>
+    <title lang="en">Toum Al Ghorah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Bedouin drama revolves around Hishal who decides to marry his cousin, who asks for a deer in dowry, but he kills someone instead of the deer.</desc>
+    <credits>
+      <actor>A'abeer E'esa</actor>
+      <actor>A'akef Najem</actor>
+      <actor>Hesham Henaidi</actor>
+    </credits>
+  </programme>
+  <programme start="20140515130000 +0000" stop="20140515140000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">ياسمين</title>
+    <title lang="en">Yasmeen</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Yasmeen, who loves Ahmad since her childhood, soon he travels abroad to study and she begins to miss him. Later Yasmeen realizes that Ahmad has been unfaithful with her.</desc>
+    <credits>
+      <actor>Beren Saat</actor>
+    </credits>
+  </programme>
+  <programme start="20140515140000 +0000" stop="20140515150000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">أشوفكم على خير</title>
+    <title lang="en">Ashufkom A'ala Khair</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around optimistic woman who faces many problems in her life, but that doesn't stop her to go on and achieve her dreams. The events develop when she is shocked by other obstacles.</desc>
+    <credits>
+      <actor>Elham Al Fdala</actor>
+      <actor>Hussien Al Manssor</actor>
+      <actor>Aseel Omran</actor>
+    </credits>
+  </programme>
+  <programme start="20140515150000 +0000" stop="20140515160000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">الزوجة الثانية</title>
+    <title lang="en">Azzawjah Athaneyah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series sets in Upper Egypt where an unjust mayor takes the control. He forces one of the farmers to divorce his wife Fatimah, in order to marry her, but she refuses him which leads to his death.</desc>
+    <credits>
+      <actor>Ayten A'amer</actor>
+      <actor>O'la Ghanem</actor>
+      <actor>A'amr Abd Al Jaleel</actor>
+      <actor>A'amr Waked</actor>
+      <actor>Ahmad Al-Jundi</actor>
+      <actor>Mohammad Ssobhi</actor>
+      <actor>Mohammad Ashenawi</actor>
+      <actor>Zaki Fattein Abd Al Wahab</actor>
+      <actor>Mohammad Farooq</actor>
+    </credits>
+  </programme>
+  <programme start="20140515160000 +0000" stop="20140515170000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">نساء حائرات</title>
+    <title lang="en">Nesa'a Hae'rat</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series tells the story of five women, having different lives; Aleef, Amanl, Nermeen, Yasmeen and Zelees.</desc>
+  </programme>
+  <programme start="20140515170000 +0000" stop="20140515180000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">بدون شك</title>
+    <title lang="en">Bedoun Shak</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Talk show presented by Mohammed Al Harthi, who sheds light on various social issues from a legal perspective, and invites a number of specialists to discuss those issues.</desc>
+  </programme>
+  <programme start="20140515180000 +0000" stop="20140515183000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">نشرة الأخبار</title>
+    <title lang="en">Nashrat Al Akhbar</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">News bulletin highlights the latest and most important Arab and global news that are provided with latest news reports from all over the world.</desc>
+  </programme>
+  <programme start="20140515183000 +0000" stop="20140515200000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">شط بحر الهوى</title>
+    <title lang="en">Shatt Bahr Alhawa</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Entertainment program that is a journey and adventure on a ship in the Caribbean Sea, it's full of excitement and discoveries, with many entertaining activities and games.</desc>
+  </programme>
+  <programme start="20140515200000 +0000" stop="20140515210000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">صديقات العمر</title>
+    <title lang="en">Ssadiqat Al Omr</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series sheds light on the suffering of four girls. The girls are in one school, but each one of them has her own problems.</desc>
+    <credits>
+      <actor>Basemah Hamadah</actor>
+    </credits>
+  </programme>
+  <programme start="20140515210000 +0000" stop="20140515220000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">صدى الملاعب</title>
+    <title lang="en">Ssada Al Mala'eb</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program covers the latest football matches in the Arab region and around the world.</desc>
+  </programme>
+  <programme start="20140515220000 +0000" stop="20140515230000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">نساء حائرات</title>
+    <title lang="en">Nesa'a Hae'rat</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series tells the story of five women, having different lives; Aleef, Amanl, Nermeen, Yasmeen and Zelees.</desc>
+  </programme>
+  <programme start="20140515230000 +0000" stop="20140516000000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">ياسمين</title>
+    <title lang="en">Yasmeen</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Yasmeen, who loves Ahmad since her childhood, soon he travels abroad to study and she begins to miss him. Later Yasmeen realizes that Ahmad has been unfaithful with her.</desc>
+    <credits>
+      <actor>Beren Saat</actor>
+    </credits>
+  </programme>
+  <programme start="20140516000000 +0000" stop="20140516004000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">ياسمين</title>
+    <title lang="en">Yasmeen</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Yasmeen, who loves Ahmad since her childhood, soon he travels abroad to study and she begins to miss him. Later Yasmeen realizes that Ahmad has been unfaithful with her.</desc>
+    <credits>
+      <actor>Beren Saat</actor>
+    </credits>
+  </programme>
+  <programme start="20140516004000 +0000" stop="20140516013000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">ياسمين</title>
+    <title lang="en">Yasmeen</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Yasmeen, who loves Ahmad since her childhood, soon he travels abroad to study and she begins to miss him. Later Yasmeen realizes that Ahmad has been unfaithful with her.</desc>
+    <credits>
+      <actor>Beren Saat</actor>
+    </credits>
+  </programme>
+  <programme start="20140516013000 +0000" stop="20140516023000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">ياسمين</title>
+    <title lang="en">Yasmeen</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Yasmeen, who loves Ahmad since her childhood, soon he travels abroad to study and she begins to miss him. Later Yasmeen realizes that Ahmad has been unfaithful with her.</desc>
+    <credits>
+      <actor>Beren Saat</actor>
+    </credits>
+  </programme>
+  <programme start="20140516023000 +0000" stop="20140516025000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">صديقات العمر</title>
+    <title lang="en">Ssadiqat Al Omr</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series sheds light on the suffering of four girls. The girls are in one school, but each one of them has her own problems.</desc>
+    <credits>
+      <actor>Basemah Hamadah</actor>
+    </credits>
+  </programme>
+  <programme start="20140516025000 +0000" stop="20140516033000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">صديقات العمر</title>
+    <title lang="en">Ssadiqat Al Omr</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series sheds light on the suffering of four girls. The girls are in one school, but each one of them has her own problems.</desc>
+    <credits>
+      <actor>Basemah Hamadah</actor>
+    </credits>
+  </programme>
+  <programme start="20140516033000 +0000" stop="20140516041000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">صديقات العمر</title>
+    <title lang="en">Ssadiqat Al Omr</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series sheds light on the suffering of four girls. The girls are in one school, but each one of them has her own problems.</desc>
+    <credits>
+      <actor>Basemah Hamadah</actor>
+    </credits>
+  </programme>
+  <programme start="20140516041000 +0000" stop="20140516050000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">صديقات العمر</title>
+    <title lang="en">Ssadiqat Al Omr</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series sheds light on the suffering of four girls. The girls are in one school, but each one of them has her own problems.</desc>
+    <credits>
+      <actor>Basemah Hamadah</actor>
+    </credits>
+  </programme>
+  <programme start="20140516050000 +0000" stop="20140516060000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">صديقات العمر</title>
+    <title lang="en">Ssadiqat Al Omr</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series sheds light on the suffering of four girls. The girls are in one school, but each one of them has her own problems.</desc>
+    <credits>
+      <actor>Basemah Hamadah</actor>
+    </credits>
+  </programme>
+  <programme start="20140516060000 +0000" stop="20140516070000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">صدى الملاعب</title>
+    <title lang="en">Ssada Al Mala'eb</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sports program covers the latest football matches in the Arab region and around the world.</desc>
+  </programme>
+  <programme start="20140516070000 +0000" stop="20140516080000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">التفاح الأخضر</title>
+    <title lang="en">Attoffah Al Akhddar</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Medical program covers family health problems and ways to cure these problems.</desc>
+  </programme>
+  <programme start="20140516080000 +0000" stop="20140516084500 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">الصحابة</title>
+    <title lang="en">Assahabah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Devotional program.</desc>
+  </programme>
+  <programme start="20140516084500 +0000" stop="20140516091500 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">خواطر</title>
+    <title lang="en">Khawatter</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Charity is the best moral character man can gain.    This is the slogan that the successful media man Ahmed Al Shokairy used for his program.</desc>
+  </programme>
+  <programme start="20140516091500 +0000" stop="20140516100000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">صلاة الجمعة</title>
+    <title lang="en">Ssalat Al Joma'ah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Religious period telecasts Friday prayers. It also shows some readings from Quran, prayers and supplications every Friday.</desc>
+  </programme>
+  <programme start="20140516100000 +0000" stop="20140516110000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">بدون شك</title>
+    <title lang="en">Bedoun Shak</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Talk show presented by Mohammed Al Harthi, who sheds light on various social issues from a legal perspective, and invites a number of specialists to discuss those issues.</desc>
+  </programme>
+  <programme start="20140516110000 +0000" stop="20140516130000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">إم بي سي في أسبوع</title>
+    <title lang="en">Mbc Fi Osbou'</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Weekly news program highlights the most important political, economical, sports, social and medical events which takes place in the week.</desc>
+  </programme>
+  <programme start="20140516130000 +0000" stop="20140516150000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">شرع الحب</title>
+    <title lang="en">Share' Al Hob</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series.</desc>
+  </programme>
+  <programme start="20140516150000 +0000" stop="20140516153000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">واي فاي</title>
+    <title lang="en">Wi Fi</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Comedy series presents many subjects derived from the reality of Saudi society in private and Gulf society in general and they are processed in comedy ways.</desc>
+    <credits>
+      <actor>Daoud Hussein</actor>
+      <actor>Haya Al Shuaibi</actor>
+      <actor>Hasan Al Ballam</actor>
+    </credits>
+  </programme>
+  <programme start="20140516153000 +0000" stop="20140516170000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">شط بحر الهوى</title>
+    <title lang="en">Shatt Bahr Alhawa</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Entertainment program that is a journey and adventure on a ship in the Caribbean Sea, it's full of excitement and discoveries, with many entertaining activities and games.</desc>
+  </programme>
+  <programme start="20140516170000 +0000" stop="20140516180000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">التفاح الأخضر</title>
+    <title lang="en">Attoffah Al Akhddar</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Medical program covers family health problems and ways to cure these problems.</desc>
+  </programme>
+  <programme start="20140516180000 +0000" stop="20140516183000 +0000" vps-start="19700101000000 19700101000000" channel="1750">
+    <title lang="ar">نشرة الأخبار</title>
+    <title lang="en">Nashrat Al Akhbar</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">News bulletin highlights the latest and most important Arab and global news that are provided with latest news reports from all over the world.</desc>
+  </programme>
+</tv>

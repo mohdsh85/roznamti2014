@@ -1,0 +1,2201 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE tv SYSTEM "xmltv.dtd"[]>
+
+<tv generator-info-name="ShooFeeTV listings">
+
+  <Range>
+
+    <Start>20140510183000</Start>
+
+    <End>20140516183000</End>
+
+  </Range>
+
+  <channel id="2190">
+
+    <display-name lang="ar">إم بي سي 2</display-name>
+
+    <display-name lang="en">ME MBC2</display-name>
+
+  </channel>
+
+  <programme start="20140510183000 +0000" stop="20140510195500 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">أكسبتد</title>
+
+    <title lang="en">Accepted</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">A fun-loving slacker, Bartbley gets denial from colleges he applies for, much to dismay of his overly expectant parents. With the help of buddies, he then creates his own institution, the S.H.I.T.</desc>
+
+    <credits>
+
+      <actor>Justin Long</actor>
+
+      <actor>Jonah Hill</actor>
+
+      <actor>Adam Herschman</actor>
+
+    </credits>
+
+  </programme>
+
+  <programme start="20140510195500 +0000" stop="20140510213500 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">
+
+    </title>
+
+    <title lang="en">The Losers</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">Clay and his team are a part of an elite US Special Forces Unit. They were betrayed by their handler, Max. They vow revenge and are given the chance to kill Max by a mysterious woman, Aisha.</desc>
+
+    <credits>
+
+      <actor>Jeffrey Dean Morgan</actor>
+
+      <actor>Zoe Saldana</actor>
+
+      <actor>Chris Evans</actor>
+
+      <actor>Idris Elba</actor>
+
+      <actor>Jason Patric</actor>
+
+    </credits>
+
+  </programme>
+
+  <programme start="20140510213500 +0000" stop="20140510220000 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">إنترتاينمينت تونايت</title>
+
+    <title lang="en">Entertainment Tonight</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">The show features a steady stream of entertainment news stories on celebrities, film, television, music, fashion, award shows and special events.</desc>
+
+  </programme>
+
+  <programme start="20140510220000 +0000" stop="20140511000000 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">ذا إنفيزيبل</title>
+
+    <title lang="en">The Invisible</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">After an attack leaves him in limbo, invisible to the living but also near death, a teenager discovers the only person who might be able to help him is his assailant.</desc>
+
+    <credits>
+
+      <actor>Justin Chatwin</actor>
+
+      <actor>Margarita Levieva</actor>
+
+      <actor>Marcia Gay Harden</actor>
+
+    </credits>
+
+  </programme>
+
+  <programme start="20140511000000 +0000" stop="20140511015000 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">
+
+    </title>
+
+    <title lang="en">Firewall</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">With his family held for ransom, a security executive for a global bank is commanded to loot his own business for millions. He then faces the demanding task of thwarting the kidnapper's grand scheme.</desc>
+
+    <credits>
+
+      <actor>Harrison Ford</actor>
+
+      <actor>Virginia Madsen</actor>
+
+      <actor>Carly Schroeder</actor>
+
+    </credits>
+
+  </programme>
+
+  <programme start="20140511015000 +0000" stop="20140511021500 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">إنترتاينمينت تونايت</title>
+
+    <title lang="en">Entertainment Tonight</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">The show features a steady stream of entertainment news stories on celebrities, film, television, music, fashion, award shows and special events.</desc>
+
+  </programme>
+
+  <programme start="20140511021500 +0000" stop="20140511034500 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">
+
+    </title>
+
+    <title lang="en">Journey To The Center Of The Earth</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">A scientist is on a quest to find out what happened to his missing brother. Along with his nephew and their mountain guide, he discovers a dangerous lost world in the center of the earth.</desc>
+
+    <credits>
+
+      <actor>Brendan Fraser</actor>
+
+      <actor>Josh Hutcherson</actor>
+
+      <actor>Anita Briem</actor>
+
+    </credits>
+
+  </programme>
+
+  <programme start="20140511034500 +0000" stop="20140511053000 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">
+
+    </title>
+
+    <title lang="en">Hurricane Season</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">Al Collins, basketball coach of the John Ehret High School aims to win the state championship trophy. He gathers a team of students from five different high schools, and guides them to victory.</desc>
+
+    <credits>
+
+      <actor>Isaiah Washington</actor>
+
+      <actor>Forest Whitaker</actor>
+
+      <actor>Bow Wow</actor>
+
+    </credits>
+
+  </programme>
+
+  <programme start="20140511053000 +0000" stop="20140511072500 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">هوتل فور دوغز</title>
+
+    <title lang="en">Hotel For Dogs</title>
+
+    <desc lang="ar">طفلان مغرمان بتربية الكلاب ولكنهما يمنعان من ذلك في المنزل فيجدان طريقة للإحتفاظ بالكلاب وهي فندق غرفة في فندق لتصبح متنفسهما الوحيد وجنة الكلاب لديهما</desc>
+
+    <desc lang="en">Two children who are forbidden to bring animals home, secretly take in stray dogs at an abandoned hotel, thus creating an ideal shelter, by transforming the hotel into an incredible paradise for dogs.</desc>
+
+    <credits>
+
+      <actor>Don Cheadle</actor>
+
+      <actor>Emma Roberts</actor>
+
+      <actor>Jake T. Austin</actor>
+
+      <actor>Johnny Simmons</actor>
+
+    </credits>
+
+  </programme>
+
+  <programme start="20140511072500 +0000" stop="20140511090000 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">أكسبتد</title>
+
+    <title lang="en">Accepted</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">A fun-loving slacker, Bartbley gets denial from colleges he applies for, much to dismay of his overly expectant parents. With the help of buddies, he then creates his own institution, the S.H.I.T.</desc>
+
+    <credits>
+
+      <actor>Justin Long</actor>
+
+      <actor>Jonah Hill</actor>
+
+      <actor>Adam Herschman</actor>
+
+    </credits>
+
+  </programme>
+
+  <programme start="20140511090000 +0000" stop="20140511110000 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">
+
+    </title>
+
+    <title lang="en">Friday Night Lights</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">A football drama about a high school football team, in racially divided and economically dying small town of  Texas, where one night matters: Friday Night.</desc>
+
+    <credits>
+
+      <actor>Billy Bob Thornton</actor>
+
+      <actor>Derek Luke</actor>
+
+      <actor>Jay Hernandez</actor>
+
+    </credits>
+
+  </programme>
+
+  <programme start="20140511110000 +0000" stop="20140511130500 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">
+
+    </title>
+
+    <title lang="en">The Losers</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">Clay and his team are a part of an elite US Special Forces Unit. They were betrayed by their handler, Max. They vow revenge and are given the chance to kill Max by a mysterious woman, Aisha.</desc>
+
+    <credits>
+
+      <actor>Jeffrey Dean Morgan</actor>
+
+      <actor>Zoe Saldana</actor>
+
+      <actor>Chris Evans</actor>
+
+      <actor>Idris Elba</actor>
+
+      <actor>Jason Patric</actor>
+
+    </credits>
+
+  </programme>
+
+  <programme start="20140511130500 +0000" stop="20140511150500 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">أدابتاشين</title>
+
+    <title lang="en">Adaptation</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">Story about Kaufman, a screen writer who is struggling to adapt Orlean's book about Laroche,who clones rare orchids and sells them to collectors.Their lives get intertwined with unpredictable results.</desc>
+
+    <credits>
+
+      <actor>Meryl Streep</actor>
+
+      <actor>Nicolas Cage</actor>
+
+      <actor>Tilda Swinton</actor>
+
+      <actor>Chris Cooper</actor>
+
+      <actor>Jay Tavare</actor>
+
+    </credits>
+
+  </programme>
+
+  <programme start="20140511150500 +0000" stop="20140511153500 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">إنترتاينمينت تونايت</title>
+
+    <title lang="en">Entertainment Tonight</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">The show features a steady stream of entertainment news stories on celebrities, film, television, music, fashion, award shows and special events.</desc>
+
+  </programme>
+
+  <programme start="20140511153500 +0000" stop="20140511175500 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">ذا مامي</title>
+
+    <title lang="en">The Mummy</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">Adventurer Rick O'Connell and Egyptologist Evelyn, along with a group of archaeologists, accidentally awaken a cursed mummy on an archaeological dig at the ancient city of Hamunaptra.</desc>
+
+    <credits>
+
+      <actor>Brendan Fraser</actor>
+
+      <actor>Rachel Weisz</actor>
+
+      <actor>John Hannah</actor>
+
+      <actor>Arnold Vosloo</actor>
+
+      <actor>Jonathan Hyde</actor>
+
+      <actor>Erick Avari</actor>
+
+    </credits>
+
+  </programme>
+
+  <programme start="20140511175500 +0000" stop="20140511183000 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">سكوب وذ ريا</title>
+
+    <title lang="en">Scoop With Raya</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">Raya presents the latest news and updates on movie releases, celebrity news and gossip and other news from the world of entertainment.</desc>
+
+  </programme>
+
+  <programme start="20140511183000 +0000" stop="20140511183500 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">سكوب وذ ريا</title>
+
+    <title lang="en">Scoop With Raya</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">Raya presents the latest news and updates on movie releases, celebrity news and gossip and other news from the world of entertainment.</desc>
+
+  </programme>
+
+  <programme start="20140511183500 +0000" stop="20140511210000 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">
+
+    </title>
+
+    <title lang="en">Erin Brockovich</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">A twice divorced mother of three sees an injustice, takes on the bad guys, and wins.  Stars: Julia Roberts, Aaron Eckhart</desc>
+
+    <credits>
+
+      <actor>Julia Roberts</actor>
+
+      <actor>David Brisbin</actor>
+
+      <actor>Dawn Didawick</actor>
+
+      <actor>Albert Finney</actor>
+
+      <actor>Marg Helgenberger</actor>
+
+      <actor>Aaron Eckhart</actor>
+
+    </credits>
+
+  </programme>
+
+  <programme start="20140511210000 +0000" stop="20140511231000 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">ذا كيوريس كيس أوف بنجمن بوتون</title>
+
+    <title lang="en">The Curious Case Of Benjamin Button</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">A lady on her deathbed narrates to her daughter, the story of a lifelong friend, Benjamin, who suffers from a strange health problem - he starts ageing backwards with bizarre consequences.</desc>
+
+    <credits>
+
+      <actor>Brad Pitt</actor>
+
+      <actor>Cate Blanchett</actor>
+
+      <actor>Taraji Henson</actor>
+
+    </credits>
+
+  </programme>
+
+  <programme start="20140511231000 +0000" stop="20140511233000 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">إنترتاينمينت تونايت</title>
+
+    <title lang="en">Entertainment Tonight</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">The show features a steady stream of entertainment news stories on celebrities, film, television, music, fashion, award shows and special events.</desc>
+
+  </programme>
+
+  <programme start="20140511233000 +0000" stop="20140512011000 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">ذا ريبينغ</title>
+
+    <title lang="en">The Reaping</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">A former Christian missionary, who specializes in debunking religious phenomena, investigates a small town which seems to be suffering from the 10 biblical plagues.</desc>
+
+    <credits>
+
+      <actor>David Morrissey</actor>
+
+      <actor>Hilary Swank</actor>
+
+    </credits>
+
+  </programme>
+
+  <programme start="20140512011000 +0000" stop="20140512030000 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">ذا إنفيزيبل</title>
+
+    <title lang="en">The Invisible</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">After an attack leaves him in limbo, invisible to the living but also near death, a teenager discovers the only person who might be able to help him is his assailant.</desc>
+
+    <credits>
+
+      <actor>Justin Chatwin</actor>
+
+      <actor>Margarita Levieva</actor>
+
+      <actor>Marcia Gay Harden</actor>
+
+    </credits>
+
+  </programme>
+
+  <programme start="20140512030000 +0000" stop="20140512043000 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">
+
+    </title>
+
+    <title lang="en">Moonlight Serenade</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">Nate Holden, a piano player discovers that Chloe, who works at the coat-check of a jazz club, is a gifted singer and tries to convince her to form a musical act with him.</desc>
+
+    <credits>
+
+      <actor>Amy Adams</actor>
+
+      <actor>Alec Newman</actor>
+
+      <actor>Scott G. Anderson</actor>
+
+    </credits>
+
+  </programme>
+
+  <programme start="20140512043000 +0000" stop="20140512064500 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">ذا كيوريس كيس أوف بنجمن بوتون</title>
+
+    <title lang="en">The Curious Case Of Benjamin Button</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">A lady on her deathbed narrates to her daughter, the story of a lifelong friend, Benjamin, who suffers from a strange health problem - he starts ageing backwards with bizarre consequences.</desc>
+
+    <credits>
+
+      <actor>Brad Pitt</actor>
+
+      <actor>Cate Blanchett</actor>
+
+      <actor>Taraji Henson</actor>
+
+    </credits>
+
+  </programme>
+
+  <programme start="20140512064500 +0000" stop="20140512083000 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">
+
+    </title>
+
+    <title lang="en">Dickie Roberts: Former Child Star</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">The story revolves around TV child star of the '70s, Dickie Roberts, who wants to regain the lost spotlight and hires a foster family to re-create the childhood he never had.</desc>
+
+    <credits>
+
+      <actor>Mary McCormack</actor>
+
+      <actor>Craig Bierko</actor>
+
+      <actor>David Spade</actor>
+
+    </credits>
+
+  </programme>
+
+  <programme start="20140512083000 +0000" stop="20140512103000 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">ذا بيرفكت غيم</title>
+
+    <title lang="en">The Perfect Game</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">Based on a true story that revolves around the poor group of kids from Mexico who win 13 games in the Little League World Series championship.</desc>
+
+    <credits>
+
+      <actor>Clifton Collins Jr.</actor>
+
+      <actor>Cheech Marin</actor>
+
+      <actor>Moises Arias</actor>
+
+    </credits>
+
+  </programme>
+
+  <programme start="20140512103000 +0000" stop="20140512130000 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">
+
+    </title>
+
+    <title lang="en">Erin Brockovich</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">A twice divorced mother of three sees an injustice, takes on the bad guys, and wins.  Stars: Julia Roberts, Aaron Eckhart</desc>
+
+    <credits>
+
+      <actor>Julia Roberts</actor>
+
+      <actor>David Brisbin</actor>
+
+      <actor>Dawn Didawick</actor>
+
+      <actor>Albert Finney</actor>
+
+      <actor>Marg Helgenberger</actor>
+
+      <actor>Aaron Eckhart</actor>
+
+    </credits>
+
+  </programme>
+
+  <programme start="20140512130000 +0000" stop="20140512133000 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">سكوب وذ ريا</title>
+
+    <title lang="en">Scoop With Raya</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">Raya presents the latest news and updates on movie releases, celebrity news and gossip and other news from the world of entertainment.</desc>
+
+  </programme>
+
+  <programme start="20140512133000 +0000" stop="20140512160000 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">ذا مامي</title>
+
+    <title lang="en">The Mummy</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">Adventurer Rick O'Connell and Egyptologist Evelyn, along with a group of archaeologists, accidentally awaken a cursed mummy on an archaeological dig at the ancient city of Hamunaptra.</desc>
+
+    <credits>
+
+      <actor>Brendan Fraser</actor>
+
+      <actor>Rachel Weisz</actor>
+
+      <actor>John Hannah</actor>
+
+      <actor>Arnold Vosloo</actor>
+
+      <actor>Jonathan Hyde</actor>
+
+      <actor>Erick Avari</actor>
+
+    </credits>
+
+  </programme>
+
+  <programme start="20140512160000 +0000" stop="20140512180000 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">فايارد أب!</title>
+
+    <title lang="en">Fired Up!</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">In this teen comedy film, the plot revolves around two popular high school football players, who lie by getting out of football camp and attend a cheerleading camp to get close to female cheerleaders.</desc>
+
+    <credits>
+
+      <actor>Nicolas D'Agosto</actor>
+
+      <actor>Eric Christian Olsen</actor>
+
+      <actor>Sarah Roemer</actor>
+
+    </credits>
+
+  </programme>
+
+  <programme start="20140512180000 +0000" stop="20140512183000 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">
+
+    </title>
+
+    <title lang="en">MacGruber</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">MacGruber gets a chance to get even with Dieter Von Cunth, who killed his wife and save the world, when a U.S. Colonel tells him that Cunth has stolen a nuclear weapon.</desc>
+
+    <credits>
+
+      <actor>Ryan Phillippe</actor>
+
+      <actor>Val Kilmer</actor>
+
+      <actor>Will Forte</actor>
+
+      <actor>Kristen Wiig</actor>
+
+    </credits>
+
+  </programme>
+
+  <programme start="20140512183000 +0000" stop="20140512200000 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">
+
+    </title>
+
+    <title lang="en">MacGruber</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">MacGruber gets a chance to get even with Dieter Von Cunth, who killed his wife and save the world, when a U.S. Colonel tells him that Cunth has stolen a nuclear weapon.</desc>
+
+    <credits>
+
+      <actor>Ryan Phillippe</actor>
+
+      <actor>Val Kilmer</actor>
+
+      <actor>Will Forte</actor>
+
+      <actor>Kristen Wiig</actor>
+
+    </credits>
+
+  </programme>
+
+  <programme start="20140512200000 +0000" stop="20140512220000 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">
+
+    </title>
+
+    <title lang="en">Green Lantern</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">With the evil Parallax advancing towards the Earth, Hal Jordan, a cocky test pilot is inadvertently chosen as the new 'Green Lantern'. Asserted as the only hope, will he be able to protect his planet?</desc>
+
+    <credits>
+
+      <actor>Ryan Reynolds</actor>
+
+      <actor>Blake Lively</actor>
+
+      <actor>Peter Sarsgaard</actor>
+
+      <actor>Tim Robbins</actor>
+
+      <actor>Mark Strong</actor>
+
+      <actor>Jay O. Sanders</actor>
+
+    </credits>
+
+  </programme>
+
+  <programme start="20140512220000 +0000" stop="20140512234500 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">
+
+    </title>
+
+    <title lang="en">RocknRolla</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">A real-estate scam worth millions, attracts the city's underworld. While the criminals vie for the cash, a drug addict rock 'n' roller presumed dead, lays his hands on a multi-million dollar prize.</desc>
+
+    <credits>
+
+      <actor>Gerard Butler</actor>
+
+      <actor>Tom Wilkinson</actor>
+
+      <actor>Thandie Newton</actor>
+
+    </credits>
+
+  </programme>
+
+  <programme start="20140512234500 +0000" stop="20140513013000 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">
+
+    </title>
+
+    <title lang="en">Hard To Kill</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">Detective Mason wakes up from a seven-year coma after being left for dead. Now he's on a quest for vengeance from the people who murdered his family.</desc>
+
+    <credits>
+
+      <actor>Steven Seagal</actor>
+
+      <actor>Kelly LeBrock</actor>
+
+      <actor>William Sadler</actor>
+
+      <actor>Frederick Coffin</actor>
+
+    </credits>
+
+  </programme>
+
+  <programme start="20140513013000 +0000" stop="20140513033000 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">ذا بيرفكت غيم</title>
+
+    <title lang="en">The Perfect Game</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">Based on a true story that revolves around the poor group of kids from Mexico who win 13 games in the Little League World Series championship.</desc>
+
+    <credits>
+
+      <actor>Clifton Collins Jr.</actor>
+
+      <actor>Cheech Marin</actor>
+
+      <actor>Moises Arias</actor>
+
+    </credits>
+
+  </programme>
+
+  <programme start="20140513033000 +0000" stop="20140513053000 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">
+
+    </title>
+
+    <title lang="en">One True Thing</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">Academy Award winners Meryl Streep, Renee Zellweger, and William Hurt embark on a journey of love and self - discovery.</desc>
+
+    <credits>
+
+      <actor>Meryl Streep</actor>
+
+      <actor>Renee Zellweger</actor>
+
+      <actor>William Hurt</actor>
+
+    </credits>
+
+  </programme>
+
+  <programme start="20140513053000 +0000" stop="20140513070000 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">غيت سمارتز بروس آند لويد آوت أوف كونترول</title>
+
+    <title lang="en">Get Smart's Bruce And Lloyd Out Of Control</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">A spin-off of the Get Smart movie, centred on Bruce, a techie and his nerdy analyst cohort, Lloyd.</desc>
+
+    <credits>
+
+      <actor>Masi Oka</actor>
+
+      <actor>Nate Torrence</actor>
+
+    </credits>
+
+  </programme>
+
+  <programme start="20140513070000 +0000" stop="20140513084500 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">فليكا 2</title>
+
+    <title lang="en">Flicka 2</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">City girl Carrie's life takes a turn when she moves to her father's ranch. It's her new pal Flicka, a wild mustang, who makes it bearable. But when Flicka's life is threatened, she fights to save it.</desc>
+
+    <credits>
+
+      <actor>Patrick Warburton</actor>
+
+      <actor>Clint Black</actor>
+
+      <actor>Tammin Sursok</actor>
+
+      <actor>Reilly Dolman</actor>
+
+    </credits>
+
+  </programme>
+
+  <programme start="20140513084500 +0000" stop="20140513103000 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">
+
+    </title>
+
+    <title lang="en">World's Greatest Dad</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">Lance Clayton dreamed of being a rich and famous writer, but has only managed to make it as a high school poetry teacher.</desc>
+
+    <credits>
+
+      <actor>Robin Williams</actor>
+
+      <actor>Daryl Sabara</actor>
+
+      <actor>Morgan Murphy</actor>
+
+    </credits>
+
+  </programme>
+
+  <programme start="20140513103000 +0000" stop="20140513120000 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">
+
+    </title>
+
+    <title lang="en">MacGruber</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">MacGruber gets a chance to get even with Dieter Von Cunth, who killed his wife and save the world, when a U.S. Colonel tells him that Cunth has stolen a nuclear weapon.</desc>
+
+    <credits>
+
+      <actor>Ryan Phillippe</actor>
+
+      <actor>Val Kilmer</actor>
+
+      <actor>Will Forte</actor>
+
+      <actor>Kristen Wiig</actor>
+
+    </credits>
+
+  </programme>
+
+  <programme start="20140513120000 +0000" stop="20140513133000 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">فايارد أب!</title>
+
+    <title lang="en">Fired Up!</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">In this teen comedy film, the plot revolves around two popular high school football players, who lie by getting out of football camp and attend a cheerleading camp to get close to female cheerleaders.</desc>
+
+    <credits>
+
+      <actor>Nicolas D'Agosto</actor>
+
+      <actor>Eric Christian Olsen</actor>
+
+      <actor>Sarah Roemer</actor>
+
+    </credits>
+
+  </programme>
+
+  <programme start="20140513133000 +0000" stop="20140513160000 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">
+
+    </title>
+
+    <title lang="en">Green Lantern</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">With the evil Parallax advancing towards the Earth, Hal Jordan, a cocky test pilot is inadvertently chosen as the new 'Green Lantern'. Asserted as the only hope, will he be able to protect his planet?</desc>
+
+    <credits>
+
+      <actor>Ryan Reynolds</actor>
+
+      <actor>Blake Lively</actor>
+
+      <actor>Peter Sarsgaard</actor>
+
+      <actor>Tim Robbins</actor>
+
+      <actor>Mark Strong</actor>
+
+      <actor>Jay O. Sanders</actor>
+
+    </credits>
+
+  </programme>
+
+  <programme start="20140513160000 +0000" stop="20140513180000 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">رومر هاز إت</title>
+
+    <title lang="en">Rumor Has It</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">Sarah learns that her father may not be her biological father and tries to find out more about her birth. At the same time, she discovers her family was the inspiration for the book 'The Graduate'.</desc>
+
+    <credits>
+
+      <actor>Shirley MacLaine</actor>
+
+      <actor>Jennifer Aniston</actor>
+
+      <actor>Kevin Costner</actor>
+
+    </credits>
+
+  </programme>
+
+  <programme start="20140513180000 +0000" stop="20140513183000 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">2 فاست 2 فوريوس</title>
+
+    <title lang="en">2 Fast 2 Furious</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">A former cop, teams up with his ex-con pal to transport a shipment for a shady Miami-based import-export dealer. Apparently also working with an undercover agent to arrest the dealer, will he succeed?</desc>
+
+    <credits>
+
+      <actor>Paul Walker</actor>
+
+      <actor>Tyrese Gibson</actor>
+
+      <actor>Eva Mendes</actor>
+
+      <actor>Cole Hauser</actor>
+
+    </credits>
+
+  </programme>
+
+  <programme start="20140513183000 +0000" stop="20140513200000 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">2 فاست 2 فوريوس</title>
+
+    <title lang="en">2 Fast 2 Furious</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">A former cop, teams up with his ex-con pal to transport a shipment for a shady Miami-based import-export dealer. Apparently also working with an undercover agent to arrest the dealer, will he succeed?</desc>
+
+    <credits>
+
+      <actor>Paul Walker</actor>
+
+      <actor>Tyrese Gibson</actor>
+
+      <actor>Eva Mendes</actor>
+
+      <actor>Cole Hauser</actor>
+
+    </credits>
+
+  </programme>
+
+  <programme start="20140513200000 +0000" stop="20140513220000 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">كولاتيرال داميج</title>
+
+    <title lang="en">Collateral Damage</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">After his family is killed by a terrorist act, a fire-fighter goes in search of the one responsible.</desc>
+
+    <credits>
+
+      <actor>Arnold Schwarzenegger</actor>
+
+      <actor>John Leguizamo</actor>
+
+      <actor>Cliff Curtis</actor>
+
+      <actor>John Turturro</actor>
+
+    </credits>
+
+  </programme>
+
+  <programme start="20140513220000 +0000" stop="20140514000000 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">أميريكان هيستوري إكس</title>
+
+    <title lang="en">American History X</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">A former neo-nazi skinhead tries to prevent his younger brother from going down the same wrong path that he did after he was sent to prison for three years.</desc>
+
+    <credits>
+
+      <actor>Edward Norton</actor>
+
+      <actor>Edward Furlong</actor>
+
+      <actor>Beverly Heather D'Angelo</actor>
+
+    </credits>
+
+  </programme>
+
+  <programme start="20140514000000 +0000" stop="20140514020000 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">
+
+    </title>
+
+    <title lang="en">RocknRolla</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">A real-estate scam worth millions, attracts the city's underworld. While the criminals vie for the cash, a drug addict rock 'n' roller presumed dead, lays his hands on a multi-million dollar prize.</desc>
+
+    <credits>
+
+      <actor>Gerard Butler</actor>
+
+      <actor>Tom Wilkinson</actor>
+
+      <actor>Thandie Newton</actor>
+
+    </credits>
+
+  </programme>
+
+  <programme start="20140514020000 +0000" stop="20140514040000 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">
+
+    </title>
+
+    <title lang="en">U-571</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">A German submarine is boarded by disguised American submariners trying to capture their Enigma cipher machine.</desc>
+
+    <credits>
+
+      <actor>Matthew McConaughey</actor>
+
+      <actor>Bill Paxton</actor>
+
+      <actor>Harvey Keitel</actor>
+
+    </credits>
+
+  </programme>
+
+  <programme start="20140514040000 +0000" stop="20140514060000 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">فايارد أب!</title>
+
+    <title lang="en">Fired Up!</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">In this teen comedy film, the plot revolves around two popular high school football players, who lie by getting out of football camp and attend a cheerleading camp to get close to female cheerleaders.</desc>
+
+    <credits>
+
+      <actor>Nicolas D'Agosto</actor>
+
+      <actor>Eric Christian Olsen</actor>
+
+      <actor>Sarah Roemer</actor>
+
+    </credits>
+
+  </programme>
+
+  <programme start="20140514060000 +0000" stop="20140514080000 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">ذا ستوري أوف أس</title>
+
+    <title lang="en">The Story of Us</title>
+
+    <desc lang="ar">
+يحكي هذا الفيلم قصة الزوجان بن وكاتي اللذان يقضيان خمسة عشر عاما من الزواج ضمن مشاكل لا تنتهي.
+</desc>
+
+    <desc lang="en">This drama movie revolves around Ben and Katie, a married couple who go through hard times and face problems. After fifteen years of marriage, they discover that they no longer love each other.</desc>
+
+    <credits>
+
+      <actor>Michelle Pfeiffer</actor>
+
+      <actor>Bruce Willis</actor>
+
+      <actor>Rob Reiner</actor>
+
+    </credits>
+
+  </programme>
+
+  <programme start="20140514080000 +0000" stop="20140514093000 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">مستر. تروب مام</title>
+
+    <title lang="en">	</title>
+
+    <desc lang="ar">دراما اجتماعية تحكي قصة فتاة في سن المراهقة يعاني والدها من صعوبة التعامل معها بعد وفاة والدتها.</desc>
+
+    <desc lang="en">Comedy family drama, that revolves around a father, who has had trouble connecting with his teenage daughter, ever since his wife passed away.</desc>
+
+    <credits>
+
+      <actor>George Lopez</actor>
+
+      <actor>April Amber Telex</actor>
+
+      <actor>Daniela Bobodilla</actor>
+
+    </credits>
+
+  </programme>
+
+  <programme start="20140514093000 +0000" stop="20140514113000 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">سانت ترنيانز</title>
+
+    <title lang="en">St. Trinian's</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">St. Trinian, a school for young women, is on the verge of bankruptcy. That's when, the students decide to rob a priceless painting and use its revenue to save their beloved school.</desc>
+
+    <credits>
+
+      <actor>Rupert Everett</actor>
+
+      <actor>Talulah Riley</actor>
+
+      <actor>Gemma Arterton</actor>
+
+      <actor>Jodie Whittaker</actor>
+
+      <actor>Kathryn Drysdale</actor>
+
+    </credits>
+
+  </programme>
+
+  <programme start="20140514113000 +0000" stop="20140514133000 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">كولاتيرال داميج</title>
+
+    <title lang="en">Collateral Damage</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">After his family is killed by a terrorist act, a fire-fighter goes in search of the one responsible.</desc>
+
+    <credits>
+
+      <actor>Arnold Schwarzenegger</actor>
+
+      <actor>John Leguizamo</actor>
+
+      <actor>Cliff Curtis</actor>
+
+      <actor>John Turturro</actor>
+
+    </credits>
+
+  </programme>
+
+  <programme start="20140514133000 +0000" stop="20140514160000 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">2 فاست 2 فوريوس</title>
+
+    <title lang="en">2 Fast 2 Furious</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">A former cop, teams up with his ex-con pal to transport a shipment for a shady Miami-based import-export dealer. Apparently also working with an undercover agent to arrest the dealer, will he succeed?</desc>
+
+    <credits>
+
+      <actor>Paul Walker</actor>
+
+      <actor>Tyrese Gibson</actor>
+
+      <actor>Eva Mendes</actor>
+
+      <actor>Cole Hauser</actor>
+
+    </credits>
+
+  </programme>
+
+  <programme start="20140514160000 +0000" stop="20140514180000 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">مارشان تشايلد</title>
+
+    <title lang="en">Martian Child</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">A science-fiction writer, recently widowed, considers whether to adopt a hyper-imaginative 6-year-old abandoned and socially rejected boy who says he's really from Mars.</desc>
+
+    <credits>
+
+      <actor>John Cusack</actor>
+
+      <actor>Joan Cusack</actor>
+
+      <actor>Amanda Peet</actor>
+
+      <actor>Bobby Coleman</actor>
+
+    </credits>
+
+  </programme>
+
+  <programme start="20140514180000 +0000" stop="20140514183000 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">
+
+    </title>
+
+    <title lang="en">Ocean's Eleven</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">Danny Ocean, a gangster, rounds up a gang of associates to stage heists of three major Las Vegas casino's simultaneously during a popular boxing event.</desc>
+
+    <credits>
+
+      <actor>George Clooney</actor>
+
+      <actor>Matt Damon</actor>
+
+      <actor>Julia Roberts</actor>
+
+      <actor>Brad Pitt</actor>
+
+      <actor>Andy Garcia</actor>
+
+      <actor>Casey Affleck</actor>
+
+      <actor>Cecelia Ann Birt</actor>
+
+      <actor>Paul L. Nolan</actor>
+
+    </credits>
+
+  </programme>
+
+  <programme start="20140514183000 +0000" stop="20140514200000 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">
+
+    </title>
+
+    <title lang="en">Ocean's Eleven</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">Danny Ocean, a gangster, rounds up a gang of associates to stage heists of three major Las Vegas casino's simultaneously during a popular boxing event.</desc>
+
+    <credits>
+
+      <actor>George Clooney</actor>
+
+      <actor>Matt Damon</actor>
+
+      <actor>Julia Roberts</actor>
+
+      <actor>Brad Pitt</actor>
+
+      <actor>Andy Garcia</actor>
+
+      <actor>Casey Affleck</actor>
+
+      <actor>Cecelia Ann Birt</actor>
+
+      <actor>Paul L. Nolan</actor>
+
+    </credits>
+
+  </programme>
+
+  <programme start="20140514200000 +0000" stop="20140514223000 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">ماستر آند كوماندار: ذا فار سايد أوف ذا وورلد</title>
+
+    <title lang="en">Master And Commander: The Far Side Of The World</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">Set during the Napoleonic Wars, a group of seamen set out to explore the differences between their lives and the other side of the world, ending up in the Galapagos Islands.</desc>
+
+    <credits>
+
+      <actor>Paul Bettany</actor>
+
+      <actor>Russell Crowe</actor>
+
+    </credits>
+
+  </programme>
+
+  <programme start="20140514223000 +0000" stop="20140515003000 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">بريدايتور</title>
+
+    <title lang="en">Predator</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">On a special CIA mission, Dutch and his team of commandos must save themselves from an extra-terrestrial warrior deep in the Central American jungle.</desc>
+
+    <credits>
+
+      <actor>Arnold Schwarzenegger</actor>
+
+      <actor>Carl Weathers</actor>
+
+      <actor>Bill Duke</actor>
+
+      <actor>Kevin Peter Hall</actor>
+
+      <actor>Elpidia Carrillo</actor>
+
+      <actor>Jesse Ventura</actor>
+
+    </credits>
+
+  </programme>
+
+  <programme start="20140515003000 +0000" stop="20140515020000 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">رومر هاز إت</title>
+
+    <title lang="en">Rumor Has It</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">Sarah learns that her father may not be her biological father and tries to find out more about her birth. At the same time, she discovers her family was the inspiration for the book 'The Graduate'.</desc>
+
+    <credits>
+
+      <actor>Shirley MacLaine</actor>
+
+      <actor>Jennifer Aniston</actor>
+
+      <actor>Kevin Costner</actor>
+
+    </credits>
+
+  </programme>
+
+  <programme start="20140515020000 +0000" stop="20140515033000 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">
+
+    </title>
+
+    <title lang="en">World's Greatest Dad</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">Lance Clayton dreamed of being a rich and famous writer, but has only managed to make it as a high school poetry teacher.</desc>
+
+    <credits>
+
+      <actor>Robin Williams</actor>
+
+      <actor>Daryl Sabara</actor>
+
+      <actor>Morgan Murphy</actor>
+
+    </credits>
+
+  </programme>
+
+  <programme start="20140515033000 +0000" stop="20140515053000 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">
+
+    </title>
+
+    <title lang="en">Alabama Moon</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">After the sudden death of his father, Moon Blake, who is raised in the Alabama wilderness, tries to adapt to the modern world.</desc>
+
+    <credits>
+
+      <actor>Jimmy Bennett</actor>
+
+      <actor>John Goodman</actor>
+
+      <actor>Gabriel Basso</actor>
+
+      <actor>Uriah Shelton</actor>
+
+      <actor>Clint Howard</actor>
+
+    </credits>
+
+  </programme>
+
+  <programme start="20140515053000 +0000" stop="20140515060000 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">سانت ترنيانز</title>
+
+    <title lang="en">St. Trinian's</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">St. Trinian, a school for young women, is on the verge of bankruptcy. That's when, the students decide to rob a priceless painting and use its revenue to save their beloved school.</desc>
+
+    <credits>
+
+      <actor>Rupert Everett</actor>
+
+      <actor>Talulah Riley</actor>
+
+      <actor>Gemma Arterton</actor>
+
+      <actor>Jodie Whittaker</actor>
+
+      <actor>Kathryn Drysdale</actor>
+
+    </credits>
+
+  </programme>
+
+  <programme start="20140515060000 +0000" stop="20140515080000 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">مارشان تشايلد</title>
+
+    <title lang="en">Martian Child</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">A science-fiction writer, recently widowed, considers whether to adopt a hyper-imaginative 6-year-old abandoned and socially rejected boy who says he's really from Mars.</desc>
+
+    <credits>
+
+      <actor>John Cusack</actor>
+
+      <actor>Joan Cusack</actor>
+
+      <actor>Amanda Peet</actor>
+
+      <actor>Bobby Coleman</actor>
+
+    </credits>
+
+  </programme>
+
+  <programme start="20140515080000 +0000" stop="20140515093000 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">مستر. تروب مام</title>
+
+    <title lang="en">Mr. Troop Mom</title>
+
+    <desc lang="ar">دراما اجتماعية تحكي قصة فتاة في سن المراهقة يعاني والدها من صعوبة التعامل معها بعد وفاة والدتها.</desc>
+
+    <desc lang="en">Comedy family drama, that revolves around a father, who has had trouble connecting with his teenage daughter, ever since his wife passed away.</desc>
+
+    <credits>
+
+      <actor>George Lopez</actor>
+
+      <actor>April Amber Telex</actor>
+
+      <actor>Daniela Bobodilla</actor>
+
+    </credits>
+
+  </programme>
+
+  <programme start="20140515093000 +0000" stop="20140515120000 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">ماستر آند كوماندار: ذا فار سايد أوف ذا وورلد</title>
+
+    <title lang="en">Master And Commander: The Far Side Of The World</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">Set during the Napoleonic Wars, a group of seamen set out to explore the differences between their lives and the other side of the world, ending up in the Galapagos Islands.</desc>
+
+    <credits>
+
+      <actor>Paul Bettany</actor>
+
+      <actor>Russell Crowe</actor>
+
+    </credits>
+
+  </programme>
+
+  <programme start="20140515120000 +0000" stop="20140515140000 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">
+
+    </title>
+
+    <title lang="en">Ocean's Eleven</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">Danny Ocean, a gangster, rounds up a gang of associates to stage heists of three major Las Vegas casino's simultaneously during a popular boxing event.</desc>
+
+    <credits>
+
+      <actor>George Clooney</actor>
+
+      <actor>Matt Damon</actor>
+
+      <actor>Julia Roberts</actor>
+
+      <actor>Brad Pitt</actor>
+
+      <actor>Andy Garcia</actor>
+
+      <actor>Casey Affleck</actor>
+
+      <actor>Cecelia Ann Birt</actor>
+
+      <actor>Paul L. Nolan</actor>
+
+    </credits>
+
+  </programme>
+
+  <programme start="20140515140000 +0000" stop="20140515153000 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">
+
+    </title>
+
+    <title lang="en">Sixteen Candles</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">The film revolves around Samantha who faces a lot of embarrassment on her sixteenth birthday when she is caught in several hilarious situations.</desc>
+
+    <credits>
+
+      <actor>Molly Ringwald</actor>
+
+      <actor>Justin Henry</actor>
+
+      <actor>Michael Schoeffling</actor>
+
+      <actor>Haviland Morris</actor>
+
+      <actor>Blanche Baker</actor>
+
+    </credits>
+
+  </programme>
+
+  <programme start="20140515153000 +0000" stop="20140515160000 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">إنترتاينمينت تونايت</title>
+
+    <title lang="en">Entertainment Tonight</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">The show features a steady stream of entertainment news stories on celebrities, film, television, music, fashion, award shows and special events.</desc>
+
+  </programme>
+
+  <programme start="20140515160000 +0000" stop="20140515180000 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">ليذرهيدز</title>
+
+    <title lang="en">Leatherheads</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">A romantic comedy set in the world of 1920s football, where the owner of a professional team drafts a strait-laced college sensation, only to watch his new coach fall for his fiancee.</desc>
+
+    <credits>
+
+      <actor>Renee Zellweger</actor>
+
+      <actor>George Clooney</actor>
+
+    </credits>
+
+  </programme>
+
+  <programme start="20140515180000 +0000" stop="20140515183000 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">كيس كيس بانج بانج</title>
+
+    <title lang="en">Kiss Kiss, Bang Bang</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">In this crime-comedy, a petty thief posing as an actor is brought to Los Angeles for an unlikely audition but he soon finds himself in the middle of a murder investigation. Cast: Robert Downey Jr.</desc>
+
+    <credits>
+
+      <actor>Robert Downey Jr</actor>
+
+      <actor>Val Kilmer</actor>
+
+      <actor>Michelle Monaghan</actor>
+
+    </credits>
+
+  </programme>
+
+  <programme start="20140515183000 +0000" stop="20140515200000 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">كيس كيس بانج بانج</title>
+
+    <title lang="en">Kiss Kiss, Bang Bang</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">In this crime-comedy, a petty thief posing as an actor is brought to Los Angeles for an unlikely audition but he soon finds himself in the middle of a murder investigation. Cast: Robert Downey Jr.</desc>
+
+    <credits>
+
+      <actor>Robert Downey Jr</actor>
+
+      <actor>Val Kilmer</actor>
+
+      <actor>Michelle Monaghan</actor>
+
+    </credits>
+
+  </programme>
+
+  <programme start="20140515200000 +0000" stop="20140515220000 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">
+
+    </title>
+
+    <title lang="en">The Bourne Identity</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">A man forgets his identity due to amnesia and goes to find out who he is. He finds himself in the middle of two assassination plots masterminded by the CIA. Will he find out his true identity?</desc>
+
+    <credits>
+
+      <actor>Matt Damon</actor>
+
+      <actor>Franka Potente</actor>
+
+      <actor>Chris Cooper</actor>
+
+    </credits>
+
+  </programme>
+
+  <programme start="20140515220000 +0000" stop="20140515234500 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">
+
+    </title>
+
+    <title lang="en">Saw VII</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">As a fierce battle rages over Jigsaw's terrible legacy, survivors seek support from a fellow survivor and self-help guru who has a few dark secrets of his own.</desc>
+
+    <credits>
+
+      <actor>Tobin Bell</actor>
+
+      <actor>Costas Mandylor</actor>
+
+      <actor>Betsy Russell</actor>
+
+      <actor>Cary Elwes</actor>
+
+    </credits>
+
+  </programme>
+
+  <programme start="20140515234500 +0000" stop="20140516013000 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">بريدايتور</title>
+
+    <title lang="en">Predator</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">On a special CIA mission, Dutch and his team of commandos must save themselves from an extra-terrestrial warrior deep in the Central American jungle.</desc>
+
+    <credits>
+
+      <actor>Arnold Schwarzenegger</actor>
+
+      <actor>Carl Weathers</actor>
+
+      <actor>Bill Duke</actor>
+
+      <actor>Kevin Peter Hall</actor>
+
+      <actor>Elpidia Carrillo</actor>
+
+      <actor>Jesse Ventura</actor>
+
+    </credits>
+
+  </programme>
+
+  <programme start="20140516013000 +0000" stop="20140516034500 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">
+
+    </title>
+
+    <title lang="en">The Bonfire Of The Vanities</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">A financial wonder kid is in trouble, when his mistress runs over a black boy with his car. A journalist use this to blow things out of proportion and the case is seized upon by a mayoral candidate.</desc>
+
+    <credits>
+
+      <actor>Bruce Willis</actor>
+
+      <actor>Melanie Griffith</actor>
+
+      <actor>Tom Hanks</actor>
+
+    </credits>
+
+  </programme>
+
+  <programme start="20140516034500 +0000" stop="20140516053000 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">
+
+    </title>
+
+    <title lang="en">Sixteen Candles</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">The film revolves around Samantha who faces a lot of embarrassment on her sixteenth birthday when she is caught in several hilarious situations.</desc>
+
+    <credits>
+
+      <actor>Molly Ringwald</actor>
+
+      <actor>Justin Henry</actor>
+
+      <actor>Michael Schoeffling</actor>
+
+      <actor>Haviland Morris</actor>
+
+      <actor>Blanche Baker</actor>
+
+    </credits>
+
+  </programme>
+
+  <programme start="20140516053000 +0000" stop="20140516071500 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">نيرس بيتي</title>
+
+    <title lang="en">Nurse Betty</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">A young woman believes she is the ex-fiance of a character on her favorite soap opera.</desc>
+
+    <credits>
+
+      <actor>Morgan Freeman</actor>
+
+      <actor>Renee Zellweger</actor>
+
+      <actor>Chris Rock</actor>
+
+      <actor>Aaron Eckhart</actor>
+
+      <actor>Greg Kinnear</actor>
+
+    </credits>
+
+  </programme>
+
+  <programme start="20140516071500 +0000" stop="20140516090000 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">آدم</title>
+
+    <title lang="en">Adam</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">Beth is a writer who meets Adam, a strange fellow, in her new apartment complex. Adam suffers from Asperger's Syndrome while Beth battles a painful past. Both strike up a unique relationship.</desc>
+
+    <credits>
+
+      <actor>Hugh Dancy</actor>
+
+      <actor>Frankie Faison</actor>
+
+      <actor>Amy Irving</actor>
+
+      <actor>Rose Byrne</actor>
+
+    </credits>
+
+  </programme>
+
+  <programme start="20140516090000 +0000" stop="20140516110000 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">ليذرهيدز</title>
+
+    <title lang="en">Leatherheads</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">A romantic comedy set in the world of 1920s football, where the owner of a professional team drafts a strait-laced college sensation, only to watch his new coach fall for his fiancee.</desc>
+
+    <credits>
+
+      <actor>Renee Zellweger</actor>
+
+      <actor>George Clooney</actor>
+
+    </credits>
+
+  </programme>
+
+  <programme start="20140516110000 +0000" stop="20140516130000 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">
+
+    </title>
+
+    <title lang="en">The Bourne Identity</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">A man forgets his identity due to amnesia and goes to find out who he is. He finds himself in the middle of two assassination plots masterminded by the CIA. Will he find out his true identity?</desc>
+
+    <credits>
+
+      <actor>Matt Damon</actor>
+
+      <actor>Franka Potente</actor>
+
+      <actor>Chris Cooper</actor>
+
+    </credits>
+
+  </programme>
+
+  <programme start="20140516130000 +0000" stop="20140516150000 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">جاك فوريست</title>
+
+    <title lang="en">Jack Frost</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">Singer Jack Frost dies, leaving behind his young son Charlie. The father and son never spent much time together, and hence Charlie grows up to be a very sad young man, until Jack returns as a snowman.</desc>
+
+    <credits>
+
+      <actor>Michael Keaton</actor>
+
+      <actor>Kelly Preston</actor>
+
+    </credits>
+
+  </programme>
+
+  <programme start="20140516150000 +0000" stop="20140516173000 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">هاو دو يو نو</title>
+
+    <title lang="en">How Do You Know</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">After being cut from the USA softball team, Lisa evaluates her life &amp; is in the middle of a love triangle, as a corporate guy in crisis competes with her current baseball-playing beau.  Cast: Paul Rud</desc>
+
+    <credits>
+
+      <actor>Reese Witherspoon</actor>
+
+      <actor>Paul Rudd</actor>
+
+      <actor>Owen Wilson</actor>
+
+      <actor>Jack Nicholson</actor>
+
+      <actor>Mark Linn-Baker</actor>
+
+      <actor>Kathryn Hahn</actor>
+
+    </credits>
+
+  </programme>
+
+  <programme start="20140516173000 +0000" stop="20140516183000 +0000" vps-start="19700101000000 19700101000000" channel="2190">
+
+    <title lang="ar">كاتش مي إف يو كان</title>
+
+    <title lang="en">Catch Me If You Can</title>
+
+    <desc lang="ar">
+
+    </desc>
+
+    <desc lang="en">A young con artist who successfully impersonated an airline pilot, doctor and assistant attorney general, cashing more than $2.5 million in fraudulent checks in 26 countries. Cast: Leonardo DiCaprio</desc>
+
+    <credits>
+
+      <actor>Leonardo DiCaprio</actor>
+
+      <actor>Tom Hanks</actor>
+
+      <actor>Christopher Walken</actor>
+
+    </credits>
+
+  </programme>
+
+</tv>

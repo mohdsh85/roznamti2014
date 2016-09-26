@@ -1,0 +1,1716 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd"[]>
+<tv generator-info-name="ShooFeeTV listings">
+  <Range>
+    <Start>20131116183000</Start>
+    <End>20131122183000</End>
+  </Range>
+  <channel id="5040">
+    <display-name lang="ar">KBS World</display-name>
+    <display-name lang="en">KBS World</display-name>
+  </channel>
+  <programme start="20131116183000 +0000" stop="20131116195000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">إمورتال سونغز</title>
+    <title lang="en">Immortal Songs</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Musical show features legendary bands of Korea who have sung songs that cross over generations.</desc>
+  </programme>
+  <programme start="20131116195000 +0000" stop="20131116210000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Wang's Family</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The story revolves around the Wang family and the trials and tribulations they face. It attempts to show their struggle against obstacles to survive and emerge together as a family.</desc>
+    <credits>
+      <actor>Oh Man-seok</actor>
+      <actor>Jang Yong</actor>
+      <actor>Lee Tae-ran</actor>
+      <actor>Lee Yoon-ji</actor>
+    </credits>
+  </programme>
+  <programme start="20131116210000 +0000" stop="20131116214000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">KBS News 9</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This daily news bulletin covers a wide range of topics ranging from politics, society, health, weather, sports and entertainment.</desc>
+  </programme>
+  <programme start="20131116214000 +0000" stop="20131116220000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Sungkyunkwan Scandal</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The series tells the story of Kim Yoon-hee, a young and talented girl, who masquerades as her younger brother and enrolls in a prestigious university.</desc>
+    <credits>
+      <actor>Park Min-Young</actor>
+      <actor>Park Yoo-Chun</actor>
+      <actor>Song Joong-Ki</actor>
+      <actor>Yoo Ah-In</actor>
+      <actor>Seo Hyo-Lim</actor>
+    </credits>
+  </programme>
+  <programme start="20131116220000 +0000" stop="20131116225000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Sungkyunkwan Scandal</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The series tells the story of Kim Yoon-hee, a young and talented girl, who masquerades as her younger brother and enrolls in a prestigious university.</desc>
+    <credits>
+      <actor>Park Min-Young</actor>
+      <actor>Park Yoo-Chun</actor>
+      <actor>Song Joong-Ki</actor>
+      <actor>Yoo Ah-In</actor>
+      <actor>Seo Hyo-Lim</actor>
+    </credits>
+  </programme>
+  <programme start="20131116225000 +0000" stop="20131117000000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Sungkyunkwan Scandal</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The series tells the story of Kim Yoon-hee, a young and talented girl, who masquerades as her younger brother and enrolls in a prestigious university.</desc>
+    <credits>
+      <actor>Park Min-Young</actor>
+      <actor>Park Yoo-Chun</actor>
+      <actor>Song Joong-Ki</actor>
+      <actor>Yoo Ah-In</actor>
+      <actor>Seo Hyo-Lim</actor>
+    </credits>
+  </programme>
+  <programme start="20131117000000 +0000" stop="20131117010000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Vitamin</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The program features a panel of medical specialists and celebrity guests, who discuss various health issues and offer their expert advices and suggestions on how to stay fit and healthy.</desc>
+  </programme>
+  <programme start="20131117010000 +0000" stop="20131117013500 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">أ تيل أوف تو سسترز</title>
+    <title lang="en">A Tale of Two Sisters</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">An adopted child meets her birth mother, after many years. Conflicted between her blood-related and foster families, she struggles to discover her identity, love and the true meaning of family.</desc>
+  </programme>
+  <programme start="20131117013500 +0000" stop="20131117021000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">أ تيل أوف تو سسترز</title>
+    <title lang="en">A Tale of Two Sisters</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">An adopted child meets her birth mother, after many years. Conflicted between her blood-related and foster families, she struggles to discover her identity, love and the true meaning of family.</desc>
+  </programme>
+  <programme start="20131117021000 +0000" stop="20131117024500 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">أ تيل أوف تو سسترز</title>
+    <title lang="en">A Tale of Two Sisters</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">An adopted child meets her birth mother, after many years. Conflicted between her blood-related and foster families, she struggles to discover her identity, love and the true meaning of family.</desc>
+  </programme>
+  <programme start="20131117024500 +0000" stop="20131117032000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">أ تيل أوف تو سسترز</title>
+    <title lang="en">A Tale of Two Sisters</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">An adopted child meets her birth mother, after many years. Conflicted between her blood-related and foster families, she struggles to discover her identity, love and the true meaning of family.</desc>
+  </programme>
+  <programme start="20131117032000 +0000" stop="20131117040000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">أ تيل أوف تو سسترز</title>
+    <title lang="en">A Tale of Two Sisters</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">An adopted child meets her birth mother, after many years. Conflicted between her blood-related and foster families, she struggles to discover her identity, love and the true meaning of family.</desc>
+  </programme>
+  <programme start="20131117040000 +0000" stop="20131117051000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Let's Go! Dream Team</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This program features a group of contestants participating in a variety of sports activities like vaulting, ice hockey, beach volleyball and taekwondo.</desc>
+  </programme>
+  <programme start="20131117051000 +0000" stop="20131117064000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Gag Concert</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show features bone-tickling stand-up comedy performances, hilarious skits and celebrity impersonations.</desc>
+  </programme>
+  <programme start="20131117064000 +0000" stop="20131117075000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Secret Love</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The story revolves around four people, who live with secrets, and the trials they face on their journey to find love and exact revenge.</desc>
+    <credits>
+      <actor>Bae Soobin</actor>
+      <actor>Ji Sung</actor>
+      <actor>Hwang Jungeun</actor>
+      <actor>Lee Dahui</actor>
+    </credits>
+  </programme>
+  <programme start="20131117075000 +0000" stop="20131117090000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Secret Love</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The story revolves around four people, who live with secrets, and the trials they face on their journey to find love and exact revenge.</desc>
+    <credits>
+      <actor>Bae Soobin</actor>
+      <actor>Ji Sung</actor>
+      <actor>Hwang Jungeun</actor>
+      <actor>Lee Dahui</actor>
+    </credits>
+  </programme>
+  <programme start="20131117090000 +0000" stop="20131117102000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">ماما ميا</title>
+    <title lang="en">Mamma Mia</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The chat show features live conversations between famous celebrities and their mothers.</desc>
+  </programme>
+  <programme start="20131117102000 +0000" stop="20131117115000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Two days and One night</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Hosted by Kang Ho Dong, the show takes viewers to the interiors of Korea, thereby providing them an opportunity to experience the unexplored regions of Korea.</desc>
+  </programme>
+  <programme start="20131117115000 +0000" stop="20131117130000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Wang's Family</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The story revolves around the Wang family and the trials and tribulations they face. It attempts to show their struggle against obstacles to survive and emerge together as a family.</desc>
+    <credits>
+      <actor>Oh Man-seok</actor>
+      <actor>Jang Yong</actor>
+      <actor>Lee Tae-ran</actor>
+      <actor>Lee Yoon-ji</actor>
+    </credits>
+  </programme>
+  <programme start="20131117130000 +0000" stop="20131117134000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">KBS News 9</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This daily news bulletin covers a wide range of topics ranging from politics, society, health, weather, sports and entertainment.</desc>
+  </programme>
+  <programme start="20131117134000 +0000" stop="20131117145000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Sungkyunkwan Scandal</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The series tells the story of Kim Yoon-hee, a young and talented girl, who masquerades as her younger brother and enrolls in a prestigious university.</desc>
+    <credits>
+      <actor>Park Min-Young</actor>
+      <actor>Park Yoo-Chun</actor>
+      <actor>Song Joong-Ki</actor>
+      <actor>Yoo Ah-In</actor>
+      <actor>Seo Hyo-Lim</actor>
+    </credits>
+  </programme>
+  <programme start="20131117145000 +0000" stop="20131117160000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Sungkyunkwan Scandal</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The series tells the story of Kim Yoon-hee, a young and talented girl, who masquerades as her younger brother and enrolls in a prestigious university.</desc>
+    <credits>
+      <actor>Park Min-Young</actor>
+      <actor>Park Yoo-Chun</actor>
+      <actor>Song Joong-Ki</actor>
+      <actor>Yoo Ah-In</actor>
+      <actor>Seo Hyo-Lim</actor>
+    </credits>
+  </programme>
+  <programme start="20131117160000 +0000" stop="20131117161000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Star Of Korea</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Entertainment-based program.</desc>
+  </programme>
+  <programme start="20131117161000 +0000" stop="20131117170000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Backpack Travels</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This program takes viewers for a journey to the amazing cities around the world and captures those moments and memories through the eyes of a traveler.</desc>
+  </programme>
+  <programme start="20131117170000 +0000" stop="20131117182000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">ماما ميا</title>
+    <title lang="en">Mamma Mia</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The chat show features live conversations between famous celebrities and their mothers.</desc>
+  </programme>
+  <programme start="20131117182000 +0000" stop="20131117183000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Two days and One night</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Hosted by Kang Ho Dong, the show takes viewers to the interiors of Korea, thereby providing them an opportunity to experience the unexplored regions of Korea.</desc>
+  </programme>
+  <programme start="20131117183000 +0000" stop="20131117195000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Two days and One night</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Hosted by Kang Ho Dong, the show takes viewers to the interiors of Korea, thereby providing them an opportunity to experience the unexplored regions of Korea.</desc>
+  </programme>
+  <programme start="20131117195000 +0000" stop="20131117210000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Wang's Family</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The story revolves around the Wang family and the trials and tribulations they face. It attempts to show their struggle against obstacles to survive and emerge together as a family.</desc>
+    <credits>
+      <actor>Oh Man-seok</actor>
+      <actor>Jang Yong</actor>
+      <actor>Lee Tae-ran</actor>
+      <actor>Lee Yoon-ji</actor>
+    </credits>
+  </programme>
+  <programme start="20131117210000 +0000" stop="20131117214000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">KBS News 9</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This daily news bulletin covers a wide range of topics ranging from politics, society, health, weather, sports and entertainment.</desc>
+  </programme>
+  <programme start="20131117214000 +0000" stop="20131117220000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Sungkyunkwan Scandal</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The series tells the story of Kim Yoon-hee, a young and talented girl, who masquerades as her younger brother and enrolls in a prestigious university.</desc>
+    <credits>
+      <actor>Park Min-Young</actor>
+      <actor>Park Yoo-Chun</actor>
+      <actor>Song Joong-Ki</actor>
+      <actor>Yoo Ah-In</actor>
+      <actor>Seo Hyo-Lim</actor>
+    </credits>
+  </programme>
+  <programme start="20131117220000 +0000" stop="20131117225000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Sungkyunkwan Scandal</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The series tells the story of Kim Yoon-hee, a young and talented girl, who masquerades as her younger brother and enrolls in a prestigious university.</desc>
+    <credits>
+      <actor>Park Min-Young</actor>
+      <actor>Park Yoo-Chun</actor>
+      <actor>Song Joong-Ki</actor>
+      <actor>Yoo Ah-In</actor>
+      <actor>Seo Hyo-Lim</actor>
+    </credits>
+  </programme>
+  <programme start="20131117225000 +0000" stop="20131118000000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Sungkyunkwan Scandal</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The series tells the story of Kim Yoon-hee, a young and talented girl, who masquerades as her younger brother and enrolls in a prestigious university.</desc>
+    <credits>
+      <actor>Park Min-Young</actor>
+      <actor>Park Yoo-Chun</actor>
+      <actor>Song Joong-Ki</actor>
+      <actor>Yoo Ah-In</actor>
+      <actor>Seo Hyo-Lim</actor>
+    </credits>
+  </programme>
+  <programme start="20131118000000 +0000" stop="20131118002000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Ideas Korea</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This program features new ideas and new products being launched in Korea. It showcases the most innovative products of Korea.</desc>
+  </programme>
+  <programme start="20131118002000 +0000" stop="20131118002500 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">TV Tales of a Happy World</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This animated program narrates stories of successful people in the society and signifies the value of hard work and determination, thereby enhancing the importance of love and trust in people's lives.</desc>
+  </programme>
+  <programme start="20131118002500 +0000" stop="20131118013000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Morning Forum</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A talk show, wherein the panel members along with the audience, participate and engage in healthy discussions regarding issues that matter to the Korean society.</desc>
+  </programme>
+  <programme start="20131118013000 +0000" stop="20131118014000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Kbs News 930</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This program features the most recent news, updates and developments in Korea and across the world.</desc>
+  </programme>
+  <programme start="20131118014000 +0000" stop="20131118022000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">TV Novel: Eunhui</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A murder takes place a day before the Korean War in 1950, and it changes the lives of three families forever. They face many trials and tribulations and discover love and forgiveness.</desc>
+  </programme>
+  <programme start="20131118022000 +0000" stop="20131118030000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">أ تيل أوف تو سسترز</title>
+    <title lang="en">A Tale of Two Sisters</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">An adopted child meets her birth mother, after many years. Conflicted between her blood-related and foster families, she struggles to discover her identity, love and the true meaning of family.</desc>
+  </programme>
+  <programme start="20131118030000 +0000" stop="20131118032000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Hutos</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show features puppets and offers educational and entertainment quotient on diverse subjects. This kids program also focuses on various themes of inspirational and educative content.</desc>
+  </programme>
+  <programme start="20131118032000 +0000" stop="20131118034000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Hutos</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show features puppets and offers educational and entertainment quotient on diverse subjects. This kids program also focuses on various themes of inspirational and educative content.</desc>
+  </programme>
+  <programme start="20131118034000 +0000" stop="20131118040000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Hutos</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show features puppets and offers educational and entertainment quotient on diverse subjects. This kids program also focuses on various themes of inspirational and educative content.</desc>
+  </programme>
+  <programme start="20131118040000 +0000" stop="20131118042000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">KBS News 12</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This program features the latest news, updates and developments in Korea and across the world.</desc>
+  </programme>
+  <programme start="20131118042000 +0000" stop="20131118045000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">The Three Colors Of Korea</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This program introduces three industries that greatly contribute to 'Hallyu' or 'the Korean Wave', Korean Pop, Korean Food and Korean Soul, which is the Korean spirit expressed through music.</desc>
+  </programme>
+  <programme start="20131118045000 +0000" stop="20131118051000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Ideas Korea</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This program features new ideas and new products being launched in Korea. It showcases the most innovative products of Korea.</desc>
+  </programme>
+  <programme start="20131118051000 +0000" stop="20131118052000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Pit-A-Pat Korean</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">An educational program for the global audience who are interested in learning the Korean language, culture and customs.</desc>
+  </programme>
+  <programme start="20131118052000 +0000" stop="20131118060000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">TV Novel: Eunhui</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A murder takes place a day before the Korean War in 1950, and it changes the lives of three families forever. They face many trials and tribulations and discover love and forgiveness.</desc>
+  </programme>
+  <programme start="20131118060000 +0000" stop="20131118071000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Marry Him If You Dare</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The story revolves around a 32-year-old woman, whose 'future-self' gives her advice on life and marriage, and helps her to improve her life by guiding her in finding herself a perfect spouse.</desc>
+    <credits>
+      <actor>Lee Dong-gun</actor>
+      <actor>Yoon Eun-hye</actor>
+      <actor>Han Chae-ah</actor>
+      <actor>Jung Younghwa</actor>
+    </credits>
+  </programme>
+  <programme start="20131118071000 +0000" stop="20131118082000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Romance Town</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sungeum, like her mother and grandmother, is a maid and works in a townhouse on 'First Avenue'. However, when the master's son returns, he fires her. The same day, she wins a fortune in a lottery.</desc>
+    <credits>
+      <actor>Jung Gyeo-woon</actor>
+      <actor>Sung Yu-ri</actor>
+      <actor>Min Hyorin</actor>
+    </credits>
+  </programme>
+  <programme start="20131118082000 +0000" stop="20131118093000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Sungkyunkwan Scandal</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The series tells the story of Kim Yoon-hee, a young and talented girl, who masquerades as her younger brother and enrolls in a prestigious university.</desc>
+    <credits>
+      <actor>Park Min-Young</actor>
+      <actor>Park Yoo-Chun</actor>
+      <actor>Song Joong-Ki</actor>
+      <actor>Yoo Ah-In</actor>
+      <actor>Seo Hyo-Lim</actor>
+    </credits>
+  </programme>
+  <programme start="20131118093000 +0000" stop="20131118095000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">KBS World News Today</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This news bulletin provides a daily round up of current affairs and issues with a global perceptive and outlook.</desc>
+  </programme>
+  <programme start="20131118095000 +0000" stop="20131118101000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">أ سونغ فور يو</title>
+    <title lang="en">A Song For You</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show allows viewers to send requests of their favorite songs which will be performed by the Korean pop band - 2PM. Also, they can send a video picture or a message along with the song request.</desc>
+  </programme>
+  <programme start="20131118101000 +0000" stop="20131118121000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">K-Pop World Festival</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show features an event held at Changwon, Korea, where aspiring pop music artists compete against each other based on their singing skills. It also includes performances by guest celebrity artists.</desc>
+  </programme>
+  <programme start="20131118121000 +0000" stop="20131118122000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Star Of Korea</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Entertainment-based program.</desc>
+  </programme>
+  <programme start="20131118122000 +0000" stop="20131118130000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">أ تيل أوف تو سسترز</title>
+    <title lang="en">A Tale of Two Sisters</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">An adopted child meets her birth mother, after many years. Conflicted between her blood-related and foster families, she struggles to discover her identity, love and the true meaning of family.</desc>
+  </programme>
+  <programme start="20131118130000 +0000" stop="20131118140000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">KBS News 9</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This daily news bulletin covers a wide range of topics ranging from politics, society, health, weather, sports and entertainment.</desc>
+  </programme>
+  <programme start="20131118140000 +0000" stop="20131118151000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Marry Him If You Dare</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The story revolves around a 32-year-old woman, whose 'future-self' gives her advice on life and marriage, and helps her to improve her life by guiding her in finding herself a perfect spouse.</desc>
+    <credits>
+      <actor>Lee Dong-gun</actor>
+      <actor>Yoon Eun-hye</actor>
+      <actor>Han Chae-ah</actor>
+      <actor>Jung Younghwa</actor>
+    </credits>
+  </programme>
+  <programme start="20131118151000 +0000" stop="20131118162000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Romance Town</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sungeum, like her mother and grandmother, is a maid and works in a townhouse on 'First Avenue'. However, when the master's son returns, he fires her. The same day, she wins a fortune in a lottery.</desc>
+    <credits>
+      <actor>Jung Gyeo-woon</actor>
+      <actor>Sung Yu-ri</actor>
+      <actor>Min Hyorin</actor>
+    </credits>
+  </programme>
+  <programme start="20131118162000 +0000" stop="20131118174000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Hello Counselor</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show invites viewers to share their problems regarding love, family and career. The hosts carefully examine each problem and offer their expert advice and solutions.</desc>
+  </programme>
+  <programme start="20131118174000 +0000" stop="20131118183000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Korea Sings</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A reality show wherein twenty aspiring singers from across the country participate to showcase their talent for fame and fortune.</desc>
+  </programme>
+  <programme start="20131118183000 +0000" stop="20131118193000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Korea Sings</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A reality show wherein twenty aspiring singers from across the country participate to showcase their talent for fame and fortune.</desc>
+  </programme>
+  <programme start="20131118193000 +0000" stop="20131118202000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Brass Band's First Trip to Korea</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This documentary features the journey of the Don Bosco Brass Band of Tonj to Korea. It covers stories and performances of the band, which was started by Father John Tae-Suk Lee.</desc>
+  </programme>
+  <programme start="20131118202000 +0000" stop="20131118210000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">أ تيل أوف تو سسترز</title>
+    <title lang="en">A Tale of Two Sisters</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">An adopted child meets her birth mother, after many years. Conflicted between her blood-related and foster families, she struggles to discover her identity, love and the true meaning of family.</desc>
+  </programme>
+  <programme start="20131118210000 +0000" stop="20131118220000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">KBS News 9</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This daily news bulletin covers a wide range of topics ranging from politics, society, health, weather, sports and entertainment.</desc>
+  </programme>
+  <programme start="20131118220000 +0000" stop="20131118231000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Marry Him If You Dare</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The story revolves around a 32-year-old woman, whose 'future-self' gives her advice on life and marriage, and helps her to improve her life by guiding her in finding herself a perfect spouse.</desc>
+    <credits>
+      <actor>Lee Dong-gun</actor>
+      <actor>Yoon Eun-hye</actor>
+      <actor>Han Chae-ah</actor>
+      <actor>Jung Younghwa</actor>
+    </credits>
+  </programme>
+  <programme start="20131118231000 +0000" stop="20131119002000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Romance Town</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sungeum, like her mother and grandmother, is a maid and works in a townhouse on 'First Avenue'. However, when the master's son returns, he fires her. The same day, she wins a fortune in a lottery.</desc>
+    <credits>
+      <actor>Jung Gyeo-woon</actor>
+      <actor>Sung Yu-ri</actor>
+      <actor>Min Hyorin</actor>
+    </credits>
+  </programme>
+  <programme start="20131119002000 +0000" stop="20131119002500 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">TV Tales of a Happy World</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This animated program narrates stories of successful people in the society and signifies the value of hard work and determination, thereby enhancing the importance of love and trust in people's lives.</desc>
+  </programme>
+  <programme start="20131119002500 +0000" stop="20131119013000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Morning Forum</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A talk show, wherein the panel members along with the audience, participate and engage in healthy discussions regarding issues that matter to the Korean society.</desc>
+  </programme>
+  <programme start="20131119013000 +0000" stop="20131119014000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Kbs News 930</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This program features the most recent news, updates and developments in Korea and across the world.</desc>
+  </programme>
+  <programme start="20131119014000 +0000" stop="20131119022000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">TV Novel: Eunhui</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A murder takes place a day before the Korean War in 1950, and it changes the lives of three families forever. They face many trials and tribulations and discover love and forgiveness.</desc>
+  </programme>
+  <programme start="20131119022000 +0000" stop="20131119030000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">أ تيل أوف تو سسترز</title>
+    <title lang="en">A Tale of Two Sisters</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">An adopted child meets her birth mother, after many years. Conflicted between her blood-related and foster families, she struggles to discover her identity, love and the true meaning of family.</desc>
+  </programme>
+  <programme start="20131119030000 +0000" stop="20131119033000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">TV Kindergarten Funny Funny</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show attempts to give preschoolers a fun learning experience. It helps to develop children's emotional and moral sense along with their sports, artistic and social abilities.</desc>
+  </programme>
+  <programme start="20131119033000 +0000" stop="20131119040000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">ذي إيربورت دياري</title>
+    <title lang="en">The Airport Diary</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show takes us into the world of Winkie, a small airliner, whose most cherished dream is to travel around the world.</desc>
+  </programme>
+  <programme start="20131119040000 +0000" stop="20131119042000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">KBS News 12</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This program features the latest news, updates and developments in Korea and across the world.</desc>
+  </programme>
+  <programme start="20131119042000 +0000" stop="20131119051000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Brass Band's First Trip to Korea</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This documentary features the journey of the Don Bosco Brass Band of Tonj to Korea. It covers stories and performances of the band, which was started by Father John Tae-Suk Lee.</desc>
+  </programme>
+  <programme start="20131119051000 +0000" stop="20131119052000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Star Date</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A chat show, wherein the celebrities are interviewed in public places, thereby providing a chance for their fans to interact with their favorite stars.</desc>
+  </programme>
+  <programme start="20131119052000 +0000" stop="20131119060000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">TV Novel: Eunhui</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A murder takes place a day before the Korean War in 1950, and it changes the lives of three families forever. They face many trials and tribulations and discover love and forgiveness.</desc>
+  </programme>
+  <programme start="20131119060000 +0000" stop="20131119071000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Marry Him If You Dare</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The story revolves around a 32-year-old woman, whose 'future-self' gives her advice on life and marriage, and helps her to improve her life by guiding her in finding herself a perfect spouse.</desc>
+    <credits>
+      <actor>Lee Dong-gun</actor>
+      <actor>Yoon Eun-hye</actor>
+      <actor>Han Chae-ah</actor>
+      <actor>Jung Younghwa</actor>
+    </credits>
+  </programme>
+  <programme start="20131119071000 +0000" stop="20131119082000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Romance Town</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sungeum, like her mother and grandmother, is a maid and works in a townhouse on 'First Avenue'. However, when the master's son returns, he fires her. The same day, she wins a fortune in a lottery.</desc>
+    <credits>
+      <actor>Jung Gyeo-woon</actor>
+      <actor>Sung Yu-ri</actor>
+      <actor>Min Hyorin</actor>
+    </credits>
+  </programme>
+  <programme start="20131119082000 +0000" stop="20131119093000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Sungkyunkwan Scandal</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The series tells the story of Kim Yoon-hee, a young and talented girl, who masquerades as her younger brother and enrolls in a prestigious university.</desc>
+    <credits>
+      <actor>Park Min-Young</actor>
+      <actor>Park Yoo-Chun</actor>
+      <actor>Song Joong-Ki</actor>
+      <actor>Yoo Ah-In</actor>
+      <actor>Seo Hyo-Lim</actor>
+    </credits>
+  </programme>
+  <programme start="20131119093000 +0000" stop="20131119095000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">KBS World News Today</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This news bulletin provides a daily round up of current affairs and issues with a global perceptive and outlook.</desc>
+  </programme>
+  <programme start="20131119095000 +0000" stop="20131119110000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">ذا هيومان كوندشن</title>
+    <title lang="en">The Human Condition</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A group of people are tasked to live without the modern-day necessities, for a period of one week. During their stay, they seek self-realization and also, discover the true meaning of friendship.</desc>
+  </programme>
+  <programme start="20131119110000 +0000" stop="20131119122000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Hello Counselor</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show invites viewers to share their problems regarding love, family and career. The hosts carefully examine each problem and offer their expert advice and solutions.</desc>
+  </programme>
+  <programme start="20131119122000 +0000" stop="20131119130000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">أ تيل أوف تو سسترز</title>
+    <title lang="en">A Tale of Two Sisters</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">An adopted child meets her birth mother, after many years. Conflicted between her blood-related and foster families, she struggles to discover her identity, love and the true meaning of family.</desc>
+  </programme>
+  <programme start="20131119130000 +0000" stop="20131119140000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">KBS News 9</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This daily news bulletin covers a wide range of topics ranging from politics, society, health, weather, sports and entertainment.</desc>
+  </programme>
+  <programme start="20131119140000 +0000" stop="20131119151000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Marry Him If You Dare</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The story revolves around a 32-year-old woman, whose 'future-self' gives her advice on life and marriage, and helps her to improve her life by guiding her in finding herself a perfect spouse.</desc>
+    <credits>
+      <actor>Lee Dong-gun</actor>
+      <actor>Yoon Eun-hye</actor>
+      <actor>Han Chae-ah</actor>
+      <actor>Jung Younghwa</actor>
+    </credits>
+  </programme>
+  <programme start="20131119151000 +0000" stop="20131119162000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Romance Town</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sungeum, like her mother and grandmother, is a maid and works in a townhouse on 'First Avenue'. However, when the master's son returns, he fires her. The same day, she wins a fortune in a lottery.</desc>
+    <credits>
+      <actor>Jung Gyeo-woon</actor>
+      <actor>Sung Yu-ri</actor>
+      <actor>Min Hyorin</actor>
+    </credits>
+  </programme>
+  <programme start="20131119162000 +0000" stop="20131119174000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">كول كز أون ذا بلوك</title>
+    <title lang="en">Cool Kiz On The Block</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show features a celebrity team and a challenger team competing to fulfil missions. These missions are given to them by viewers.</desc>
+  </programme>
+  <programme start="20131119174000 +0000" stop="20131119183000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Golden Oldies</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A musical show wherein the veteran singers perform their greatest hits and relive the memories associated with it.</desc>
+  </programme>
+  <programme start="20131119183000 +0000" stop="20131119184000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Pit-A-Pat Korean</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">An educational program for the global audience who are interested in learning the Korean language, culture and customs.</desc>
+  </programme>
+  <programme start="20131119184000 +0000" stop="20131119193000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Music Bank</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Hosted by Lee Jang-woo and UEE, this music television program showcases the most popular Korean songs on a weekly basis in a countdown format.</desc>
+  </programme>
+  <programme start="20131119193000 +0000" stop="20131119202000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">ريديسكوفيري أوف كوريا</title>
+    <title lang="en">Rediscovery Of Korea</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This program talks about the history, tradition and culture of Korea.</desc>
+  </programme>
+  <programme start="20131119202000 +0000" stop="20131119210000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">أ تيل أوف تو سسترز</title>
+    <title lang="en">A Tale of Two Sisters</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">An adopted child meets her birth mother, after many years. Conflicted between her blood-related and foster families, she struggles to discover her identity, love and the true meaning of family.</desc>
+  </programme>
+  <programme start="20131119210000 +0000" stop="20131119220000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">KBS News 9</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This daily news bulletin covers a wide range of topics ranging from politics, society, health, weather, sports and entertainment.</desc>
+  </programme>
+  <programme start="20131119220000 +0000" stop="20131119231000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Marry Him If You Dare</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The story revolves around a 32-year-old woman, whose 'future-self' gives her advice on life and marriage, and helps her to improve her life by guiding her in finding herself a perfect spouse.</desc>
+    <credits>
+      <actor>Lee Dong-gun</actor>
+      <actor>Yoon Eun-hye</actor>
+      <actor>Han Chae-ah</actor>
+      <actor>Jung Younghwa</actor>
+    </credits>
+  </programme>
+  <programme start="20131119231000 +0000" stop="20131120002000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Romance Town</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sungeum, like her mother and grandmother, is a maid and works in a townhouse on 'First Avenue'. However, when the master's son returns, he fires her. The same day, she wins a fortune in a lottery.</desc>
+    <credits>
+      <actor>Jung Gyeo-woon</actor>
+      <actor>Sung Yu-ri</actor>
+      <actor>Min Hyorin</actor>
+    </credits>
+  </programme>
+  <programme start="20131120002000 +0000" stop="20131120002500 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">TV Tales of a Happy World</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This animated program narrates stories of successful people in the society and signifies the value of hard work and determination, thereby enhancing the importance of love and trust in people's lives.</desc>
+  </programme>
+  <programme start="20131120002500 +0000" stop="20131120013000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Morning Forum</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A talk show, wherein the panel members along with the audience, participate and engage in healthy discussions regarding issues that matter to the Korean society.</desc>
+  </programme>
+  <programme start="20131120013000 +0000" stop="20131120014000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Kbs News 930</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This program features the most recent news, updates and developments in Korea and across the world.</desc>
+  </programme>
+  <programme start="20131120014000 +0000" stop="20131120022000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">TV Novel: Eunhui</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A murder takes place a day before the Korean War in 1950, and it changes the lives of three families forever. They face many trials and tribulations and discover love and forgiveness.</desc>
+  </programme>
+  <programme start="20131120022000 +0000" stop="20131120030000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">أ تيل أوف تو سسترز</title>
+    <title lang="en">A Tale of Two Sisters</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">An adopted child meets her birth mother, after many years. Conflicted between her blood-related and foster families, she struggles to discover her identity, love and the true meaning of family.</desc>
+  </programme>
+  <programme start="20131120030000 +0000" stop="20131120033000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">TV Kindergarten Funny Funny</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show attempts to give preschoolers a fun learning experience. It helps to develop children's emotional and moral sense along with their sports, artistic and social abilities.</desc>
+  </programme>
+  <programme start="20131120033000 +0000" stop="20131120040000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Comic Cinema</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series for children.</desc>
+  </programme>
+  <programme start="20131120040000 +0000" stop="20131120042000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">KBS News 12</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This program features the latest news, updates and developments in Korea and across the world.</desc>
+  </programme>
+  <programme start="20131120042000 +0000" stop="20131120051000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">ريديسكوفيري أوف كوريا</title>
+    <title lang="en">Rediscovery Of Korea</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This program talks about the history, tradition and culture of Korea.</desc>
+  </programme>
+  <programme start="20131120051000 +0000" stop="20131120052000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Pit-A-Pat Korean</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">An educational program for the global audience who are interested in learning the Korean language, culture and customs.</desc>
+  </programme>
+  <programme start="20131120052000 +0000" stop="20131120060000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">TV Novel: Eunhui</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A murder takes place a day before the Korean War in 1950, and it changes the lives of three families forever. They face many trials and tribulations and discover love and forgiveness.</desc>
+  </programme>
+  <programme start="20131120060000 +0000" stop="20131120071000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Secret Love</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The story revolves around four people, who live with secrets, and the trials they face on their journey to find love and exact revenge.</desc>
+    <credits>
+      <actor>Bae Soobin</actor>
+      <actor>Ji Sung</actor>
+      <actor>Hwang Jungeun</actor>
+      <actor>Lee Dahui</actor>
+    </credits>
+  </programme>
+  <programme start="20131120071000 +0000" stop="20131120082000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Romance Town</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sungeum, like her mother and grandmother, is a maid and works in a townhouse on 'First Avenue'. However, when the master's son returns, he fires her. The same day, she wins a fortune in a lottery.</desc>
+    <credits>
+      <actor>Jung Gyeo-woon</actor>
+      <actor>Sung Yu-ri</actor>
+      <actor>Min Hyorin</actor>
+    </credits>
+  </programme>
+  <programme start="20131120082000 +0000" stop="20131120093000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Sungkyunkwan Scandal</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The series tells the story of Kim Yoon-hee, a young and talented girl, who masquerades as her younger brother and enrolls in a prestigious university.</desc>
+    <credits>
+      <actor>Park Min-Young</actor>
+      <actor>Park Yoo-Chun</actor>
+      <actor>Song Joong-Ki</actor>
+      <actor>Yoo Ah-In</actor>
+      <actor>Seo Hyo-Lim</actor>
+    </credits>
+  </programme>
+  <programme start="20131120093000 +0000" stop="20131120095000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">KBS World News Today</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This news bulletin provides a daily round up of current affairs and issues with a global perceptive and outlook.</desc>
+  </programme>
+  <programme start="20131120095000 +0000" stop="20131120100000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Taste Of Korea</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Magazine program.</desc>
+  </programme>
+  <programme start="20131120100000 +0000" stop="20131120110000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Vitamin</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The program features a panel of medical specialists and celebrity guests, who discuss various health issues and offer their expert advices and suggestions on how to stay fit and healthy.</desc>
+  </programme>
+  <programme start="20131120110000 +0000" stop="20131120122000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">كول كز أون ذا بلوك</title>
+    <title lang="en">Cool Kiz On The Block</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show features a celebrity team and a challenger team competing to fulfil missions. These missions are given to them by viewers.</desc>
+  </programme>
+  <programme start="20131120122000 +0000" stop="20131120130000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Melody Of Love</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The story revolves around young adults, who mature through the trials, tribulations and emotional chaos they face on their journey to discover love, their dreams and life.</desc>
+    <credits>
+      <actor>Paek Sunghyun</actor>
+      <actor>Dasom</actor>
+      <actor>Kim Hyung-joon</actor>
+    </credits>
+  </programme>
+  <programme start="20131120130000 +0000" stop="20131120140000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">KBS News 9</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This daily news bulletin covers a wide range of topics ranging from politics, society, health, weather, sports and entertainment.</desc>
+  </programme>
+  <programme start="20131120140000 +0000" stop="20131120151000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Secret Love</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The story revolves around four people, who live with secrets, and the trials they face on their journey to find love and exact revenge.</desc>
+    <credits>
+      <actor>Bae Soobin</actor>
+      <actor>Ji Sung</actor>
+      <actor>Hwang Jungeun</actor>
+      <actor>Lee Dahui</actor>
+    </credits>
+  </programme>
+  <programme start="20131120151000 +0000" stop="20131120162000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Romance Town</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sungeum, like her mother and grandmother, is a maid and works in a townhouse on 'First Avenue'. However, when the master's son returns, he fires her. The same day, she wins a fortune in a lottery.</desc>
+    <credits>
+      <actor>Jung Gyeo-woon</actor>
+      <actor>Sung Yu-ri</actor>
+      <actor>Min Hyorin</actor>
+    </credits>
+  </programme>
+  <programme start="20131120162000 +0000" stop="20131120174000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Happy Together</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show features contestants who perform multiple tasks, such as to sing a song correctly or to act out a scene from a movie. Those who make mistakes are eliminated from the contest.</desc>
+  </programme>
+  <programme start="20131120174000 +0000" stop="20131120183000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">إمورتال سونغز</title>
+    <title lang="en">Immortal Songs</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Musical show features legendary bands of Korea who have sung songs that cross over generations.</desc>
+  </programme>
+  <programme start="20131120183000 +0000" stop="20131120192000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">إمورتال سونغز</title>
+    <title lang="en">Immortal Songs</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Musical show features legendary bands of Korea who have sung songs that cross over generations.</desc>
+  </programme>
+  <programme start="20131120192000 +0000" stop="20131120202000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Love in Asia</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show unfolds the uplifting love stories of foreigners who have settled in Korea. The program tries to dwell upon the real meaning of love and family and to connect Korea with the rest of Asia.</desc>
+  </programme>
+  <programme start="20131120202000 +0000" stop="20131120210000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Melody Of Love</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The story revolves around young adults, who mature through the trials, tribulations and emotional chaos they face on their journey to discover love, their dreams and life.</desc>
+    <credits>
+      <actor>Paek Sunghyun</actor>
+      <actor>Dasom</actor>
+      <actor>Kim Hyung-joon</actor>
+    </credits>
+  </programme>
+  <programme start="20131120210000 +0000" stop="20131120220000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">KBS News 9</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This daily news bulletin covers a wide range of topics ranging from politics, society, health, weather, sports and entertainment.</desc>
+  </programme>
+  <programme start="20131120220000 +0000" stop="20131120231000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Secret Love</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The story revolves around four people, who live with secrets, and the trials they face on their journey to find love and exact revenge.</desc>
+    <credits>
+      <actor>Bae Soobin</actor>
+      <actor>Ji Sung</actor>
+      <actor>Hwang Jungeun</actor>
+      <actor>Lee Dahui</actor>
+    </credits>
+  </programme>
+  <programme start="20131120231000 +0000" stop="20131121002000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Romance Town</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sungeum, like her mother and grandmother, is a maid and works in a townhouse on 'First Avenue'. However, when the master's son returns, he fires her. The same day, she wins a fortune in a lottery.</desc>
+    <credits>
+      <actor>Jung Gyeo-woon</actor>
+      <actor>Sung Yu-ri</actor>
+      <actor>Min Hyorin</actor>
+    </credits>
+  </programme>
+  <programme start="20131121002000 +0000" stop="20131121002500 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">TV Tales of a Happy World</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This animated program narrates stories of successful people in the society and signifies the value of hard work and determination, thereby enhancing the importance of love and trust in people's lives.</desc>
+  </programme>
+  <programme start="20131121002500 +0000" stop="20131121013000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Morning Forum</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A talk show, wherein the panel members along with the audience, participate and engage in healthy discussions regarding issues that matter to the Korean society.</desc>
+  </programme>
+  <programme start="20131121013000 +0000" stop="20131121014000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Kbs News 930</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This program features the most recent news, updates and developments in Korea and across the world.</desc>
+  </programme>
+  <programme start="20131121014000 +0000" stop="20131121022000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">TV Novel: Eunhui</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A murder takes place a day before the Korean War in 1950, and it changes the lives of three families forever. They face many trials and tribulations and discover love and forgiveness.</desc>
+  </programme>
+  <programme start="20131121022000 +0000" stop="20131121030000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Melody Of Love</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The story revolves around young adults, who mature through the trials, tribulations and emotional chaos they face on their journey to discover love, their dreams and life.</desc>
+    <credits>
+      <actor>Paek Sunghyun</actor>
+      <actor>Dasom</actor>
+      <actor>Kim Hyung-joon</actor>
+    </credits>
+  </programme>
+  <programme start="20131121030000 +0000" stop="20131121033000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">TV Kindergarten Funny Funny</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show attempts to give preschoolers a fun learning experience. It helps to develop children's emotional and moral sense along with their sports, artistic and social abilities.</desc>
+  </programme>
+  <programme start="20131121033000 +0000" stop="20131121040000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Little Wizard Tao</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Tao, the descendant of a powerful ancient wizard, goes to school aiming to become a great wizard himself. He has a magical paintbrush which turns everything he draws into real objects.</desc>
+  </programme>
+  <programme start="20131121040000 +0000" stop="20131121042000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">KBS News 12</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This program features the latest news, updates and developments in Korea and across the world.</desc>
+  </programme>
+  <programme start="20131121042000 +0000" stop="20131121052000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Love in Asia</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show unfolds the uplifting love stories of foreigners who have settled in Korea. The program tries to dwell upon the real meaning of love and family and to connect Korea with the rest of Asia.</desc>
+  </programme>
+  <programme start="20131121052000 +0000" stop="20131121060000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">TV Novel: Eunhui</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A murder takes place a day before the Korean War in 1950, and it changes the lives of three families forever. They face many trials and tribulations and discover love and forgiveness.</desc>
+  </programme>
+  <programme start="20131121060000 +0000" stop="20131121071000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Secret Love</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The story revolves around four people, who live with secrets, and the trials they face on their journey to find love and exact revenge.</desc>
+    <credits>
+      <actor>Bae Soobin</actor>
+      <actor>Ji Sung</actor>
+      <actor>Hwang Jungeun</actor>
+      <actor>Lee Dahui</actor>
+    </credits>
+  </programme>
+  <programme start="20131121071000 +0000" stop="20131121082000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Romance Town</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sungeum, like her mother and grandmother, is a maid and works in a townhouse on 'First Avenue'. However, when the master's son returns, he fires her. The same day, she wins a fortune in a lottery.</desc>
+    <credits>
+      <actor>Jung Gyeo-woon</actor>
+      <actor>Sung Yu-ri</actor>
+      <actor>Min Hyorin</actor>
+    </credits>
+  </programme>
+  <programme start="20131121082000 +0000" stop="20131121093000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Sungkyunkwan Scandal</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The series tells the story of Kim Yoon-hee, a young and talented girl, who masquerades as her younger brother and enrolls in a prestigious university.</desc>
+    <credits>
+      <actor>Park Min-Young</actor>
+      <actor>Park Yoo-Chun</actor>
+      <actor>Song Joong-Ki</actor>
+      <actor>Yoo Ah-In</actor>
+      <actor>Seo Hyo-Lim</actor>
+    </credits>
+  </programme>
+  <programme start="20131121093000 +0000" stop="20131121095000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">KBS World News Today</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This news bulletin provides a daily round up of current affairs and issues with a global perceptive and outlook.</desc>
+  </programme>
+  <programme start="20131121095000 +0000" stop="20131121110000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Let's Go! Dream Team</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This program features a group of contestants participating in a variety of sports activities like vaulting, ice hockey, beach volleyball and taekwondo.</desc>
+  </programme>
+  <programme start="20131121110000 +0000" stop="20131121122000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Happy Together</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show features contestants who perform multiple tasks, such as to sing a song correctly or to act out a scene from a movie. Those who make mistakes are eliminated from the contest.</desc>
+  </programme>
+  <programme start="20131121122000 +0000" stop="20131121130000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Melody Of Love</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The story revolves around young adults, who mature through the trials, tribulations and emotional chaos they face on their journey to discover love, their dreams and life.</desc>
+    <credits>
+      <actor>Paek Sunghyun</actor>
+      <actor>Dasom</actor>
+      <actor>Kim Hyung-joon</actor>
+    </credits>
+  </programme>
+  <programme start="20131121130000 +0000" stop="20131121140000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">KBS News 9</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This daily news bulletin covers a wide range of topics ranging from politics, society, health, weather, sports and entertainment.</desc>
+  </programme>
+  <programme start="20131121140000 +0000" stop="20131121151000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Secret Love</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The story revolves around four people, who live with secrets, and the trials they face on their journey to find love and exact revenge.</desc>
+    <credits>
+      <actor>Bae Soobin</actor>
+      <actor>Ji Sung</actor>
+      <actor>Hwang Jungeun</actor>
+      <actor>Lee Dahui</actor>
+    </credits>
+  </programme>
+  <programme start="20131121151000 +0000" stop="20131121162000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Romance Town</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sungeum, like her mother and grandmother, is a maid and works in a townhouse on 'First Avenue'. However, when the master's son returns, he fires her. The same day, she wins a fortune in a lottery.</desc>
+    <credits>
+      <actor>Jung Gyeo-woon</actor>
+      <actor>Sung Yu-ri</actor>
+      <actor>Min Hyorin</actor>
+    </credits>
+  </programme>
+  <programme start="20131121162000 +0000" stop="20131121175000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Gag Concert</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show features bone-tickling stand-up comedy performances, hilarious skits and celebrity impersonations.</desc>
+  </programme>
+  <programme start="20131121175000 +0000" stop="20131121180000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">إمورتال سونغز</title>
+    <title lang="en">Immortal Songs</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Musical show features legendary bands of Korea who have sung songs that cross over generations.</desc>
+  </programme>
+  <programme start="20131121180000 +0000" stop="20131121183000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Two days and One night</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Hosted by Kang Ho Dong, the show takes viewers to the interiors of Korea, thereby providing them an opportunity to experience the unexplored regions of Korea.</desc>
+  </programme>
+  <programme start="20131121183000 +0000" stop="20131121193000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Two days and One night</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Hosted by Kang Ho Dong, the show takes viewers to the interiors of Korea, thereby providing them an opportunity to experience the unexplored regions of Korea.</desc>
+  </programme>
+  <programme start="20131121193000 +0000" stop="20131121202000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Mysteries of the Human Body</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This documentary tries to uncover the human body and its unknown facts. The show sheds light on various ways of healthy living and the latest technological innovations in the medical world.</desc>
+  </programme>
+  <programme start="20131121202000 +0000" stop="20131121210000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Melody Of Love</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The story revolves around young adults, who mature through the trials, tribulations and emotional chaos they face on their journey to discover love, their dreams and life.</desc>
+    <credits>
+      <actor>Paek Sunghyun</actor>
+      <actor>Dasom</actor>
+      <actor>Kim Hyung-joon</actor>
+    </credits>
+  </programme>
+  <programme start="20131121210000 +0000" stop="20131121220000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">KBS News 9</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This daily news bulletin covers a wide range of topics ranging from politics, society, health, weather, sports and entertainment.</desc>
+  </programme>
+  <programme start="20131121220000 +0000" stop="20131121231000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Secret Love</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The story revolves around four people, who live with secrets, and the trials they face on their journey to find love and exact revenge.</desc>
+    <credits>
+      <actor>Bae Soobin</actor>
+      <actor>Ji Sung</actor>
+      <actor>Hwang Jungeun</actor>
+      <actor>Lee Dahui</actor>
+    </credits>
+  </programme>
+  <programme start="20131121231000 +0000" stop="20131122002000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Romance Town</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sungeum, like her mother and grandmother, is a maid and works in a townhouse on 'First Avenue'. However, when the master's son returns, he fires her. The same day, she wins a fortune in a lottery.</desc>
+    <credits>
+      <actor>Jung Gyeo-woon</actor>
+      <actor>Sung Yu-ri</actor>
+      <actor>Min Hyorin</actor>
+    </credits>
+  </programme>
+  <programme start="20131122002000 +0000" stop="20131122002500 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">TV Tales of a Happy World</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This animated program narrates stories of successful people in the society and signifies the value of hard work and determination, thereby enhancing the importance of love and trust in people's lives.</desc>
+  </programme>
+  <programme start="20131122002500 +0000" stop="20131122013000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Morning Forum</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A talk show, wherein the panel members along with the audience, participate and engage in healthy discussions regarding issues that matter to the Korean society.</desc>
+  </programme>
+  <programme start="20131122013000 +0000" stop="20131122014000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Kbs News 930</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This program features the most recent news, updates and developments in Korea and across the world.</desc>
+  </programme>
+  <programme start="20131122014000 +0000" stop="20131122022000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">TV Novel: Eunhui</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A murder takes place a day before the Korean War in 1950, and it changes the lives of three families forever. They face many trials and tribulations and discover love and forgiveness.</desc>
+  </programme>
+  <programme start="20131122022000 +0000" stop="20131122030000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Melody Of Love</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The story revolves around young adults, who mature through the trials, tribulations and emotional chaos they face on their journey to discover love, their dreams and life.</desc>
+    <credits>
+      <actor>Paek Sunghyun</actor>
+      <actor>Dasom</actor>
+      <actor>Kim Hyung-joon</actor>
+    </credits>
+  </programme>
+  <programme start="20131122030000 +0000" stop="20131122033000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">TV Kindergarten Funny Funny</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show attempts to give preschoolers a fun learning experience. It helps to develop children's emotional and moral sense along with their sports, artistic and social abilities.</desc>
+  </programme>
+  <programme start="20131122033000 +0000" stop="20131122040000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Cloud Bread</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This animated series narrates the story of two kitties, Hongbi and Hongsi.</desc>
+  </programme>
+  <programme start="20131122040000 +0000" stop="20131122042000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">KBS News 12</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This program features the latest news, updates and developments in Korea and across the world.</desc>
+  </programme>
+  <programme start="20131122042000 +0000" stop="20131122051000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Mysteries of the Human Body</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This documentary tries to uncover the human body and its unknown facts. The show sheds light on various ways of healthy living and the latest technological innovations in the medical world.</desc>
+  </programme>
+  <programme start="20131122051000 +0000" stop="20131122052000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Gag Concert - Best</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This show features some of the best performances of 'Gag Concert', which introduces a new style of stand-up comedy combined with open concert.</desc>
+  </programme>
+  <programme start="20131122052000 +0000" stop="20131122060000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">TV Novel: Eunhui</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A murder takes place a day before the Korean War in 1950, and it changes the lives of three families forever. They face many trials and tribulations and discover love and forgiveness.</desc>
+  </programme>
+  <programme start="20131122060000 +0000" stop="20131122071000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Wang's Family</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The story revolves around the Wang family and the trials and tribulations they face. It attempts to show their struggle against obstacles to survive and emerge together as a family.</desc>
+    <credits>
+      <actor>Oh Man-seok</actor>
+      <actor>Jang Yong</actor>
+      <actor>Lee Tae-ran</actor>
+      <actor>Lee Yoon-ji</actor>
+    </credits>
+  </programme>
+  <programme start="20131122071000 +0000" stop="20131122082000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Wang's Family</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The story revolves around the Wang family and the trials and tribulations they face. It attempts to show their struggle against obstacles to survive and emerge together as a family.</desc>
+    <credits>
+      <actor>Oh Man-seok</actor>
+      <actor>Jang Yong</actor>
+      <actor>Lee Tae-ran</actor>
+      <actor>Lee Yoon-ji</actor>
+    </credits>
+  </programme>
+  <programme start="20131122082000 +0000" stop="20131122093000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">دراما سبيشال</title>
+    <title lang="en">Drama Special</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series features different episodes involving social messages for the viewers.</desc>
+  </programme>
+  <programme start="20131122093000 +0000" stop="20131122095000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">KBS World News Today</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This news bulletin provides a daily round up of current affairs and issues with a global perceptive and outlook.</desc>
+  </programme>
+  <programme start="20131122095000 +0000" stop="20131122100000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">KBS World Highlight</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Magazine program.</desc>
+  </programme>
+  <programme start="20131122100000 +0000" stop="20131122101000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Pit-A-Pat Korean</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">An educational program for the global audience who are interested in learning the Korean language, culture and customs.</desc>
+  </programme>
+  <programme start="20131122101000 +0000" stop="20131122103000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">أ سونغ فور يو</title>
+    <title lang="en">A Song For You</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show allows viewers to send requests of their favorite songs which will be performed by the Korean pop band - 2PM. Also, they can send a video picture or a message along with the song request.</desc>
+  </programme>
+  <programme start="20131122103000 +0000" stop="20131122115000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Music Bank</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Hosted by Lee Jang-woo and UEE, this music television program showcases the most popular Korean songs on a weekly basis in a countdown format.</desc>
+  </programme>
+  <programme start="20131122115000 +0000" stop="20131122122000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">The Three Colors Of Korea</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This program introduces three industries that greatly contribute to 'Hallyu' or 'the Korean Wave', Korean Pop, Korean Food and Korean Soul, which is the Korean spirit expressed through music.</desc>
+  </programme>
+  <programme start="20131122122000 +0000" stop="20131122130000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Melody Of Love</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The story revolves around young adults, who mature through the trials, tribulations and emotional chaos they face on their journey to discover love, their dreams and life.</desc>
+    <credits>
+      <actor>Paek Sunghyun</actor>
+      <actor>Dasom</actor>
+      <actor>Kim Hyung-joon</actor>
+    </credits>
+  </programme>
+  <programme start="20131122130000 +0000" stop="20131122140000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">KBS News 9</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This daily news bulletin covers a wide range of topics ranging from politics, society, health, weather, sports and entertainment.</desc>
+  </programme>
+  <programme start="20131122140000 +0000" stop="20131122151000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">دراما سبيشال</title>
+    <title lang="en">Drama Special</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series features different episodes involving social messages for the viewers.</desc>
+  </programme>
+  <programme start="20131122151000 +0000" stop="20131122162000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Marriage Clinic, Love &amp; War</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show explores marital problems caused by infidelity, in-laws and money. It shows the stories of different couples and how they try to reconcile with the help of a marital counselling committee.</desc>
+  </programme>
+  <programme start="20131122162000 +0000" stop="20131122171000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">
+    </title>
+    <title lang="en">Entertainment Weekly</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A weekly show which provides the viewers, the latest news and happenings in the world of entertainment.</desc>
+  </programme>
+  <programme start="20131122171000 +0000" stop="20131122183000 +0000" vps-start="19700101000000 19700101000000" channel="5040">
+    <title lang="ar">ماما ميا</title>
+    <title lang="en">Mamma Mia</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The chat show features live conversations between famous celebrities and their mothers.</desc>
+  </programme>
+</tv>

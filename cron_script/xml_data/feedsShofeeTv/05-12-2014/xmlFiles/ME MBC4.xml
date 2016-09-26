@@ -1,0 +1,1728 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd"[]>
+<tv generator-info-name="ShooFeeTV listings">
+  <Range>
+    <Start>20140510183000</Start>
+    <End>20140516183000</End>
+  </Range>
+  <channel id="1770">
+    <display-name lang="ar">إم بي سي 4</display-name>
+    <display-name lang="en">ME MBC4</display-name>
+  </channel>
+  <programme start="20140510183000 +0000" stop="20140510200000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">شكلك مش غريب</title>
+    <title lang="en">Shaklak Mesh Ghareeb</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Entertainment program features eight contestants who dress up like their favorite celebrity to win the coveted title.</desc>
+  </programme>
+  <programme start="20140510200000 +0000" stop="20140510210000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">ماد من</title>
+    <title lang="en">Mad Men</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Set in the 1960s, this period drama explores the cut-throat world of advertising, focusing on Donald Draper, Creative Director of the fictional Sterling Cooper advertising agency on Madison Avenue.</desc>
+    <credits>
+      <actor>Christina Hendricks</actor>
+      <actor>January Jones</actor>
+      <actor>Vincent Kartheiser</actor>
+      <actor>Elisabeth Moss</actor>
+      <actor>Jon Hamm</actor>
+    </credits>
+  </programme>
+  <programme start="20140510210000 +0000" stop="20140510214500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">تحالف الصبار</title>
+    <title lang="en">Tahalof Assabbar</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Sami and Katia, who become allies to fight against corrupt businessmen.</desc>
+    <credits>
+      <actor>Nesrein Ttafesh</actor>
+      <actor>Shareef Salamah</actor>
+    </credits>
+  </programme>
+  <programme start="20140510214500 +0000" stop="20140510223000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">دامجيز</title>
+    <title lang="en">Damages</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The plot revolves around a brilliant yet ruthless lawyer, who attempts to win a lawsuit against the former CEO of a corporation on behalf of his former workers by any means.</desc>
+    <credits>
+      <actor>Glenn Close</actor>
+      <actor>Tate Donovan</actor>
+      <actor>Rose Byrne</actor>
+      <actor>Anastasia Griffith</actor>
+    </credits>
+  </programme>
+  <programme start="20140510223000 +0000" stop="20140510233000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">إتس أولويز سني إن فيلادلفيا</title>
+    <title lang="en">It's Always Sunny In Philadelphia</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A group of five immoral underachievers are ignorant, egoistical, selfish, unethical and always involved in various controversies. There is no unity among them as they keep plotting against each other.</desc>
+    <credits>
+      <actor>Kaitlin Olson</actor>
+      <actor>Glenn Howerton</actor>
+      <actor>Charlie Day</actor>
+      <actor>Rob McElhenney</actor>
+    </credits>
+  </programme>
+  <programme start="20140510233000 +0000" stop="20140511004500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">شكلك مش غريب</title>
+    <title lang="en">Shaklak Mesh Ghareeb</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Entertainment program features eight contestants who dress up like their favorite celebrity to win the coveted title.</desc>
+  </programme>
+  <programme start="20140511004500 +0000" stop="20140511021500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">بان آم</title>
+    <title lang="en">Pan Am</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show is about four flight attendants Laura, Kate, Maggie and Colette who represent Pan Am airlines. They together make Pan Am the most glamorous way to fly.</desc>
+    <credits>
+      <actor>Christina Ricci</actor>
+      <actor>Margot Robbie</actor>
+      <actor>Michael Mosley</actor>
+    </credits>
+  </programme>
+  <programme start="20140511021500 +0000" stop="20140511030000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">بروجيكت رانواي</title>
+    <title lang="en">Project Runway</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Heidi Klum presents a reality based show where fourteen budding designers are given the opportunity to create a collection for New York fashion week.</desc>
+  </programme>
+  <programme start="20140511030000 +0000" stop="20140511034500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">ذا أدفينتشيرز أوف ميرلين</title>
+    <title lang="en">The Adventures Of Merlin</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A drama that narrates the story of Merlin, a teenager, who discovers and then learns to master his gift for magic.</desc>
+    <credits>
+      <actor>John Hurt</actor>
+      <actor>Bradley James</actor>
+      <actor>Angel Coulby</actor>
+    </credits>
+  </programme>
+  <programme start="20140511034500 +0000" stop="20140511043000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">تشارليز أنجلز</title>
+    <title lang="en">Charlie's Angels</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Three LA policewomen are bored of their desk jobs. They quit when the Charles Townsend Agency hires them as private investigators. Now they have a mysterious boss, Charlie, and a cool liaison, Bosley.</desc>
+    <credits>
+      <actor>Rachael Taylor</actor>
+      <actor>Minka Kelly</actor>
+      <actor>Annie Ilonzeh</actor>
+    </credits>
+  </programme>
+  <programme start="20140511043000 +0000" stop="20140511051500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">إي. آر.</title>
+    <title lang="en">E.R.</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The programme features all the drama of a hospital emergency room along with the work and lives of a group of emergency room doctors in Chicago.</desc>
+    <credits>
+      <actor>Laura Innes</actor>
+      <actor>Noah Wyle</actor>
+      <actor>Maura Tierney</actor>
+      <actor>Laura Cerón</actor>
+    </credits>
+  </programme>
+  <programme start="20140511051500 +0000" stop="20140511060000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">ماد من</title>
+    <title lang="en">Mad Men</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Set in the 1960s, this period drama explores the cut-throat world of advertising, focusing on Donald Draper, Creative Director of the fictional Sterling Cooper advertising agency on Madison Avenue.</desc>
+    <credits>
+      <actor>Christina Hendricks</actor>
+      <actor>January Jones</actor>
+      <actor>Vincent Kartheiser</actor>
+      <actor>Elisabeth Moss</actor>
+      <actor>Jon Hamm</actor>
+    </credits>
+  </programme>
+  <programme start="20140511060000 +0000" stop="20140511064500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">ذا توك</title>
+    <title lang="en">The Talk</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A talk show that discusses the day's latest headlines. It also contains celebrity interviews and segments for mothers and parents in general.</desc>
+  </programme>
+  <programme start="20140511064500 +0000" stop="20140511073000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">دايز أوف أور لايفز</title>
+    <title lang="en">Days Of Our Lives</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Like sands through the hourglass... So are the Days of Our Lives... These words open every episode of this daytime drama, chronicling the trials and tribulations of the citizens of the city of Salem.</desc>
+    <credits>
+      <actor>Deidre Hall</actor>
+      <actor>Kristian Alfonso</actor>
+      <actor>Darin Brooks</actor>
+    </credits>
+  </programme>
+  <programme start="20140511073000 +0000" stop="20140511081500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">ذا دوكتورز</title>
+    <title lang="en">The Doctors</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Medical talk show concerns with health and disease affairs, by four doctors from several disciplines, to talk about the medical problems the individuals face.</desc>
+  </programme>
+  <programme start="20140511081500 +0000" stop="20140511090000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">دكتور أوز</title>
+    <title lang="en">Dr.Oz</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A chat show that features a team of medical experts who encourage audience participation. It showcases how people can prepare themselves for day-to-day challenges.</desc>
+  </programme>
+  <programme start="20140511090000 +0000" stop="20140511100000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">هوم شوبينغ</title>
+    <title lang="en">Home Shopping</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Reality show features interesting and comfortable methods of shopping from home.</desc>
+  </programme>
+  <programme start="20140511100000 +0000" stop="20140511104500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">مرسي</title>
+    <title lang="en">Mercy</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series sheds light on the life of three nurses, who work in a hospital in Chicago.</desc>
+    <credits>
+      <actor>Taylor Schilling</actor>
+      <actor>Michelle Trachtenberg</actor>
+      <actor>Diego Klattenhoff</actor>
+      <actor>James Tupper</actor>
+      <actor>Guillermo Diaz</actor>
+      <actor>James Le Gros</actor>
+      <actor>Margo Martindale</actor>
+      <actor>Kate Mulgrew</actor>
+      <actor>David Call</actor>
+      <actor>Kelly Bishop</actor>
+    </credits>
+  </programme>
+  <programme start="20140511104500 +0000" stop="20140511113000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">حب في مهب الريح</title>
+    <title lang="en">Hub Fi Mahab Arreeh</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Social series highlights bad adjectives people have in order to reach what they want, like exploitation, selfishness and cunning, through the story of Nihad, Yusuf and Salwa.</desc>
+    <credits>
+      <actor>Murat Unalmis</actor>
+      <actor>Selen Soyder</actor>
+      <actor>Birce Akalay</actor>
+    </credits>
+  </programme>
+  <programme start="20140511113000 +0000" stop="20140511121500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">ليلى</title>
+    <title lang="en">Layla</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around  Badr who hates women because of his wife's betrayal.  He is convinced that his sick daughter needs a brother to support her, so he gets married to Layla.</desc>
+    <credits>
+      <actor>Hayfa' Hussain</actor>
+      <actor>Latifa Almagarn</actor>
+      <actor>Shafeqah Yousef</actor>
+    </credits>
+  </programme>
+  <programme start="20140511121500 +0000" stop="20140511130000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">جذور</title>
+    <title lang="en">Jothoor</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Social drama about a young woman from Lebanon who marries young man from Egypt and faces problems due to the cultural differences.</desc>
+    <credits>
+      <actor>Deena Fo'ad</actor>
+      <actor>Ahmad Haroun</actor>
+      <actor>Mahmoud Qabeel</actor>
+    </credits>
+  </programme>
+  <programme start="20140511130000 +0000" stop="20140511140000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">تحالف الصبار</title>
+    <title lang="en">Tahalof Assabbar</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Sami and Katia, who become allies to fight against corrupt businessmen.</desc>
+    <credits>
+      <actor>Nesrein Ttafesh</actor>
+      <actor>Shareef Salamah</actor>
+    </credits>
+  </programme>
+  <programme start="20140511140000 +0000" stop="20140511150000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">أميرتي</title>
+    <title lang="en">A'meerati</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A drama about an ordinary college student who finds out she is a princess and is the great grand daughter of Korea's last Emperor.</desc>
+  </programme>
+  <programme start="20140511150000 +0000" stop="20140511160000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">ذا دوكتورز</title>
+    <title lang="en">The Doctors</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Medical talk show concerns with health and disease affairs, by four doctors from several disciplines, to talk about the medical problems the individuals face.</desc>
+  </programme>
+  <programme start="20140511160000 +0000" stop="20140511170000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">نيران صديقة</title>
+    <title lang="en">Neeran Ssadeiqah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama revolves around a group of friends who reunite after many years of separation, and reveal many big secrets.</desc>
+    <credits>
+      <actor>Mena Shalaby</actor>
+      <actor>A'amr Yousef</actor>
+      <actor>Mohammad Shaheen</actor>
+    </credits>
+  </programme>
+  <programme start="20140511170000 +0000" stop="20140511180000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">أثير الحب</title>
+    <title lang="en">Atheer Al Hob</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Camilla who is awaiting her wedding day from Santiago, but they are attacked on their wedding day by George.</desc>
+  </programme>
+  <programme start="20140511180000 +0000" stop="20140511183000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">ليلى</title>
+    <title lang="en">Layla</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around  Badr who hates women because of his wife's betrayal.  He is convinced that his sick daughter needs a brother to support her, so he gets married to Layla.</desc>
+    <credits>
+      <actor>Hayfa' Hussain</actor>
+      <actor>Latifa Almagarn</actor>
+      <actor>Shafeqah Yousef</actor>
+    </credits>
+  </programme>
+  <programme start="20140511183000 +0000" stop="20140511190000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">ليلى</title>
+    <title lang="en">Layla</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around  Badr who hates women because of his wife's betrayal.  He is convinced that his sick daughter needs a brother to support her, so he gets married to Layla.</desc>
+    <credits>
+      <actor>Hayfa' Hussain</actor>
+      <actor>Latifa Almagarn</actor>
+      <actor>Shafeqah Yousef</actor>
+    </credits>
+  </programme>
+  <programme start="20140511190000 +0000" stop="20140511200000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">حب في مهب الريح</title>
+    <title lang="en">Hub Fi Mahab Arreeh</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Social series highlights bad adjectives people have in order to reach what they want, like exploitation, selfishness and cunning, through the story of Nihad, Yusuf and Salwa.</desc>
+    <credits>
+      <actor>Murat Unalmis</actor>
+      <actor>Selen Soyder</actor>
+      <actor>Birce Akalay</actor>
+    </credits>
+  </programme>
+  <programme start="20140511200000 +0000" stop="20140511210000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">داون تاون إبي</title>
+    <title lang="en">Downton Abbey</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The series follows the lives of the aristocratic Crawley family and their servants during the reign of King George V.</desc>
+    <credits>
+      <actor>Jim Carter</actor>
+      <actor>Hugh Bonneville</actor>
+      <actor>Laura Carmichael</actor>
+      <actor>Brendan Coyle</actor>
+    </credits>
+  </programme>
+  <programme start="20140511210000 +0000" stop="20140511220000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">أميرتي</title>
+    <title lang="en">A'meerati</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A drama about an ordinary college student who finds out she is a princess and is the great grand daughter of Korea's last Emperor.</desc>
+  </programme>
+  <programme start="20140511220000 +0000" stop="20140511224500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">أثير الحب</title>
+    <title lang="en">Atheer Al Hob</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Camilla who is awaiting her wedding day from Santiago, but they are attacked on their wedding day by George.</desc>
+  </programme>
+  <programme start="20140511224500 +0000" stop="20140511234500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">نيران صديقة</title>
+    <title lang="en">Neeran Ssadeiqah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama revolves around a group of friends who reunite after many years of separation, and reveal many big secrets.</desc>
+    <credits>
+      <actor>Mena Shalaby</actor>
+      <actor>A'amr Yousef</actor>
+      <actor>Mohammad Shaheen</actor>
+    </credits>
+  </programme>
+  <programme start="20140511234500 +0000" stop="20140512004500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">ليلى</title>
+    <title lang="en">Layla</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around  Badr who hates women because of his wife's betrayal.  He is convinced that his sick daughter needs a brother to support her, so he gets married to Layla.</desc>
+    <credits>
+      <actor>Hayfa' Hussain</actor>
+      <actor>Latifa Almagarn</actor>
+      <actor>Shafeqah Yousef</actor>
+    </credits>
+  </programme>
+  <programme start="20140512004500 +0000" stop="20140512014500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">حب في مهب الريح</title>
+    <title lang="en">Hub Fi Mahab Arreeh</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Social series highlights bad adjectives people have in order to reach what they want, like exploitation, selfishness and cunning, through the story of Nihad, Yusuf and Salwa.</desc>
+    <credits>
+      <actor>Murat Unalmis</actor>
+      <actor>Selen Soyder</actor>
+      <actor>Birce Akalay</actor>
+    </credits>
+  </programme>
+  <programme start="20140512014500 +0000" stop="20140512023000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">دايز أوف أور لايفز</title>
+    <title lang="en">Days Of Our Lives</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Like sands through the hourglass... So are the Days of Our Lives... These words open every episode of this daytime drama, chronicling the trials and tribulations of the citizens of the city of Salem.</desc>
+    <credits>
+      <actor>Deidre Hall</actor>
+      <actor>Kristian Alfonso</actor>
+      <actor>Darin Brooks</actor>
+    </credits>
+  </programme>
+  <programme start="20140512023000 +0000" stop="20140512030000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">إنترتاينمينت تونايت</title>
+    <title lang="en">Entertainment Tonight</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show features a steady stream of entertainment news stories on celebrities, film, television, music, fashion, award shows and special events.</desc>
+  </programme>
+  <programme start="20140512030000 +0000" stop="20140512031500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">ذا إنسايدر</title>
+    <title lang="en">The Insider</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A show that brings you all the 'inside' news, gossip and latest buzz from the world of entertainment and about the people who are a part of it.</desc>
+  </programme>
+  <programme start="20140512031500 +0000" stop="20140512040000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">لات شو ويذ دايفيد ليترمان</title>
+    <title lang="en">Late Show With David Letterman</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">An American late-night talk show hosted by legendary comedian David Letterman, who interviews guests and hosts musical performances.</desc>
+  </programme>
+  <programme start="20140512040000 +0000" stop="20140512043000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">ذا ليغ</title>
+    <title lang="en">The League</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The series features the lives of six friends, who enter into a fantasy football league. This show depicts their ways of dealing with different situations in everyday lives.</desc>
+    <credits>
+      <actor>Mark Duplass</actor>
+      <actor>Nick Kroll</actor>
+      <actor>Jonathan Lajoie</actor>
+    </credits>
+  </programme>
+  <programme start="20140512043000 +0000" stop="20140512051500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">دكتور أوز</title>
+    <title lang="en">Dr.Oz</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A chat show that features a team of medical experts who encourage audience participation. It showcases how people can prepare themselves for day-to-day challenges.</desc>
+  </programme>
+  <programme start="20140512051500 +0000" stop="20140512060000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar"> ذا بغست لوزر</title>
+    <title lang="en">The Biggest Loser</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A weight-loss reality drama in which two celebrity fitness trainers join top health experts to help overweight contestants transform their bodies, health and ultimately, their lives.</desc>
+  </programme>
+  <programme start="20140512060000 +0000" stop="20140512064500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">ذا توك</title>
+    <title lang="en">The Talk</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A talk show that discusses the day's latest headlines. It also contains celebrity interviews and segments for mothers and parents in general.</desc>
+  </programme>
+  <programme start="20140512064500 +0000" stop="20140512073000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">دايز أوف أور لايفز</title>
+    <title lang="en">Days Of Our Lives</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Like sands through the hourglass... So are the Days of Our Lives... These words open every episode of this daytime drama, chronicling the trials and tribulations of the citizens of the city of Salem.</desc>
+    <credits>
+      <actor>Deidre Hall</actor>
+      <actor>Kristian Alfonso</actor>
+      <actor>Darin Brooks</actor>
+    </credits>
+  </programme>
+  <programme start="20140512073000 +0000" stop="20140512081500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">ذا دوكتورز</title>
+    <title lang="en">The Doctors</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Medical talk show concerns with health and disease affairs, by four doctors from several disciplines, to talk about the medical problems the individuals face.</desc>
+  </programme>
+  <programme start="20140512081500 +0000" stop="20140512090000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">دكتور أوز</title>
+    <title lang="en">Dr.Oz</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A chat show that features a team of medical experts who encourage audience participation. It showcases how people can prepare themselves for day-to-day challenges.</desc>
+  </programme>
+  <programme start="20140512090000 +0000" stop="20140512100000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">هوم شوبينغ</title>
+    <title lang="en">Home Shopping</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Reality show features interesting and comfortable methods of shopping from home.</desc>
+  </programme>
+  <programme start="20140512100000 +0000" stop="20140512104500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">مرسي</title>
+    <title lang="en">Mercy</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series sheds light on the life of three nurses, who work in a hospital in Chicago.</desc>
+    <credits>
+      <actor>Taylor Schilling</actor>
+      <actor>Michelle Trachtenberg</actor>
+      <actor>Diego Klattenhoff</actor>
+      <actor>James Tupper</actor>
+      <actor>Guillermo Diaz</actor>
+      <actor>James Le Gros</actor>
+      <actor>Margo Martindale</actor>
+      <actor>Kate Mulgrew</actor>
+      <actor>David Call</actor>
+      <actor>Kelly Bishop</actor>
+    </credits>
+  </programme>
+  <programme start="20140512104500 +0000" stop="20140512113000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">حب في مهب الريح</title>
+    <title lang="en">Hub Fi Mahab Arreeh</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Social series highlights bad adjectives people have in order to reach what they want, like exploitation, selfishness and cunning, through the story of Nihad, Yusuf and Salwa.</desc>
+    <credits>
+      <actor>Murat Unalmis</actor>
+      <actor>Selen Soyder</actor>
+      <actor>Birce Akalay</actor>
+    </credits>
+  </programme>
+  <programme start="20140512113000 +0000" stop="20140512121500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">ليلى</title>
+    <title lang="en">Layla</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around  Badr who hates women because of his wife's betrayal.  He is convinced that his sick daughter needs a brother to support her, so he gets married to Layla.</desc>
+    <credits>
+      <actor>Hayfa' Hussain</actor>
+      <actor>Latifa Almagarn</actor>
+      <actor>Shafeqah Yousef</actor>
+    </credits>
+  </programme>
+  <programme start="20140512121500 +0000" stop="20140512130000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">نيران صديقة</title>
+    <title lang="en">Neeran Ssadeiqah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama revolves around a group of friends who reunite after many years of separation, and reveal many big secrets.</desc>
+    <credits>
+      <actor>Mena Shalaby</actor>
+      <actor>A'amr Yousef</actor>
+      <actor>Mohammad Shaheen</actor>
+    </credits>
+  </programme>
+  <programme start="20140512130000 +0000" stop="20140512140000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">داون تاون إبي</title>
+    <title lang="en">Downton Abbey</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The series follows the lives of the aristocratic Crawley family and their servants during the reign of King George V.</desc>
+    <credits>
+      <actor>Jim Carter</actor>
+      <actor>Hugh Bonneville</actor>
+      <actor>Laura Carmichael</actor>
+      <actor>Brendan Coyle</actor>
+    </credits>
+  </programme>
+  <programme start="20140512140000 +0000" stop="20140512150000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">أميرتي</title>
+    <title lang="en">A'meerati</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A drama about an ordinary college student who finds out she is a princess and is the great grand daughter of Korea's last Emperor.</desc>
+  </programme>
+  <programme start="20140512150000 +0000" stop="20140512160000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">ذا دوكتورز</title>
+    <title lang="en">The Doctors</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Medical talk show concerns with health and disease affairs, by four doctors from several disciplines, to talk about the medical problems the individuals face.</desc>
+  </programme>
+  <programme start="20140512160000 +0000" stop="20140512170000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">نيران صديقة</title>
+    <title lang="en">Neeran Ssadeiqah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama revolves around a group of friends who reunite after many years of separation, and reveal many big secrets.</desc>
+    <credits>
+      <actor>Mena Shalaby</actor>
+      <actor>A'amr Yousef</actor>
+      <actor>Mohammad Shaheen</actor>
+    </credits>
+  </programme>
+  <programme start="20140512170000 +0000" stop="20140512180000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">أثير الحب</title>
+    <title lang="en">Atheer Al Hob</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Camilla who is awaiting her wedding day from Santiago, but they are attacked on their wedding day by George.</desc>
+  </programme>
+  <programme start="20140512180000 +0000" stop="20140512183000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">ليلى</title>
+    <title lang="en">Layla</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around  Badr who hates women because of his wife's betrayal.  He is convinced that his sick daughter needs a brother to support her, so he gets married to Layla.</desc>
+    <credits>
+      <actor>Hayfa' Hussain</actor>
+      <actor>Latifa Almagarn</actor>
+      <actor>Shafeqah Yousef</actor>
+    </credits>
+  </programme>
+  <programme start="20140512183000 +0000" stop="20140512190000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">ليلى</title>
+    <title lang="en">Layla</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around  Badr who hates women because of his wife's betrayal.  He is convinced that his sick daughter needs a brother to support her, so he gets married to Layla.</desc>
+    <credits>
+      <actor>Hayfa' Hussain</actor>
+      <actor>Latifa Almagarn</actor>
+      <actor>Shafeqah Yousef</actor>
+    </credits>
+  </programme>
+  <programme start="20140512190000 +0000" stop="20140512200000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">حب في مهب الريح</title>
+    <title lang="en">Hub Fi Mahab Arreeh</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Social series highlights bad adjectives people have in order to reach what they want, like exploitation, selfishness and cunning, through the story of Nihad, Yusuf and Salwa.</desc>
+    <credits>
+      <actor>Murat Unalmis</actor>
+      <actor>Selen Soyder</actor>
+      <actor>Birce Akalay</actor>
+    </credits>
+  </programme>
+  <programme start="20140512200000 +0000" stop="20140512210000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">داون تاون إبي</title>
+    <title lang="en">Downton Abbey</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The series follows the lives of the aristocratic Crawley family and their servants during the reign of King George V.</desc>
+    <credits>
+      <actor>Jim Carter</actor>
+      <actor>Hugh Bonneville</actor>
+      <actor>Laura Carmichael</actor>
+      <actor>Brendan Coyle</actor>
+    </credits>
+  </programme>
+  <programme start="20140512210000 +0000" stop="20140512220000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">أميرتي</title>
+    <title lang="en">A'meerati</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A drama about an ordinary college student who finds out she is a princess and is the great grand daughter of Korea's last Emperor.</desc>
+  </programme>
+  <programme start="20140512220000 +0000" stop="20140512224500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">أثير الحب</title>
+    <title lang="en">Atheer Al Hob</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Camilla who is awaiting her wedding day from Santiago, but they are attacked on their wedding day by George.</desc>
+  </programme>
+  <programme start="20140512224500 +0000" stop="20140512234500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">نيران صديقة</title>
+    <title lang="en">Neeran Ssadeiqah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama revolves around a group of friends who reunite after many years of separation, and reveal many big secrets.</desc>
+    <credits>
+      <actor>Mena Shalaby</actor>
+      <actor>A'amr Yousef</actor>
+      <actor>Mohammad Shaheen</actor>
+    </credits>
+  </programme>
+  <programme start="20140512234500 +0000" stop="20140513004500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">ليلى</title>
+    <title lang="en">Layla</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around  Badr who hates women because of his wife's betrayal.  He is convinced that his sick daughter needs a brother to support her, so he gets married to Layla.</desc>
+    <credits>
+      <actor>Hayfa' Hussain</actor>
+      <actor>Latifa Almagarn</actor>
+      <actor>Shafeqah Yousef</actor>
+    </credits>
+  </programme>
+  <programme start="20140513004500 +0000" stop="20140513014500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">حب في مهب الريح</title>
+    <title lang="en">Hub Fi Mahab Arreeh</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Social series highlights bad adjectives people have in order to reach what they want, like exploitation, selfishness and cunning, through the story of Nihad, Yusuf and Salwa.</desc>
+    <credits>
+      <actor>Murat Unalmis</actor>
+      <actor>Selen Soyder</actor>
+      <actor>Birce Akalay</actor>
+    </credits>
+  </programme>
+  <programme start="20140513014500 +0000" stop="20140513023000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">دايز أوف أور لايفز</title>
+    <title lang="en">Days Of Our Lives</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Like sands through the hourglass... So are the Days of Our Lives... These words open every episode of this daytime drama, chronicling the trials and tribulations of the citizens of the city of Salem.</desc>
+    <credits>
+      <actor>Deidre Hall</actor>
+      <actor>Kristian Alfonso</actor>
+      <actor>Darin Brooks</actor>
+    </credits>
+  </programme>
+  <programme start="20140513023000 +0000" stop="20140513030000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">إنترتاينمينت تونايت</title>
+    <title lang="en">Entertainment Tonight</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show features a steady stream of entertainment news stories on celebrities, film, television, music, fashion, award shows and special events.</desc>
+  </programme>
+  <programme start="20140513030000 +0000" stop="20140513031500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">ذا إنسايدر</title>
+    <title lang="en">The Insider</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A show that brings you all the 'inside' news, gossip and latest buzz from the world of entertainment and about the people who are a part of it.</desc>
+  </programme>
+  <programme start="20140513031500 +0000" stop="20140513040000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">لات شو ويذ دايفيد ليترمان</title>
+    <title lang="en">Late Show With David Letterman</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">An American late-night talk show hosted by legendary comedian David Letterman, who interviews guests and hosts musical performances.</desc>
+  </programme>
+  <programme start="20140513040000 +0000" stop="20140513043000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">ذا ليغ</title>
+    <title lang="en">The League</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The series features the lives of six friends, who enter into a fantasy football league. This show depicts their ways of dealing with different situations in everyday lives.</desc>
+    <credits>
+      <actor>Mark Duplass</actor>
+      <actor>Nick Kroll</actor>
+      <actor>Jonathan Lajoie</actor>
+    </credits>
+  </programme>
+  <programme start="20140513043000 +0000" stop="20140513051500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">دكتور أوز</title>
+    <title lang="en">Dr.Oz</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A chat show that features a team of medical experts who encourage audience participation. It showcases how people can prepare themselves for day-to-day challenges.</desc>
+  </programme>
+  <programme start="20140513051500 +0000" stop="20140513060000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar"> ذا بغست لوزر</title>
+    <title lang="en">The Biggest Loser</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A weight-loss reality drama in which two celebrity fitness trainers join top health experts to help overweight contestants transform their bodies, health and ultimately, their lives.</desc>
+  </programme>
+  <programme start="20140513060000 +0000" stop="20140513064500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">ذا توك</title>
+    <title lang="en">The Talk</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A talk show that discusses the day's latest headlines. It also contains celebrity interviews and segments for mothers and parents in general.</desc>
+  </programme>
+  <programme start="20140513064500 +0000" stop="20140513073000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">دايز أوف أور لايفز</title>
+    <title lang="en">Days Of Our Lives</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Like sands through the hourglass... So are the Days of Our Lives... These words open every episode of this daytime drama, chronicling the trials and tribulations of the citizens of the city of Salem.</desc>
+    <credits>
+      <actor>Deidre Hall</actor>
+      <actor>Kristian Alfonso</actor>
+      <actor>Darin Brooks</actor>
+    </credits>
+  </programme>
+  <programme start="20140513073000 +0000" stop="20140513081500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">ذا دوكتورز</title>
+    <title lang="en">The Doctors</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Medical talk show concerns with health and disease affairs, by four doctors from several disciplines, to talk about the medical problems the individuals face.</desc>
+  </programme>
+  <programme start="20140513081500 +0000" stop="20140513090000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">دكتور أوز</title>
+    <title lang="en">Dr.Oz</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A chat show that features a team of medical experts who encourage audience participation. It showcases how people can prepare themselves for day-to-day challenges.</desc>
+  </programme>
+  <programme start="20140513090000 +0000" stop="20140513100000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">هوم شوبينغ</title>
+    <title lang="en">Home Shopping</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Reality show features interesting and comfortable methods of shopping from home.</desc>
+  </programme>
+  <programme start="20140513100000 +0000" stop="20140513104500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">دروب ديد ديفا</title>
+    <title lang="en">Drop Dead Diva</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">When Deborah, an aspiring model, is killed in a car crash, she returns to life by possessing the body of a recently deceased overweight lawyer.</desc>
+    <credits>
+      <actor>Brooke Elliott</actor>
+      <actor>Jackson Hurst</actor>
+    </credits>
+  </programme>
+  <programme start="20140513104500 +0000" stop="20140513113000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">حب في مهب الريح</title>
+    <title lang="en">Hub Fi Mahab Arreeh</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Social series highlights bad adjectives people have in order to reach what they want, like exploitation, selfishness and cunning, through the story of Nihad, Yusuf and Salwa.</desc>
+    <credits>
+      <actor>Murat Unalmis</actor>
+      <actor>Selen Soyder</actor>
+      <actor>Birce Akalay</actor>
+    </credits>
+  </programme>
+  <programme start="20140513113000 +0000" stop="20140513121500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">ليلى</title>
+    <title lang="en">Layla</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around  Badr who hates women because of his wife's betrayal.  He is convinced that his sick daughter needs a brother to support her, so he gets married to Layla.</desc>
+    <credits>
+      <actor>Hayfa' Hussain</actor>
+      <actor>Latifa Almagarn</actor>
+      <actor>Shafeqah Yousef</actor>
+    </credits>
+  </programme>
+  <programme start="20140513121500 +0000" stop="20140513130000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">نيران صديقة</title>
+    <title lang="en">Neeran Ssadeiqah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama revolves around a group of friends who reunite after many years of separation, and reveal many big secrets.</desc>
+    <credits>
+      <actor>Mena Shalaby</actor>
+      <actor>A'amr Yousef</actor>
+      <actor>Mohammad Shaheen</actor>
+    </credits>
+  </programme>
+  <programme start="20140513130000 +0000" stop="20140513140000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">داون تاون إبي</title>
+    <title lang="en">Downton Abbey</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The series follows the lives of the aristocratic Crawley family and their servants during the reign of King George V.</desc>
+    <credits>
+      <actor>Jim Carter</actor>
+      <actor>Hugh Bonneville</actor>
+      <actor>Laura Carmichael</actor>
+      <actor>Brendan Coyle</actor>
+    </credits>
+  </programme>
+  <programme start="20140513140000 +0000" stop="20140513150000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">أميرتي</title>
+    <title lang="en">A'meerati</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A drama about an ordinary college student who finds out she is a princess and is the great grand daughter of Korea's last Emperor.</desc>
+  </programme>
+  <programme start="20140513150000 +0000" stop="20140513160000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">ذا دوكتورز</title>
+    <title lang="en">The Doctors</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Medical talk show concerns with health and disease affairs, by four doctors from several disciplines, to talk about the medical problems the individuals face.</desc>
+  </programme>
+  <programme start="20140513160000 +0000" stop="20140513170000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">نيران صديقة</title>
+    <title lang="en">Neeran Ssadeiqah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama revolves around a group of friends who reunite after many years of separation, and reveal many big secrets.</desc>
+    <credits>
+      <actor>Mena Shalaby</actor>
+      <actor>A'amr Yousef</actor>
+      <actor>Mohammad Shaheen</actor>
+    </credits>
+  </programme>
+  <programme start="20140513170000 +0000" stop="20140513180000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">أثير الحب</title>
+    <title lang="en">Atheer Al Hob</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Camilla who is awaiting her wedding day from Santiago, but they are attacked on their wedding day by George.</desc>
+  </programme>
+  <programme start="20140513180000 +0000" stop="20140513183000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">ليلى</title>
+    <title lang="en">Layla</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around  Badr who hates women because of his wife's betrayal.  He is convinced that his sick daughter needs a brother to support her, so he gets married to Layla.</desc>
+    <credits>
+      <actor>Hayfa' Hussain</actor>
+      <actor>Latifa Almagarn</actor>
+      <actor>Shafeqah Yousef</actor>
+    </credits>
+  </programme>
+  <programme start="20140513183000 +0000" stop="20140513190000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">ليلى</title>
+    <title lang="en">Layla</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around  Badr who hates women because of his wife's betrayal.  He is convinced that his sick daughter needs a brother to support her, so he gets married to Layla.</desc>
+    <credits>
+      <actor>Hayfa' Hussain</actor>
+      <actor>Latifa Almagarn</actor>
+      <actor>Shafeqah Yousef</actor>
+    </credits>
+  </programme>
+  <programme start="20140513190000 +0000" stop="20140513200000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">حب في مهب الريح</title>
+    <title lang="en">Hub Fi Mahab Arreeh</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Social series highlights bad adjectives people have in order to reach what they want, like exploitation, selfishness and cunning, through the story of Nihad, Yusuf and Salwa.</desc>
+    <credits>
+      <actor>Murat Unalmis</actor>
+      <actor>Selen Soyder</actor>
+      <actor>Birce Akalay</actor>
+    </credits>
+  </programme>
+  <programme start="20140513200000 +0000" stop="20140513210000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">بان آم</title>
+    <title lang="en">Pan Am</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show is about four flight attendants Laura, Kate, Maggie and Colette who represent Pan Am airlines. They together make Pan Am the most glamorous way to fly.</desc>
+    <credits>
+      <actor>Christina Ricci</actor>
+      <actor>Margot Robbie</actor>
+      <actor>Michael Mosley</actor>
+    </credits>
+  </programme>
+  <programme start="20140513210000 +0000" stop="20140513220000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">أميرتي</title>
+    <title lang="en">A'meerati</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A drama about an ordinary college student who finds out she is a princess and is the great grand daughter of Korea's last Emperor.</desc>
+  </programme>
+  <programme start="20140513220000 +0000" stop="20140513224500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">أثير الحب</title>
+    <title lang="en">Atheer Al Hob</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Camilla who is awaiting her wedding day from Santiago, but they are attacked on their wedding day by George.</desc>
+  </programme>
+  <programme start="20140513224500 +0000" stop="20140513234500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">نيران صديقة</title>
+    <title lang="en">Neeran Ssadeiqah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama revolves around a group of friends who reunite after many years of separation, and reveal many big secrets.</desc>
+    <credits>
+      <actor>Mena Shalaby</actor>
+      <actor>A'amr Yousef</actor>
+      <actor>Mohammad Shaheen</actor>
+    </credits>
+  </programme>
+  <programme start="20140513234500 +0000" stop="20140514004500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">ليلى</title>
+    <title lang="en">Layla</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around  Badr who hates women because of his wife's betrayal.  He is convinced that his sick daughter needs a brother to support her, so he gets married to Layla.</desc>
+    <credits>
+      <actor>Hayfa' Hussain</actor>
+      <actor>Latifa Almagarn</actor>
+      <actor>Shafeqah Yousef</actor>
+    </credits>
+  </programme>
+  <programme start="20140514004500 +0000" stop="20140514014500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">حب في مهب الريح</title>
+    <title lang="en">Hub Fi Mahab Arreeh</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Social series highlights bad adjectives people have in order to reach what they want, like exploitation, selfishness and cunning, through the story of Nihad, Yusuf and Salwa.</desc>
+    <credits>
+      <actor>Murat Unalmis</actor>
+      <actor>Selen Soyder</actor>
+      <actor>Birce Akalay</actor>
+    </credits>
+  </programme>
+  <programme start="20140514014500 +0000" stop="20140514023000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">دايز أوف أور لايفز</title>
+    <title lang="en">Days Of Our Lives</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Like sands through the hourglass... So are the Days of Our Lives... These words open every episode of this daytime drama, chronicling the trials and tribulations of the citizens of the city of Salem.</desc>
+    <credits>
+      <actor>Deidre Hall</actor>
+      <actor>Kristian Alfonso</actor>
+      <actor>Darin Brooks</actor>
+    </credits>
+  </programme>
+  <programme start="20140514023000 +0000" stop="20140514030000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">إنترتاينمينت تونايت</title>
+    <title lang="en">Entertainment Tonight</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show features a steady stream of entertainment news stories on celebrities, film, television, music, fashion, award shows and special events.</desc>
+  </programme>
+  <programme start="20140514030000 +0000" stop="20140514031500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">ذا إنسايدر</title>
+    <title lang="en">The Insider</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A show that brings you all the 'inside' news, gossip and latest buzz from the world of entertainment and about the people who are a part of it.</desc>
+  </programme>
+  <programme start="20140514031500 +0000" stop="20140514040000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">لات شو ويذ دايفيد ليترمان</title>
+    <title lang="en">Late Show With David Letterman</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">An American late-night talk show hosted by legendary comedian David Letterman, who interviews guests and hosts musical performances.</desc>
+  </programme>
+  <programme start="20140514040000 +0000" stop="20140514043000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">ذا ليغ</title>
+    <title lang="en">The League</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The series features the lives of six friends, who enter into a fantasy football league. This show depicts their ways of dealing with different situations in everyday lives.</desc>
+    <credits>
+      <actor>Mark Duplass</actor>
+      <actor>Nick Kroll</actor>
+      <actor>Jonathan Lajoie</actor>
+    </credits>
+  </programme>
+  <programme start="20140514043000 +0000" stop="20140514051500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">دكتور أوز</title>
+    <title lang="en">Dr.Oz</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A chat show that features a team of medical experts who encourage audience participation. It showcases how people can prepare themselves for day-to-day challenges.</desc>
+  </programme>
+  <programme start="20140514051500 +0000" stop="20140514060000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar"> ذا بغست لوزر</title>
+    <title lang="en">The Biggest Loser</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A weight-loss reality drama in which two celebrity fitness trainers join top health experts to help overweight contestants transform their bodies, health and ultimately, their lives.</desc>
+  </programme>
+  <programme start="20140514060000 +0000" stop="20140514064500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">ذا توك</title>
+    <title lang="en">The Talk</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A talk show that discusses the day's latest headlines. It also contains celebrity interviews and segments for mothers and parents in general.</desc>
+  </programme>
+  <programme start="20140514064500 +0000" stop="20140514073000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">دايز أوف أور لايفز</title>
+    <title lang="en">Days Of Our Lives</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Like sands through the hourglass... So are the Days of Our Lives... These words open every episode of this daytime drama, chronicling the trials and tribulations of the citizens of the city of Salem.</desc>
+    <credits>
+      <actor>Deidre Hall</actor>
+      <actor>Kristian Alfonso</actor>
+      <actor>Darin Brooks</actor>
+    </credits>
+  </programme>
+  <programme start="20140514073000 +0000" stop="20140514081500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">ذا دوكتورز</title>
+    <title lang="en">The Doctors</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Medical talk show concerns with health and disease affairs, by four doctors from several disciplines, to talk about the medical problems the individuals face.</desc>
+  </programme>
+  <programme start="20140514081500 +0000" stop="20140514090000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">دكتور أوز</title>
+    <title lang="en">Dr.Oz</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A chat show that features a team of medical experts who encourage audience participation. It showcases how people can prepare themselves for day-to-day challenges.</desc>
+  </programme>
+  <programme start="20140514090000 +0000" stop="20140514100000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">هوم شوبينغ</title>
+    <title lang="en">Home Shopping</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Reality show features interesting and comfortable methods of shopping from home.</desc>
+  </programme>
+  <programme start="20140514100000 +0000" stop="20140514104500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">دروب ديد ديفا</title>
+    <title lang="en">Drop Dead Diva</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">When Deborah, an aspiring model, is killed in a car crash, she returns to life by possessing the body of a recently deceased overweight lawyer.</desc>
+    <credits>
+      <actor>Brooke Elliott</actor>
+      <actor>Jackson Hurst</actor>
+    </credits>
+  </programme>
+  <programme start="20140514104500 +0000" stop="20140514113000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">حب في مهب الريح</title>
+    <title lang="en">Hub Fi Mahab Arreeh</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Social series highlights bad adjectives people have in order to reach what they want, like exploitation, selfishness and cunning, through the story of Nihad, Yusuf and Salwa.</desc>
+    <credits>
+      <actor>Murat Unalmis</actor>
+      <actor>Selen Soyder</actor>
+      <actor>Birce Akalay</actor>
+    </credits>
+  </programme>
+  <programme start="20140514113000 +0000" stop="20140514121500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">ليلى</title>
+    <title lang="en">Layla</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around  Badr who hates women because of his wife's betrayal.  He is convinced that his sick daughter needs a brother to support her, so he gets married to Layla.</desc>
+    <credits>
+      <actor>Hayfa' Hussain</actor>
+      <actor>Latifa Almagarn</actor>
+      <actor>Shafeqah Yousef</actor>
+    </credits>
+  </programme>
+  <programme start="20140514121500 +0000" stop="20140514130000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">نيران صديقة</title>
+    <title lang="en">Neeran Ssadeiqah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama revolves around a group of friends who reunite after many years of separation, and reveal many big secrets.</desc>
+    <credits>
+      <actor>Mena Shalaby</actor>
+      <actor>A'amr Yousef</actor>
+      <actor>Mohammad Shaheen</actor>
+    </credits>
+  </programme>
+  <programme start="20140514130000 +0000" stop="20140514140000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">بان آم</title>
+    <title lang="en">Pan Am</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show is about four flight attendants Laura, Kate, Maggie and Colette who represent Pan Am airlines. They together make Pan Am the most glamorous way to fly.</desc>
+    <credits>
+      <actor>Christina Ricci</actor>
+      <actor>Margot Robbie</actor>
+      <actor>Michael Mosley</actor>
+    </credits>
+  </programme>
+  <programme start="20140514140000 +0000" stop="20140514150000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">أميرتي</title>
+    <title lang="en">A'meerati</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A drama about an ordinary college student who finds out she is a princess and is the great grand daughter of Korea's last Emperor.</desc>
+  </programme>
+  <programme start="20140514150000 +0000" stop="20140514160000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">ذا دوكتورز</title>
+    <title lang="en">The Doctors</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Medical talk show concerns with health and disease affairs, by four doctors from several disciplines, to talk about the medical problems the individuals face.</desc>
+  </programme>
+  <programme start="20140514160000 +0000" stop="20140514170000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">نيران صديقة</title>
+    <title lang="en">Neeran Ssadeiqah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama revolves around a group of friends who reunite after many years of separation, and reveal many big secrets.</desc>
+    <credits>
+      <actor>Mena Shalaby</actor>
+      <actor>A'amr Yousef</actor>
+      <actor>Mohammad Shaheen</actor>
+    </credits>
+  </programme>
+  <programme start="20140514170000 +0000" stop="20140514180000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">أثير الحب</title>
+    <title lang="en">Atheer Al Hob</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Camilla who is awaiting her wedding day from Santiago, but they are attacked on their wedding day by George.</desc>
+  </programme>
+  <programme start="20140514180000 +0000" stop="20140514183000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">ليلى</title>
+    <title lang="en">Layla</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around  Badr who hates women because of his wife's betrayal.  He is convinced that his sick daughter needs a brother to support her, so he gets married to Layla.</desc>
+    <credits>
+      <actor>Hayfa' Hussain</actor>
+      <actor>Latifa Almagarn</actor>
+      <actor>Shafeqah Yousef</actor>
+    </credits>
+  </programme>
+  <programme start="20140514183000 +0000" stop="20140514190000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">ليلى</title>
+    <title lang="en">Layla</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around  Badr who hates women because of his wife's betrayal.  He is convinced that his sick daughter needs a brother to support her, so he gets married to Layla.</desc>
+    <credits>
+      <actor>Hayfa' Hussain</actor>
+      <actor>Latifa Almagarn</actor>
+      <actor>Shafeqah Yousef</actor>
+    </credits>
+  </programme>
+  <programme start="20140514190000 +0000" stop="20140514200000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">حب في مهب الريح</title>
+    <title lang="en">Hub Fi Mahab Arreeh</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Social series highlights bad adjectives people have in order to reach what they want, like exploitation, selfishness and cunning, through the story of Nihad, Yusuf and Salwa.</desc>
+    <credits>
+      <actor>Murat Unalmis</actor>
+      <actor>Selen Soyder</actor>
+      <actor>Birce Akalay</actor>
+    </credits>
+  </programme>
+  <programme start="20140514200000 +0000" stop="20140514210000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">بان آم</title>
+    <title lang="en">Pan Am</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show is about four flight attendants Laura, Kate, Maggie and Colette who represent Pan Am airlines. They together make Pan Am the most glamorous way to fly.</desc>
+    <credits>
+      <actor>Christina Ricci</actor>
+      <actor>Margot Robbie</actor>
+      <actor>Michael Mosley</actor>
+    </credits>
+  </programme>
+  <programme start="20140514210000 +0000" stop="20140514220000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">أميرتي</title>
+    <title lang="en">A'meerati</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A drama about an ordinary college student who finds out she is a princess and is the great grand daughter of Korea's last Emperor.</desc>
+  </programme>
+  <programme start="20140514220000 +0000" stop="20140514224500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">أثير الحب</title>
+    <title lang="en">Atheer Al Hob</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Camilla who is awaiting her wedding day from Santiago, but they are attacked on their wedding day by George.</desc>
+  </programme>
+  <programme start="20140514224500 +0000" stop="20140514234500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">نيران صديقة</title>
+    <title lang="en">Neeran Ssadeiqah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama revolves around a group of friends who reunite after many years of separation, and reveal many big secrets.</desc>
+    <credits>
+      <actor>Mena Shalaby</actor>
+      <actor>A'amr Yousef</actor>
+      <actor>Mohammad Shaheen</actor>
+    </credits>
+  </programme>
+  <programme start="20140514234500 +0000" stop="20140515004500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">ليلى</title>
+    <title lang="en">Layla</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around  Badr who hates women because of his wife's betrayal.  He is convinced that his sick daughter needs a brother to support her, so he gets married to Layla.</desc>
+    <credits>
+      <actor>Hayfa' Hussain</actor>
+      <actor>Latifa Almagarn</actor>
+      <actor>Shafeqah Yousef</actor>
+    </credits>
+  </programme>
+  <programme start="20140515004500 +0000" stop="20140515014500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">حب في مهب الريح</title>
+    <title lang="en">Hub Fi Mahab Arreeh</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Social series highlights bad adjectives people have in order to reach what they want, like exploitation, selfishness and cunning, through the story of Nihad, Yusuf and Salwa.</desc>
+    <credits>
+      <actor>Murat Unalmis</actor>
+      <actor>Selen Soyder</actor>
+      <actor>Birce Akalay</actor>
+    </credits>
+  </programme>
+  <programme start="20140515014500 +0000" stop="20140515023000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">دايز أوف أور لايفز</title>
+    <title lang="en">Days Of Our Lives</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Like sands through the hourglass... So are the Days of Our Lives... These words open every episode of this daytime drama, chronicling the trials and tribulations of the citizens of the city of Salem.</desc>
+    <credits>
+      <actor>Deidre Hall</actor>
+      <actor>Kristian Alfonso</actor>
+      <actor>Darin Brooks</actor>
+    </credits>
+  </programme>
+  <programme start="20140515023000 +0000" stop="20140515030000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">إنترتاينمينت تونايت</title>
+    <title lang="en">Entertainment Tonight</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show features a steady stream of entertainment news stories on celebrities, film, television, music, fashion, award shows and special events.</desc>
+  </programme>
+  <programme start="20140515030000 +0000" stop="20140515031500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">ذا إنسايدر</title>
+    <title lang="en">The Insider</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A show that brings you all the 'inside' news, gossip and latest buzz from the world of entertainment and about the people who are a part of it.</desc>
+  </programme>
+  <programme start="20140515031500 +0000" stop="20140515040000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">لات شو ويذ دايفيد ليترمان</title>
+    <title lang="en">Late Show With David Letterman</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">An American late-night talk show hosted by legendary comedian David Letterman, who interviews guests and hosts musical performances.</desc>
+  </programme>
+  <programme start="20140515040000 +0000" stop="20140515043000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">ذا ليغ</title>
+    <title lang="en">The League</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The series features the lives of six friends, who enter into a fantasy football league. This show depicts their ways of dealing with different situations in everyday lives.</desc>
+    <credits>
+      <actor>Mark Duplass</actor>
+      <actor>Nick Kroll</actor>
+      <actor>Jonathan Lajoie</actor>
+    </credits>
+  </programme>
+  <programme start="20140515043000 +0000" stop="20140515051500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">دكتور أوز</title>
+    <title lang="en">Dr.Oz</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A chat show that features a team of medical experts who encourage audience participation. It showcases how people can prepare themselves for day-to-day challenges.</desc>
+  </programme>
+  <programme start="20140515051500 +0000" stop="20140515060000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar"> ذا بغست لوزر</title>
+    <title lang="en">The Biggest Loser</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A weight-loss reality drama in which two celebrity fitness trainers join top health experts to help overweight contestants transform their bodies, health and ultimately, their lives.</desc>
+  </programme>
+  <programme start="20140515060000 +0000" stop="20140515064500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">ذا توك</title>
+    <title lang="en">The Talk</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A talk show that discusses the day's latest headlines. It also contains celebrity interviews and segments for mothers and parents in general.</desc>
+  </programme>
+  <programme start="20140515064500 +0000" stop="20140515073000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">دايز أوف أور لايفز</title>
+    <title lang="en">Days Of Our Lives</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Like sands through the hourglass... So are the Days of Our Lives... These words open every episode of this daytime drama, chronicling the trials and tribulations of the citizens of the city of Salem.</desc>
+    <credits>
+      <actor>Deidre Hall</actor>
+      <actor>Kristian Alfonso</actor>
+      <actor>Darin Brooks</actor>
+    </credits>
+  </programme>
+  <programme start="20140515073000 +0000" stop="20140515081500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">ذا دوكتورز</title>
+    <title lang="en">The Doctors</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Medical talk show concerns with health and disease affairs, by four doctors from several disciplines, to talk about the medical problems the individuals face.</desc>
+  </programme>
+  <programme start="20140515081500 +0000" stop="20140515090000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">دكتور أوز</title>
+    <title lang="en">Dr.Oz</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A chat show that features a team of medical experts who encourage audience participation. It showcases how people can prepare themselves for day-to-day challenges.</desc>
+  </programme>
+  <programme start="20140515090000 +0000" stop="20140515100000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">هوم شوبينغ</title>
+    <title lang="en">Home Shopping</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Reality show features interesting and comfortable methods of shopping from home.</desc>
+  </programme>
+  <programme start="20140515100000 +0000" stop="20140515104500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">دروب ديد ديفا</title>
+    <title lang="en">Drop Dead Diva</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">When Deborah, an aspiring model, is killed in a car crash, she returns to life by possessing the body of a recently deceased overweight lawyer.</desc>
+    <credits>
+      <actor>Brooke Elliott</actor>
+      <actor>Jackson Hurst</actor>
+    </credits>
+  </programme>
+  <programme start="20140515104500 +0000" stop="20140515113000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">حب في مهب الريح</title>
+    <title lang="en">Hub Fi Mahab Arreeh</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Social series highlights bad adjectives people have in order to reach what they want, like exploitation, selfishness and cunning, through the story of Nihad, Yusuf and Salwa.</desc>
+    <credits>
+      <actor>Murat Unalmis</actor>
+      <actor>Selen Soyder</actor>
+      <actor>Birce Akalay</actor>
+    </credits>
+  </programme>
+  <programme start="20140515113000 +0000" stop="20140515121500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">ليلى</title>
+    <title lang="en">Layla</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around  Badr who hates women because of his wife's betrayal.  He is convinced that his sick daughter needs a brother to support her, so he gets married to Layla.</desc>
+    <credits>
+      <actor>Hayfa' Hussain</actor>
+      <actor>Latifa Almagarn</actor>
+      <actor>Shafeqah Yousef</actor>
+    </credits>
+  </programme>
+  <programme start="20140515121500 +0000" stop="20140515130000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">نيران صديقة</title>
+    <title lang="en">Neeran Ssadeiqah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama revolves around a group of friends who reunite after many years of separation, and reveal many big secrets.</desc>
+    <credits>
+      <actor>Mena Shalaby</actor>
+      <actor>A'amr Yousef</actor>
+      <actor>Mohammad Shaheen</actor>
+    </credits>
+  </programme>
+  <programme start="20140515130000 +0000" stop="20140515140000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">بان آم</title>
+    <title lang="en">Pan Am</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show is about four flight attendants Laura, Kate, Maggie and Colette who represent Pan Am airlines. They together make Pan Am the most glamorous way to fly.</desc>
+    <credits>
+      <actor>Christina Ricci</actor>
+      <actor>Margot Robbie</actor>
+      <actor>Michael Mosley</actor>
+    </credits>
+  </programme>
+  <programme start="20140515140000 +0000" stop="20140515150000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">أميرتي</title>
+    <title lang="en">A'meerati</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A drama about an ordinary college student who finds out she is a princess and is the great grand daughter of Korea's last Emperor.</desc>
+  </programme>
+  <programme start="20140515150000 +0000" stop="20140515160000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">ذا دوكتورز</title>
+    <title lang="en">The Doctors</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Medical talk show concerns with health and disease affairs, by four doctors from several disciplines, to talk about the medical problems the individuals face.</desc>
+  </programme>
+  <programme start="20140515160000 +0000" stop="20140515170000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">نيران صديقة</title>
+    <title lang="en">Neeran Ssadeiqah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama revolves around a group of friends who reunite after many years of separation, and reveal many big secrets.</desc>
+    <credits>
+      <actor>Mena Shalaby</actor>
+      <actor>A'amr Yousef</actor>
+      <actor>Mohammad Shaheen</actor>
+    </credits>
+  </programme>
+  <programme start="20140515170000 +0000" stop="20140515180000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">أثير الحب</title>
+    <title lang="en">Atheer Al Hob</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Camilla who is awaiting her wedding day from Santiago, but they are attacked on their wedding day by George.</desc>
+  </programme>
+  <programme start="20140515180000 +0000" stop="20140515183000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">ليلى</title>
+    <title lang="en">Layla</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around  Badr who hates women because of his wife's betrayal.  He is convinced that his sick daughter needs a brother to support her, so he gets married to Layla.</desc>
+    <credits>
+      <actor>Hayfa' Hussain</actor>
+      <actor>Latifa Almagarn</actor>
+      <actor>Shafeqah Yousef</actor>
+    </credits>
+  </programme>
+  <programme start="20140515183000 +0000" stop="20140515190000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">ليلى</title>
+    <title lang="en">Layla</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around  Badr who hates women because of his wife's betrayal.  He is convinced that his sick daughter needs a brother to support her, so he gets married to Layla.</desc>
+    <credits>
+      <actor>Hayfa' Hussain</actor>
+      <actor>Latifa Almagarn</actor>
+      <actor>Shafeqah Yousef</actor>
+    </credits>
+  </programme>
+  <programme start="20140515190000 +0000" stop="20140515200000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">حب في مهب الريح</title>
+    <title lang="en">Hub Fi Mahab Arreeh</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Social series highlights bad adjectives people have in order to reach what they want, like exploitation, selfishness and cunning, through the story of Nihad, Yusuf and Salwa.</desc>
+    <credits>
+      <actor>Murat Unalmis</actor>
+      <actor>Selen Soyder</actor>
+      <actor>Birce Akalay</actor>
+    </credits>
+  </programme>
+  <programme start="20140515200000 +0000" stop="20140515203000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">إكسترا تركي</title>
+    <title lang="en">Extra Turkey</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A special report that highlights the latest Turkish drama productions and interviews the Turkish celebrities to talk about their latest works and news.</desc>
+  </programme>
+  <programme start="20140515203000 +0000" stop="20140515213000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">شكلك مش غريب إكسترا</title>
+    <title lang="en">Sheklak Mesh Ghareeb Extra</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The program highlights the backstage and preparations of Sheklak Mesh Ghareeb.</desc>
+  </programme>
+  <programme start="20140515213000 +0000" stop="20140515221500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">أميرتي</title>
+    <title lang="en">A'meerati</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A drama about an ordinary college student who finds out she is a princess and is the great grand daughter of Korea's last Emperor.</desc>
+  </programme>
+  <programme start="20140515221500 +0000" stop="20140515230000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">أثير الحب</title>
+    <title lang="en">Atheer Al Hob</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Camilla who is awaiting her wedding day from Santiago, but they are attacked on their wedding day by George.</desc>
+  </programme>
+  <programme start="20140515230000 +0000" stop="20140515234500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">نيران صديقة</title>
+    <title lang="en">Neeran Ssadeiqah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama revolves around a group of friends who reunite after many years of separation, and reveal many big secrets.</desc>
+    <credits>
+      <actor>Mena Shalaby</actor>
+      <actor>A'amr Yousef</actor>
+      <actor>Mohammad Shaheen</actor>
+    </credits>
+  </programme>
+  <programme start="20140515234500 +0000" stop="20140516004500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">ليلى</title>
+    <title lang="en">Layla</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around  Badr who hates women because of his wife's betrayal.  He is convinced that his sick daughter needs a brother to support her, so he gets married to Layla.</desc>
+    <credits>
+      <actor>Hayfa' Hussain</actor>
+      <actor>Latifa Almagarn</actor>
+      <actor>Shafeqah Yousef</actor>
+    </credits>
+  </programme>
+  <programme start="20140516004500 +0000" stop="20140516014500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">حب في مهب الريح</title>
+    <title lang="en">Hub Fi Mahab Arreeh</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Social series highlights bad adjectives people have in order to reach what they want, like exploitation, selfishness and cunning, through the story of Nihad, Yusuf and Salwa.</desc>
+    <credits>
+      <actor>Murat Unalmis</actor>
+      <actor>Selen Soyder</actor>
+      <actor>Birce Akalay</actor>
+    </credits>
+  </programme>
+  <programme start="20140516014500 +0000" stop="20140516023000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">دايز أوف أور لايفز</title>
+    <title lang="en">Days Of Our Lives</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Like sands through the hourglass... So are the Days of Our Lives... These words open every episode of this daytime drama, chronicling the trials and tribulations of the citizens of the city of Salem.</desc>
+    <credits>
+      <actor>Deidre Hall</actor>
+      <actor>Kristian Alfonso</actor>
+      <actor>Darin Brooks</actor>
+    </credits>
+  </programme>
+  <programme start="20140516023000 +0000" stop="20140516030000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">إنترتاينمينت تونايت</title>
+    <title lang="en">Entertainment Tonight</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show features a steady stream of entertainment news stories on celebrities, film, television, music, fashion, award shows and special events.</desc>
+  </programme>
+  <programme start="20140516030000 +0000" stop="20140516031500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">ذا إنسايدر</title>
+    <title lang="en">The Insider</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A show that brings you all the 'inside' news, gossip and latest buzz from the world of entertainment and about the people who are a part of it.</desc>
+  </programme>
+  <programme start="20140516031500 +0000" stop="20140516040000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">لات شو ويذ دايفيد ليترمان</title>
+    <title lang="en">Late Show With David Letterman</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">An American late-night talk show hosted by legendary comedian David Letterman, who interviews guests and hosts musical performances.</desc>
+  </programme>
+  <programme start="20140516040000 +0000" stop="20140516043000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">ذا ليغ</title>
+    <title lang="en">The League</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The series features the lives of six friends, who enter into a fantasy football league. This show depicts their ways of dealing with different situations in everyday lives.</desc>
+    <credits>
+      <actor>Mark Duplass</actor>
+      <actor>Nick Kroll</actor>
+      <actor>Jonathan Lajoie</actor>
+    </credits>
+  </programme>
+  <programme start="20140516043000 +0000" stop="20140516051500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">دكتور أوز</title>
+    <title lang="en">Dr.Oz</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A chat show that features a team of medical experts who encourage audience participation. It showcases how people can prepare themselves for day-to-day challenges.</desc>
+  </programme>
+  <programme start="20140516051500 +0000" stop="20140516060000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar"> ذا بغست لوزر</title>
+    <title lang="en">The Biggest Loser</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A weight-loss reality drama in which two celebrity fitness trainers join top health experts to help overweight contestants transform their bodies, health and ultimately, their lives.</desc>
+  </programme>
+  <programme start="20140516060000 +0000" stop="20140516073000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">ذا ميديل</title>
+    <title lang="en">The Middle</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The program features Frances, a middle-class, Midwestern woman married to Mike Heck residing in the small fictional town of Orson, Indiana.</desc>
+    <credits>
+      <actor>Patricia Heaton</actor>
+      <actor>Charlie McDermott</actor>
+    </credits>
+  </programme>
+  <programme start="20140516073000 +0000" stop="20140516081500 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">تشارليز أنجلز</title>
+    <title lang="en">Charlie's Angels</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Three LA policewomen are bored of their desk jobs. They quit when the Charles Townsend Agency hires them as private investigators. Now they have a mysterious boss, Charlie, and a cool liaison, Bosley.</desc>
+    <credits>
+      <actor>Rachael Taylor</actor>
+      <actor>Minka Kelly</actor>
+      <actor>Annie Ilonzeh</actor>
+    </credits>
+  </programme>
+  <programme start="20140516081500 +0000" stop="20140516090000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">إي. آر.</title>
+    <title lang="en">E.R.</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The programme features all the drama of a hospital emergency room along with the work and lives of a group of emergency room doctors in Chicago.</desc>
+    <credits>
+      <actor>Laura Innes</actor>
+      <actor>Noah Wyle</actor>
+      <actor>Maura Tierney</actor>
+      <actor>Laura Cerón</actor>
+    </credits>
+  </programme>
+  <programme start="20140516090000 +0000" stop="20140516093000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">هوم شوبينغ</title>
+    <title lang="en">Home Shopping</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Reality show features interesting and comfortable methods of shopping from home.</desc>
+  </programme>
+  <programme start="20140516093000 +0000" stop="20140516110000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">أرو</title>
+    <title lang="en">Arrow</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">After mastering the skills of archery on a deserted island, a multi-millionaire playboy Oliver Queen returns to his city. He takes on a vigilante persona of Arrow to fight crime and corruption.</desc>
+    <credits>
+      <actor>David Ramsey</actor>
+      <actor>Katie Cassidy</actor>
+      <actor>Willa Holland</actor>
+      <actor>Stephen Amell</actor>
+    </credits>
+  </programme>
+  <programme start="20140516110000 +0000" stop="20140516130000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">شكلك مش غريب</title>
+    <title lang="en">Shaklak Mesh Ghareeb</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Entertainment program features eight contestants who dress up like their favorite celebrity to win the coveted title.</desc>
+  </programme>
+  <programme start="20140516130000 +0000" stop="20140516133000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">هوم شوبينغ</title>
+    <title lang="en">Home Shopping</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Reality show features interesting and comfortable methods of shopping from home.</desc>
+  </programme>
+  <programme start="20140516133000 +0000" stop="20140516143000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">بروجيكت رانواي</title>
+    <title lang="en">Project Runway</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Heidi Klum presents a reality based show where fourteen budding designers are given the opportunity to create a collection for New York fashion week.</desc>
+  </programme>
+  <programme start="20140516143000 +0000" stop="20140516150000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">إكسترا تركي</title>
+    <title lang="en">Extra Turkey</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A special report that highlights the latest Turkish drama productions and interviews the Turkish celebrities to talk about their latest works and news.</desc>
+  </programme>
+  <programme start="20140516150000 +0000" stop="20140516160000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">كتشن مليونير</title>
+    <title lang="en">Kitchen Millionaire</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Cookery show features various food recipes from across the world.</desc>
+  </programme>
+  <programme start="20140516160000 +0000" stop="20140516170000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">كميونيتي</title>
+    <title lang="en">Community</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A series about a group of students at a community college in Colorado. The series heavily uses meta-humor and pop culture references, often parodying film and television cliches and tropes.</desc>
+    <credits>
+      <actor>Joel McHale</actor>
+      <actor>Danny Pudi</actor>
+      <actor>Donald Glover</actor>
+    </credits>
+  </programme>
+  <programme start="20140516170000 +0000" stop="20140516183000 +0000" vps-start="19700101000000 19700101000000" channel="1770">
+    <title lang="ar">سويمفان</title>
+    <title lang="en">Swimfan</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Ben, a popular and brilliant student with a promising career, has it all figured out till the day he meets Madison Bell. As things heat up between the two, it leads to hefty consequences.</desc>
+    <credits>
+      <actor>Erika Christensen</actor>
+      <actor>Jesse Bradford</actor>
+      <actor>Shiri Appleby</actor>
+    </credits>
+  </programme>
+</tv>

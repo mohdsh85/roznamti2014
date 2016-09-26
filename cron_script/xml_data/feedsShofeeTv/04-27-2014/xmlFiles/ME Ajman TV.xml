@@ -1,0 +1,873 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd"[]>
+<tv generator-info-name="ShooFeeTV listings">
+  <Range>
+    <Start>20140111183000</Start>
+    <End>20140117183000</End>
+  </Range>
+  <channel id="7960">
+    <display-name lang="ar">عجمان</display-name>
+    <display-name lang="en">ME Ajman TV</display-name>
+  </channel>
+  <programme start="20140111183000 +0000" stop="20140111203000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">بدون عنوان</title>
+    <title lang="en">Bedon E'nwan</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama movie directed by Hatem Mosa and starring Mirna Al Mohandes, A'mer Medhat and Maher Maher.</desc>
+  </programme>
+  <programme start="20140111203000 +0000" stop="20140111210000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140111210000 +0000" stop="20140111220000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140111220000 +0000" stop="20140111230000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140111230000 +0000" stop="20140112000000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140112000000 +0000" stop="20140112010000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140112010000 +0000" stop="20140112020000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140112020000 +0000" stop="20140112030000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140112030000 +0000" stop="20140112060000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">صباح الخير يا إمارات</title>
+    <title lang="en">Ssabah Al Khair Ya Emarat</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Social program discusses issues that concern people especially in Emirates.</desc>
+  </programme>
+  <programme start="20140112060000 +0000" stop="20140112090000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">الرابعة والناس</title>
+    <title lang="en">Arrabea'ah Wa Annas</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Social program presents some issues that concern people and it seeks to find some solutions of the problems that viewers suffer from.</desc>
+  </programme>
+  <programme start="20140112090000 +0000" stop="20140112103000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">الدين والحياة</title>
+    <title lang="en">Addein Wa Al Hayah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Religious program revolves around how Islam is a balanced religion in solving problems, in all life aspects. It discusses many social issues from an Islamic perspective.</desc>
+  </programme>
+  <programme start="20140112103000 +0000" stop="20140112113000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140112113000 +0000" stop="20140112123000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140112123000 +0000" stop="20140112133000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140112133000 +0000" stop="20140112143000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140112143000 +0000" stop="20140112153000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140112153000 +0000" stop="20140112163000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140112163000 +0000" stop="20140112170000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140112170000 +0000" stop="20140112180000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">على كيفك</title>
+    <title lang="en">A'ala Kaefak</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Musical program hosts Ramy and Reem who perform various songs.</desc>
+  </programme>
+  <programme start="20140112180000 +0000" stop="20140112183000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">الرابعة والناس</title>
+    <title lang="en">Arrabea'ah Wa Annas</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Social program presents some issues that concern people and it seeks to find some solutions of the problems that viewers suffer from.</desc>
+  </programme>
+  <programme start="20140112183000 +0000" stop="20140112200000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">الرابعة والناس</title>
+    <title lang="en">Arrabea'ah Wa Annas</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Social program presents some issues that concern people and it seeks to find some solutions of the problems that viewers suffer from.</desc>
+  </programme>
+  <programme start="20140112200000 +0000" stop="20140112210000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140112210000 +0000" stop="20140112220000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140112220000 +0000" stop="20140112230000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140112230000 +0000" stop="20140113000000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140113000000 +0000" stop="20140113010000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140113010000 +0000" stop="20140113020000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140113020000 +0000" stop="20140113030000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140113030000 +0000" stop="20140113060000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">صباح الخير يا إمارات</title>
+    <title lang="en">Ssabah Al Khair Ya Emarat</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Social program discusses issues that concern people especially in Emirates.</desc>
+  </programme>
+  <programme start="20140113060000 +0000" stop="20140113090000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">الرابعة والناس</title>
+    <title lang="en">Arrabea'ah Wa Annas</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Social program presents some issues that concern people and it seeks to find some solutions of the problems that viewers suffer from.</desc>
+  </programme>
+  <programme start="20140113090000 +0000" stop="20140113100000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">على كيفك</title>
+    <title lang="en">A'ala Kaefak</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Musical program hosts Ramy and Reem who perform various songs.</desc>
+  </programme>
+  <programme start="20140113100000 +0000" stop="20140113103000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140113103000 +0000" stop="20140113113000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140113113000 +0000" stop="20140113123000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140113123000 +0000" stop="20140113133000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140113133000 +0000" stop="20140113143000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140113143000 +0000" stop="20140113153000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140113153000 +0000" stop="20140113163000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140113163000 +0000" stop="20140113170000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140113170000 +0000" stop="20140113180000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">صحة وحياة</title>
+    <title lang="en">Ssehhah Wa Hayah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Social talk show discusses with specialists many topics that touch the humans' needs, such as social, medical and legal topics.</desc>
+  </programme>
+  <programme start="20140113180000 +0000" stop="20140113183000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">الرابعة والناس</title>
+    <title lang="en">Arrabea'ah Wa Annas</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Social program presents some issues that concern people and it seeks to find some solutions of the problems that viewers suffer from.</desc>
+  </programme>
+  <programme start="20140113183000 +0000" stop="20140113210000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">الرابعة والناس</title>
+    <title lang="en">Arrabea'ah Wa Annas</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Social program presents some issues that concern people and it seeks to find some solutions of the problems that viewers suffer from.</desc>
+  </programme>
+  <programme start="20140113210000 +0000" stop="20140113220000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140113220000 +0000" stop="20140113230000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140113230000 +0000" stop="20140114000000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140114000000 +0000" stop="20140114010000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140114010000 +0000" stop="20140114020000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140114020000 +0000" stop="20140114030000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140114030000 +0000" stop="20140114060000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">صباح الخير يا إمارات</title>
+    <title lang="en">Ssabah Al Khair Ya Emarat</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Social program discusses issues that concern people especially in Emirates.</desc>
+  </programme>
+  <programme start="20140114060000 +0000" stop="20140114090000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">الرابعة والناس</title>
+    <title lang="en">Arrabea'ah Wa Annas</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Social program presents some issues that concern people and it seeks to find some solutions of the problems that viewers suffer from.</desc>
+  </programme>
+  <programme start="20140114090000 +0000" stop="20140114100000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">صحة وحياة</title>
+    <title lang="en">Ssehhah Wa Hayah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Social talk show discusses with specialists many topics that touch the humans' needs, such as social, medical and legal topics.</desc>
+  </programme>
+  <programme start="20140114100000 +0000" stop="20140114103000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140114103000 +0000" stop="20140114113000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140114113000 +0000" stop="20140114123000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140114123000 +0000" stop="20140114133000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140114133000 +0000" stop="20140114143000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140114143000 +0000" stop="20140114153000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140114153000 +0000" stop="20140114163000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140114163000 +0000" stop="20140114170000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140114170000 +0000" stop="20140114180000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">مائدتي</title>
+    <title lang="en">Mae'dati</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Cooking show provides the viewers with many Gulf, Arab and foreign recipes.</desc>
+  </programme>
+  <programme start="20140114180000 +0000" stop="20140114183000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">بدون عنوان</title>
+    <title lang="en">Bedon E'nwan</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama movie directed by Hatem Mosa and starring Mirna Al Mohandes, A'mer Medhat and Maher Maher.</desc>
+  </programme>
+  <programme start="20140114183000 +0000" stop="20140114200000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">بدون عنوان</title>
+    <title lang="en">Bedon E'nwan</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama movie directed by Hatem Mosa and starring Mirna Al Mohandes, A'mer Medhat and Maher Maher.</desc>
+  </programme>
+  <programme start="20140114200000 +0000" stop="20140114210000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140114210000 +0000" stop="20140114220000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140114220000 +0000" stop="20140114230000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140114230000 +0000" stop="20140115000000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140115000000 +0000" stop="20140115010000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140115010000 +0000" stop="20140115020000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140115020000 +0000" stop="20140115030000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140115030000 +0000" stop="20140115060000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">صباح الخير يا إمارات</title>
+    <title lang="en">Ssabah Al Khair Ya Emarat</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Social program discusses issues that concern people especially in Emirates.</desc>
+  </programme>
+  <programme start="20140115060000 +0000" stop="20140115090000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">الرابعة والناس</title>
+    <title lang="en">Arrabea'ah Wa Annas</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Social program presents some issues that concern people and it seeks to find some solutions of the problems that viewers suffer from.</desc>
+  </programme>
+  <programme start="20140115090000 +0000" stop="20140115100000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">مائدتي</title>
+    <title lang="en">Mae'dati</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Cooking show provides the viewers with many Gulf, Arab and foreign recipes.</desc>
+  </programme>
+  <programme start="20140115100000 +0000" stop="20140115103000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140115103000 +0000" stop="20140115113000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140115113000 +0000" stop="20140115123000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140115123000 +0000" stop="20140115133000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140115133000 +0000" stop="20140115143000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140115143000 +0000" stop="20140115153000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140115153000 +0000" stop="20140115163000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140115163000 +0000" stop="20140115170000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140115170000 +0000" stop="20140115180000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">سوالف رياضية</title>
+    <title lang="en">Sawalef Riyaddeyah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">News bulletin presents the latest local and global sport news.</desc>
+  </programme>
+  <programme start="20140115180000 +0000" stop="20140115183000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">الرابعة والناس</title>
+    <title lang="en">Arrabea'ah Wa Annas</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Social program presents some issues that concern people and it seeks to find some solutions of the problems that viewers suffer from.</desc>
+  </programme>
+  <programme start="20140115183000 +0000" stop="20140115210000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">الرابعة والناس</title>
+    <title lang="en">Arrabea'ah Wa Annas</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Social program presents some issues that concern people and it seeks to find some solutions of the problems that viewers suffer from.</desc>
+  </programme>
+  <programme start="20140115210000 +0000" stop="20140115220000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140115220000 +0000" stop="20140115230000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140115230000 +0000" stop="20140116000000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140116000000 +0000" stop="20140116010000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140116010000 +0000" stop="20140116020000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140116020000 +0000" stop="20140116030000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140116030000 +0000" stop="20140116060000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">صباح الخير يا إمارات</title>
+    <title lang="en">Ssabah Al Khair Ya Emarat</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Social program discusses issues that concern people especially in Emirates.</desc>
+  </programme>
+  <programme start="20140116060000 +0000" stop="20140116090000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">الرابعة والناس</title>
+    <title lang="en">Arrabea'ah Wa Annas</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Social program presents some issues that concern people and it seeks to find some solutions of the problems that viewers suffer from.</desc>
+  </programme>
+  <programme start="20140116090000 +0000" stop="20140116100000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140116100000 +0000" stop="20140116103000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140116103000 +0000" stop="20140116113000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140116113000 +0000" stop="20140116123000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140116123000 +0000" stop="20140116133000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140116133000 +0000" stop="20140116143000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140116143000 +0000" stop="20140116153000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140116153000 +0000" stop="20140116163000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140116163000 +0000" stop="20140116170000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140116170000 +0000" stop="20140116180000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">الدين والحياة</title>
+    <title lang="en">Addein Wa Al Hayah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Religious program revolves around how Islam is a balanced religion in solving problems, in all life aspects. It discusses many social issues from an Islamic perspective.</desc>
+  </programme>
+  <programme start="20140116180000 +0000" stop="20140116183000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">الرابعة والناس</title>
+    <title lang="en">Arrabea'ah Wa Annas</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Social program presents some issues that concern people and it seeks to find some solutions of the problems that viewers suffer from.</desc>
+  </programme>
+  <programme start="20140116183000 +0000" stop="20140116210000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">الرابعة والناس</title>
+    <title lang="en">Arrabea'ah Wa Annas</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Social program presents some issues that concern people and it seeks to find some solutions of the problems that viewers suffer from.</desc>
+  </programme>
+  <programme start="20140116210000 +0000" stop="20140116220000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140116220000 +0000" stop="20140116230000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140116230000 +0000" stop="20140117000000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140117000000 +0000" stop="20140117010000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140117010000 +0000" stop="20140117020000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140117020000 +0000" stop="20140117030000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140117030000 +0000" stop="20140117060000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140117060000 +0000" stop="20140117090000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140117090000 +0000" stop="20140117093000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">صلاة الجمعة</title>
+    <title lang="en">Ssalat Al Joma'ah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Religious period telecasts Friday prayers. It also shows some readings from Quran, prayers and supplications every Friday.</desc>
+  </programme>
+  <programme start="20140117093000 +0000" stop="20140117100000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">صلاة الجمعة</title>
+    <title lang="en">Ssalat Al Joma'ah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Religious period telecasts Friday prayers. It also shows some readings from Quran, prayers and supplications every Friday.</desc>
+  </programme>
+  <programme start="20140117100000 +0000" stop="20140117103000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140117103000 +0000" stop="20140117113000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140117113000 +0000" stop="20140117123000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140117123000 +0000" stop="20140117133000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140117133000 +0000" stop="20140117143000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140117143000 +0000" stop="20140117153000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140117153000 +0000" stop="20140117163000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140117163000 +0000" stop="20140117170000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">إف إم</title>
+    <title lang="en">FM</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The musical program displays a variety of songs accompanied with shots from Ajman.</desc>
+  </programme>
+  <programme start="20140117170000 +0000" stop="20140117180000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">سوالف رياضية</title>
+    <title lang="en">Sawalef Riyaddeyah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">News bulletin presents the latest local and global sport news.</desc>
+  </programme>
+  <programme start="20140117180000 +0000" stop="20140117183000 +0000" vps-start="19700101000000 19700101000000" channel="7960">
+    <title lang="ar">سوالف رياضية</title>
+    <title lang="en">Sawalef Riyaddeyah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">News bulletin presents the latest local and global sport news.</desc>
+  </programme>
+</tv>

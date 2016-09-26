@@ -1,0 +1,1293 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd"[]>
+<tv generator-info-name="ShooFeeTV listings">
+  <Range>
+    <Start>20140111183000</Start>
+    <End>20140117183000</End>
+  </Range>
+  <channel id="9720">
+    <display-name lang="ar">أبو ظبي دراما</display-name>
+    <display-name lang="en">ME Abu Dhabi Drama</display-name>
+  </channel>
+  <programme start="20140111183000 +0000" stop="20140111191500 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">زي الورد</title>
+    <title lang="en">Zay Al Ward</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama narrates the story of Ali, who gets injustice arrested and imprisoned.
+When he finishes his sentence, he finds his girlfriend married.</desc>
+  </programme>
+  <programme start="20140111191500 +0000" stop="20140111194000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">زي الورد</title>
+    <title lang="en">Zay Al Ward</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama narrates the story of Ali, who gets injustice arrested and imprisoned.
+When he finishes his sentence, he finds his girlfriend married.</desc>
+  </programme>
+  <programme start="20140111194000 +0000" stop="20140111200000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">امرأة من فولاذ</title>
+    <title lang="en">Emra'ah Men Foulath</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Valanteena whose boy friend betrays her, which makes her hate all men.
+Valanteena's life turns upside down when she meets Khosseh.</desc>
+  </programme>
+  <programme start="20140111200000 +0000" stop="20140111210000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">زي الورد</title>
+    <title lang="en">Zay Al Ward</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama narrates the story of Ali, who gets injustice arrested and imprisoned.
+When he finishes his sentence, he finds his girlfriend married.</desc>
+  </programme>
+  <programme start="20140111210000 +0000" stop="20140111220000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">امرأة من فولاذ</title>
+    <title lang="en">Emra'ah Men Foulath</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Valanteena whose boy friend betrays her, which makes her hate all men.
+Valanteena's life turns upside down when she meets Khosseh.</desc>
+  </programme>
+  <programme start="20140111220000 +0000" stop="20140111224600 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">ممرات ضيقة</title>
+    <title lang="en">Mamarrat Ddayeqah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around the problems of women prisoners, in terms of unjust social perception and oppression, by narrating the stories of three prisoners.</desc>
+    <credits>
+      <actor>A'abbas Annouri</actor>
+      <actor>Kareis Bashar</actor>
+      <actor>Makseem Khaleel</actor>
+    </credits>
+  </programme>
+  <programme start="20140111224600 +0000" stop="20140111233200 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">ممرات ضيقة</title>
+    <title lang="en">Mamarrat Ddayeqah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around the problems of women prisoners, in terms of unjust social perception and oppression, by narrating the stories of three prisoners.</desc>
+    <credits>
+      <actor>A'abbas Annouri</actor>
+      <actor>Kareis Bashar</actor>
+      <actor>Makseem Khaleel</actor>
+    </credits>
+  </programme>
+  <programme start="20140111233200 +0000" stop="20140112001800 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">ممرات ضيقة</title>
+    <title lang="en">Mamarrat Ddayeqah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around the problems of women prisoners, in terms of unjust social perception and oppression, by narrating the stories of three prisoners.</desc>
+    <credits>
+      <actor>A'abbas Annouri</actor>
+      <actor>Kareis Bashar</actor>
+      <actor>Makseem Khaleel</actor>
+    </credits>
+  </programme>
+  <programme start="20140112001800 +0000" stop="20140112010400 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">ممرات ضيقة</title>
+    <title lang="en">Mamarrat Ddayeqah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around the problems of women prisoners, in terms of unjust social perception and oppression, by narrating the stories of three prisoners.</desc>
+    <credits>
+      <actor>A'abbas Annouri</actor>
+      <actor>Kareis Bashar</actor>
+      <actor>Makseem Khaleel</actor>
+    </credits>
+  </programme>
+  <programme start="20140112010400 +0000" stop="20140112020000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">ممرات ضيقة</title>
+    <title lang="en">Mamarrat Ddayeqah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around the problems of women prisoners, in terms of unjust social perception and oppression, by narrating the stories of three prisoners.</desc>
+    <credits>
+      <actor>A'abbas Annouri</actor>
+      <actor>Kareis Bashar</actor>
+      <actor>Makseem Khaleel</actor>
+    </credits>
+  </programme>
+  <programme start="20140112020000 +0000" stop="20140112030000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">أم البنات</title>
+    <title lang="en">Um Al Banat</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A man gives up his daughters, and refuses their education and spending on them or even achieves their most basic rights. Her wife brought up the mission; she educates them and teaches them how to face</desc>
+  </programme>
+  <programme start="20140112030000 +0000" stop="20140112040000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">ما نتفق</title>
+    <title lang="en">Ma Netafeq</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series narrates the story of Khaled and Mera who love each other, although they always keep fighting and arguing.</desc>
+  </programme>
+  <programme start="20140112040000 +0000" stop="20140112050000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">زي الورد</title>
+    <title lang="en">Zay Al Ward</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama narrates the story of Ali, who gets injustice arrested and imprisoned.
+When he finishes his sentence, he finds his girlfriend married.</desc>
+  </programme>
+  <programme start="20140112050000 +0000" stop="20140112060000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">انتصار الحب</title>
+    <title lang="en">Entesar Al Hob</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama tells the story of Maria, who grows up in an orphanage and becomes a model.
+She falls in love with Maximiliano, but Victoria stands in their love's way without knowing that she is her daughter.</desc>
+  </programme>
+  <programme start="20140112060000 +0000" stop="20140112070000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">امرأة من فولاذ</title>
+    <title lang="en">Emra'ah Men Foulath</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Valanteena whose boy friend betrays her, which makes her hate all men.
+Valanteena's life turns upside down when she meets Khosseh.</desc>
+  </programme>
+  <programme start="20140112070000 +0000" stop="20140112080000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">ممرات ضيقة</title>
+    <title lang="en">Mamarrat Ddayeqah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around the problems of women prisoners, in terms of unjust social perception and oppression, by narrating the stories of three prisoners.</desc>
+    <credits>
+      <actor>A'abbas Annouri</actor>
+      <actor>Kareis Bashar</actor>
+      <actor>Makseem Khaleel</actor>
+    </credits>
+  </programme>
+  <programme start="20140112080000 +0000" stop="20140112090000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">أم البنات</title>
+    <title lang="en">Um Al Banat</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A man gives up his daughters, and refuses their education and spending on them or even achieves their most basic rights. Her wife brought up the mission; she educates them and teaches them how to face</desc>
+  </programme>
+  <programme start="20140112090000 +0000" stop="20140112100000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">ما نتفق</title>
+    <title lang="en">Ma Netafeq</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series narrates the story of Khaled and Mera who love each other, although they always keep fighting and arguing.</desc>
+  </programme>
+  <programme start="20140112100000 +0000" stop="20140112110000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">زي الورد</title>
+    <title lang="en">Zay Al Ward</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama narrates the story of Ali, who gets injustice arrested and imprisoned.
+When he finishes his sentence, he finds his girlfriend married.</desc>
+  </programme>
+  <programme start="20140112110000 +0000" stop="20140112120000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">امرأة من فولاذ</title>
+    <title lang="en">Emra'ah Men Foulath</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Valanteena whose boy friend betrays her, which makes her hate all men.
+Valanteena's life turns upside down when she meets Khosseh.</desc>
+  </programme>
+  <programme start="20140112120000 +0000" stop="20140112130000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">انتصار الحب</title>
+    <title lang="en">Entesar Al Hob</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama tells the story of Maria, who grows up in an orphanage and becomes a model.
+She falls in love with Maximiliano, but Victoria stands in their love's way without knowing that she is her daughter.</desc>
+  </programme>
+  <programme start="20140112130000 +0000" stop="20140112140000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">ممرات ضيقة</title>
+    <title lang="en">Mamarrat Ddayeqah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around the problems of women prisoners, in terms of unjust social perception and oppression, by narrating the stories of three prisoners.</desc>
+    <credits>
+      <actor>A'abbas Annouri</actor>
+      <actor>Kareis Bashar</actor>
+      <actor>Makseem Khaleel</actor>
+    </credits>
+  </programme>
+  <programme start="20140112140000 +0000" stop="20140112150000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">أم البنات</title>
+    <title lang="en">Um Al Banat</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A man gives up his daughters, and refuses their education and spending on them or even achieves their most basic rights. Her wife brought up the mission; she educates them and teaches them how to face</desc>
+  </programme>
+  <programme start="20140112150000 +0000" stop="20140112160000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">ما نتفق</title>
+    <title lang="en">Ma Netafeq</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series narrates the story of Khaled and Mera who love each other, although they always keep fighting and arguing.</desc>
+  </programme>
+  <programme start="20140112160000 +0000" stop="20140112170000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">امرأة من فولاذ</title>
+    <title lang="en">Emra'ah Men Foulath</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Valanteena whose boy friend betrays her, which makes her hate all men.
+Valanteena's life turns upside down when she meets Khosseh.</desc>
+  </programme>
+  <programme start="20140112170000 +0000" stop="20140112180000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">زي الورد</title>
+    <title lang="en">Zay Al Ward</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama narrates the story of Ali, who gets injustice arrested and imprisoned.
+When he finishes his sentence, he finds his girlfriend married.</desc>
+  </programme>
+  <programme start="20140112180000 +0000" stop="20140112183000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">انتصار الحب</title>
+    <title lang="en">Entesar Al Hob</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama tells the story of Maria, who grows up in an orphanage and becomes a model.
+She falls in love with Maximiliano, but Victoria stands in their love's way without knowing that she is her daughter.</desc>
+  </programme>
+  <programme start="20140112183000 +0000" stop="20140112190000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">انتصار الحب</title>
+    <title lang="en">Entesar Al Hob</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama tells the story of Maria, who grows up in an orphanage and becomes a model.
+She falls in love with Maximiliano, but Victoria stands in their love's way without knowing that she is her daughter.</desc>
+  </programme>
+  <programme start="20140112190000 +0000" stop="20140112200000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">ممرات ضيقة</title>
+    <title lang="en">Mamarrat Ddayeqah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around the problems of women prisoners, in terms of unjust social perception and oppression, by narrating the stories of three prisoners.</desc>
+    <credits>
+      <actor>A'abbas Annouri</actor>
+      <actor>Kareis Bashar</actor>
+      <actor>Makseem Khaleel</actor>
+    </credits>
+  </programme>
+  <programme start="20140112200000 +0000" stop="20140112210000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">أم البنات</title>
+    <title lang="en">Um Al Banat</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A man gives up his daughters, and refuses their education and spending on them or even achieves their most basic rights. Her wife brought up the mission; she educates them and teaches them how to face</desc>
+  </programme>
+  <programme start="20140112210000 +0000" stop="20140112220000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">امرأة من فولاذ</title>
+    <title lang="en">Emra'ah Men Foulath</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Valanteena whose boy friend betrays her, which makes her hate all men.
+Valanteena's life turns upside down when she meets Khosseh.</desc>
+  </programme>
+  <programme start="20140112220000 +0000" stop="20140112230000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">ما نتفق</title>
+    <title lang="en">Ma Netafeq</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series narrates the story of Khaled and Mera who love each other, although they always keep fighting and arguing.</desc>
+  </programme>
+  <programme start="20140112230000 +0000" stop="20140113000000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">زي الورد</title>
+    <title lang="en">Zay Al Ward</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama narrates the story of Ali, who gets injustice arrested and imprisoned.
+When he finishes his sentence, he finds his girlfriend married.</desc>
+  </programme>
+  <programme start="20140113000000 +0000" stop="20140113010000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">انتصار الحب</title>
+    <title lang="en">Entesar Al Hob</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama tells the story of Maria, who grows up in an orphanage and becomes a model.
+She falls in love with Maximiliano, but Victoria stands in their love's way without knowing that she is her daughter.</desc>
+  </programme>
+  <programme start="20140113010000 +0000" stop="20140113020000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">ممرات ضيقة</title>
+    <title lang="en">Mamarrat Ddayeqah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around the problems of women prisoners, in terms of unjust social perception and oppression, by narrating the stories of three prisoners.</desc>
+    <credits>
+      <actor>A'abbas Annouri</actor>
+      <actor>Kareis Bashar</actor>
+      <actor>Makseem Khaleel</actor>
+    </credits>
+  </programme>
+  <programme start="20140113020000 +0000" stop="20140113030000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">أم البنات</title>
+    <title lang="en">Um Al Banat</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A man gives up his daughters, and refuses their education and spending on them or even achieves their most basic rights. Her wife brought up the mission; she educates them and teaches them how to face</desc>
+  </programme>
+  <programme start="20140113030000 +0000" stop="20140113040000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">ما نتفق</title>
+    <title lang="en">Ma Netafeq</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series narrates the story of Khaled and Mera who love each other, although they always keep fighting and arguing.</desc>
+  </programme>
+  <programme start="20140113040000 +0000" stop="20140113050000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">زي الورد</title>
+    <title lang="en">Zay Al Ward</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama narrates the story of Ali, who gets injustice arrested and imprisoned.
+When he finishes his sentence, he finds his girlfriend married.</desc>
+  </programme>
+  <programme start="20140113050000 +0000" stop="20140113060000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">انتصار الحب</title>
+    <title lang="en">Entesar Al Hob</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama tells the story of Maria, who grows up in an orphanage and becomes a model.
+She falls in love with Maximiliano, but Victoria stands in their love's way without knowing that she is her daughter.</desc>
+  </programme>
+  <programme start="20140113060000 +0000" stop="20140113070000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">امرأة من فولاذ</title>
+    <title lang="en">Emra'ah Men Foulath</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Valanteena whose boy friend betrays her, which makes her hate all men.
+Valanteena's life turns upside down when she meets Khosseh.</desc>
+  </programme>
+  <programme start="20140113070000 +0000" stop="20140113080000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">ممرات ضيقة</title>
+    <title lang="en">Mamarrat Ddayeqah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around the problems of women prisoners, in terms of unjust social perception and oppression, by narrating the stories of three prisoners.</desc>
+    <credits>
+      <actor>A'abbas Annouri</actor>
+      <actor>Kareis Bashar</actor>
+      <actor>Makseem Khaleel</actor>
+    </credits>
+  </programme>
+  <programme start="20140113080000 +0000" stop="20140113090000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">أم البنات</title>
+    <title lang="en">Um Al Banat</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A man gives up his daughters, and refuses their education and spending on them or even achieves their most basic rights. Her wife brought up the mission; she educates them and teaches them how to face</desc>
+  </programme>
+  <programme start="20140113090000 +0000" stop="20140113100000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">ما نتفق</title>
+    <title lang="en">Ma Netafeq</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series narrates the story of Khaled and Mera who love each other, although they always keep fighting and arguing.</desc>
+  </programme>
+  <programme start="20140113100000 +0000" stop="20140113110000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">زي الورد</title>
+    <title lang="en">Zay Al Ward</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama narrates the story of Ali, who gets injustice arrested and imprisoned.
+When he finishes his sentence, he finds his girlfriend married.</desc>
+  </programme>
+  <programme start="20140113110000 +0000" stop="20140113120000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">امرأة من فولاذ</title>
+    <title lang="en">Emra'ah Men Foulath</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Valanteena whose boy friend betrays her, which makes her hate all men.
+Valanteena's life turns upside down when she meets Khosseh.</desc>
+  </programme>
+  <programme start="20140113120000 +0000" stop="20140113130000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">انتصار الحب</title>
+    <title lang="en">Entesar Al Hob</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama tells the story of Maria, who grows up in an orphanage and becomes a model.
+She falls in love with Maximiliano, but Victoria stands in their love's way without knowing that she is her daughter.</desc>
+  </programme>
+  <programme start="20140113130000 +0000" stop="20140113140000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">ممرات ضيقة</title>
+    <title lang="en">Mamarrat Ddayeqah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around the problems of women prisoners, in terms of unjust social perception and oppression, by narrating the stories of three prisoners.</desc>
+    <credits>
+      <actor>A'abbas Annouri</actor>
+      <actor>Kareis Bashar</actor>
+      <actor>Makseem Khaleel</actor>
+    </credits>
+  </programme>
+  <programme start="20140113140000 +0000" stop="20140113150000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">أم البنات</title>
+    <title lang="en">Um Al Banat</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A man gives up his daughters, and refuses their education and spending on them or even achieves their most basic rights. Her wife brought up the mission; she educates them and teaches them how to face</desc>
+  </programme>
+  <programme start="20140113150000 +0000" stop="20140113160000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">ما نتفق</title>
+    <title lang="en">Ma Netafeq</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series narrates the story of Khaled and Mera who love each other, although they always keep fighting and arguing.</desc>
+  </programme>
+  <programme start="20140113160000 +0000" stop="20140113170000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">امرأة من فولاذ</title>
+    <title lang="en">Emra'ah Men Foulath</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Valanteena whose boy friend betrays her, which makes her hate all men.
+Valanteena's life turns upside down when she meets Khosseh.</desc>
+  </programme>
+  <programme start="20140113170000 +0000" stop="20140113180000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">زي الورد</title>
+    <title lang="en">Zay Al Ward</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama narrates the story of Ali, who gets injustice arrested and imprisoned.
+When he finishes his sentence, he finds his girlfriend married.</desc>
+  </programme>
+  <programme start="20140113180000 +0000" stop="20140113183000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">انتصار الحب</title>
+    <title lang="en">Entesar Al Hob</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama tells the story of Maria, who grows up in an orphanage and becomes a model.
+She falls in love with Maximiliano, but Victoria stands in their love's way without knowing that she is her daughter.</desc>
+  </programme>
+  <programme start="20140113183000 +0000" stop="20140113190000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">انتصار الحب</title>
+    <title lang="en">Entesar Al Hob</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama tells the story of Maria, who grows up in an orphanage and becomes a model.
+She falls in love with Maximiliano, but Victoria stands in their love's way without knowing that she is her daughter.</desc>
+  </programme>
+  <programme start="20140113190000 +0000" stop="20140113200000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">ممرات ضيقة</title>
+    <title lang="en">Mamarrat Ddayeqah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around the problems of women prisoners, in terms of unjust social perception and oppression, by narrating the stories of three prisoners.</desc>
+    <credits>
+      <actor>A'abbas Annouri</actor>
+      <actor>Kareis Bashar</actor>
+      <actor>Makseem Khaleel</actor>
+    </credits>
+  </programme>
+  <programme start="20140113200000 +0000" stop="20140113210000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">أم البنات</title>
+    <title lang="en">Um Al Banat</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A man gives up his daughters, and refuses their education and spending on them or even achieves their most basic rights. Her wife brought up the mission; she educates them and teaches them how to face</desc>
+  </programme>
+  <programme start="20140113210000 +0000" stop="20140113220000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">امرأة من فولاذ</title>
+    <title lang="en">Emra'ah Men Foulath</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Valanteena whose boy friend betrays her, which makes her hate all men.
+Valanteena's life turns upside down when she meets Khosseh.</desc>
+  </programme>
+  <programme start="20140113220000 +0000" stop="20140113230000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">ما نتفق</title>
+    <title lang="en">Ma Netafeq</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series narrates the story of Khaled and Mera who love each other, although they always keep fighting and arguing.</desc>
+  </programme>
+  <programme start="20140113230000 +0000" stop="20140114000000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">زي الورد</title>
+    <title lang="en">Zay Al Ward</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama narrates the story of Ali, who gets injustice arrested and imprisoned.
+When he finishes his sentence, he finds his girlfriend married.</desc>
+  </programme>
+  <programme start="20140114000000 +0000" stop="20140114010000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">انتصار الحب</title>
+    <title lang="en">Entesar Al Hob</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama tells the story of Maria, who grows up in an orphanage and becomes a model.
+She falls in love with Maximiliano, but Victoria stands in their love's way without knowing that she is her daughter.</desc>
+  </programme>
+  <programme start="20140114010000 +0000" stop="20140114020000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">ممرات ضيقة</title>
+    <title lang="en">Mamarrat Ddayeqah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around the problems of women prisoners, in terms of unjust social perception and oppression, by narrating the stories of three prisoners.</desc>
+    <credits>
+      <actor>A'abbas Annouri</actor>
+      <actor>Kareis Bashar</actor>
+      <actor>Makseem Khaleel</actor>
+    </credits>
+  </programme>
+  <programme start="20140114020000 +0000" stop="20140114030000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">أم البنات</title>
+    <title lang="en">Um Al Banat</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A man gives up his daughters, and refuses their education and spending on them or even achieves their most basic rights. Her wife brought up the mission; she educates them and teaches them how to face</desc>
+  </programme>
+  <programme start="20140114030000 +0000" stop="20140114040000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">ما نتفق</title>
+    <title lang="en">Ma Netafeq</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series narrates the story of Khaled and Mera who love each other, although they always keep fighting and arguing.</desc>
+  </programme>
+  <programme start="20140114040000 +0000" stop="20140114050000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">زي الورد</title>
+    <title lang="en">Zay Al Ward</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama narrates the story of Ali, who gets injustice arrested and imprisoned.
+When he finishes his sentence, he finds his girlfriend married.</desc>
+  </programme>
+  <programme start="20140114050000 +0000" stop="20140114060000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">انتصار الحب</title>
+    <title lang="en">Entesar Al Hob</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama tells the story of Maria, who grows up in an orphanage and becomes a model.
+She falls in love with Maximiliano, but Victoria stands in their love's way without knowing that she is her daughter.</desc>
+  </programme>
+  <programme start="20140114060000 +0000" stop="20140114070000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">امرأة من فولاذ</title>
+    <title lang="en">Emra'ah Men Foulath</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Valanteena whose boy friend betrays her, which makes her hate all men.
+Valanteena's life turns upside down when she meets Khosseh.</desc>
+  </programme>
+  <programme start="20140114070000 +0000" stop="20140114080000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">ممرات ضيقة</title>
+    <title lang="en">Mamarrat Ddayeqah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around the problems of women prisoners, in terms of unjust social perception and oppression, by narrating the stories of three prisoners.</desc>
+    <credits>
+      <actor>A'abbas Annouri</actor>
+      <actor>Kareis Bashar</actor>
+      <actor>Makseem Khaleel</actor>
+    </credits>
+  </programme>
+  <programme start="20140114080000 +0000" stop="20140114090000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">أم البنات</title>
+    <title lang="en">Um Al Banat</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A man gives up his daughters, and refuses their education and spending on them or even achieves their most basic rights. Her wife brought up the mission; she educates them and teaches them how to face</desc>
+  </programme>
+  <programme start="20140114090000 +0000" stop="20140114100000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">ما نتفق</title>
+    <title lang="en">Ma Netafeq</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series narrates the story of Khaled and Mera who love each other, although they always keep fighting and arguing.</desc>
+  </programme>
+  <programme start="20140114100000 +0000" stop="20140114110000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">زي الورد</title>
+    <title lang="en">Zay Al Ward</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama narrates the story of Ali, who gets injustice arrested and imprisoned.
+When he finishes his sentence, he finds his girlfriend married.</desc>
+  </programme>
+  <programme start="20140114110000 +0000" stop="20140114120000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">امرأة من فولاذ</title>
+    <title lang="en">Emra'ah Men Foulath</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Valanteena whose boy friend betrays her, which makes her hate all men.
+Valanteena's life turns upside down when she meets Khosseh.</desc>
+  </programme>
+  <programme start="20140114120000 +0000" stop="20140114130000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">انتصار الحب</title>
+    <title lang="en">Entesar Al Hob</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama tells the story of Maria, who grows up in an orphanage and becomes a model.
+She falls in love with Maximiliano, but Victoria stands in their love's way without knowing that she is her daughter.</desc>
+  </programme>
+  <programme start="20140114130000 +0000" stop="20140114140000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">وصمة عار</title>
+    <title lang="en">Wasmet A'ar</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama highlights the struggle between good and evil, through the story of a lawyer who receives many rumors that affect his reputation.</desc>
+  </programme>
+  <programme start="20140114140000 +0000" stop="20140114150000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">دمعة يتيم</title>
+    <title lang="en">Dam'at Yateem</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This social drama sheds light on the issue of greed through the story of an orphan, who is deprived of his rights and faces extortion from an evil woman named Modi.</desc>
+  </programme>
+  <programme start="20140114150000 +0000" stop="20140114160000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">ما نتفق</title>
+    <title lang="en">Ma Netafeq</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series narrates the story of Khaled and Mera who love each other, although they always keep fighting and arguing.</desc>
+  </programme>
+  <programme start="20140114160000 +0000" stop="20140114170000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">امرأة من فولاذ</title>
+    <title lang="en">Emra'ah Men Foulath</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Valanteena whose boy friend betrays her, which makes her hate all men.
+Valanteena's life turns upside down when she meets Khosseh.</desc>
+  </programme>
+  <programme start="20140114170000 +0000" stop="20140114180000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">زي الورد</title>
+    <title lang="en">Zay Al Ward</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama narrates the story of Ali, who gets injustice arrested and imprisoned.
+When he finishes his sentence, he finds his girlfriend married.</desc>
+  </programme>
+  <programme start="20140114180000 +0000" stop="20140114183000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">انتصار الحب</title>
+    <title lang="en">Entesar Al Hob</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama tells the story of Maria, who grows up in an orphanage and becomes a model.
+She falls in love with Maximiliano, but Victoria stands in their love's way without knowing that she is her daughter.</desc>
+  </programme>
+  <programme start="20140114183000 +0000" stop="20140114190000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">انتصار الحب</title>
+    <title lang="en">Entesar Al Hob</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama tells the story of Maria, who grows up in an orphanage and becomes a model.
+She falls in love with Maximiliano, but Victoria stands in their love's way without knowing that she is her daughter.</desc>
+  </programme>
+  <programme start="20140114190000 +0000" stop="20140114200000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">وصمة عار</title>
+    <title lang="en">Wasmet A'ar</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama highlights the struggle between good and evil, through the story of a lawyer who receives many rumors that affect his reputation.</desc>
+  </programme>
+  <programme start="20140114200000 +0000" stop="20140114210000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">دمعة يتيم</title>
+    <title lang="en">Dam'at Yateem</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This social drama sheds light on the issue of greed through the story of an orphan, who is deprived of his rights and faces extortion from an evil woman named Modi.</desc>
+  </programme>
+  <programme start="20140114210000 +0000" stop="20140114220000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">امرأة من فولاذ</title>
+    <title lang="en">Emra'ah Men Foulath</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Valanteena whose boy friend betrays her, which makes her hate all men.
+Valanteena's life turns upside down when she meets Khosseh.</desc>
+  </programme>
+  <programme start="20140114220000 +0000" stop="20140114230000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">ما نتفق</title>
+    <title lang="en">Ma Netafeq</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series narrates the story of Khaled and Mera who love each other, although they always keep fighting and arguing.</desc>
+  </programme>
+  <programme start="20140114230000 +0000" stop="20140115000000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">زي الورد</title>
+    <title lang="en">Zay Al Ward</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama narrates the story of Ali, who gets injustice arrested and imprisoned.
+When he finishes his sentence, he finds his girlfriend married.</desc>
+  </programme>
+  <programme start="20140115000000 +0000" stop="20140115010000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">انتصار الحب</title>
+    <title lang="en">Entesar Al Hob</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama tells the story of Maria, who grows up in an orphanage and becomes a model.
+She falls in love with Maximiliano, but Victoria stands in their love's way without knowing that she is her daughter.</desc>
+  </programme>
+  <programme start="20140115010000 +0000" stop="20140115020000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">وصمة عار</title>
+    <title lang="en">Wasmet A'ar</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama highlights the struggle between good and evil, through the story of a lawyer who receives many rumors that affect his reputation.</desc>
+  </programme>
+  <programme start="20140115020000 +0000" stop="20140115030000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">دمعة يتيم</title>
+    <title lang="en">Dam'at Yateem</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This social drama sheds light on the issue of greed through the story of an orphan, who is deprived of his rights and faces extortion from an evil woman named Modi.</desc>
+  </programme>
+  <programme start="20140115030000 +0000" stop="20140115040000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">ما نتفق</title>
+    <title lang="en">Ma Netafeq</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series narrates the story of Khaled and Mera who love each other, although they always keep fighting and arguing.</desc>
+  </programme>
+  <programme start="20140115040000 +0000" stop="20140115050000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">زي الورد</title>
+    <title lang="en">Zay Al Ward</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama narrates the story of Ali, who gets injustice arrested and imprisoned.
+When he finishes his sentence, he finds his girlfriend married.</desc>
+  </programme>
+  <programme start="20140115050000 +0000" stop="20140115060000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">انتصار الحب</title>
+    <title lang="en">Entesar Al Hob</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama tells the story of Maria, who grows up in an orphanage and becomes a model.
+She falls in love with Maximiliano, but Victoria stands in their love's way without knowing that she is her daughter.</desc>
+  </programme>
+  <programme start="20140115060000 +0000" stop="20140115070000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">امرأة من فولاذ</title>
+    <title lang="en">Emra'ah Men Foulath</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Valanteena whose boy friend betrays her, which makes her hate all men.
+Valanteena's life turns upside down when she meets Khosseh.</desc>
+  </programme>
+  <programme start="20140115070000 +0000" stop="20140115080000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">وصمة عار</title>
+    <title lang="en">Wasmet A'ar</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama highlights the struggle between good and evil, through the story of a lawyer who receives many rumors that affect his reputation.</desc>
+  </programme>
+  <programme start="20140115080000 +0000" stop="20140115090000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">دمعة يتيم</title>
+    <title lang="en">Dam'at Yateem</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This social drama sheds light on the issue of greed through the story of an orphan, who is deprived of his rights and faces extortion from an evil woman named Modi.</desc>
+  </programme>
+  <programme start="20140115090000 +0000" stop="20140115100000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">ما نتفق</title>
+    <title lang="en">Ma Netafeq</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series narrates the story of Khaled and Mera who love each other, although they always keep fighting and arguing.</desc>
+  </programme>
+  <programme start="20140115100000 +0000" stop="20140115110000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">زي الورد</title>
+    <title lang="en">Zay Al Ward</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama narrates the story of Ali, who gets injustice arrested and imprisoned.
+When he finishes his sentence, he finds his girlfriend married.</desc>
+  </programme>
+  <programme start="20140115110000 +0000" stop="20140115120000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">امرأة من فولاذ</title>
+    <title lang="en">Emra'ah Men Foulath</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Valanteena whose boy friend betrays her, which makes her hate all men.
+Valanteena's life turns upside down when she meets Khosseh.</desc>
+  </programme>
+  <programme start="20140115120000 +0000" stop="20140115130000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">انتصار الحب</title>
+    <title lang="en">Entesar Al Hob</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama tells the story of Maria, who grows up in an orphanage and becomes a model.
+She falls in love with Maximiliano, but Victoria stands in their love's way without knowing that she is her daughter.</desc>
+  </programme>
+  <programme start="20140115130000 +0000" stop="20140115140000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">وصمة عار</title>
+    <title lang="en">Wasmet A'ar</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama highlights the struggle between good and evil, through the story of a lawyer who receives many rumors that affect his reputation.</desc>
+  </programme>
+  <programme start="20140115140000 +0000" stop="20140115150000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">دمعة يتيم</title>
+    <title lang="en">Dam'at Yateem</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This social drama sheds light on the issue of greed through the story of an orphan, who is deprived of his rights and faces extortion from an evil woman named Modi.</desc>
+  </programme>
+  <programme start="20140115150000 +0000" stop="20140115160000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">ما نتفق</title>
+    <title lang="en">Ma Netafeq</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series narrates the story of Khaled and Mera who love each other, although they always keep fighting and arguing.</desc>
+  </programme>
+  <programme start="20140115160000 +0000" stop="20140115170000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">امرأة من فولاذ</title>
+    <title lang="en">Emra'ah Men Foulath</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Valanteena whose boy friend betrays her, which makes her hate all men.
+Valanteena's life turns upside down when she meets Khosseh.</desc>
+  </programme>
+  <programme start="20140115170000 +0000" stop="20140115180000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">زي الورد</title>
+    <title lang="en">Zay Al Ward</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama narrates the story of Ali, who gets injustice arrested and imprisoned.
+When he finishes his sentence, he finds his girlfriend married.</desc>
+  </programme>
+  <programme start="20140115180000 +0000" stop="20140115183000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">انتصار الحب</title>
+    <title lang="en">Entesar Al Hob</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama tells the story of Maria, who grows up in an orphanage and becomes a model.
+She falls in love with Maximiliano, but Victoria stands in their love's way without knowing that she is her daughter.</desc>
+  </programme>
+  <programme start="20140115183000 +0000" stop="20140115190000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">انتصار الحب</title>
+    <title lang="en">Entesar Al Hob</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama tells the story of Maria, who grows up in an orphanage and becomes a model.
+She falls in love with Maximiliano, but Victoria stands in their love's way without knowing that she is her daughter.</desc>
+  </programme>
+  <programme start="20140115190000 +0000" stop="20140115200000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">وصمة عار</title>
+    <title lang="en">Wasmet A'ar</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama highlights the struggle between good and evil, through the story of a lawyer who receives many rumors that affect his reputation.</desc>
+  </programme>
+  <programme start="20140115200000 +0000" stop="20140115210000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">دمعة يتيم</title>
+    <title lang="en">Dam'at Yateem</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This social drama sheds light on the issue of greed through the story of an orphan, who is deprived of his rights and faces extortion from an evil woman named Modi.</desc>
+  </programme>
+  <programme start="20140115210000 +0000" stop="20140115220000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">امرأة من فولاذ</title>
+    <title lang="en">Emra'ah Men Foulath</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Valanteena whose boy friend betrays her, which makes her hate all men.
+Valanteena's life turns upside down when she meets Khosseh.</desc>
+  </programme>
+  <programme start="20140115220000 +0000" stop="20140115230000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">ما نتفق</title>
+    <title lang="en">Ma Netafeq</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series narrates the story of Khaled and Mera who love each other, although they always keep fighting and arguing.</desc>
+  </programme>
+  <programme start="20140115230000 +0000" stop="20140116000000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">زي الورد</title>
+    <title lang="en">Zay Al Ward</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama narrates the story of Ali, who gets injustice arrested and imprisoned.
+When he finishes his sentence, he finds his girlfriend married.</desc>
+  </programme>
+  <programme start="20140116000000 +0000" stop="20140116010000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">انتصار الحب</title>
+    <title lang="en">Entesar Al Hob</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama tells the story of Maria, who grows up in an orphanage and becomes a model.
+She falls in love with Maximiliano, but Victoria stands in their love's way without knowing that she is her daughter.</desc>
+  </programme>
+  <programme start="20140116010000 +0000" stop="20140116020000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">وصمة عار</title>
+    <title lang="en">Wasmet A'ar</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama highlights the struggle between good and evil, through the story of a lawyer who receives many rumors that affect his reputation.</desc>
+  </programme>
+  <programme start="20140116020000 +0000" stop="20140116030000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">دمعة يتيم</title>
+    <title lang="en">Dam'at Yateem</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This social drama sheds light on the issue of greed through the story of an orphan, who is deprived of his rights and faces extortion from an evil woman named Modi.</desc>
+  </programme>
+  <programme start="20140116030000 +0000" stop="20140116040000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">ما نتفق</title>
+    <title lang="en">Ma Netafeq</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series narrates the story of Khaled and Mera who love each other, although they always keep fighting and arguing.</desc>
+  </programme>
+  <programme start="20140116040000 +0000" stop="20140116050000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">زي الورد</title>
+    <title lang="en">Zay Al Ward</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama narrates the story of Ali, who gets injustice arrested and imprisoned.
+When he finishes his sentence, he finds his girlfriend married.</desc>
+  </programme>
+  <programme start="20140116050000 +0000" stop="20140116060000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">انتصار الحب</title>
+    <title lang="en">Entesar Al Hob</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama tells the story of Maria, who grows up in an orphanage and becomes a model.
+She falls in love with Maximiliano, but Victoria stands in their love's way without knowing that she is her daughter.</desc>
+  </programme>
+  <programme start="20140116060000 +0000" stop="20140116070000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">امرأة من فولاذ</title>
+    <title lang="en">Emra'ah Men Foulath</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Valanteena whose boy friend betrays her, which makes her hate all men.
+Valanteena's life turns upside down when she meets Khosseh.</desc>
+  </programme>
+  <programme start="20140116070000 +0000" stop="20140116080000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">وصمة عار</title>
+    <title lang="en">Wasmet A'ar</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama highlights the struggle between good and evil, through the story of a lawyer who receives many rumors that affect his reputation.</desc>
+  </programme>
+  <programme start="20140116080000 +0000" stop="20140116090000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">دمعة يتيم</title>
+    <title lang="en">Dam'at Yateem</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This social drama sheds light on the issue of greed through the story of an orphan, who is deprived of his rights and faces extortion from an evil woman named Modi.</desc>
+  </programme>
+  <programme start="20140116090000 +0000" stop="20140116100000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">ما نتفق</title>
+    <title lang="en">Ma Netafeq</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series narrates the story of Khaled and Mera who love each other, although they always keep fighting and arguing.</desc>
+  </programme>
+  <programme start="20140116100000 +0000" stop="20140116110000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">زي الورد</title>
+    <title lang="en">Zay Al Ward</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama narrates the story of Ali, who gets injustice arrested and imprisoned.
+When he finishes his sentence, he finds his girlfriend married.</desc>
+  </programme>
+  <programme start="20140116110000 +0000" stop="20140116120000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">امرأة من فولاذ</title>
+    <title lang="en">Emra'ah Men Foulath</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Valanteena whose boy friend betrays her, which makes her hate all men.
+Valanteena's life turns upside down when she meets Khosseh.</desc>
+  </programme>
+  <programme start="20140116120000 +0000" stop="20140116130000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">انتصار الحب</title>
+    <title lang="en">Entesar Al Hob</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama tells the story of Maria, who grows up in an orphanage and becomes a model.
+She falls in love with Maximiliano, but Victoria stands in their love's way without knowing that she is her daughter.</desc>
+  </programme>
+  <programme start="20140116130000 +0000" stop="20140116140000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">وصمة عار</title>
+    <title lang="en">Wasmet A'ar</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama highlights the struggle between good and evil, through the story of a lawyer who receives many rumors that affect his reputation.</desc>
+  </programme>
+  <programme start="20140116140000 +0000" stop="20140116150000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">دمعة يتيم</title>
+    <title lang="en">Dam'at Yateem</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This social drama sheds light on the issue of greed through the story of an orphan, who is deprived of his rights and faces extortion from an evil woman named Modi.</desc>
+  </programme>
+  <programme start="20140116150000 +0000" stop="20140116160000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">ما نتفق</title>
+    <title lang="en">Ma Netafeq</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series narrates the story of Khaled and Mera who love each other, although they always keep fighting and arguing.</desc>
+  </programme>
+  <programme start="20140116160000 +0000" stop="20140116170000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">امرأة من فولاذ</title>
+    <title lang="en">Emra'ah Men Foulath</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Valanteena whose boy friend betrays her, which makes her hate all men.
+Valanteena's life turns upside down when she meets Khosseh.</desc>
+  </programme>
+  <programme start="20140116170000 +0000" stop="20140116180000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">زي الورد</title>
+    <title lang="en">Zay Al Ward</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama narrates the story of Ali, who gets injustice arrested and imprisoned.
+When he finishes his sentence, he finds his girlfriend married.</desc>
+  </programme>
+  <programme start="20140116180000 +0000" stop="20140116183000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">انتصار الحب</title>
+    <title lang="en">Entesar Al Hob</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama tells the story of Maria, who grows up in an orphanage and becomes a model.
+She falls in love with Maximiliano, but Victoria stands in their love's way without knowing that she is her daughter.</desc>
+  </programme>
+  <programme start="20140116183000 +0000" stop="20140116190000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">انتصار الحب</title>
+    <title lang="en">Entesar Al Hob</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama tells the story of Maria, who grows up in an orphanage and becomes a model.
+She falls in love with Maximiliano, but Victoria stands in their love's way without knowing that she is her daughter.</desc>
+  </programme>
+  <programme start="20140116190000 +0000" stop="20140116210000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">ممرات ضيقة</title>
+    <title lang="en">Mamarrat Ddayeqah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around the problems of women prisoners, in terms of unjust social perception and oppression, by narrating the stories of three prisoners.</desc>
+    <credits>
+      <actor>A'abbas Annouri</actor>
+      <actor>Kareis Bashar</actor>
+      <actor>Makseem Khaleel</actor>
+    </credits>
+  </programme>
+  <programme start="20140116210000 +0000" stop="20140116220000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">امرأة من فولاذ</title>
+    <title lang="en">Emra'ah Men Foulath</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Valanteena whose boy friend betrays her, which makes her hate all men.
+Valanteena's life turns upside down when she meets Khosseh.</desc>
+  </programme>
+  <programme start="20140116220000 +0000" stop="20140116230000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">ما نتفق</title>
+    <title lang="en">Ma Netafeq</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series narrates the story of Khaled and Mera who love each other, although they always keep fighting and arguing.</desc>
+  </programme>
+  <programme start="20140116230000 +0000" stop="20140117000000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">زي الورد</title>
+    <title lang="en">Zay Al Ward</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama narrates the story of Ali, who gets injustice arrested and imprisoned.
+When he finishes his sentence, he finds his girlfriend married.</desc>
+  </programme>
+  <programme start="20140117000000 +0000" stop="20140117010000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">انتصار الحب</title>
+    <title lang="en">Entesar Al Hob</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama tells the story of Maria, who grows up in an orphanage and becomes a model.
+She falls in love with Maximiliano, but Victoria stands in their love's way without knowing that she is her daughter.</desc>
+  </programme>
+  <programme start="20140117010000 +0000" stop="20140117020000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">ممرات ضيقة</title>
+    <title lang="en">Mamarrat Ddayeqah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around the problems of women prisoners, in terms of unjust social perception and oppression, by narrating the stories of three prisoners.</desc>
+    <credits>
+      <actor>A'abbas Annouri</actor>
+      <actor>Kareis Bashar</actor>
+      <actor>Makseem Khaleel</actor>
+    </credits>
+  </programme>
+  <programme start="20140117020000 +0000" stop="20140117024300 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">أم البنات</title>
+    <title lang="en">Um Al Banat</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A man gives up his daughters, and refuses their education and spending on them or even achieves their most basic rights. Her wife brought up the mission; she educates them and teaches them how to face</desc>
+  </programme>
+  <programme start="20140117024300 +0000" stop="20140117032600 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">أم البنات</title>
+    <title lang="en">Um Al Banat</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A man gives up his daughters, and refuses their education and spending on them or even achieves their most basic rights. Her wife brought up the mission; she educates them and teaches them how to face</desc>
+  </programme>
+  <programme start="20140117032600 +0000" stop="20140117040800 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">أم البنات</title>
+    <title lang="en">Um Al Banat</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A man gives up his daughters, and refuses their education and spending on them or even achieves their most basic rights. Her wife brought up the mission; she educates them and teaches them how to face</desc>
+  </programme>
+  <programme start="20140117040800 +0000" stop="20140117050000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">أم البنات</title>
+    <title lang="en">Um Al Banat</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A man gives up his daughters, and refuses their education and spending on them or even achieves their most basic rights. Her wife brought up the mission; she educates them and teaches them how to face</desc>
+  </programme>
+  <programme start="20140117050000 +0000" stop="20140117060000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">أم البنات</title>
+    <title lang="en">Um Al Banat</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A man gives up his daughters, and refuses their education and spending on them or even achieves their most basic rights. Her wife brought up the mission; she educates them and teaches them how to face</desc>
+  </programme>
+  <programme start="20140117060000 +0000" stop="20140117070000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">امرأة من فولاذ</title>
+    <title lang="en">Emra'ah Men Foulath</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Valanteena whose boy friend betrays her, which makes her hate all men.
+Valanteena's life turns upside down when she meets Khosseh.</desc>
+  </programme>
+  <programme start="20140117070000 +0000" stop="20140117074500 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">صمت البوح</title>
+    <title lang="en">Samt Al Bouh</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+    <credits>
+      <actor>Nashwa Mossttafa</actor>
+    </credits>
+  </programme>
+  <programme start="20140117074500 +0000" stop="20140117083000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">صمت البوح</title>
+    <title lang="en">Samt Al Bouh</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+    <credits>
+      <actor>Nashwa Mossttafa</actor>
+    </credits>
+  </programme>
+  <programme start="20140117083000 +0000" stop="20140117091500 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">صمت البوح</title>
+    <title lang="en">Samt Al Bouh</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+    <credits>
+      <actor>Nashwa Mossttafa</actor>
+    </credits>
+  </programme>
+  <programme start="20140117091500 +0000" stop="20140117100000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">صمت البوح</title>
+    <title lang="en">Samt Al Bouh</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+    <credits>
+      <actor>Nashwa Mossttafa</actor>
+    </credits>
+  </programme>
+  <programme start="20140117100000 +0000" stop="20140117110000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">صمت البوح</title>
+    <title lang="en">Samt Al Bouh</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">
+    </desc>
+    <credits>
+      <actor>Nashwa Mossttafa</actor>
+    </credits>
+  </programme>
+  <programme start="20140117110000 +0000" stop="20140117120000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">امرأة من فولاذ</title>
+    <title lang="en">Emra'ah Men Foulath</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Valanteena whose boy friend betrays her, which makes her hate all men.
+Valanteena's life turns upside down when she meets Khosseh.</desc>
+  </programme>
+  <programme start="20140117120000 +0000" stop="20140117124500 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">زين</title>
+    <title lang="en">Zain</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Zain who returns to her family after her father's death, and tries to manage his bankrupt company.</desc>
+    <credits>
+      <actor>Sseba Mobarak</actor>
+      <actor>Qais Asheikh Najeeb</actor>
+    </credits>
+  </programme>
+  <programme start="20140117124500 +0000" stop="20140117133000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">زين</title>
+    <title lang="en">Zain</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Zain who returns to her family after her father's death, and tries to manage his bankrupt company.</desc>
+    <credits>
+      <actor>Sseba Mobarak</actor>
+      <actor>Qais Asheikh Najeeb</actor>
+    </credits>
+  </programme>
+  <programme start="20140117133000 +0000" stop="20140117141500 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">زين</title>
+    <title lang="en">Zain</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Zain who returns to her family after her father's death, and tries to manage his bankrupt company.</desc>
+    <credits>
+      <actor>Sseba Mobarak</actor>
+      <actor>Qais Asheikh Najeeb</actor>
+    </credits>
+  </programme>
+  <programme start="20140117141500 +0000" stop="20140117150000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">زين</title>
+    <title lang="en">Zain</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Zain who returns to her family after her father's death, and tries to manage his bankrupt company.</desc>
+    <credits>
+      <actor>Sseba Mobarak</actor>
+      <actor>Qais Asheikh Najeeb</actor>
+    </credits>
+  </programme>
+  <programme start="20140117150000 +0000" stop="20140117160000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">زين</title>
+    <title lang="en">Zain</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Zain who returns to her family after her father's death, and tries to manage his bankrupt company.</desc>
+    <credits>
+      <actor>Sseba Mobarak</actor>
+      <actor>Qais Asheikh Najeeb</actor>
+    </credits>
+  </programme>
+  <programme start="20140117160000 +0000" stop="20140117170000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">امرأة من فولاذ</title>
+    <title lang="en">Emra'ah Men Foulath</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Valanteena whose boy friend betrays her, which makes her hate all men.
+Valanteena's life turns upside down when she meets Khosseh.</desc>
+  </programme>
+  <programme start="20140117170000 +0000" stop="20140117174000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">امرأة من فولاذ</title>
+    <title lang="en">Emra'ah Men Foulath</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Valanteena whose boy friend betrays her, which makes her hate all men.
+Valanteena's life turns upside down when she meets Khosseh.</desc>
+  </programme>
+  <programme start="20140117174000 +0000" stop="20140117182000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">امرأة من فولاذ</title>
+    <title lang="en">Emra'ah Men Foulath</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Valanteena whose boy friend betrays her, which makes her hate all men.
+Valanteena's life turns upside down when she meets Khosseh.</desc>
+  </programme>
+  <programme start="20140117182000 +0000" stop="20140117183000 +0000" vps-start="19700101000000 19700101000000" channel="9720">
+    <title lang="ar">امرأة من فولاذ</title>
+    <title lang="en">Emra'ah Men Foulath</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Drama series revolves around Valanteena whose boy friend betrays her, which makes her hate all men.
+Valanteena's life turns upside down when she meets Khosseh.</desc>
+  </programme>
+</tv>

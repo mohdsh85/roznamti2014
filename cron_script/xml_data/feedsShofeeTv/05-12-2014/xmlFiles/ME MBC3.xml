@@ -1,0 +1,2420 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd"[]>
+<tv generator-info-name="ShooFeeTV listings">
+  <Range>
+    <Start>20140510183000</Start>
+    <End>20140516183000</End>
+  </Range>
+  <channel id="1760">
+    <display-name lang="ar">إم بي سي 3</display-name>
+    <display-name lang="en">ME MBC3</display-name>
+  </channel>
+  <programme start="20140510183000 +0000" stop="20140510190000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">الصراع على الأقراص الدوارة</title>
+    <title lang="en">Assera' A'la Al Aqrass Addawarah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around the fall of a tower from the skies to Earth, and inside the tower there are twenty people who seek to carry out an evil scheme to destroy the human race.</desc>
+  </programme>
+  <programme start="20140510190000 +0000" stop="20140510193000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">ولفارين أند ذا إكس-من</title>
+    <title lang="en">Wolverine and the X-Men</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A glimpse into the future reveals the world is taken over by giant robots. Now it's up to the legendary Wolverine to save the world from mass destruction.</desc>
+    <credits>
+      <actor>Kari Wahlgren</actor>
+      <actor>Steven Blum</actor>
+    </credits>
+  </programme>
+  <programme start="20140510193000 +0000" stop="20140510200000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">فولترون: القوة</title>
+    <title lang="en">Voltron: Al Qowah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around a group of astronauts who explore space using their lions, while they train new students to eliminate bad power in the world.</desc>
+  </programme>
+  <programme start="20140510200000 +0000" stop="20140510203000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">الطريق إلى البرازيل</title>
+    <title lang="en">Attareeq Ela Al Barazeel</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sport show features preparations of football teams that have qualified for the World Cup 2014 in Brazil, it also features statistics and technical analysis for the participating teams.</desc>
+  </programme>
+  <programme start="20140510203000 +0000" stop="20140510210000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">ماد كدز</title>
+    <title lang="en">Mad Kids</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Comedy show plays various kinds of videos with one thing in common-funny kids.</desc>
+  </programme>
+  <programme start="20140510210000 +0000" stop="20140510213000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">أساطير كرة القدم</title>
+    <title lang="en">Asatteer Korat Al Qadam</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series for children.</desc>
+  </programme>
+  <programme start="20140510213000 +0000" stop="20140510220000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">شون ذا شيب</title>
+    <title lang="en">Shaun The Sheep</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Shaun lives in a barnyard with his group of sheep-friends, who look up to him as their leader. Shaun is always the one to rescue them from trouble.</desc>
+  </programme>
+  <programme start="20140510220000 +0000" stop="20140511000000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">فاميلي موفيز</title>
+    <title lang="en">Family Movies</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A group of animated movies.</desc>
+  </programme>
+  <programme start="20140511000000 +0000" stop="20140511003000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">ولفارين أند ذا إكس-من</title>
+    <title lang="en">Wolverine and the X-Men</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A glimpse into the future reveals the world is taken over by giant robots. Now it's up to the legendary Wolverine to save the world from mass destruction.</desc>
+    <credits>
+      <actor>Kari Wahlgren</actor>
+      <actor>Steven Blum</actor>
+    </credits>
+  </programme>
+  <programme start="20140511003000 +0000" stop="20140511010000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">الصراع على الأقراص الدوارة</title>
+    <title lang="en">Assera' A'la Al Aqrass Addawarah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around the fall of a tower from the skies to Earth, and inside the tower there are twenty people who seek to carry out an evil scheme to destroy the human race.</desc>
+  </programme>
+  <programme start="20140511010000 +0000" stop="20140511013000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">باك مان ومغامرات الأشباح</title>
+    <title lang="en">Bac Man Wa Moghamarat Al Ashbah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around a cartoon character called Pac, who starts a mission to save his world, and in order to accomplish that quest he asks for help from his brave friends.</desc>
+  </programme>
+  <programme start="20140511013000 +0000" stop="20140511015000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">سلغتيرا</title>
+    <title lang="en">Slugterra</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Story features Eli, a slug slinger, who embarks on a series of adventures along with his crew, 'The Shane Gang'. Training themselves to defeat the evil forces, will they be able to succeed?</desc>
+  </programme>
+  <programme start="20140511015000 +0000" stop="20140511021500 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">ولفارين أند ذا إكس-من</title>
+    <title lang="en">Wolverine and the X-Men</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A glimpse into the future reveals the world is taken over by giant robots. Now it's up to the legendary Wolverine to save the world from mass destruction.</desc>
+    <credits>
+      <actor>Kari Wahlgren</actor>
+      <actor>Steven Blum</actor>
+    </credits>
+  </programme>
+  <programme start="20140511021500 +0000" stop="20140511024500 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">مغامرات الأصدقاء الأربعة</title>
+    <title lang="en">Moghamarat Al Assdeqa' Al Arba'ah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around four friends who share their passion for extreme sports, and get in adventures.</desc>
+  </programme>
+  <programme start="20140511024500 +0000" stop="20140511031000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">باغز باني</title>
+    <title lang="en">Bugs Bunny</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around a rabbit called Bugs Bunny, who goes in adventures with his three best friends and perform different shows, and face funny situations.</desc>
+  </programme>
+  <programme start="20140511031000 +0000" stop="20140511033000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">الوحوش ضد المخلوقات الفضائية</title>
+    <title lang="en">Al Wohosh Dded Al Makhloqat Al Fadda'eiah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around an underground secret base, where monsters and aliens live together and fight with each other to prove their worth and strength.</desc>
+  </programme>
+  <programme start="20140511033000 +0000" stop="20140511040000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">كونغ فو باندا</title>
+    <title lang="en">Kung Fu Panda</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Po and the Furious Five, living in the barracks take on the responsibility to fight against the adversaries in the Valley of Peace. Meanwhile, Po ends up learning more about the famous Kung Fu.</desc>
+  </programme>
+  <programme start="20140511040000 +0000" stop="20140511042000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">الصراع على الأقراص الدوارة</title>
+    <title lang="en">Assera' A'la Al Aqrass Addawarah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around the fall of a tower from the skies to Earth, and inside the tower there are twenty people who seek to carry out an evil scheme to destroy the human race.</desc>
+  </programme>
+  <programme start="20140511042000 +0000" stop="20140511044500 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">دانية</title>
+    <title lang="en">Danyah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around a girl named Danyah, who comes up with innovative ways to protect her brother who always creates a ruckus with his antics.</desc>
+  </programme>
+  <programme start="20140511044500 +0000" stop="20140511051000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">كرة قدم المجرات</title>
+    <title lang="en">Korat Qadam Al Majarat</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around a group of kids who have super power, and compete against other competitors in a universal football matches.</desc>
+  </programme>
+  <programme start="20140511051000 +0000" stop="20140511053500 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">كاسبر</title>
+    <title lang="en">Casper</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A spinoff from the popular feature film Casper: the friendly ghost who would rather make friends with humans than scare them, now appears on TV with his 3 notorious uncles, Doc and his young daughter.</desc>
+    <credits>
+      <actor>Kath Soucie</actor>
+      <actor>Malachi Pearson</actor>
+    </credits>
+  </programme>
+  <programme start="20140511053500 +0000" stop="20140511060000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">مغامرات الأصدقاء الأربعة</title>
+    <title lang="en">Moghamarat Al Assdeqa' Al Arba'ah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around four friends who share their passion for extreme sports, and get in adventures.</desc>
+  </programme>
+  <programme start="20140511060000 +0000" stop="20140511063000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">تليتبيز</title>
+    <title lang="en">Teletubbies</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Featuring four colourful Teletubbies who play in their idyllic Teletubbyland, this children's program has characters like Tinky Winky, Dipsy, Laa-Laa, Po and their friend Noo Noo, the vacuum cleaner.</desc>
+    <credits>
+      <actor>Jessica Smith</actor>
+      <actor>John Simmit</actor>
+      <actor>Nikky Smedley</actor>
+      <actor>Pui Fan Lee</actor>
+    </credits>
+  </programme>
+  <programme start="20140511063000 +0000" stop="20140511070000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">بارني آند فريندز</title>
+    <title lang="en">Barney &amp; Friends</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Barney, a zillion year old dinosaur, a animated character who is  cute and loveable and teaches every child to grow their imagination and explore.</desc>
+    <credits>
+      <actor>Julie Johnson</actor>
+      <actor>Dean Wendt</actor>
+    </credits>
+  </programme>
+  <programme start="20140511070000 +0000" stop="20140511073000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">كلوز كلوزيت</title>
+    <title lang="en">Chloe's Closet</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animated series displays the adventures of a four-year-old girl, her friends and her toys as they go on magical adventures in her closet at her room.</desc>
+  </programme>
+  <programme start="20140511073000 +0000" stop="20140511080000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">تيكيتي توك</title>
+    <title lang="en">Tickety Toc</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show features the adventures of the comedic heroes, Tommy and Tallulah. It is based in an unusual world behind the Tickety Toc Clock's face. The heroes race against time to keep the clock ticking.</desc>
+  </programme>
+  <programme start="20140511080000 +0000" stop="20140511083000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">دورا ذا إكسبلورير</title>
+    <title lang="en">Dora The Explorer</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This program teaches children how to observe situations and solve problems as they explore Dora's world with her.</desc>
+    <credits>
+      <actor>Harrison Chad</actor>
+      <actor>Jason Thornton</actor>
+      <actor>Kathleen Herles</actor>
+    </credits>
+  </programme>
+  <programme start="20140511083000 +0000" stop="20140511090000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">جاك والعرض الموسيقي الكبير</title>
+    <title lang="en">Jack Wa Al A'rdd Al Moseqee Al Kabeer</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around a puppet called Jack, who composes and plays music with his girlfriend Mary in his own club. Jack and Mary invite many famous musicians to talk about music.</desc>
+  </programme>
+  <programme start="20140511090000 +0000" stop="20140511093000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">باغز باني</title>
+    <title lang="en">Bugs Bunny</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around a rabbit called Bugs Bunny, who goes in adventures with his three best friends and perform different shows, and face funny situations.</desc>
+  </programme>
+  <programme start="20140511093000 +0000" stop="20140511100000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">مغامرات الأصدقاء الأربعة</title>
+    <title lang="en">Moghamarat Al Assdeqa' Al Arba'ah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around four friends who share their passion for extreme sports, and get in adventures.</desc>
+  </programme>
+  <programme start="20140511100000 +0000" stop="20140511103000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">شون ذا شيب</title>
+    <title lang="en">Shaun The Sheep</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Shaun lives in a barnyard with his group of sheep-friends, who look up to him as their leader. Shaun is always the one to rescue them from trouble.</desc>
+  </programme>
+  <programme start="20140511103000 +0000" stop="20140511110000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">كاسبر</title>
+    <title lang="en">Casper</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A spinoff from the popular feature film Casper: the friendly ghost who would rather make friends with humans than scare them, now appears on TV with his 3 notorious uncles, Doc and his young daughter.</desc>
+    <credits>
+      <actor>Kath Soucie</actor>
+      <actor>Malachi Pearson</actor>
+    </credits>
+  </programme>
+  <programme start="20140511110000 +0000" stop="20140511110500 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">تسالي أحلى عالم</title>
+    <title lang="en">Tasali Ahla A'alam</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Game show prepared for children to test their skills and intelligence through involving in five different interesting games.</desc>
+  </programme>
+  <programme start="20140511110500 +0000" stop="20140511113000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">أبطال المروحيات</title>
+    <title lang="en">Abttal Al Marwaheiat</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A 13 year old boy, Mathyo, meets Zoi the professional in Hover Champs game, after he had moved to his hometown with his mother.Zoi discovers his ability on playing with Hovers, and she suggests him to</desc>
+  </programme>
+  <programme start="20140511113000 +0000" stop="20140511120000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">كرة قدم المجرات</title>
+    <title lang="en">Korat Qadam Al Majarat</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around a group of kids who have super power, and compete against other competitors in a universal football matches.</desc>
+  </programme>
+  <programme start="20140511120000 +0000" stop="20140511120500 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">تسالي أحلى عالم</title>
+    <title lang="en">Tasali Ahla A'alam</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Game show prepared for children to test their skills and intelligence through involving in five different interesting games.</desc>
+  </programme>
+  <programme start="20140511120500 +0000" stop="20140511123000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">سبونجبوب سكوير بانتس</title>
+    <title lang="en">Spongebob Squarepants</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animated series follows a naive and eternally optimistic sea sponge named SpongeBob SquarePants and his endeavors in the underwater town of Bikini Bottom.</desc>
+  </programme>
+  <programme start="20140511123000 +0000" stop="20140511130000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">الوحوش ضد المخلوقات الفضائية</title>
+    <title lang="en">Al Wohosh Dded Al Makhloqat Al Fadda'eiah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around an underground secret base, where monsters and aliens live together and fight with each other to prove their worth and strength.</desc>
+  </programme>
+  <programme start="20140511130000 +0000" stop="20140511133000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">كونغ فو باندا</title>
+    <title lang="en">Kung Fu Panda</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Po and the Furious Five, living in the barracks take on the responsibility to fight against the adversaries in the Valley of Peace. Meanwhile, Po ends up learning more about the famous Kung Fu.</desc>
+  </programme>
+  <programme start="20140511133000 +0000" stop="20140511133500 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">تسالي أحلى عالم</title>
+    <title lang="en">Tasali Ahla A'alam</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Game show prepared for children to test their skills and intelligence through involving in five different interesting games.</desc>
+  </programme>
+  <programme start="20140511133500 +0000" stop="20140511140000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">سلغتيرا</title>
+    <title lang="en">Slugterra</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Story features Eli, a slug slinger, who embarks on a series of adventures along with his crew, 'The Shane Gang'. Training themselves to defeat the evil forces, will they be able to succeed?</desc>
+  </programme>
+  <programme start="20140511140000 +0000" stop="20140511143000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">بيست ماشينز: ترانسفورمرز</title>
+    <title lang="en">Beast Machines: Transformers</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animated series follows the adventures of the Maximals upon their return home to Cybertron.</desc>
+  </programme>
+  <programme start="20140511143000 +0000" stop="20140511150000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">تسالي أحلى عالم</title>
+    <title lang="en">Tasali Ahla A'alam</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Game show prepared for children to test their skills and intelligence through involving in five different interesting games.</desc>
+  </programme>
+  <programme start="20140511150000 +0000" stop="20140511153000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">مع مهند</title>
+    <title lang="en">Ma' Mohannad</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Entertainment program.</desc>
+  </programme>
+  <programme start="20140511153000 +0000" stop="20140511153500 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">تسالي أحلى عالم</title>
+    <title lang="en">Tasali Ahla A'alam</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Game show prepared for children to test their skills and intelligence through involving in five different interesting games.</desc>
+  </programme>
+  <programme start="20140511153500 +0000" stop="20140511160000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">الصراع على الأقراص الدوارة</title>
+    <title lang="en">Assera' A'la Al Aqrass Addawarah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around the fall of a tower from the skies to Earth, and inside the tower there are twenty people who seek to carry out an evil scheme to destroy the human race.</desc>
+  </programme>
+  <programme start="20140511160000 +0000" stop="20140511163000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">ولفارين أند ذا إكس-من</title>
+    <title lang="en">Wolverine and the X-Men</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A glimpse into the future reveals the world is taken over by giant robots. Now it's up to the legendary Wolverine to save the world from mass destruction.</desc>
+    <credits>
+      <actor>Kari Wahlgren</actor>
+      <actor>Steven Blum</actor>
+    </credits>
+  </programme>
+  <programme start="20140511163000 +0000" stop="20140511170000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">فولترون: القوة</title>
+    <title lang="en">Voltron: Al Qowah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around a group of astronauts who explore space using their lions, while they train new students to eliminate bad power in the world.</desc>
+  </programme>
+  <programme start="20140511170000 +0000" stop="20140511170500 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">تسالي أحلى عالم</title>
+    <title lang="en">Tasali Ahla A'alam</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Game show prepared for children to test their skills and intelligence through involving in five different interesting games.</desc>
+  </programme>
+  <programme start="20140511170500 +0000" stop="20140511173000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">ملفات زاك</title>
+    <title lang="en">Malafat Zack</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Science fiction series revolves around a kid called Zack who goes in extraordinary adventures with his friends.</desc>
+  </programme>
+  <programme start="20140511173000 +0000" stop="20140511180000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">طرائف الكرة</title>
+    <title lang="en">Ttarae'f Al Korah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Comedy show features funny clips for football players.</desc>
+  </programme>
+  <programme start="20140511180000 +0000" stop="20140511183000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">كنان آند كيل</title>
+    <title lang="en">Kenan &amp; Kel</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Comedy series revolves around two mischievous teenagers called Kenan and Kel, where Kenan is a high school student with a job at a local grocery store, and Kel is his clumsy best friend.</desc>
+    <credits>
+      <actor>Kenan Thompson</actor>
+      <actor>Kel Mitchell</actor>
+      <actor>Ken Foree</actor>
+    </credits>
+  </programme>
+  <programme start="20140511183000 +0000" stop="20140511190000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">الصراع على الأقراص الدوارة</title>
+    <title lang="en">Assera' A'la Al Aqrass Addawarah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around the fall of a tower from the skies to Earth, and inside the tower there are twenty people who seek to carry out an evil scheme to destroy the human race.</desc>
+  </programme>
+  <programme start="20140511190000 +0000" stop="20140511193000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">بيست ماشينز: ترانسفورمرز</title>
+    <title lang="en">Beast Machines: Transformers</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animated series follows the adventures of the Maximals upon their return home to Cybertron.</desc>
+  </programme>
+  <programme start="20140511193000 +0000" stop="20140511200000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">فولترون: القوة</title>
+    <title lang="en">Voltron: Al Qowah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around a group of astronauts who explore space using their lions, while they train new students to eliminate bad power in the world.</desc>
+  </programme>
+  <programme start="20140511200000 +0000" stop="20140511203000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">مع مهند</title>
+    <title lang="en">Ma' Mohannad</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Entertainment program.</desc>
+  </programme>
+  <programme start="20140511203000 +0000" stop="20140511210000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">سبونجبوب سكوير بانتس</title>
+    <title lang="en">Spongebob Squarepants</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animated series follows a naive and eternally optimistic sea sponge named SpongeBob SquarePants and his endeavors in the underwater town of Bikini Bottom.</desc>
+  </programme>
+  <programme start="20140511210000 +0000" stop="20140511213000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">الوحوش ضد المخلوقات الفضائية</title>
+    <title lang="en">Al Wohosh Dded Al Makhloqat Al Fadda'eiah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around an underground secret base, where monsters and aliens live together and fight with each other to prove their worth and strength.</desc>
+  </programme>
+  <programme start="20140511213000 +0000" stop="20140511220000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">كونغ فو باندا</title>
+    <title lang="en">Kung Fu Panda</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Po and the Furious Five, living in the barracks take on the responsibility to fight against the adversaries in the Valley of Peace. Meanwhile, Po ends up learning more about the famous Kung Fu.</desc>
+  </programme>
+  <programme start="20140511220000 +0000" stop="20140511223000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">ملفات زاك</title>
+    <title lang="en">Malafat Zack</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Science fiction series revolves around a kid called Zack who goes in extraordinary adventures with his friends.</desc>
+  </programme>
+  <programme start="20140511223000 +0000" stop="20140511230000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">طرائف الكرة</title>
+    <title lang="en">Ttarae'f Al Korah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Comedy show features funny clips for football players.</desc>
+  </programme>
+  <programme start="20140511230000 +0000" stop="20140511233000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">كنان آند كيل</title>
+    <title lang="en">Kenan &amp; Kel</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Comedy series revolves around two mischievous teenagers called Kenan and Kel, where Kenan is a high school student with a job at a local grocery store, and Kel is his clumsy best friend.</desc>
+    <credits>
+      <actor>Kenan Thompson</actor>
+      <actor>Kel Mitchell</actor>
+      <actor>Ken Foree</actor>
+    </credits>
+  </programme>
+  <programme start="20140511233000 +0000" stop="20140512000000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">الصراع على الأقراص الدوارة</title>
+    <title lang="en">Assera' A'la Al Aqrass Addawarah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around the fall of a tower from the skies to Earth, and inside the tower there are twenty people who seek to carry out an evil scheme to destroy the human race.</desc>
+  </programme>
+  <programme start="20140512000000 +0000" stop="20140512003000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">ولفارين أند ذا إكس-من</title>
+    <title lang="en">Wolverine and the X-Men</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A glimpse into the future reveals the world is taken over by giant robots. Now it's up to the legendary Wolverine to save the world from mass destruction.</desc>
+    <credits>
+      <actor>Kari Wahlgren</actor>
+      <actor>Steven Blum</actor>
+    </credits>
+  </programme>
+  <programme start="20140512003000 +0000" stop="20140512010000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">سلغتيرا</title>
+    <title lang="en">Slugterra</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Story features Eli, a slug slinger, who embarks on a series of adventures along with his crew, 'The Shane Gang'. Training themselves to defeat the evil forces, will they be able to succeed?</desc>
+  </programme>
+  <programme start="20140512010000 +0000" stop="20140512013000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">بيست ماشينز: ترانسفورمرز</title>
+    <title lang="en">Beast Machines: Transformers</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animated series follows the adventures of the Maximals upon their return home to Cybertron.</desc>
+  </programme>
+  <programme start="20140512013000 +0000" stop="20140512015000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">أبطال المروحيات</title>
+    <title lang="en">Abttal Al Marwaheiat</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A 13 year old boy, Mathyo, meets Zoi the professional in Hover Champs game, after he had moved to his hometown with his mother.Zoi discovers his ability on playing with Hovers, and she suggests him to</desc>
+  </programme>
+  <programme start="20140512015000 +0000" stop="20140512021500 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">كرة قدم المجرات</title>
+    <title lang="en">Korat Qadam Al Majarat</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around a group of kids who have super power, and compete against other competitors in a universal football matches.</desc>
+  </programme>
+  <programme start="20140512021500 +0000" stop="20140512024500 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">ملفات زاك</title>
+    <title lang="en">Malafat Zack</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Science fiction series revolves around a kid called Zack who goes in extraordinary adventures with his friends.</desc>
+  </programme>
+  <programme start="20140512024500 +0000" stop="20140512031000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">ولفارين أند ذا إكس-من</title>
+    <title lang="en">Wolverine and the X-Men</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A glimpse into the future reveals the world is taken over by giant robots. Now it's up to the legendary Wolverine to save the world from mass destruction.</desc>
+    <credits>
+      <actor>Kari Wahlgren</actor>
+      <actor>Steven Blum</actor>
+    </credits>
+  </programme>
+  <programme start="20140512031000 +0000" stop="20140512033000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">الوحوش ضد المخلوقات الفضائية</title>
+    <title lang="en">Al Wohosh Dded Al Makhloqat Al Fadda'eiah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around an underground secret base, where monsters and aliens live together and fight with each other to prove their worth and strength.</desc>
+  </programme>
+  <programme start="20140512033000 +0000" stop="20140512040000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">كونغ فو باندا</title>
+    <title lang="en">Kung Fu Panda</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Po and the Furious Five, living in the barracks take on the responsibility to fight against the adversaries in the Valley of Peace. Meanwhile, Po ends up learning more about the famous Kung Fu.</desc>
+  </programme>
+  <programme start="20140512040000 +0000" stop="20140512042000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">الصراع على الأقراص الدوارة</title>
+    <title lang="en">Assera' A'la Al Aqrass Addawarah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around the fall of a tower from the skies to Earth, and inside the tower there are twenty people who seek to carry out an evil scheme to destroy the human race.</desc>
+  </programme>
+  <programme start="20140512042000 +0000" stop="20140512044500 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">أبطال المروحيات</title>
+    <title lang="en">Abttal Al Marwaheiat</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A 13 year old boy, Mathyo, meets Zoi the professional in Hover Champs game, after he had moved to his hometown with his mother.Zoi discovers his ability on playing with Hovers, and she suggests him to</desc>
+  </programme>
+  <programme start="20140512044500 +0000" stop="20140512051000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">كرة قدم المجرات</title>
+    <title lang="en">Korat Qadam Al Majarat</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around a group of kids who have super power, and compete against other competitors in a universal football matches.</desc>
+  </programme>
+  <programme start="20140512051000 +0000" stop="20140512053500 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">كاسبر</title>
+    <title lang="en">Casper</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A spinoff from the popular feature film Casper: the friendly ghost who would rather make friends with humans than scare them, now appears on TV with his 3 notorious uncles, Doc and his young daughter.</desc>
+    <credits>
+      <actor>Kath Soucie</actor>
+      <actor>Malachi Pearson</actor>
+    </credits>
+  </programme>
+  <programme start="20140512053500 +0000" stop="20140512060000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">مغامرات الأصدقاء الأربعة</title>
+    <title lang="en">Moghamarat Al Assdeqa' Al Arba'ah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around four friends who share their passion for extreme sports, and get in adventures.</desc>
+  </programme>
+  <programme start="20140512060000 +0000" stop="20140512063000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">تليتبيز</title>
+    <title lang="en">Teletubbies</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Featuring four colourful Teletubbies who play in their idyllic Teletubbyland, this children's program has characters like Tinky Winky, Dipsy, Laa-Laa, Po and their friend Noo Noo, the vacuum cleaner.</desc>
+    <credits>
+      <actor>Jessica Smith</actor>
+      <actor>John Simmit</actor>
+      <actor>Nikky Smedley</actor>
+      <actor>Pui Fan Lee</actor>
+    </credits>
+  </programme>
+  <programme start="20140512063000 +0000" stop="20140512070000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">بارني آند فريندز</title>
+    <title lang="en">Barney &amp; Friends</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Barney, a zillion year old dinosaur, a animated character who is  cute and loveable and teaches every child to grow their imagination and explore.</desc>
+    <credits>
+      <actor>Julie Johnson</actor>
+      <actor>Dean Wendt</actor>
+    </credits>
+  </programme>
+  <programme start="20140512070000 +0000" stop="20140512073000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">كلوز كلوزيت</title>
+    <title lang="en">Chloe's Closet</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animated series displays the adventures of a four-year-old girl, her friends and her toys as they go on magical adventures in her closet at her room.</desc>
+  </programme>
+  <programme start="20140512073000 +0000" stop="20140512080000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">تيكيتي توك</title>
+    <title lang="en">Tickety Toc</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show features the adventures of the comedic heroes, Tommy and Tallulah. It is based in an unusual world behind the Tickety Toc Clock's face. The heroes race against time to keep the clock ticking.</desc>
+  </programme>
+  <programme start="20140512080000 +0000" stop="20140512083000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">دورا ذا إكسبلورير</title>
+    <title lang="en">Dora The Explorer</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This program teaches children how to observe situations and solve problems as they explore Dora's world with her.</desc>
+    <credits>
+      <actor>Harrison Chad</actor>
+      <actor>Jason Thornton</actor>
+      <actor>Kathleen Herles</actor>
+    </credits>
+  </programme>
+  <programme start="20140512083000 +0000" stop="20140512090000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">جاك والعرض الموسيقي الكبير</title>
+    <title lang="en">Jack Wa Al A'rdd Al Moseqee Al Kabeer</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around a puppet called Jack, who composes and plays music with his girlfriend Mary in his own club. Jack and Mary invite many famous musicians to talk about music.</desc>
+  </programme>
+  <programme start="20140512090000 +0000" stop="20140512093000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">باغز باني</title>
+    <title lang="en">Bugs Bunny</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around a rabbit called Bugs Bunny, who goes in adventures with his three best friends and perform different shows, and face funny situations.</desc>
+  </programme>
+  <programme start="20140512093000 +0000" stop="20140512100000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">مغامرات الأصدقاء الأربعة</title>
+    <title lang="en">Moghamarat Al Assdeqa' Al Arba'ah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around four friends who share their passion for extreme sports, and get in adventures.</desc>
+  </programme>
+  <programme start="20140512100000 +0000" stop="20140512103000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">شون ذا شيب</title>
+    <title lang="en">Shaun The Sheep</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Shaun lives in a barnyard with his group of sheep-friends, who look up to him as their leader. Shaun is always the one to rescue them from trouble.</desc>
+  </programme>
+  <programme start="20140512103000 +0000" stop="20140512110000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">كاسبر</title>
+    <title lang="en">Casper</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A spinoff from the popular feature film Casper: the friendly ghost who would rather make friends with humans than scare them, now appears on TV with his 3 notorious uncles, Doc and his young daughter.</desc>
+    <credits>
+      <actor>Kath Soucie</actor>
+      <actor>Malachi Pearson</actor>
+    </credits>
+  </programme>
+  <programme start="20140512110000 +0000" stop="20140512110500 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">تسالي أحلى عالم</title>
+    <title lang="en">Tasali Ahla A'alam</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Game show prepared for children to test their skills and intelligence through involving in five different interesting games.</desc>
+  </programme>
+  <programme start="20140512110500 +0000" stop="20140512113000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">أبطال المروحيات</title>
+    <title lang="en">Abttal Al Marwaheiat</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A 13 year old boy, Mathyo, meets Zoi the professional in Hover Champs game, after he had moved to his hometown with his mother.Zoi discovers his ability on playing with Hovers, and she suggests him to</desc>
+  </programme>
+  <programme start="20140512113000 +0000" stop="20140512120000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">كرة قدم المجرات</title>
+    <title lang="en">Korat Qadam Al Majarat</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around a group of kids who have super power, and compete against other competitors in a universal football matches.</desc>
+  </programme>
+  <programme start="20140512120000 +0000" stop="20140512120500 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">تسالي أحلى عالم</title>
+    <title lang="en">Tasali Ahla A'alam</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Game show prepared for children to test their skills and intelligence through involving in five different interesting games.</desc>
+  </programme>
+  <programme start="20140512120500 +0000" stop="20140512123000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">سبونجبوب سكوير بانتس</title>
+    <title lang="en">Spongebob Squarepants</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animated series follows a naive and eternally optimistic sea sponge named SpongeBob SquarePants and his endeavors in the underwater town of Bikini Bottom.</desc>
+  </programme>
+  <programme start="20140512123000 +0000" stop="20140512130000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">الوحوش ضد المخلوقات الفضائية</title>
+    <title lang="en">Al Wohosh Dded Al Makhloqat Al Fadda'eiah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around an underground secret base, where monsters and aliens live together and fight with each other to prove their worth and strength.</desc>
+  </programme>
+  <programme start="20140512130000 +0000" stop="20140512133000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">كونغ فو باندا</title>
+    <title lang="en">Kung Fu Panda</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Po and the Furious Five, living in the barracks take on the responsibility to fight against the adversaries in the Valley of Peace. Meanwhile, Po ends up learning more about the famous Kung Fu.</desc>
+  </programme>
+  <programme start="20140512133000 +0000" stop="20140512133500 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">تسالي أحلى عالم</title>
+    <title lang="en">Tasali Ahla A'alam</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Game show prepared for children to test their skills and intelligence through involving in five different interesting games.</desc>
+  </programme>
+  <programme start="20140512133500 +0000" stop="20140512140000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">سلغتيرا</title>
+    <title lang="en">Slugterra</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Story features Eli, a slug slinger, who embarks on a series of adventures along with his crew, 'The Shane Gang'. Training themselves to defeat the evil forces, will they be able to succeed?</desc>
+  </programme>
+  <programme start="20140512140000 +0000" stop="20140512143000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">بيست ماشينز: ترانسفورمرز</title>
+    <title lang="en">Beast Machines: Transformers</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animated series follows the adventures of the Maximals upon their return home to Cybertron.</desc>
+  </programme>
+  <programme start="20140512143000 +0000" stop="20140512150000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">تسالي أحلى عالم</title>
+    <title lang="en">Tasali Ahla A'alam</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Game show prepared for children to test their skills and intelligence through involving in five different interesting games.</desc>
+  </programme>
+  <programme start="20140512150000 +0000" stop="20140512153000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">زو تايم</title>
+    <title lang="en">Zoo Time</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A program helps the children to discover the world of animals.</desc>
+  </programme>
+  <programme start="20140512153000 +0000" stop="20140512153500 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">تسالي أحلى عالم</title>
+    <title lang="en">Tasali Ahla A'alam</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Game show prepared for children to test their skills and intelligence through involving in five different interesting games.</desc>
+  </programme>
+  <programme start="20140512153500 +0000" stop="20140512160000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">الصراع على الأقراص الدوارة</title>
+    <title lang="en">Assera' A'la Al Aqrass Addawarah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around the fall of a tower from the skies to Earth, and inside the tower there are twenty people who seek to carry out an evil scheme to destroy the human race.</desc>
+  </programme>
+  <programme start="20140512160000 +0000" stop="20140512163000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">ولفارين أند ذا إكس-من</title>
+    <title lang="en">Wolverine and the X-Men</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A glimpse into the future reveals the world is taken over by giant robots. Now it's up to the legendary Wolverine to save the world from mass destruction.</desc>
+    <credits>
+      <actor>Kari Wahlgren</actor>
+      <actor>Steven Blum</actor>
+    </credits>
+  </programme>
+  <programme start="20140512163000 +0000" stop="20140512170000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">فولترون: القوة</title>
+    <title lang="en">Voltron: Al Qowah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around a group of astronauts who explore space using their lions, while they train new students to eliminate bad power in the world.</desc>
+  </programme>
+  <programme start="20140512170000 +0000" stop="20140512170500 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">تسالي أحلى عالم</title>
+    <title lang="en">Tasali Ahla A'alam</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Game show prepared for children to test their skills and intelligence through involving in five different interesting games.</desc>
+  </programme>
+  <programme start="20140512170500 +0000" stop="20140512173000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">ملفات زاك</title>
+    <title lang="en">Malafat Zack</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Science fiction series revolves around a kid called Zack who goes in extraordinary adventures with his friends.</desc>
+  </programme>
+  <programme start="20140512173000 +0000" stop="20140512180000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">طرائف الكرة</title>
+    <title lang="en">Ttarae'f Al Korah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Comedy show features funny clips for football players.</desc>
+  </programme>
+  <programme start="20140512180000 +0000" stop="20140512183000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">كنان آند كيل</title>
+    <title lang="en">Kenan &amp; Kel</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Comedy series revolves around two mischievous teenagers called Kenan and Kel, where Kenan is a high school student with a job at a local grocery store, and Kel is his clumsy best friend.</desc>
+    <credits>
+      <actor>Kenan Thompson</actor>
+      <actor>Kel Mitchell</actor>
+      <actor>Ken Foree</actor>
+    </credits>
+  </programme>
+  <programme start="20140512183000 +0000" stop="20140512190000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">الصراع على الأقراص الدوارة</title>
+    <title lang="en">Assera' A'la Al Aqrass Addawarah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around the fall of a tower from the skies to Earth, and inside the tower there are twenty people who seek to carry out an evil scheme to destroy the human race.</desc>
+  </programme>
+  <programme start="20140512190000 +0000" stop="20140512193000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">بيست ماشينز: ترانسفورمرز</title>
+    <title lang="en">Beast Machines: Transformers</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animated series follows the adventures of the Maximals upon their return home to Cybertron.</desc>
+  </programme>
+  <programme start="20140512193000 +0000" stop="20140512200000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">فولترون: القوة</title>
+    <title lang="en">Voltron: Al Qowah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around a group of astronauts who explore space using their lions, while they train new students to eliminate bad power in the world.</desc>
+  </programme>
+  <programme start="20140512200000 +0000" stop="20140512203000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">زو تايم</title>
+    <title lang="en">Zoo Time</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A program helps the children to discover the world of animals.</desc>
+  </programme>
+  <programme start="20140512203000 +0000" stop="20140512210000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">سبونجبوب سكوير بانتس</title>
+    <title lang="en">Spongebob Squarepants</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animated series follows a naive and eternally optimistic sea sponge named SpongeBob SquarePants and his endeavors in the underwater town of Bikini Bottom.</desc>
+  </programme>
+  <programme start="20140512210000 +0000" stop="20140512213000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">الوحوش ضد المخلوقات الفضائية</title>
+    <title lang="en">Al Wohosh Dded Al Makhloqat Al Fadda'eiah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around an underground secret base, where monsters and aliens live together and fight with each other to prove their worth and strength.</desc>
+  </programme>
+  <programme start="20140512213000 +0000" stop="20140512220000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">كونغ فو باندا</title>
+    <title lang="en">Kung Fu Panda</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Po and the Furious Five, living in the barracks take on the responsibility to fight against the adversaries in the Valley of Peace. Meanwhile, Po ends up learning more about the famous Kung Fu.</desc>
+  </programme>
+  <programme start="20140512220000 +0000" stop="20140512223000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">ملفات زاك</title>
+    <title lang="en">Malafat Zack</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Science fiction series revolves around a kid called Zack who goes in extraordinary adventures with his friends.</desc>
+  </programme>
+  <programme start="20140512223000 +0000" stop="20140512230000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">طرائف الكرة</title>
+    <title lang="en">Ttarae'f Al Korah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Comedy show features funny clips for football players.</desc>
+  </programme>
+  <programme start="20140512230000 +0000" stop="20140512233000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">كنان آند كيل</title>
+    <title lang="en">Kenan &amp; Kel</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Comedy series revolves around two mischievous teenagers called Kenan and Kel, where Kenan is a high school student with a job at a local grocery store, and Kel is his clumsy best friend.</desc>
+    <credits>
+      <actor>Kenan Thompson</actor>
+      <actor>Kel Mitchell</actor>
+      <actor>Ken Foree</actor>
+    </credits>
+  </programme>
+  <programme start="20140512233000 +0000" stop="20140513000000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">الصراع على الأقراص الدوارة</title>
+    <title lang="en">Assera' A'la Al Aqrass Addawarah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around the fall of a tower from the skies to Earth, and inside the tower there are twenty people who seek to carry out an evil scheme to destroy the human race.</desc>
+  </programme>
+  <programme start="20140513000000 +0000" stop="20140513003000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">ولفارين أند ذا إكس-من</title>
+    <title lang="en">Wolverine and the X-Men</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A glimpse into the future reveals the world is taken over by giant robots. Now it's up to the legendary Wolverine to save the world from mass destruction.</desc>
+    <credits>
+      <actor>Kari Wahlgren</actor>
+      <actor>Steven Blum</actor>
+    </credits>
+  </programme>
+  <programme start="20140513003000 +0000" stop="20140513010000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">سلغتيرا</title>
+    <title lang="en">Slugterra</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Story features Eli, a slug slinger, who embarks on a series of adventures along with his crew, 'The Shane Gang'. Training themselves to defeat the evil forces, will they be able to succeed?</desc>
+  </programme>
+  <programme start="20140513010000 +0000" stop="20140513013000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">بيست ماشينز: ترانسفورمرز</title>
+    <title lang="en">Beast Machines: Transformers</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animated series follows the adventures of the Maximals upon their return home to Cybertron.</desc>
+  </programme>
+  <programme start="20140513013000 +0000" stop="20140513015000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">أبطال المروحيات</title>
+    <title lang="en">Abttal Al Marwaheiat</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A 13 year old boy, Mathyo, meets Zoi the professional in Hover Champs game, after he had moved to his hometown with his mother.Zoi discovers his ability on playing with Hovers, and she suggests him to</desc>
+  </programme>
+  <programme start="20140513015000 +0000" stop="20140513021500 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">كرة قدم المجرات</title>
+    <title lang="en">Korat Qadam Al Majarat</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around a group of kids who have super power, and compete against other competitors in a universal football matches.</desc>
+  </programme>
+  <programme start="20140513021500 +0000" stop="20140513024500 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">ملفات زاك</title>
+    <title lang="en">Malafat Zack</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Science fiction series revolves around a kid called Zack who goes in extraordinary adventures with his friends.</desc>
+  </programme>
+  <programme start="20140513024500 +0000" stop="20140513031000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">ولفارين أند ذا إكس-من</title>
+    <title lang="en">Wolverine and the X-Men</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A glimpse into the future reveals the world is taken over by giant robots. Now it's up to the legendary Wolverine to save the world from mass destruction.</desc>
+    <credits>
+      <actor>Kari Wahlgren</actor>
+      <actor>Steven Blum</actor>
+    </credits>
+  </programme>
+  <programme start="20140513031000 +0000" stop="20140513033000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">الوحوش ضد المخلوقات الفضائية</title>
+    <title lang="en">Al Wohosh Dded Al Makhloqat Al Fadda'eiah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around an underground secret base, where monsters and aliens live together and fight with each other to prove their worth and strength.</desc>
+  </programme>
+  <programme start="20140513033000 +0000" stop="20140513040000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">كونغ فو باندا</title>
+    <title lang="en">Kung Fu Panda</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Po and the Furious Five, living in the barracks take on the responsibility to fight against the adversaries in the Valley of Peace. Meanwhile, Po ends up learning more about the famous Kung Fu.</desc>
+  </programme>
+  <programme start="20140513040000 +0000" stop="20140513042000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">الصراع على الأقراص الدوارة</title>
+    <title lang="en">Assera' A'la Al Aqrass Addawarah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around the fall of a tower from the skies to Earth, and inside the tower there are twenty people who seek to carry out an evil scheme to destroy the human race.</desc>
+  </programme>
+  <programme start="20140513042000 +0000" stop="20140513044500 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">أبطال المروحيات</title>
+    <title lang="en">Abttal Al Marwaheiat</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A 13 year old boy, Mathyo, meets Zoi the professional in Hover Champs game, after he had moved to his hometown with his mother.Zoi discovers his ability on playing with Hovers, and she suggests him to</desc>
+  </programme>
+  <programme start="20140513044500 +0000" stop="20140513051000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">كرة قدم المجرات</title>
+    <title lang="en">Korat Qadam Al Majarat</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around a group of kids who have super power, and compete against other competitors in a universal football matches.</desc>
+  </programme>
+  <programme start="20140513051000 +0000" stop="20140513053500 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">كاسبر</title>
+    <title lang="en">Casper</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A spinoff from the popular feature film Casper: the friendly ghost who would rather make friends with humans than scare them, now appears on TV with his 3 notorious uncles, Doc and his young daughter.</desc>
+    <credits>
+      <actor>Kath Soucie</actor>
+      <actor>Malachi Pearson</actor>
+    </credits>
+  </programme>
+  <programme start="20140513053500 +0000" stop="20140513060000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">مغامرات الأصدقاء الأربعة</title>
+    <title lang="en">Moghamarat Al Assdeqa' Al Arba'ah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around four friends who share their passion for extreme sports, and get in adventures.</desc>
+  </programme>
+  <programme start="20140513060000 +0000" stop="20140513063000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">تليتبيز</title>
+    <title lang="en">Teletubbies</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Featuring four colourful Teletubbies who play in their idyllic Teletubbyland, this children's program has characters like Tinky Winky, Dipsy, Laa-Laa, Po and their friend Noo Noo, the vacuum cleaner.</desc>
+    <credits>
+      <actor>Jessica Smith</actor>
+      <actor>John Simmit</actor>
+      <actor>Nikky Smedley</actor>
+      <actor>Pui Fan Lee</actor>
+    </credits>
+  </programme>
+  <programme start="20140513063000 +0000" stop="20140513070000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">بارني آند فريندز</title>
+    <title lang="en">Barney &amp; Friends</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Barney, a zillion year old dinosaur, a animated character who is  cute and loveable and teaches every child to grow their imagination and explore.</desc>
+    <credits>
+      <actor>Julie Johnson</actor>
+      <actor>Dean Wendt</actor>
+    </credits>
+  </programme>
+  <programme start="20140513070000 +0000" stop="20140513073000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">كلوز كلوزيت</title>
+    <title lang="en">Chloe's Closet</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animated series displays the adventures of a four-year-old girl, her friends and her toys as they go on magical adventures in her closet at her room.</desc>
+  </programme>
+  <programme start="20140513073000 +0000" stop="20140513080000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">تيكيتي توك</title>
+    <title lang="en">Tickety Toc</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show features the adventures of the comedic heroes, Tommy and Tallulah. It is based in an unusual world behind the Tickety Toc Clock's face. The heroes race against time to keep the clock ticking.</desc>
+  </programme>
+  <programme start="20140513080000 +0000" stop="20140513083000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">دورا ذا إكسبلورير</title>
+    <title lang="en">Dora The Explorer</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This program teaches children how to observe situations and solve problems as they explore Dora's world with her.</desc>
+    <credits>
+      <actor>Harrison Chad</actor>
+      <actor>Jason Thornton</actor>
+      <actor>Kathleen Herles</actor>
+    </credits>
+  </programme>
+  <programme start="20140513083000 +0000" stop="20140513090000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">جاك والعرض الموسيقي الكبير</title>
+    <title lang="en">Jack Wa Al A'rdd Al Moseqee Al Kabeer</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around a puppet called Jack, who composes and plays music with his girlfriend Mary in his own club. Jack and Mary invite many famous musicians to talk about music.</desc>
+  </programme>
+  <programme start="20140513090000 +0000" stop="20140513093000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">باغز باني</title>
+    <title lang="en">Bugs Bunny</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around a rabbit called Bugs Bunny, who goes in adventures with his three best friends and perform different shows, and face funny situations.</desc>
+  </programme>
+  <programme start="20140513093000 +0000" stop="20140513100000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">مغامرات الأصدقاء الأربعة</title>
+    <title lang="en">Moghamarat Al Assdeqa' Al Arba'ah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around four friends who share their passion for extreme sports, and get in adventures.</desc>
+  </programme>
+  <programme start="20140513100000 +0000" stop="20140513103000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">شون ذا شيب</title>
+    <title lang="en">Shaun The Sheep</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Shaun lives in a barnyard with his group of sheep-friends, who look up to him as their leader. Shaun is always the one to rescue them from trouble.</desc>
+  </programme>
+  <programme start="20140513103000 +0000" stop="20140513110000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">كاسبر</title>
+    <title lang="en">Casper</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A spinoff from the popular feature film Casper: the friendly ghost who would rather make friends with humans than scare them, now appears on TV with his 3 notorious uncles, Doc and his young daughter.</desc>
+    <credits>
+      <actor>Kath Soucie</actor>
+      <actor>Malachi Pearson</actor>
+    </credits>
+  </programme>
+  <programme start="20140513110000 +0000" stop="20140513110500 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">تسالي أحلى عالم</title>
+    <title lang="en">Tasali Ahla A'alam</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Game show prepared for children to test their skills and intelligence through involving in five different interesting games.</desc>
+  </programme>
+  <programme start="20140513110500 +0000" stop="20140513113000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">أبطال المروحيات</title>
+    <title lang="en">Abttal Al Marwaheiat</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A 13 year old boy, Mathyo, meets Zoi the professional in Hover Champs game, after he had moved to his hometown with his mother.Zoi discovers his ability on playing with Hovers, and she suggests him to</desc>
+  </programme>
+  <programme start="20140513113000 +0000" stop="20140513120000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">كرة قدم المجرات</title>
+    <title lang="en">Korat Qadam Al Majarat</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around a group of kids who have super power, and compete against other competitors in a universal football matches.</desc>
+  </programme>
+  <programme start="20140513120000 +0000" stop="20140513120500 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">تسالي أحلى عالم</title>
+    <title lang="en">Tasali Ahla A'alam</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Game show prepared for children to test their skills and intelligence through involving in five different interesting games.</desc>
+  </programme>
+  <programme start="20140513120500 +0000" stop="20140513123000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">سبونجبوب سكوير بانتس</title>
+    <title lang="en">Spongebob Squarepants</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animated series follows a naive and eternally optimistic sea sponge named SpongeBob SquarePants and his endeavors in the underwater town of Bikini Bottom.</desc>
+  </programme>
+  <programme start="20140513123000 +0000" stop="20140513130000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">الوحوش ضد المخلوقات الفضائية</title>
+    <title lang="en">Al Wohosh Dded Al Makhloqat Al Fadda'eiah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around an underground secret base, where monsters and aliens live together and fight with each other to prove their worth and strength.</desc>
+  </programme>
+  <programme start="20140513130000 +0000" stop="20140513133000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">كونغ فو باندا</title>
+    <title lang="en">Kung Fu Panda</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Po and the Furious Five, living in the barracks take on the responsibility to fight against the adversaries in the Valley of Peace. Meanwhile, Po ends up learning more about the famous Kung Fu.</desc>
+  </programme>
+  <programme start="20140513133000 +0000" stop="20140513133500 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">تسالي أحلى عالم</title>
+    <title lang="en">Tasali Ahla A'alam</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Game show prepared for children to test their skills and intelligence through involving in five different interesting games.</desc>
+  </programme>
+  <programme start="20140513133500 +0000" stop="20140513140000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">سلغتيرا</title>
+    <title lang="en">Slugterra</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Story features Eli, a slug slinger, who embarks on a series of adventures along with his crew, 'The Shane Gang'. Training themselves to defeat the evil forces, will they be able to succeed?</desc>
+  </programme>
+  <programme start="20140513140000 +0000" stop="20140513143000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">بيست ماشينز: ترانسفورمرز</title>
+    <title lang="en">Beast Machines: Transformers</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animated series follows the adventures of the Maximals upon their return home to Cybertron.</desc>
+  </programme>
+  <programme start="20140513143000 +0000" stop="20140513150000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">تسالي أحلى عالم</title>
+    <title lang="en">Tasali Ahla A'alam</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Game show prepared for children to test their skills and intelligence through involving in five different interesting games.</desc>
+  </programme>
+  <programme start="20140513150000 +0000" stop="20140513153000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">تيليسكوب</title>
+    <title lang="en">Telescope</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Educational program provides the viewer with the latest and interesting news.</desc>
+  </programme>
+  <programme start="20140513153000 +0000" stop="20140513153500 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">تسالي أحلى عالم</title>
+    <title lang="en">Tasali Ahla A'alam</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Game show prepared for children to test their skills and intelligence through involving in five different interesting games.</desc>
+  </programme>
+  <programme start="20140513153500 +0000" stop="20140513160000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">الصراع على الأقراص الدوارة</title>
+    <title lang="en">Assera' A'la Al Aqrass Addawarah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around the fall of a tower from the skies to Earth, and inside the tower there are twenty people who seek to carry out an evil scheme to destroy the human race.</desc>
+  </programme>
+  <programme start="20140513160000 +0000" stop="20140513163000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">ولفارين أند ذا إكس-من</title>
+    <title lang="en">Wolverine and the X-Men</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A glimpse into the future reveals the world is taken over by giant robots. Now it's up to the legendary Wolverine to save the world from mass destruction.</desc>
+    <credits>
+      <actor>Kari Wahlgren</actor>
+      <actor>Steven Blum</actor>
+    </credits>
+  </programme>
+  <programme start="20140513163000 +0000" stop="20140513170000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">فولترون: القوة</title>
+    <title lang="en">Voltron: Al Qowah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around a group of astronauts who explore space using their lions, while they train new students to eliminate bad power in the world.</desc>
+  </programme>
+  <programme start="20140513170000 +0000" stop="20140513170500 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">تسالي أحلى عالم</title>
+    <title lang="en">Tasali Ahla A'alam</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Game show prepared for children to test their skills and intelligence through involving in five different interesting games.</desc>
+  </programme>
+  <programme start="20140513170500 +0000" stop="20140513173000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">ملفات زاك</title>
+    <title lang="en">Malafat Zack</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Science fiction series revolves around a kid called Zack who goes in extraordinary adventures with his friends.</desc>
+  </programme>
+  <programme start="20140513173000 +0000" stop="20140513180000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">ماد كدز</title>
+    <title lang="en">Mad Kids</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Comedy show plays various kinds of videos with one thing in common-funny kids.</desc>
+  </programme>
+  <programme start="20140513180000 +0000" stop="20140513183000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">كنان آند كيل</title>
+    <title lang="en">Kenan &amp; Kel</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Comedy series revolves around two mischievous teenagers called Kenan and Kel, where Kenan is a high school student with a job at a local grocery store, and Kel is his clumsy best friend.</desc>
+    <credits>
+      <actor>Kenan Thompson</actor>
+      <actor>Kel Mitchell</actor>
+      <actor>Ken Foree</actor>
+    </credits>
+  </programme>
+  <programme start="20140513183000 +0000" stop="20140513190000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">الصراع على الأقراص الدوارة</title>
+    <title lang="en">Assera' A'la Al Aqrass Addawarah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around the fall of a tower from the skies to Earth, and inside the tower there are twenty people who seek to carry out an evil scheme to destroy the human race.</desc>
+  </programme>
+  <programme start="20140513190000 +0000" stop="20140513193000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">بيست ماشينز: ترانسفورمرز</title>
+    <title lang="en">Beast Machines: Transformers</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animated series follows the adventures of the Maximals upon their return home to Cybertron.</desc>
+  </programme>
+  <programme start="20140513193000 +0000" stop="20140513200000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">فولترون: القوة</title>
+    <title lang="en">Voltron: Al Qowah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around a group of astronauts who explore space using their lions, while they train new students to eliminate bad power in the world.</desc>
+  </programme>
+  <programme start="20140513200000 +0000" stop="20140513203000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">تيليسكوب</title>
+    <title lang="en">Telescope</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Educational program provides the viewer with the latest and interesting news.</desc>
+  </programme>
+  <programme start="20140513203000 +0000" stop="20140513210000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">سبونجبوب سكوير بانتس</title>
+    <title lang="en">Spongebob Squarepants</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animated series follows a naive and eternally optimistic sea sponge named SpongeBob SquarePants and his endeavors in the underwater town of Bikini Bottom.</desc>
+  </programme>
+  <programme start="20140513210000 +0000" stop="20140513213000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">الوحوش ضد المخلوقات الفضائية</title>
+    <title lang="en">Al Wohosh Dded Al Makhloqat Al Fadda'eiah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around an underground secret base, where monsters and aliens live together and fight with each other to prove their worth and strength.</desc>
+  </programme>
+  <programme start="20140513213000 +0000" stop="20140513220000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">كونغ فو باندا</title>
+    <title lang="en">Kung Fu Panda</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Po and the Furious Five, living in the barracks take on the responsibility to fight against the adversaries in the Valley of Peace. Meanwhile, Po ends up learning more about the famous Kung Fu.</desc>
+  </programme>
+  <programme start="20140513220000 +0000" stop="20140513223000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">ملفات زاك</title>
+    <title lang="en">Malafat Zack</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Science fiction series revolves around a kid called Zack who goes in extraordinary adventures with his friends.</desc>
+  </programme>
+  <programme start="20140513223000 +0000" stop="20140513230000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">ماد كدز</title>
+    <title lang="en">Mad Kids</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Comedy show plays various kinds of videos with one thing in common-funny kids.</desc>
+  </programme>
+  <programme start="20140513230000 +0000" stop="20140513233000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">كنان آند كيل</title>
+    <title lang="en">Kenan &amp; Kel</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Comedy series revolves around two mischievous teenagers called Kenan and Kel, where Kenan is a high school student with a job at a local grocery store, and Kel is his clumsy best friend.</desc>
+    <credits>
+      <actor>Kenan Thompson</actor>
+      <actor>Kel Mitchell</actor>
+      <actor>Ken Foree</actor>
+    </credits>
+  </programme>
+  <programme start="20140513233000 +0000" stop="20140514000000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">الصراع على الأقراص الدوارة</title>
+    <title lang="en">Assera' A'la Al Aqrass Addawarah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around the fall of a tower from the skies to Earth, and inside the tower there are twenty people who seek to carry out an evil scheme to destroy the human race.</desc>
+  </programme>
+  <programme start="20140514000000 +0000" stop="20140514003000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">ولفارين أند ذا إكس-من</title>
+    <title lang="en">Wolverine and the X-Men</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A glimpse into the future reveals the world is taken over by giant robots. Now it's up to the legendary Wolverine to save the world from mass destruction.</desc>
+    <credits>
+      <actor>Kari Wahlgren</actor>
+      <actor>Steven Blum</actor>
+    </credits>
+  </programme>
+  <programme start="20140514003000 +0000" stop="20140514010000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">سلغتيرا</title>
+    <title lang="en">Slugterra</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Story features Eli, a slug slinger, who embarks on a series of adventures along with his crew, 'The Shane Gang'. Training themselves to defeat the evil forces, will they be able to succeed?</desc>
+  </programme>
+  <programme start="20140514010000 +0000" stop="20140514013000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">بيست ماشينز: ترانسفورمرز</title>
+    <title lang="en">Beast Machines: Transformers</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animated series follows the adventures of the Maximals upon their return home to Cybertron.</desc>
+  </programme>
+  <programme start="20140514013000 +0000" stop="20140514015000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">أبطال المروحيات</title>
+    <title lang="en">Abttal Al Marwaheiat</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A 13 year old boy, Mathyo, meets Zoi the professional in Hover Champs game, after he had moved to his hometown with his mother.Zoi discovers his ability on playing with Hovers, and she suggests him to</desc>
+  </programme>
+  <programme start="20140514015000 +0000" stop="20140514021500 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">كرة قدم المجرات</title>
+    <title lang="en">Korat Qadam Al Majarat</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around a group of kids who have super power, and compete against other competitors in a universal football matches.</desc>
+  </programme>
+  <programme start="20140514021500 +0000" stop="20140514024500 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">ملفات زاك</title>
+    <title lang="en">Malafat Zack</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Science fiction series revolves around a kid called Zack who goes in extraordinary adventures with his friends.</desc>
+  </programme>
+  <programme start="20140514024500 +0000" stop="20140514031000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">ولفارين أند ذا إكس-من</title>
+    <title lang="en">Wolverine and the X-Men</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A glimpse into the future reveals the world is taken over by giant robots. Now it's up to the legendary Wolverine to save the world from mass destruction.</desc>
+    <credits>
+      <actor>Kari Wahlgren</actor>
+      <actor>Steven Blum</actor>
+    </credits>
+  </programme>
+  <programme start="20140514031000 +0000" stop="20140514033000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">الوحوش ضد المخلوقات الفضائية</title>
+    <title lang="en">Al Wohosh Dded Al Makhloqat Al Fadda'eiah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around an underground secret base, where monsters and aliens live together and fight with each other to prove their worth and strength.</desc>
+  </programme>
+  <programme start="20140514033000 +0000" stop="20140514040000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">كونغ فو باندا</title>
+    <title lang="en">Kung Fu Panda</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Po and the Furious Five, living in the barracks take on the responsibility to fight against the adversaries in the Valley of Peace. Meanwhile, Po ends up learning more about the famous Kung Fu.</desc>
+  </programme>
+  <programme start="20140514040000 +0000" stop="20140514042000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">الصراع على الأقراص الدوارة</title>
+    <title lang="en">Assera' A'la Al Aqrass Addawarah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around the fall of a tower from the skies to Earth, and inside the tower there are twenty people who seek to carry out an evil scheme to destroy the human race.</desc>
+  </programme>
+  <programme start="20140514042000 +0000" stop="20140514044500 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">أبطال المروحيات</title>
+    <title lang="en">Abttal Al Marwaheiat</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A 13 year old boy, Mathyo, meets Zoi the professional in Hover Champs game, after he had moved to his hometown with his mother.Zoi discovers his ability on playing with Hovers, and she suggests him to</desc>
+  </programme>
+  <programme start="20140514044500 +0000" stop="20140514051000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">كرة قدم المجرات</title>
+    <title lang="en">Korat Qadam Al Majarat</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around a group of kids who have super power, and compete against other competitors in a universal football matches.</desc>
+  </programme>
+  <programme start="20140514051000 +0000" stop="20140514053500 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">كاسبر</title>
+    <title lang="en">Casper</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A spinoff from the popular feature film Casper: the friendly ghost who would rather make friends with humans than scare them, now appears on TV with his 3 notorious uncles, Doc and his young daughter.</desc>
+    <credits>
+      <actor>Kath Soucie</actor>
+      <actor>Malachi Pearson</actor>
+    </credits>
+  </programme>
+  <programme start="20140514053500 +0000" stop="20140514060000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">مغامرات الأصدقاء الأربعة</title>
+    <title lang="en">Moghamarat Al Assdeqa' Al Arba'ah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around four friends who share their passion for extreme sports, and get in adventures.</desc>
+  </programme>
+  <programme start="20140514060000 +0000" stop="20140514063000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">تليتبيز</title>
+    <title lang="en">Teletubbies</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Featuring four colourful Teletubbies who play in their idyllic Teletubbyland, this children's program has characters like Tinky Winky, Dipsy, Laa-Laa, Po and their friend Noo Noo, the vacuum cleaner.</desc>
+    <credits>
+      <actor>Jessica Smith</actor>
+      <actor>John Simmit</actor>
+      <actor>Nikky Smedley</actor>
+      <actor>Pui Fan Lee</actor>
+    </credits>
+  </programme>
+  <programme start="20140514063000 +0000" stop="20140514070000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">بارني آند فريندز</title>
+    <title lang="en">Barney &amp; Friends</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Barney, a zillion year old dinosaur, a animated character who is  cute and loveable and teaches every child to grow their imagination and explore.</desc>
+    <credits>
+      <actor>Julie Johnson</actor>
+      <actor>Dean Wendt</actor>
+    </credits>
+  </programme>
+  <programme start="20140514070000 +0000" stop="20140514073000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">كلوز كلوزيت</title>
+    <title lang="en">Chloe's Closet</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animated series displays the adventures of a four-year-old girl, her friends and her toys as they go on magical adventures in her closet at her room.</desc>
+  </programme>
+  <programme start="20140514073000 +0000" stop="20140514080000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">تيكيتي توك</title>
+    <title lang="en">Tickety Toc</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show features the adventures of the comedic heroes, Tommy and Tallulah. It is based in an unusual world behind the Tickety Toc Clock's face. The heroes race against time to keep the clock ticking.</desc>
+  </programme>
+  <programme start="20140514080000 +0000" stop="20140514083000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">دورا ذا إكسبلورير</title>
+    <title lang="en">Dora The Explorer</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This program teaches children how to observe situations and solve problems as they explore Dora's world with her.</desc>
+    <credits>
+      <actor>Harrison Chad</actor>
+      <actor>Jason Thornton</actor>
+      <actor>Kathleen Herles</actor>
+    </credits>
+  </programme>
+  <programme start="20140514083000 +0000" stop="20140514090000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">جاك والعرض الموسيقي الكبير</title>
+    <title lang="en">Jack Wa Al A'rdd Al Moseqee Al Kabeer</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around a puppet called Jack, who composes and plays music with his girlfriend Mary in his own club. Jack and Mary invite many famous musicians to talk about music.</desc>
+  </programme>
+  <programme start="20140514090000 +0000" stop="20140514093000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">باغز باني</title>
+    <title lang="en">Bugs Bunny</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around a rabbit called Bugs Bunny, who goes in adventures with his three best friends and perform different shows, and face funny situations.</desc>
+  </programme>
+  <programme start="20140514093000 +0000" stop="20140514100000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">مغامرات الأصدقاء الأربعة</title>
+    <title lang="en">Moghamarat Al Assdeqa' Al Arba'ah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around four friends who share their passion for extreme sports, and get in adventures.</desc>
+  </programme>
+  <programme start="20140514100000 +0000" stop="20140514103000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">شون ذا شيب</title>
+    <title lang="en">Shaun The Sheep</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Shaun lives in a barnyard with his group of sheep-friends, who look up to him as their leader. Shaun is always the one to rescue them from trouble.</desc>
+  </programme>
+  <programme start="20140514103000 +0000" stop="20140514110000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">كاسبر</title>
+    <title lang="en">Casper</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A spinoff from the popular feature film Casper: the friendly ghost who would rather make friends with humans than scare them, now appears on TV with his 3 notorious uncles, Doc and his young daughter.</desc>
+    <credits>
+      <actor>Kath Soucie</actor>
+      <actor>Malachi Pearson</actor>
+    </credits>
+  </programme>
+  <programme start="20140514110000 +0000" stop="20140514110500 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">تسالي أحلى عالم</title>
+    <title lang="en">Tasali Ahla A'alam</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Game show prepared for children to test their skills and intelligence through involving in five different interesting games.</desc>
+  </programme>
+  <programme start="20140514110500 +0000" stop="20140514113000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">أبطال المروحيات</title>
+    <title lang="en">Abttal Al Marwaheiat</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A 13 year old boy, Mathyo, meets Zoi the professional in Hover Champs game, after he had moved to his hometown with his mother.Zoi discovers his ability on playing with Hovers, and she suggests him to</desc>
+  </programme>
+  <programme start="20140514113000 +0000" stop="20140514120000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">كرة قدم المجرات</title>
+    <title lang="en">Korat Qadam Al Majarat</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around a group of kids who have super power, and compete against other competitors in a universal football matches.</desc>
+  </programme>
+  <programme start="20140514120000 +0000" stop="20140514120500 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">تسالي أحلى عالم</title>
+    <title lang="en">Tasali Ahla A'alam</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Game show prepared for children to test their skills and intelligence through involving in five different interesting games.</desc>
+  </programme>
+  <programme start="20140514120500 +0000" stop="20140514123000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">سبونجبوب سكوير بانتس</title>
+    <title lang="en">Spongebob Squarepants</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animated series follows a naive and eternally optimistic sea sponge named SpongeBob SquarePants and his endeavors in the underwater town of Bikini Bottom.</desc>
+  </programme>
+  <programme start="20140514123000 +0000" stop="20140514130000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">الوحوش ضد المخلوقات الفضائية</title>
+    <title lang="en">Al Wohosh Dded Al Makhloqat Al Fadda'eiah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around an underground secret base, where monsters and aliens live together and fight with each other to prove their worth and strength.</desc>
+  </programme>
+  <programme start="20140514130000 +0000" stop="20140514133000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">كونغ فو باندا</title>
+    <title lang="en">Kung Fu Panda</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Po and the Furious Five, living in the barracks take on the responsibility to fight against the adversaries in the Valley of Peace. Meanwhile, Po ends up learning more about the famous Kung Fu.</desc>
+  </programme>
+  <programme start="20140514133000 +0000" stop="20140514133500 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">تسالي أحلى عالم</title>
+    <title lang="en">Tasali Ahla A'alam</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Game show prepared for children to test their skills and intelligence through involving in five different interesting games.</desc>
+  </programme>
+  <programme start="20140514133500 +0000" stop="20140514140000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">سلغتيرا</title>
+    <title lang="en">Slugterra</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Story features Eli, a slug slinger, who embarks on a series of adventures along with his crew, 'The Shane Gang'. Training themselves to defeat the evil forces, will they be able to succeed?</desc>
+  </programme>
+  <programme start="20140514140000 +0000" stop="20140514143000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">بيست ماشينز: ترانسفورمرز</title>
+    <title lang="en">Beast Machines: Transformers</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animated series follows the adventures of the Maximals upon their return home to Cybertron.</desc>
+  </programme>
+  <programme start="20140514143000 +0000" stop="20140514150000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">تسالي أحلى عالم</title>
+    <title lang="en">Tasali Ahla A'alam</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Game show prepared for children to test their skills and intelligence through involving in five different interesting games.</desc>
+  </programme>
+  <programme start="20140514150000 +0000" stop="20140514153000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">العائلة الأقوى</title>
+    <title lang="en">Al A'aela Al Aqwa</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Game show in which the members of three different families compete to win.</desc>
+  </programme>
+  <programme start="20140514153000 +0000" stop="20140514153500 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">تسالي أحلى عالم</title>
+    <title lang="en">Tasali Ahla A'alam</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Game show prepared for children to test their skills and intelligence through involving in five different interesting games.</desc>
+  </programme>
+  <programme start="20140514153500 +0000" stop="20140514160000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">الصراع على الأقراص الدوارة</title>
+    <title lang="en">Assera' A'la Al Aqrass Addawarah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around the fall of a tower from the skies to Earth, and inside the tower there are twenty people who seek to carry out an evil scheme to destroy the human race.</desc>
+  </programme>
+  <programme start="20140514160000 +0000" stop="20140514163000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">ولفارين أند ذا إكس-من</title>
+    <title lang="en">Wolverine and the X-Men</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A glimpse into the future reveals the world is taken over by giant robots. Now it's up to the legendary Wolverine to save the world from mass destruction.</desc>
+    <credits>
+      <actor>Kari Wahlgren</actor>
+      <actor>Steven Blum</actor>
+    </credits>
+  </programme>
+  <programme start="20140514163000 +0000" stop="20140514170000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">فولترون: القوة</title>
+    <title lang="en">Voltron: Al Qowah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around a group of astronauts who explore space using their lions, while they train new students to eliminate bad power in the world.</desc>
+  </programme>
+  <programme start="20140514170000 +0000" stop="20140514170500 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">تسالي أحلى عالم</title>
+    <title lang="en">Tasali Ahla A'alam</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Game show prepared for children to test their skills and intelligence through involving in five different interesting games.</desc>
+  </programme>
+  <programme start="20140514170500 +0000" stop="20140514173000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">ملفات زاك</title>
+    <title lang="en">Malafat Zack</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Science fiction series revolves around a kid called Zack who goes in extraordinary adventures with his friends.</desc>
+  </programme>
+  <programme start="20140514173000 +0000" stop="20140514180000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">ماد كدز</title>
+    <title lang="en">Mad Kids</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Comedy show plays various kinds of videos with one thing in common-funny kids.</desc>
+  </programme>
+  <programme start="20140514180000 +0000" stop="20140514183000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">كنان آند كيل</title>
+    <title lang="en">Kenan &amp; Kel</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Comedy series revolves around two mischievous teenagers called Kenan and Kel, where Kenan is a high school student with a job at a local grocery store, and Kel is his clumsy best friend.</desc>
+    <credits>
+      <actor>Kenan Thompson</actor>
+      <actor>Kel Mitchell</actor>
+      <actor>Ken Foree</actor>
+    </credits>
+  </programme>
+  <programme start="20140514183000 +0000" stop="20140514190000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">الصراع على الأقراص الدوارة</title>
+    <title lang="en">Assera' A'la Al Aqrass Addawarah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around the fall of a tower from the skies to Earth, and inside the tower there are twenty people who seek to carry out an evil scheme to destroy the human race.</desc>
+  </programme>
+  <programme start="20140514190000 +0000" stop="20140514193000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">بيست ماشينز: ترانسفورمرز</title>
+    <title lang="en">Beast Machines: Transformers</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animated series follows the adventures of the Maximals upon their return home to Cybertron.</desc>
+  </programme>
+  <programme start="20140514193000 +0000" stop="20140514200000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">فولترون: القوة</title>
+    <title lang="en">Voltron: Al Qowah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around a group of astronauts who explore space using their lions, while they train new students to eliminate bad power in the world.</desc>
+  </programme>
+  <programme start="20140514200000 +0000" stop="20140514203000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">العائلة الأقوى</title>
+    <title lang="en">Al A'aela Al Aqwa</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Game show in which the members of three different families compete to win.</desc>
+  </programme>
+  <programme start="20140514203000 +0000" stop="20140514210000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">سبونجبوب سكوير بانتس</title>
+    <title lang="en">Spongebob Squarepants</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animated series follows a naive and eternally optimistic sea sponge named SpongeBob SquarePants and his endeavors in the underwater town of Bikini Bottom.</desc>
+  </programme>
+  <programme start="20140514210000 +0000" stop="20140514213000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">الوحوش ضد المخلوقات الفضائية</title>
+    <title lang="en">Al Wohosh Dded Al Makhloqat Al Fadda'eiah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around an underground secret base, where monsters and aliens live together and fight with each other to prove their worth and strength.</desc>
+  </programme>
+  <programme start="20140514213000 +0000" stop="20140514220000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">كونغ فو باندا</title>
+    <title lang="en">Kung Fu Panda</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Po and the Furious Five, living in the barracks take on the responsibility to fight against the adversaries in the Valley of Peace. Meanwhile, Po ends up learning more about the famous Kung Fu.</desc>
+  </programme>
+  <programme start="20140514220000 +0000" stop="20140514223000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">ملفات زاك</title>
+    <title lang="en">Malafat Zack</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Science fiction series revolves around a kid called Zack who goes in extraordinary adventures with his friends.</desc>
+  </programme>
+  <programme start="20140514223000 +0000" stop="20140514230000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">ماد كدز</title>
+    <title lang="en">Mad Kids</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Comedy show plays various kinds of videos with one thing in common-funny kids.</desc>
+  </programme>
+  <programme start="20140514230000 +0000" stop="20140514233000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">كنان آند كيل</title>
+    <title lang="en">Kenan &amp; Kel</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Comedy series revolves around two mischievous teenagers called Kenan and Kel, where Kenan is a high school student with a job at a local grocery store, and Kel is his clumsy best friend.</desc>
+    <credits>
+      <actor>Kenan Thompson</actor>
+      <actor>Kel Mitchell</actor>
+      <actor>Ken Foree</actor>
+    </credits>
+  </programme>
+  <programme start="20140514233000 +0000" stop="20140515000000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">الصراع على الأقراص الدوارة</title>
+    <title lang="en">Assera' A'la Al Aqrass Addawarah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around the fall of a tower from the skies to Earth, and inside the tower there are twenty people who seek to carry out an evil scheme to destroy the human race.</desc>
+  </programme>
+  <programme start="20140515000000 +0000" stop="20140515003000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">ولفارين أند ذا إكس-من</title>
+    <title lang="en">Wolverine and the X-Men</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A glimpse into the future reveals the world is taken over by giant robots. Now it's up to the legendary Wolverine to save the world from mass destruction.</desc>
+    <credits>
+      <actor>Kari Wahlgren</actor>
+      <actor>Steven Blum</actor>
+    </credits>
+  </programme>
+  <programme start="20140515003000 +0000" stop="20140515010000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">سلغتيرا</title>
+    <title lang="en">Slugterra</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Story features Eli, a slug slinger, who embarks on a series of adventures along with his crew, 'The Shane Gang'. Training themselves to defeat the evil forces, will they be able to succeed?</desc>
+  </programme>
+  <programme start="20140515010000 +0000" stop="20140515013000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">بيست ماشينز: ترانسفورمرز</title>
+    <title lang="en">Beast Machines: Transformers</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animated series follows the adventures of the Maximals upon their return home to Cybertron.</desc>
+  </programme>
+  <programme start="20140515013000 +0000" stop="20140515015000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">أبطال المروحيات</title>
+    <title lang="en">Abttal Al Marwaheiat</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A 13 year old boy, Mathyo, meets Zoi the professional in Hover Champs game, after he had moved to his hometown with his mother.Zoi discovers his ability on playing with Hovers, and she suggests him to</desc>
+  </programme>
+  <programme start="20140515015000 +0000" stop="20140515021500 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">كرة قدم المجرات</title>
+    <title lang="en">Korat Qadam Al Majarat</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around a group of kids who have super power, and compete against other competitors in a universal football matches.</desc>
+  </programme>
+  <programme start="20140515021500 +0000" stop="20140515024500 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">ملفات زاك</title>
+    <title lang="en">Malafat Zack</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Science fiction series revolves around a kid called Zack who goes in extraordinary adventures with his friends.</desc>
+  </programme>
+  <programme start="20140515024500 +0000" stop="20140515031000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">ولفارين أند ذا إكس-من</title>
+    <title lang="en">Wolverine and the X-Men</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A glimpse into the future reveals the world is taken over by giant robots. Now it's up to the legendary Wolverine to save the world from mass destruction.</desc>
+    <credits>
+      <actor>Kari Wahlgren</actor>
+      <actor>Steven Blum</actor>
+    </credits>
+  </programme>
+  <programme start="20140515031000 +0000" stop="20140515033000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">الوحوش ضد المخلوقات الفضائية</title>
+    <title lang="en">Al Wohosh Dded Al Makhloqat Al Fadda'eiah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around an underground secret base, where monsters and aliens live together and fight with each other to prove their worth and strength.</desc>
+  </programme>
+  <programme start="20140515033000 +0000" stop="20140515040000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">كونغ فو باندا</title>
+    <title lang="en">Kung Fu Panda</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Po and the Furious Five, living in the barracks take on the responsibility to fight against the adversaries in the Valley of Peace. Meanwhile, Po ends up learning more about the famous Kung Fu.</desc>
+  </programme>
+  <programme start="20140515040000 +0000" stop="20140515042000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">الصراع على الأقراص الدوارة</title>
+    <title lang="en">Assera' A'la Al Aqrass Addawarah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around the fall of a tower from the skies to Earth, and inside the tower there are twenty people who seek to carry out an evil scheme to destroy the human race.</desc>
+  </programme>
+  <programme start="20140515042000 +0000" stop="20140515044500 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">أبطال المروحيات</title>
+    <title lang="en">Abttal Al Marwaheiat</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A 13 year old boy, Mathyo, meets Zoi the professional in Hover Champs game, after he had moved to his hometown with his mother.Zoi discovers his ability on playing with Hovers, and she suggests him to</desc>
+  </programme>
+  <programme start="20140515044500 +0000" stop="20140515051000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">كرة قدم المجرات</title>
+    <title lang="en">Korat Qadam Al Majarat</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around a group of kids who have super power, and compete against other competitors in a universal football matches.</desc>
+  </programme>
+  <programme start="20140515051000 +0000" stop="20140515053500 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">كاسبر</title>
+    <title lang="en">Casper</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A spinoff from the popular feature film Casper: the friendly ghost who would rather make friends with humans than scare them, now appears on TV with his 3 notorious uncles, Doc and his young daughter.</desc>
+    <credits>
+      <actor>Kath Soucie</actor>
+      <actor>Malachi Pearson</actor>
+    </credits>
+  </programme>
+  <programme start="20140515053500 +0000" stop="20140515060000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">مغامرات الأصدقاء الأربعة</title>
+    <title lang="en">Moghamarat Al Assdeqa' Al Arba'ah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around four friends who share their passion for extreme sports, and get in adventures.</desc>
+  </programme>
+  <programme start="20140515060000 +0000" stop="20140515063000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">تليتبيز</title>
+    <title lang="en">Teletubbies</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Featuring four colourful Teletubbies who play in their idyllic Teletubbyland, this children's program has characters like Tinky Winky, Dipsy, Laa-Laa, Po and their friend Noo Noo, the vacuum cleaner.</desc>
+    <credits>
+      <actor>Jessica Smith</actor>
+      <actor>John Simmit</actor>
+      <actor>Nikky Smedley</actor>
+      <actor>Pui Fan Lee</actor>
+    </credits>
+  </programme>
+  <programme start="20140515063000 +0000" stop="20140515070000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">بارني آند فريندز</title>
+    <title lang="en">Barney &amp; Friends</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Barney, a zillion year old dinosaur, a animated character who is  cute and loveable and teaches every child to grow their imagination and explore.</desc>
+    <credits>
+      <actor>Julie Johnson</actor>
+      <actor>Dean Wendt</actor>
+    </credits>
+  </programme>
+  <programme start="20140515070000 +0000" stop="20140515073000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">كلوز كلوزيت</title>
+    <title lang="en">Chloe's Closet</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animated series displays the adventures of a four-year-old girl, her friends and her toys as they go on magical adventures in her closet at her room.</desc>
+  </programme>
+  <programme start="20140515073000 +0000" stop="20140515080000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">تيكيتي توك</title>
+    <title lang="en">Tickety Toc</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show features the adventures of the comedic heroes, Tommy and Tallulah. It is based in an unusual world behind the Tickety Toc Clock's face. The heroes race against time to keep the clock ticking.</desc>
+  </programme>
+  <programme start="20140515080000 +0000" stop="20140515083000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">دورا ذا إكسبلورير</title>
+    <title lang="en">Dora The Explorer</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">This program teaches children how to observe situations and solve problems as they explore Dora's world with her.</desc>
+    <credits>
+      <actor>Harrison Chad</actor>
+      <actor>Jason Thornton</actor>
+      <actor>Kathleen Herles</actor>
+    </credits>
+  </programme>
+  <programme start="20140515083000 +0000" stop="20140515090000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">جاك والعرض الموسيقي الكبير</title>
+    <title lang="en">Jack Wa Al A'rdd Al Moseqee Al Kabeer</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around a puppet called Jack, who composes and plays music with his girlfriend Mary in his own club. Jack and Mary invite many famous musicians to talk about music.</desc>
+  </programme>
+  <programme start="20140515090000 +0000" stop="20140515093000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">باغز باني</title>
+    <title lang="en">Bugs Bunny</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around a rabbit called Bugs Bunny, who goes in adventures with his three best friends and perform different shows, and face funny situations.</desc>
+  </programme>
+  <programme start="20140515093000 +0000" stop="20140515103000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">خطوات ناعمة</title>
+    <title lang="en">Khottwatt Na'emah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Educational program discusses the relationship between the mother and her child in different kinds of scenarios.</desc>
+  </programme>
+  <programme start="20140515103000 +0000" stop="20140515110000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">كاسبر</title>
+    <title lang="en">Casper</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A spinoff from the popular feature film Casper: the friendly ghost who would rather make friends with humans than scare them, now appears on TV with his 3 notorious uncles, Doc and his young daughter.</desc>
+    <credits>
+      <actor>Kath Soucie</actor>
+      <actor>Malachi Pearson</actor>
+    </credits>
+  </programme>
+  <programme start="20140515110000 +0000" stop="20140515110500 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">تسالي أحلى عالم</title>
+    <title lang="en">Tasali Ahla A'alam</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Game show prepared for children to test their skills and intelligence through involving in five different interesting games.</desc>
+  </programme>
+  <programme start="20140515110500 +0000" stop="20140515113000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">أبطال المروحيات</title>
+    <title lang="en">Abttal Al Marwaheiat</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A 13 year old boy, Mathyo, meets Zoi the professional in Hover Champs game, after he had moved to his hometown with his mother.Zoi discovers his ability on playing with Hovers, and she suggests him to</desc>
+  </programme>
+  <programme start="20140515113000 +0000" stop="20140515120000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">كرة قدم المجرات</title>
+    <title lang="en">Korat Qadam Al Majarat</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around a group of kids who have super power, and compete against other competitors in a universal football matches.</desc>
+  </programme>
+  <programme start="20140515120000 +0000" stop="20140515120500 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">تسالي أحلى عالم</title>
+    <title lang="en">Tasali Ahla A'alam</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Game show prepared for children to test their skills and intelligence through involving in five different interesting games.</desc>
+  </programme>
+  <programme start="20140515120500 +0000" stop="20140515123000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">سبونجبوب سكوير بانتس</title>
+    <title lang="en">Spongebob Squarepants</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animated series follows a naive and eternally optimistic sea sponge named SpongeBob SquarePants and his endeavors in the underwater town of Bikini Bottom.</desc>
+  </programme>
+  <programme start="20140515123000 +0000" stop="20140515130000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">الوحوش ضد المخلوقات الفضائية</title>
+    <title lang="en">Al Wohosh Dded Al Makhloqat Al Fadda'eiah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around an underground secret base, where monsters and aliens live together and fight with each other to prove their worth and strength.</desc>
+  </programme>
+  <programme start="20140515130000 +0000" stop="20140515133000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">كونغ فو باندا</title>
+    <title lang="en">Kung Fu Panda</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Po and the Furious Five, living in the barracks take on the responsibility to fight against the adversaries in the Valley of Peace. Meanwhile, Po ends up learning more about the famous Kung Fu.</desc>
+  </programme>
+  <programme start="20140515133000 +0000" stop="20140515133500 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">تسالي أحلى عالم</title>
+    <title lang="en">Tasali Ahla A'alam</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Game show prepared for children to test their skills and intelligence through involving in five different interesting games.</desc>
+  </programme>
+  <programme start="20140515133500 +0000" stop="20140515140000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">سلغتيرا</title>
+    <title lang="en">Slugterra</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Story features Eli, a slug slinger, who embarks on a series of adventures along with his crew, 'The Shane Gang'. Training themselves to defeat the evil forces, will they be able to succeed?</desc>
+  </programme>
+  <programme start="20140515140000 +0000" stop="20140515143000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">بيست ماشينز: ترانسفورمرز</title>
+    <title lang="en">Beast Machines: Transformers</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animated series follows the adventures of the Maximals upon their return home to Cybertron.</desc>
+  </programme>
+  <programme start="20140515143000 +0000" stop="20140515150000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">تسالي أحلى عالم</title>
+    <title lang="en">Tasali Ahla A'alam</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Game show prepared for children to test their skills and intelligence through involving in five different interesting games.</desc>
+  </programme>
+  <programme start="20140515150000 +0000" stop="20140515153000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">فن مانيا</title>
+    <title lang="en">Fan Mania</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Entertainment based program highlights the opening graphics for an art and craft show for kids.</desc>
+  </programme>
+  <programme start="20140515153000 +0000" stop="20140515153500 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">تسالي أحلى عالم</title>
+    <title lang="en">Tasali Ahla A'alam</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Game show prepared for children to test their skills and intelligence through involving in five different interesting games.</desc>
+  </programme>
+  <programme start="20140515153500 +0000" stop="20140515160000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">الصراع على الأقراص الدوارة</title>
+    <title lang="en">Assera' A'la Al Aqrass Addawarah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around the fall of a tower from the skies to Earth, and inside the tower there are twenty people who seek to carry out an evil scheme to destroy the human race.</desc>
+  </programme>
+  <programme start="20140515160000 +0000" stop="20140515163000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">ولفارين أند ذا إكس-من</title>
+    <title lang="en">Wolverine and the X-Men</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A glimpse into the future reveals the world is taken over by giant robots. Now it's up to the legendary Wolverine to save the world from mass destruction.</desc>
+    <credits>
+      <actor>Kari Wahlgren</actor>
+      <actor>Steven Blum</actor>
+    </credits>
+  </programme>
+  <programme start="20140515163000 +0000" stop="20140515170000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">فولترون: القوة</title>
+    <title lang="en">Voltron: Al Qowah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around a group of astronauts who explore space using their lions, while they train new students to eliminate bad power in the world.</desc>
+  </programme>
+  <programme start="20140515170000 +0000" stop="20140515170500 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">تسالي أحلى عالم</title>
+    <title lang="en">Tasali Ahla A'alam</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Game show prepared for children to test their skills and intelligence through involving in five different interesting games.</desc>
+  </programme>
+  <programme start="20140515170500 +0000" stop="20140515183000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">فاميلي موفيز</title>
+    <title lang="en">Family Movies</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A group of animated movies.</desc>
+  </programme>
+  <programme start="20140515183000 +0000" stop="20140515190000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">الصراع على الأقراص الدوارة</title>
+    <title lang="en">Assera' A'la Al Aqrass Addawarah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around the fall of a tower from the skies to Earth, and inside the tower there are twenty people who seek to carry out an evil scheme to destroy the human race.</desc>
+  </programme>
+  <programme start="20140515190000 +0000" stop="20140515193000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">بيست ماشينز: ترانسفورمرز</title>
+    <title lang="en">Beast Machines: Transformers</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animated series follows the adventures of the Maximals upon their return home to Cybertron.</desc>
+  </programme>
+  <programme start="20140515193000 +0000" stop="20140515200000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">فولترون: القوة</title>
+    <title lang="en">Voltron: Al Qowah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around a group of astronauts who explore space using their lions, while they train new students to eliminate bad power in the world.</desc>
+  </programme>
+  <programme start="20140515200000 +0000" stop="20140515203000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">فن مانيا</title>
+    <title lang="en">Fan Mania</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Entertainment based program highlights the opening graphics for an art and craft show for kids.</desc>
+  </programme>
+  <programme start="20140515203000 +0000" stop="20140515210000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">سبونجبوب سكوير بانتس</title>
+    <title lang="en">Spongebob Squarepants</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animated series follows a naive and eternally optimistic sea sponge named SpongeBob SquarePants and his endeavors in the underwater town of Bikini Bottom.</desc>
+  </programme>
+  <programme start="20140515210000 +0000" stop="20140515213000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">الوحوش ضد المخلوقات الفضائية</title>
+    <title lang="en">Al Wohosh Dded Al Makhloqat Al Fadda'eiah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around an underground secret base, where monsters and aliens live together and fight with each other to prove their worth and strength.</desc>
+  </programme>
+  <programme start="20140515213000 +0000" stop="20140515220000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">كونغ فو باندا</title>
+    <title lang="en">Kung Fu Panda</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Po and the Furious Five, living in the barracks take on the responsibility to fight against the adversaries in the Valley of Peace. Meanwhile, Po ends up learning more about the famous Kung Fu.</desc>
+  </programme>
+  <programme start="20140515220000 +0000" stop="20140516000000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">فاميلي موفيز</title>
+    <title lang="en">Family Movies</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A group of animated movies.</desc>
+  </programme>
+  <programme start="20140516000000 +0000" stop="20140516003000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">ولفارين أند ذا إكس-من</title>
+    <title lang="en">Wolverine and the X-Men</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A glimpse into the future reveals the world is taken over by giant robots. Now it's up to the legendary Wolverine to save the world from mass destruction.</desc>
+    <credits>
+      <actor>Kari Wahlgren</actor>
+      <actor>Steven Blum</actor>
+    </credits>
+  </programme>
+  <programme start="20140516003000 +0000" stop="20140516010000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">سلغتيرا</title>
+    <title lang="en">Slugterra</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Story features Eli, a slug slinger, who embarks on a series of adventures along with his crew, 'The Shane Gang'. Training themselves to defeat the evil forces, will they be able to succeed?</desc>
+  </programme>
+  <programme start="20140516010000 +0000" stop="20140516013000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">بيست ماشينز: ترانسفورمرز</title>
+    <title lang="en">Beast Machines: Transformers</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animated series follows the adventures of the Maximals upon their return home to Cybertron.</desc>
+  </programme>
+  <programme start="20140516013000 +0000" stop="20140516015000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">أبطال المروحيات</title>
+    <title lang="en">Abttal Al Marwaheiat</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A 13 year old boy, Mathyo, meets Zoi the professional in Hover Champs game, after he had moved to his hometown with his mother.Zoi discovers his ability on playing with Hovers, and she suggests him to</desc>
+  </programme>
+  <programme start="20140516015000 +0000" stop="20140516021500 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">ولفارين أند ذا إكس-من</title>
+    <title lang="en">Wolverine and the X-Men</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A glimpse into the future reveals the world is taken over by giant robots. Now it's up to the legendary Wolverine to save the world from mass destruction.</desc>
+    <credits>
+      <actor>Kari Wahlgren</actor>
+      <actor>Steven Blum</actor>
+    </credits>
+  </programme>
+  <programme start="20140516021500 +0000" stop="20140516024500 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">مغامرات الأصدقاء الأربعة</title>
+    <title lang="en">Moghamarat Al Assdeqa' Al Arba'ah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around four friends who share their passion for extreme sports, and get in adventures.</desc>
+  </programme>
+  <programme start="20140516024500 +0000" stop="20140516031000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">ولفارين أند ذا إكس-من</title>
+    <title lang="en">Wolverine and the X-Men</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A glimpse into the future reveals the world is taken over by giant robots. Now it's up to the legendary Wolverine to save the world from mass destruction.</desc>
+    <credits>
+      <actor>Kari Wahlgren</actor>
+      <actor>Steven Blum</actor>
+    </credits>
+  </programme>
+  <programme start="20140516031000 +0000" stop="20140516033000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">تليتبيز</title>
+    <title lang="en">Teletubbies</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Featuring four colourful Teletubbies who play in their idyllic Teletubbyland, this children's program has characters like Tinky Winky, Dipsy, Laa-Laa, Po and their friend Noo Noo, the vacuum cleaner.</desc>
+    <credits>
+      <actor>Jessica Smith</actor>
+      <actor>John Simmit</actor>
+      <actor>Nikky Smedley</actor>
+      <actor>Pui Fan Lee</actor>
+    </credits>
+  </programme>
+  <programme start="20140516033000 +0000" stop="20140516040000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">بارني آند فريندز</title>
+    <title lang="en">Barney &amp; Friends</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Barney, a zillion year old dinosaur, a animated character who is  cute and loveable and teaches every child to grow their imagination and explore.</desc>
+    <credits>
+      <actor>Julie Johnson</actor>
+      <actor>Dean Wendt</actor>
+    </credits>
+  </programme>
+  <programme start="20140516040000 +0000" stop="20140516042000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">تيكيتي توك</title>
+    <title lang="en">Tickety Toc</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">The show features the adventures of the comedic heroes, Tommy and Tallulah. It is based in an unusual world behind the Tickety Toc Clock's face. The heroes race against time to keep the clock ticking.</desc>
+  </programme>
+  <programme start="20140516042000 +0000" stop="20140516044500 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">كلوز كلوزيت</title>
+    <title lang="en">Chloe's Closet</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animated series displays the adventures of a four-year-old girl, her friends and her toys as they go on magical adventures in her closet at her room.</desc>
+  </programme>
+  <programme start="20140516044500 +0000" stop="20140516051000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">جاك والعرض الموسيقي الكبير</title>
+    <title lang="en">Jack Wa Al A'rdd Al Moseqee Al Kabeer</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around a puppet called Jack, who composes and plays music with his girlfriend Mary in his own club. Jack and Mary invite many famous musicians to talk about music.</desc>
+  </programme>
+  <programme start="20140516051000 +0000" stop="20140516053500 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">باغز باني</title>
+    <title lang="en">Bugs Bunny</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around a rabbit called Bugs Bunny, who goes in adventures with his three best friends and perform different shows, and face funny situations.</desc>
+  </programme>
+  <programme start="20140516053500 +0000" stop="20140516060000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">شون ذا شيب</title>
+    <title lang="en">Shaun The Sheep</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Shaun lives in a barnyard with his group of sheep-friends, who look up to him as their leader. Shaun is always the one to rescue them from trouble.</desc>
+  </programme>
+  <programme start="20140516060000 +0000" stop="20140516110000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">ماراثون</title>
+    <title lang="en">Marathon</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Compilation of several Tom and Jerry shows.</desc>
+  </programme>
+  <programme start="20140516110000 +0000" stop="20140516110500 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">تسالي أحلى عالم</title>
+    <title lang="en">Tasali Ahla A'alam</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Game show prepared for children to test their skills and intelligence through involving in five different interesting games.</desc>
+  </programme>
+  <programme start="20140516110500 +0000" stop="20140516113000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">خواطر</title>
+    <title lang="en">Khawatter</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Charity is the best moral character man can gain.    This is the slogan that the successful media man Ahmed Al Shokairy used for his program.</desc>
+  </programme>
+  <programme start="20140516113000 +0000" stop="20140516120000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">ماد كدز</title>
+    <title lang="en">Mad Kids</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Comedy show plays various kinds of videos with one thing in common-funny kids.</desc>
+  </programme>
+  <programme start="20140516120000 +0000" stop="20140516120500 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">تسالي أحلى عالم</title>
+    <title lang="en">Tasali Ahla A'alam</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Game show prepared for children to test their skills and intelligence through involving in five different interesting games.</desc>
+  </programme>
+  <programme start="20140516120500 +0000" stop="20140516123000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">توم آند جيري</title>
+    <title lang="en">Tom And Jerry</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Tenacious cat Tom is forever on the tail of his elusive nemesis, Jerry the mouse.</desc>
+  </programme>
+  <programme start="20140516123000 +0000" stop="20140516130000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">أساطير كرة القدم</title>
+    <title lang="en">Asatteer Korat Al Qadam</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series for children.</desc>
+  </programme>
+  <programme start="20140516130000 +0000" stop="20140516130500 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">تسالي أحلى عالم</title>
+    <title lang="en">Tasali Ahla A'alam</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Game show prepared for children to test their skills and intelligence through involving in five different interesting games.</desc>
+  </programme>
+  <programme start="20140516130500 +0000" stop="20140516143000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">فاميلي موفيز</title>
+    <title lang="en">Family Movies</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A group of animated movies.</desc>
+  </programme>
+  <programme start="20140516143000 +0000" stop="20140516150000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">دانية</title>
+    <title lang="en">Danyah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around a girl named Danyah, who comes up with innovative ways to protect her brother who always creates a ruckus with his antics.</desc>
+  </programme>
+  <programme start="20140516150000 +0000" stop="20140516150500 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">تسالي أحلى عالم</title>
+    <title lang="en">Tasali Ahla A'alam</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Game show prepared for children to test their skills and intelligence through involving in five different interesting games.</desc>
+  </programme>
+  <programme start="20140516150500 +0000" stop="20140516153000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">الطريق إلى البرازيل</title>
+    <title lang="en">Attareeq Ela Al Barazeel</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Sport show features preparations of football teams that have qualified for the World Cup 2014 in Brazil, it also features statistics and technical analysis for the participating teams.</desc>
+  </programme>
+  <programme start="20140516153000 +0000" stop="20140516153500 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">تسالي أحلى عالم</title>
+    <title lang="en">Tasali Ahla A'alam</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Game show prepared for children to test their skills and intelligence through involving in five different interesting games.</desc>
+  </programme>
+  <programme start="20140516153500 +0000" stop="20140516160000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">الصراع على الأقراص الدوارة</title>
+    <title lang="en">Assera' A'la Al Aqrass Addawarah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around the fall of a tower from the skies to Earth, and inside the tower there are twenty people who seek to carry out an evil scheme to destroy the human race.</desc>
+  </programme>
+  <programme start="20140516160000 +0000" stop="20140516163000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">ولفارين أند ذا إكس-من</title>
+    <title lang="en">Wolverine and the X-Men</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A glimpse into the future reveals the world is taken over by giant robots. Now it's up to the legendary Wolverine to save the world from mass destruction.</desc>
+    <credits>
+      <actor>Kari Wahlgren</actor>
+      <actor>Steven Blum</actor>
+    </credits>
+  </programme>
+  <programme start="20140516163000 +0000" stop="20140516170000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">فولترون: القوة</title>
+    <title lang="en">Voltron: Al Qowah</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Animation series revolves around a group of astronauts who explore space using their lions, while they train new students to eliminate bad power in the world.</desc>
+  </programme>
+  <programme start="20140516170000 +0000" stop="20140516170500 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">تسالي أحلى عالم</title>
+    <title lang="en">Tasali Ahla A'alam</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">Game show prepared for children to test their skills and intelligence through involving in five different interesting games.</desc>
+  </programme>
+  <programme start="20140516170500 +0000" stop="20140516183000 +0000" vps-start="19700101000000 19700101000000" channel="1760">
+    <title lang="ar">فاميلي موفيز</title>
+    <title lang="en">Family Movies</title>
+    <desc lang="ar">
+    </desc>
+    <desc lang="en">A group of animated movies.</desc>
+  </programme>
+</tv>
